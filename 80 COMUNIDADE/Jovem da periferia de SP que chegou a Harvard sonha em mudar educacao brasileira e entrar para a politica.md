@@ -4,7 +4,7 @@ Jovem da periferia de SP que chegou a Harvard sonha em mudar educação e entrar
 
 Néli Pereira De São Paulo para a BBC Brasil
 
-![Tabata Amaral](../_resources/9338dc22d347ef2ed6e8c37a0c668696.jpg)
+![Tabata Amaral](../00 EVERNOTE_EM_USO/9338dc22d347ef2ed6e8c37a0c668696.jpg)
 
 Image caption Tabata escolheu estudar em Harvard após ser aprovada em cinco grandes universidades americanas | Foto: arquivo pessoal
 
@@ -18,7 +18,7 @@ O bom desempenho em olimpíadas escolares fez com que Tabata ganhasse uma bolsa 
 
 Ao terminar o ensino básico, a jovem deu aula de química e astrofísica no colégio, antes mesmo de entrar na faculdade.
 
-![Tabata Amaral](../_resources/5bae3a5fe2d6722c2a923f12e9c089fc.jpg)
+![Tabata Amaral](../00 EVERNOTE_EM_USO/5bae3a5fe2d6722c2a923f12e9c089fc.jpg)
 
 Image caption Tabata não atribui seu sucesso apenas à meritocracia: 'É preciso ter acesso a oportunidades' | Foto: arquivo pessoal
 
@@ -58,7 +58,7 @@ Esse cenário, aliado à vontade de transformar a educação pública, levou a j
 
 "Eu fiz 'government' (governo), que é o segundo curso com mais prestígio em Harvard, isso também não aconteceria aqui - a gente olha como se tudo fosse sujo, corrupto, algo com que a gente não quer se envolver", acrescenta.
 
-![Grupo de jovens reunido por Tabata](../_resources/b8a77c87081e73f58c9a7c16eccf772d.jpg)
+![Grupo de jovens reunido por Tabata](../00 EVERNOTE_EM_USO/b8a77c87081e73f58c9a7c16eccf772d.jpg)
 
 Image caption Tabata tem participado de projetos de mobilização de jovens | Foto: arquivo pessoal
 

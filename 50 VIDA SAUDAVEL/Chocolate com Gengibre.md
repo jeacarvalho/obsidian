@@ -28,7 +28,7 @@ A receita está logo a seguir:
 
 ## [chocolate_com_canela_e_gengibre.jpg](http://curapelanatureza.com.br/files/chocolatecomcanelaegengibrejpg-0)
 
-![](../_resources/e030356351694054e049563a228e1409.png)
+![](../00 EVERNOTE_EM_USO/e030356351694054e049563a228e1409.png)
 
 INGREDIENTES
 4 colheres (sopa) de óleo de coco

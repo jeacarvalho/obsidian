@@ -47,4 +47,4 @@ Lugar de criança é na escola. Diga não ao trabalho infantil.
 
 ** **
 
-[Vivendo o trabalho subalterno (e-book).pdf](../_resources/fb9feb27b530f1a94dd7aef19a258f85.pdf)
+[Vivendo o trabalho subalterno (e-book).pdf](../00 EVERNOTE_EM_USO/fb9feb27b530f1a94dd7aef19a258f85.pdf)

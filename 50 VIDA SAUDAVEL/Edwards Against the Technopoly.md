@@ -2,7 +2,7 @@ Edwards Against the Technopoly
 
 # Edwards Against the Technopoly
 
-![lifehackery.jpg](../_resources/011d5cdfb8e8e5814834fbfde0070318.jpg)
+![lifehackery.jpg](../00 EVERNOTE_EM_USO/011d5cdfb8e8e5814834fbfde0070318.jpg)
 
 Jonathan Edwards championed the idea of authentic Christianity as dis-interested. He made the argument in one of his most profound books, *[The Religious Affections](https://www.amazon.com/dp/0300158416?ie=UTF8&tag=theshepsscra-20)*. It took me years to grasp his reasoning, more years to appreciate why he belabored the point, and only recently have I picked up on its implications for the digital age.
 

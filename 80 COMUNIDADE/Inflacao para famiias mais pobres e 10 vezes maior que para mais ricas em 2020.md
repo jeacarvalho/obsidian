@@ -6,7 +6,7 @@ Inflação para famílias mais pobres é 10 vezes maior que para mais ricas em 2
 - Da BBC News Brasil em Londres
 
 Há 1 hora
-![_114935730_gettyimages-1200828536.jpg](../_resources/fa7037060d34a76ac65d219c93a8367b.jpg)
+![_114935730_gettyimages-1200828536.jpg](../00 EVERNOTE_EM_USO/fa7037060d34a76ac65d219c93a8367b.jpg)
 Getty Images
 
 **O aumento de preços para as famílias brasileiras mais pobres foi mais de 10 vezes maior que a alta sentida pelas pessoas mais ricas de janeiro até setembro de 2020.**
@@ -27,19 +27,19 @@ De acordo com a classificação da pesquisa, as famílias de renda muito baixa s
 
 **Talvez também te interesse**
 
-- ![_111443566_gettyimages-1209646619.jpg](../_resources/4aee5187b6e72a5916a3f354cb38e93d.jpg)
+- ![_111443566_gettyimages-1209646619.jpg](../00 EVERNOTE_EM_USO/4aee5187b6e72a5916a3f354cb38e93d.jpg)
 
 [Coronavírus: auxílio de R$ 600 já pode ser solicitado por aplicativo; entenda as regras](https://www.bbc.com/portuguese/brasil-52059036)
 
-- ![_114506785_goldbars.jpg](../_resources/64ce953b641a2e3a44e96599e8943c01.jpg)
+- ![_114506785_goldbars.jpg](../00 EVERNOTE_EM_USO/64ce953b641a2e3a44e96599e8943c01.jpg)
 
 [Quanto ouro ainda há para ser extraído no mundo (e quem tem as maiores reservas minerais)](https://www.bbc.com/portuguese/internacional-54303668)
 
-- ![_114676201_xx.png](../_resources/2ce6516e4f7b7a14d62ef6a01254289b.png)
+- ![_114676201_xx.png](../00 EVERNOTE_EM_USO/2ce6516e4f7b7a14d62ef6a01254289b.png)
 
 [As práticas que mais ajudam (ou atrapalham) o Brasil na educação, segundo pesquisa global](https://www.bbc.com/portuguese/brasil-54334303)
 
-- ![_114305999_b1bc781b-b033-4727-bcfa-739639c2bccf.jpg](../_resources/0c588a026e73aefe44bf3ecdaab2a2bb.jpg)
+- ![_114305999_b1bc781b-b033-4727-bcfa-739639c2bccf.jpg](../00 EVERNOTE_EM_USO/0c588a026e73aefe44bf3ecdaab2a2bb.jpg)
 
 [Após alta do arroz, entenda por que crise econômica deixará preços estáveis](https://www.bbc.com/portuguese/brasil-54185506)
 
@@ -59,7 +59,7 @@ De janeiro a setembro de 2020, a alta nos alimentos em domicílio é de 9,2%. O 
 
 ## Peso no orçamento
 
-![_114935734_gettyimages-157288292.jpg](../_resources/d3bc379d210af04c6929aa187d4cd42a.jpg)
+![_114935734_gettyimages-157288292.jpg](../00 EVERNOTE_EM_USO/d3bc379d210af04c6929aa187d4cd42a.jpg)
 Getty Images
 
 De janeiro a setembro, os alimentos no domicílio tiveram alta de 9,2%. O arroz subiu 41% nesse período e o feijão, 34%
@@ -88,7 +88,7 @@ A economista aponta que não é possível quantificar essa mudança sem uma pesq
 
 "Todo mundo mudou seus hábitos de consumo durante a pandemia, mas a diferença vai sempre continuar porque os mais pobres vão sempre consumir uma parcela maior da sua renda com alimentos do que os mais ricos", explica Lameiras.
 
-![_114935737_gettyimages-1203980583.jpg](../_resources/4969dee8e1d5b8ced4608302de71afb7.jpg)
+![_114935737_gettyimages-1203980583.jpg](../00 EVERNOTE_EM_USO/4969dee8e1d5b8ced4608302de71afb7.jpg)
 Getty Images
 
 Entre as quedas de preço em serviços estão as passagens aéreas, com redução de 55% no acumulado do ano até setembro
@@ -107,7 +107,7 @@ Para 2021, a economista diz esperar uma redução na diferença entre inflação
 
 Para tentar conter alta de preço, o governo anunciou em setembro que decidiu zerar a alíquota do imposto de importação para o arroz em casca e beneficiado até 31 de dezembro. Já em outubro, o governo decidiu zerar a alíquota do imposto de importação também para soja e milho.
 
-![_104602229_line976.jpg](../_resources/3a05cf0808976fe1e40deff9d0309fc0.jpg)
+![_104602229_line976.jpg](../00 EVERNOTE_EM_USO/3a05cf0808976fe1e40deff9d0309fc0.jpg)
 
 **Já assistiu aos nossos novos vídeos no **[YouTube](https://www.youtube.com/channel/UCthbIFAxbXTTQEC7EcQvP1Q)**? Inscreva-se no nosso canal! **
 

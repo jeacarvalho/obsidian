@@ -4,7 +4,7 @@ O cadeirante que entrega comidas por aplicativos na avenida Paulista
 
  Da BBC News Brasil em São Paulo
 
-![Luciano Oliveira em cadeira de rodas](../_resources/55da89553bc1a795e8a40a2c3f05d0c2.jpg)
+![Luciano Oliveira em cadeira de rodas](../00 EVERNOTE_EM_USO/55da89553bc1a795e8a40a2c3f05d0c2.jpg)
 Direito de imagem Cortesia/Luciney Martins/O SÃO PAULO
 
 Image caption Luciano Oliveira entrega comida pela Paulista e regiões próximas em uma cadeira de rodas
@@ -33,7 +33,7 @@ A história dele retrata uma situação da [[economia]] brasileira em tempos atu
 
 A cadeira de rodas passou a fazer parte da vida de Oliveira há dois anos. Ele teve poliomielite na infância, que causou graves problemas de locomoção ao longo da vida. O entregador costumava ter dificuldades para caminhar — os problemas atingiam mais a perna direita.
 
-![Luciano Oliveira em cadeira de rodas](../_resources/adb5dd678565465e4e2b1ae85d6b07a1.jpg)
+![Luciano Oliveira em cadeira de rodas](../00 EVERNOTE_EM_USO/adb5dd678565465e4e2b1ae85d6b07a1.jpg)
 Direito de imagem Vinícius Lemos/BBC News Brasil
 
 Image caption Luciano na recepção de um prédio na Paulista onde fez mais uma entrega
@@ -56,7 +56,7 @@ Em meados do ano passado, foi aconselhado por uma amiga a se inscrever em plataf
 
 A rotina de entregador começa por volta das 10h, quando ele sai de casa, no bairro Vila Divina Pastora, na Zona Leste. Luciano leva cerca de 1h30 até a Avenida Paulista para começar a fazer as entregas. Ele trabalha de cinco a seis dias por semana.
 
-![Luciano Oliveira em cadeira de rodas](../_resources/a6d574d7d70654da2887dd924e96ff64.jpg)
+![Luciano Oliveira em cadeira de rodas](../00 EVERNOTE_EM_USO/a6d574d7d70654da2887dd924e96ff64.jpg)
 Direito de imagem Vinícius Lemos/BBC News Brasil
 
 Image caption Nas ruas, Luciano costuma ser abordado por diversas pessoas que interagem com ele
@@ -75,7 +75,7 @@ A relação entre os aplicativos e os entregadores é duramente criticada por es
 
 Em entrevista à BBC News Brasil, publicada em reportagem de outubro passado, Ricardo Antunes, professor de sociologia do trabalho da Universidade Estadual de Campinas (Unicamp), descreveu o momento atual de motoristas e entregadores de aplicativos como a volta de formas primitivas de trabalho.
 
-![Luciano Oliveira em cadeira de rodas](../_resources/068b81b97e489fe7d20564cb686ed9de.jpg)
+![Luciano Oliveira em cadeira de rodas](../00 EVERNOTE_EM_USO/068b81b97e489fe7d20564cb686ed9de.jpg)
 Direito de imagem Vinícius Lemos/BBC News Brasil
 
 Image caption Um dos objetivos de Luciano é conseguir equipamento para que cadeira de rodas se torne uma espécie de triciclo, para ajudá-lo nas entregas
@@ -102,12 +102,12 @@ Há muitos que criticam as condições de trabalho dele. "Olha esse cadeirante t
 
 "Nem tudo é fácil, eu sei. Mas o carinho e a atenção que recebo me ajudam muito a continuar", diz Luciano, pouco antes de seguir para uma nova entrega. "Dessa vez é em uma pizzaria", conta, pouco após checar o endereço no aplicativo. "Fica a poucos metros daqui. Maravilha!", comemora e segue em direção ao estabelecimento.
 
- ![Línea](../_resources/732341900d96e337bf66def42387a400.jpg) Direito de imagem Getty Images
+ ![Línea](../00 EVERNOTE_EM_USO/732341900d96e337bf66def42387a400.jpg) Direito de imagem Getty Images
 
 **Já assistiu aos nossos novos vídeos no **[YouTube](https://www.youtube.com/channel/UCthbIFAxbXTTQEC7EcQvP1Q)**? Inscreva-se no nosso canal!**
 
- [  ![YouTube post de BBC News Brasil: Flávio Dino  ‘Luto para que Lula e Huck estejam juntos, ao menos no 2º turno'](../_resources/ef44dc58f9dcc0fc0c89a16b13850456.png)  Direitos da imagem BBC News Brasil BBC News Brasil](https://www.youtube.com/watch?v=lKgTkax4vtc)
+ [  ![YouTube post de BBC News Brasil: Flávio Dino  ‘Luto para que Lula e Huck estejam juntos, ao menos no 2º turno'](../00 EVERNOTE_EM_USO/ef44dc58f9dcc0fc0c89a16b13850456.png)  Direitos da imagem BBC News Brasil BBC News Brasil](https://www.youtube.com/watch?v=lKgTkax4vtc)
 
- [  ![YouTube post de BBC News Brasil: Coronavírus  por que há baixa incidência em crianças?](../_resources/8917421cb8d36a8b5296df0f9f8227a5.png)  Direitos da imagem BBC News Brasil BBC News Brasil](https://www.youtube.com/watch?v=hiwJ2S0OsHE&t=23s)
+ [  ![YouTube post de BBC News Brasil: Coronavírus  por que há baixa incidência em crianças?](../00 EVERNOTE_EM_USO/8917421cb8d36a8b5296df0f9f8227a5.png)  Direitos da imagem BBC News Brasil BBC News Brasil](https://www.youtube.com/watch?v=hiwJ2S0OsHE&t=23s)
 
- [  ![YouTube post de BBC News Brasil: Os brasileiros que viveram a 2ª guerra mundial em Londres](../_resources/86663ddf20b0348a91a1d58de020fcbe.gif)  Direitos da imagem BBC News Brasil BBC News Brasil](https://www.youtube.com/watch?v=ZQgR2utCYEU)
+ [  ![YouTube post de BBC News Brasil: Os brasileiros que viveram a 2ª guerra mundial em Londres](../00 EVERNOTE_EM_USO/86663ddf20b0348a91a1d58de020fcbe.gif)  Direitos da imagem BBC News Brasil BBC News Brasil](https://www.youtube.com/watch?v=ZQgR2utCYEU)

@@ -2,7 +2,7 @@ De flanelinha a pós-doutor em física - TNOnline.com.br
 
 # De flanelinha a pós-doutor em física
 
-![Marcelo Ferreira da Silva já trabalhou como flanelinha. Foto: Delair Garcia](../_resources/824eb066cdd9344217ab8c4893dbb2a2.jpg)
+![Marcelo Ferreira da Silva já trabalhou como flanelinha. Foto: Delair Garcia](../00 EVERNOTE_EM_USO/824eb066cdd9344217ab8c4893dbb2a2.jpg)
 
 Marcelo Ferreira da Silva já trabalhou como flanelinha. Foto: Delair Garcia
 
@@ -12,7 +12,7 @@ Em casa também não era fácil. O pai, hoje falecido, ficava agressivo quando b
 
 Apesar de todas as dificuldades, os pais sempre incentivaram os estudos. Mas foi um episódio ocorrido enquanto era flanelinha que o incentivou a persistir. “Eu cuidava dos carros em frente à Câmara dos Vereadores de Londrina. Lugar de gente chique, muitos carrões paravam por ali. A maioria nem olhava na nossa cara, era como se fossemos invisíveis. Mas teve um dia, eu tinha 15 anos, um homem saiu de um carro e eu pedi um trocado. Ele se virou para mim e disse ‘essa vida não vai te levar a nada. Você está estudando? Tem que estudar!’”.
 
-![tn_f149a42708_professor-marcelo-utfpr-delair-23.JPG.jpg](../_resources/210218714856558b3e39759ac907df07.jpg)
+![tn_f149a42708_professor-marcelo-utfpr-delair-23.JPG.jpg](../00 EVERNOTE_EM_USO/210218714856558b3e39759ac907df07.jpg)
 
 Professor Marcelo Ferreira da Silva. Foto: Delair Garcia
 

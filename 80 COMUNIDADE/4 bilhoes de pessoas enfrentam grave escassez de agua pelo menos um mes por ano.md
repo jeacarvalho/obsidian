@@ -6,7 +6,7 @@
 
 And things are only going to get worse
 
-![](../_resources/91543c5a49f822305329d355ef9cf593.png)
+![](../00 EVERNOTE_EM_USO/91543c5a49f822305329d355ef9cf593.png)
 
 (Justin Sullivan/Getty Images)
 

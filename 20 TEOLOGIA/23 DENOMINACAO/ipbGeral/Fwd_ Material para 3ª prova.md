@@ -17,7 +17,7 @@ Irmãos queridos, segue o material. A prova seguirá o quanto antes. Estou concl
 
 |     |     |
 | --- | --- |
-| [![Avast logo](../_resources/d8ac715d1bdfa5c128ca5998faa85a72.png)](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient) | Este email foi escaneado pelo Avast antivírus.<br>[www.avast.com](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient) |
+| [![Avast logo](../00 EVERNOTE_EM_USO/d8ac715d1bdfa5c128ca5998faa85a72.png)](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient) | Este email foi escaneado pelo Avast antivírus.<br>[www.avast.com](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient) |
 
 [Rev.Boanerges Ribeiro.uma vida e serviço da IPB.PDF](d83e2661e785aa646eb912fa6b49b03a.pdf)
 

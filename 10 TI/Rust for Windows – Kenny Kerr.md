@@ -2,7 +2,7 @@ Rust for Windows – Kenny Kerr
 
 # Rust for Windows
 
-![71d4efa35b3d11457c35543f9f55fba3](../_resources/d50d52377d934d2af0231e11f453f15c.jpg)Kenny Kerr
+![71d4efa35b3d11457c35543f9f55fba3](../00 EVERNOTE_EM_USO/d50d52377d934d2af0231e11f453f15c.jpg)Kenny Kerr
 
 19 hours ago
 

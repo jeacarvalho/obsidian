@@ -30,7 +30,7 @@ A disposição para qualquer dúvida.****
 
 |     |     |
 | --- | --- |
-| [![Avast logo](../_resources/d8ac715d1bdfa5c128ca5998faa85a72.png)](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient) | Este email foi escaneado pelo Avast antivírus.<br>[www.avast.com](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient) |
+| [![Avast logo](../00 EVERNOTE_EM_USO/d8ac715d1bdfa5c128ca5998faa85a72.png)](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient) | Este email foi escaneado pelo Avast antivírus.<br>[www.avast.com](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient) |
 
 [Notas sobre o presbiterianismo.pdf](0d991d5942bfa325ff00e1937aa83757.pdf)
 [estatuto_igreja (1).docx](c3e4676765e288d921abef79d0911a3e.docx)

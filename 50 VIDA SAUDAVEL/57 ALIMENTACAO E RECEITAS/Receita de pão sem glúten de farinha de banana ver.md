@@ -50,14 +50,14 @@ Leve ao forno preaquecido a 180 graus e asse por cerca de 45 minutos.
 
 |     |     |
 | --- | --- |
-| ![Laércio Lutibergue](../_resources/a626192e55c81849f590d9865cd03065.jpg) | Laércio Lutibergue é professor, revisor de texto, escritor e consultor linguístico. É também o editor do blog Português na Rede (www.portuguesnarede.com). |
+| ![Laércio Lutibergue](../00 EVERNOTE_EM_USO/a626192e55c81849f590d9865cd03065.jpg) | Laércio Lutibergue é professor, revisor de texto, escritor e consultor linguístico. É também o editor do blog Português na Rede (www.portuguesnarede.com). |
 
  [(L)](https://twitter.com/Curanatureza)
- ![](../_resources/75441087bd6d48a2351c5d1c5c28adec.jpg)
+ ![](../00 EVERNOTE_EM_USO/75441087bd6d48a2351c5d1c5c28adec.jpg)
 
  [(L)](http://hotmart.net.br/show.html?a=E743290L)
  ![](http://www.tiramulta.com/banners/arte2/300x250-02.jpg)
 
  [(L)](http://www.gerenciandoblog.com.br/2014/01/ranking-top-blogger-resultado-2013.html)
 
- ![](../_resources/15bfd4f1db90c9eda8159a4b6a34c462.png)
+ ![](../00 EVERNOTE_EM_USO/15bfd4f1db90c9eda8159a4b6a34c462.png)

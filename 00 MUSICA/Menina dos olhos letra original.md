@@ -35,4 +35,4 @@ Onde o escuro é tão vivo
 
 De dando um susto a cada ruído
 
-[Menina dos olhos - Ana-2.mp3](../_resources/0cf2aefe2a4cb72e176bff10f725afab.mp2)
+[Menina dos olhos - Ana-2.mp3](../00 EVERNOTE_EM_USO/0cf2aefe2a4cb72e176bff10f725afab.mp2)

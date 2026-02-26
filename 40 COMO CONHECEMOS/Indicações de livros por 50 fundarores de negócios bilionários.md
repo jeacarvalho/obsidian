@@ -2,7 +2,7 @@
       The Unusual Books That Shaped 50+ Billionairesundefined Mega-Bestselling Authorsundefined and Other Prodigies | The Blog of Author Tim Ferriss
     
 
-![You are the average of the five people you associate with most. Choose your books and authors wisely.](../_resources/87b84a5c696639b220d5d706242d82e9.png)
+![You are the average of the five people you associate with most. Choose your books and authors wisely.](../00 EVERNOTE_EM_USO/87b84a5c696639b220d5d706242d82e9.png)
 
 You are the average of the five people you associate with most. Choose your books and authors wisely.
 

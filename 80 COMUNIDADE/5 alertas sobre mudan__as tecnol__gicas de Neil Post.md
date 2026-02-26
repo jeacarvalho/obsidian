@@ -2,7 +2,7 @@
 
 # 5 alertas sobre mudanças tecnológicas de Neil Postman
 
-![5-alertas-sobre-mudancas-tecnologicas](../_resources/0aab5bf2b45ac9d050202ca9ca6dc3e7.jpg)
+![5-alertas-sobre-mudancas-tecnologicas](../00 EVERNOTE_EM_USO/0aab5bf2b45ac9d050202ca9ca6dc3e7.jpg)
 *Palestra de Neil Postman realizada em Denver, Colorado em 28 de março de 1998*
 Bom dia vossas Eminências e vossas Excelências, senhoras, e senhores.
 

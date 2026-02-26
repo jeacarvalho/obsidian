@@ -4,7 +4,7 @@
 
 Posted on  [February 2, 2015](http://leadingwithtrust.com/2015/02/02/4-ways-to-transform-failure-into-success/)by  [Randy Conley](http://leadingwithtrust.com/author/rconley/)
 
-[![41fd1b766728ce0647c7ebef3b5e627f.jpeg](../_resources/20a4ce841cb0ab1f769a95d6c08b0eb4.jpg)](https://trustworks.files.wordpress.com/2015/02/success-failure-sign.jpg)In yesterday’s Super Bowl, Seattle Seahawk quarterback Russell Wilson threw an interception at the end of the game when his team was on the verge of scoring the game winning touchdown. Earlier in the game, New England Patriots quarterback Tom Brady threw a couple of interceptions that led to his team being in a 10 point deficit heading into the fourth quarter. The coaches of each team, Pete Carroll for Seattle and Bill Belicheck for the Patriots, had been fired from NFL jobs earlier in their career before they found success later in life. All four of those men are considered “winners,” yet each of them have experienced notable failures on their road to success.
+[![41fd1b766728ce0647c7ebef3b5e627f.jpeg](../00 EVERNOTE_EM_USO/20a4ce841cb0ab1f769a95d6c08b0eb4.jpg)](https://trustworks.files.wordpress.com/2015/02/success-failure-sign.jpg)In yesterday’s Super Bowl, Seattle Seahawk quarterback Russell Wilson threw an interception at the end of the game when his team was on the verge of scoring the game winning touchdown. Earlier in the game, New England Patriots quarterback Tom Brady threw a couple of interceptions that led to his team being in a 10 point deficit heading into the fourth quarter. The coaches of each team, Pete Carroll for Seattle and Bill Belicheck for the Patriots, had been fired from NFL jobs earlier in their career before they found success later in life. All four of those men are considered “winners,” yet each of them have experienced notable failures on their road to success.
 
 Our society likes to celebrate winning and everything that comes along with it: money, status, power, privilege, and fame. Yet failure is often what helps us develop perseverance, wisdom, and maturity. No one likes to fail, but failing isn’t all bad and you can use it to your advantage if you do these four things:
 
@@ -54,7 +54,7 @@ Fear of failure holds us back from taking risks. We paralyze ourselves, stuck in
 
 [Does Your Culture Breed Success? Four Lessons From Michigan's Brady Hoke](http://leadingwithtrust.com/2012/01/08/does-your-culture-breed-success-four-lessons-from-michigans-brady-hoke/)In "Coaching"
 
-![4961fee13ee931e1f19ed7c9eee88a31.jpeg](../_resources/c231dcb0b1a3062fa73bda0be641d00d.jpg)
+![4961fee13ee931e1f19ed7c9eee88a31.jpeg](../00 EVERNOTE_EM_USO/c231dcb0b1a3062fa73bda0be641d00d.jpg)
 
 ## About Randy Conley
 

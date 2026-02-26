@@ -4,7 +4,7 @@
 
  Da BBC Brasil no Rio de Janeiro
 
-![Militar de força especial na Vila Kennedy, no Rio](../_resources/0be5df84702678fd95b209300c010261.jpg)
+![Militar de força especial na Vila Kennedy, no Rio](../00 EVERNOTE_EM_USO/0be5df84702678fd95b209300c010261.jpg)
 
 Direito de imagem AFP
 
@@ -24,7 +24,7 @@ Luz considera que a intervenção federal pode trazer benefícios se deixar de l
 
 "O problema do Rio não são os bandidos. O problema do Rio são os mocinhos. Se ele recuperar o quadro de mocinhos, ele pode dar uma atenção real ao quadro de bandidos", afirma.
 
-![Hélio Luz, ex-che da Polícia Civil](../_resources/8303ca61ec9804c8f0b1d2092d8f6cc7.jpg)
+![Hélio Luz, ex-che da Polícia Civil](../00 EVERNOTE_EM_USO/8303ca61ec9804c8f0b1d2092d8f6cc7.jpg)
 
 Image caption 'Como você mantém os excluídos todos sob controle, ganhando R$ 112 por mês? Com repressão', disse Luz em documentário há quase duas décadas | Imagem: Walter Carvalho
 
@@ -65,7 +65,7 @@ Ele (o general) tem condição de recuperar as estruturas policiais e beneficiar
 
 Lógico que para isso ele vai precisar de um grupo de policiais civis e militares que não usem o tal do guardanapo da cabeça. Não pode. Polícia que gosta de botar guardanapo na cabeça não serve para recuperar.
 
-![Militar com rosto encoberto](../_resources/86663ddf20b0348a91a1d58de020fcbe.gif)
+![Militar com rosto encoberto](../00 EVERNOTE_EM_USO/86663ddf20b0348a91a1d58de020fcbe.gif)
 Direito de imagem Reuters
 
 Image caption Constitucional, inédita e oportunista - assim ex-chefe da polícia civil vê intervenção federal na segurança do Rio
@@ -86,7 +86,7 @@ Se ele (o general Braga Netto) quiser aprofundar as investigações, ele vai par
 
 Ninguém pode imaginar que o menino da favela tenha capital o suficiente para bancar os entorpecentes que circulam ali. Quem detém o capital que financia as drogas tem uma mesa que opera câmbio na Rio Branco e um filho que frequenta bons colégios. Se o general chegar lá, aí realmente vai estar combatendo o crime e melhorando as condições de segurança do Rio.
 
-![Militar caminha em favela ao lado de avenida](../_resources/86663ddf20b0348a91a1d58de020fcbe.gif)
+![Militar caminha em favela ao lado de avenida](../00 EVERNOTE_EM_USO/86663ddf20b0348a91a1d58de020fcbe.gif)
 
 Direito de imagem Reuters
 
@@ -110,7 +110,7 @@ Qual é a referência que se dá ao infrator que está lá na ponta? Quando a in
 
 Se a lei é para ser cumprida na favela, é para ser cumprida por todo mundo. Ou a lei vale para todos ou não vale para ninguém.
 
-![Hélio Luz, ex-chefe da Polícia Civil](../_resources/86663ddf20b0348a91a1d58de020fcbe.gif)
+![Hélio Luz, ex-chefe da Polícia Civil](../00 EVERNOTE_EM_USO/86663ddf20b0348a91a1d58de020fcbe.gif)
 
 Image caption Fala de Hélio Luz em filme marcou debate sobre segurança pública | Foto: Arquivo pessoal
 
@@ -140,7 +140,7 @@ O problema social está no centro da questão da favela, e a questão de seguran
 
 Fala-se que que eles acumulam dinheiro e estão bem organizados. Onde, se estão disputando boca por boca (de fumo)? Onde há crime organizado com disputa de território permanente? Não existe. Se o cara tivesse dois milhões de dólares disponíveis, ele saía da favela e ia ser rentista (risos).
 
-![Meninos brincam de pipa no Alemão](../_resources/86663ddf20b0348a91a1d58de020fcbe.gif)
+![Meninos brincam de pipa no Alemão](../00 EVERNOTE_EM_USO/86663ddf20b0348a91a1d58de020fcbe.gif)
 Direito de imagem Reuters
 
 Image caption Meninos brincam de pipa no Alemão; Hélio Luz fala que ocupação do complexo foi 'ilusão'

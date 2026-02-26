@@ -2,7 +2,7 @@ Behavioral Scientist's Summer Book List 2020 - Behavioral Scientist
 
 # Behavioral Scientist’s Summer Book List 2020
 
-![summer-reading-list-v2-768x426.jpg](../_resources/8e1c2fc3bd99ac027aa41cfb2a748176.jpg)
+![summer-reading-list-v2-768x426.jpg](../00 EVERNOTE_EM_USO/8e1c2fc3bd99ac027aa41cfb2a748176.jpg)
 
 Pools are closed. Concerts are cancelled. Vacations are rescheduled. Stores are even [selling out of puzzles](https://www.cnbc.com/2020/04/03/coronavirus-sends-demand-for-jigsaw-puzzles-surging.html). All the more reason to curl up inside (or outside at an adequate social distance) with a great book.
 

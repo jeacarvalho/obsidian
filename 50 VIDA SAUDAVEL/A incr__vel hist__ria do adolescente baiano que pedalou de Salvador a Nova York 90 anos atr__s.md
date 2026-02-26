@@ -4,7 +4,7 @@ A incrível história do adolescente baiano que pedalou de Salvador a Nova York 
 
  De Salvador para a BBC News Brasil
 
-![Rubens Pinheiro na chegada em Nova York](../_resources/f224992ed3b5e2c2f6119daf821c51a3.jpg)
+![Rubens Pinheiro na chegada em Nova York](../00 EVERNOTE_EM_USO/f224992ed3b5e2c2f6119daf821c51a3.jpg)
 Direito de imagem Arquivo Família Pinheiro
 Image caption Rubens Pinheiro na chegada em Nova York
 
@@ -41,7 +41,7 @@ No Panamá, Rubens encontrou a ocupação dos Estados Unidos na Zona do Canal, m
 
 O país vivia em estado de sítio e tentava se libertar do domínio dos Estados Unidos. Em suas memórias, Rubens garante que teve na estrada a companhia do revolucionário Augusto César Sandino, líder da luta contra os invasores e ideólogo do movimento sandinista que hoje é partido político.
 
-![Caderno de viagem de Rubens](../_resources/180cd09abec4714d8109a7aef2da2e9e.jpg)
+![Caderno de viagem de Rubens](../00 EVERNOTE_EM_USO/180cd09abec4714d8109a7aef2da2e9e.jpg)
 
 Image caption Caderno de viagem de Rubens
 

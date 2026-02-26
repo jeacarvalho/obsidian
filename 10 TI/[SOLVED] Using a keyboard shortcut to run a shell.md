@@ -27,7 +27,7 @@
 
 ## Re: Using a keyboard shortcut to run a shell script
 
-![Quote](../_resources/2cac455cbcc23e49c51beaede3ebca9d.png)>  Originally Posted by **> blur xc**
+![Quote](../00 EVERNOTE_EM_USO/2cac455cbcc23e49c51beaede3ebca9d.png)>  Originally Posted by **> blur xc**
 
 > Does your script have executable premissions? Other than that, might be a key bindign conflict, or something...
 
@@ -52,7 +52,7 @@
 
 ## Re: Using a keyboard shortcut to run a shell script
 
-![Quote](../_resources/2cac455cbcc23e49c51beaede3ebca9d.png)>  Originally Posted by **> prodigy_**
+![Quote](../00 EVERNOTE_EM_USO/2cac455cbcc23e49c51beaede3ebca9d.png)>  Originally Posted by **> prodigy_**
 
 > What is it supposed to do? If you want a terminal window to appear, your command should be:
 
@@ -88,7 +88,7 @@
 
 ## Re: Using a keyboard shortcut to run a shell script
 
-![Quote](../_resources/2cac455cbcc23e49c51beaede3ebca9d.png)>  Originally Posted by **> vttay03**
+![Quote](../00 EVERNOTE_EM_USO/2cac455cbcc23e49c51beaede3ebca9d.png)>  Originally Posted by **> vttay03**
 
 > I know you've figured this out but the script may not have the following located at the top:
 
@@ -103,7 +103,7 @@
 
 ## Re: Using a keyboard shortcut to run a shell script
 
-![Quote](../_resources/2cac455cbcc23e49c51beaede3ebca9d.png)>  Originally Posted by **> NeoDevin**
+![Quote](../00 EVERNOTE_EM_USO/2cac455cbcc23e49c51beaede3ebca9d.png)>  Originally Posted by **> NeoDevin**
 
 > My script already contains that. The 'bash' command still seems to be required even with that.
 

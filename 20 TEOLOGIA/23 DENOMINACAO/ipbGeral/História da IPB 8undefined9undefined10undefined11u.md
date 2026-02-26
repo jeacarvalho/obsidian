@@ -43,7 +43,7 @@ Rev. Sergio****
 
 |     |     |
 | --- | --- |
-| [![Avast logo](../_resources/d8ac715d1bdfa5c128ca5998faa85a72.png)](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient) | Este email foi escaneado pelo Avast antivírus.<br>[www.avast.com](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient) |
+| [![Avast logo](../00 EVERNOTE_EM_USO/d8ac715d1bdfa5c128ca5998faa85a72.png)](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient) | Este email foi escaneado pelo Avast antivírus.<br>[www.avast.com](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient) |
 
 [Rev.Boanerges Ribeiro.uma vida e serviço da IPB.PDF](d83e2661e785aa646eb912fa6b49b03a.pdf)
 
@@ -53,13 +53,13 @@ Rev. Sergio****
 
 [9.Dissensão.pdf](00cd2abfbdcc7e92ad48d8a31efbf336.pdf)
 [Apostila.IPB2.pdf](9474dcc6aac23110eea9d7a3b616f499.pdf)
-[Erasmo Braga e a Igreja Presbiteriana.pdf](../_resources/2c7218c6bfd6dd66aedf697c88d44d66.pdf)
+[Erasmo Braga e a Igreja Presbiteriana.pdf](../00 EVERNOTE_EM_USO/2c7218c6bfd6dd66aedf697c88d44d66.pdf)
 
 [Pronunciamento sobre problemas políticos e sociais.1962.pdf](30e52eebb6493e79aea86d176510e630.pdf)
 
 [13.Tempos de Transição.Era Boanerges.pdf](dbd1c55b2168fe8d0863bb10ea135c0b.pdf)
 
-[Erasmo Braga e o protestantismo cooperativo.pdf](../_resources/0508f169721c0e9e3fcf5d7ec28da963.pdf)
+[Erasmo Braga e o protestantismo cooperativo.pdf](../00 EVERNOTE_EM_USO/0508f169721c0e9e3fcf5d7ec28da963.pdf)
 
 [11.Período de Cooperação.pdf](6d0bcaff202717bbc2ebac66571ee27c.pdf)
 [12.Período de Organização (1932-1959).pdf](c4de3d5251713c0466f64f2c04864aba.pdf)

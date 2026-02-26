@@ -16,7 +16,7 @@ Leading in Turbulent Times
 
 February 11, 2013 by [George Ambler](http://www.georgeambler.com/author/GeorgeAmbler/)  [Leave a Comment](http://www.georgeambler.com/10-great-ted-talks-for-leaders/#comments)
 
-[![TED](../_resources/7a8ff66f1ae5495371674d8591ff573c.png)](http://www.georgeambler.com/wp-content/uploads/2013/02/TED_wordmark.svg_.png)
+[![TED](../00 EVERNOTE_EM_USO/7a8ff66f1ae5495371674d8591ff573c.png)](http://www.georgeambler.com/wp-content/uploads/2013/02/TED_wordmark.svg_.png)
 
 [TED](http://www.ted.com/) is just about the best place to visit if you have a few minutes to kill. TED offers lectures by brilliant people doing amazing things in areas including technology, entertainment, design, business and science. Listed below are 10 great TED talks on leadership for leaders.
 
@@ -82,7 +82,7 @@ David Logan talks about the five kinds of tribes that humans naturally form — 
 
 You might also like:
 
-[![7 questions to help you learn from great leaders](../_resources/6c5cb8b48bc186274f874ef9f83c359f.jpg) 7 questions to help you learn from great](http://www.georgeambler.com/7-questions-to-help-you-learn-from-great-leaders/)
+[![7 questions to help you learn from great leaders](../00 EVERNOTE_EM_USO/6c5cb8b48bc186274f874ef9f83c359f.jpg) 7 questions to help you learn from great](http://www.georgeambler.com/7-questions-to-help-you-learn-from-great-leaders/)
 
 [prev](10%20grandes%20TED%20Talks%20para%20líderes.md#)  [next](10%20grandes%20TED%20Talks%20para%20líderes.md#)
 
@@ -128,13 +128,13 @@ This site is for people interested in learning to lead in times of rapid change,
 
 What leadership topics interest you?
 
-[![Top Blogs](../_resources/d2463bed61a52c787a8236d4854b6f22.png)](http://www.invesp.com/blog-rank/Leadership)
+[![Top Blogs](../00 EVERNOTE_EM_USO/d2463bed61a52c787a8236d4854b6f22.png)](http://www.invesp.com/blog-rank/Leadership)
 
 Powered By [Invesp](http://newsroom.invesp.com/)
 
-[![Top-30-Badge](../_resources/608c31011187f6760d515f396b24abdf.png)](http://www.cmoe.com/top-30-socially-shared-leadership-blogs.htm)
+[![Top-30-Badge](../00 EVERNOTE_EM_USO/608c31011187f6760d515f396b24abdf.png)](http://www.cmoe.com/top-30-socially-shared-leadership-blogs.htm)
 
-[![Featured in Alltop](../_resources/8268818096ae85904c1156b03ef785f0.jpg)](http://alltop.com/)
+[![Featured in Alltop](../00 EVERNOTE_EM_USO/8268818096ae85904c1156b03ef785f0.jpg)](http://alltop.com/)
 
 ## Recent Comments
 
@@ -151,7 +151,7 @@ Powered By [Invesp](http://newsroom.invesp.com/)
 
 [George Ambler on Twitter Counter](http://twittercounter.com/GeorgeAmbler)
 
-[![](../_resources/9f07e968131d2cc4cff8f139604031e2.gif)](http://feeds.feedburner.com/ThePracticeOfLeadership)
+[![](../00 EVERNOTE_EM_USO/9f07e968131d2cc4cff8f139604031e2.gif)](http://feeds.feedburner.com/ThePracticeOfLeadership)
 
 [Return to top of page](10%20grandes%20TED%20Talks%20para%20líderes.md#wrap)
 

@@ -12,7 +12,7 @@ These seven elements: Strategy, Tactics, Execution, Reputation, Persistence, Des
 
 Feel free to share the AHI, but please don't have it tattooed on your hip or anything.
 
-[![Godinshierarchy](../_resources/3dd7f06cd47bdfe906fbf5800101f31e.jpg)](http://sethgodin.typepad.com/.a/6a00d83451b31569e2016305a19385970d-popup)
+[![Godinshierarchy](../00 EVERNOTE_EM_USO/3dd7f06cd47bdfe906fbf5800101f31e.jpg)](http://sethgodin.typepad.com/.a/6a00d83451b31569e2016305a19385970d-popup)
 
 ...
 

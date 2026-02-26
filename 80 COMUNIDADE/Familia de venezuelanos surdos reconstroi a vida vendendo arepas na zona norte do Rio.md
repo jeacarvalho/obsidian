@@ -4,7 +4,7 @@ Família de venezuelanos surdos reconstrói a vida vendendo arepas na zona norte
 
  Da BBC Brasil no Rio de Janeiro
 
-![A família venezuelana reunida vendendo com a ajuda de dois brasileiros, os irmãos Thaynara e Thiago](../_resources/e715303c33367d516e95f60c2815889c.jpg)
+![A família venezuelana reunida vendendo com a ajuda de dois brasileiros, os irmãos Thaynara e Thiago](../00 EVERNOTE_EM_USO/e715303c33367d516e95f60c2815889c.jpg)
 
 Image caption A família venezuelana vende arepas com a ajuda de dois brasileiros, os irmãos Thaynara e Thiago
 
@@ -24,7 +24,7 @@ Foram anos vendendo balas nas ruas e às vezes fazendo bicos em supermercados em
 
 "Eu não via o país em que nasci. Via tudo mudado, muito diferente. Um país sem nada nas farmácias, sem remédios, e com muitas mortes e sequestros", conta.
 
-![Arepas](../_resources/5cfe242e1bed353f59a099ae42b34112.jpg)
+![Arepas](../00 EVERNOTE_EM_USO/5cfe242e1bed353f59a099ae42b34112.jpg)
 
 Image caption Família vende arepas, iguaria tradicional da culinária venezuelana, a R$ 5
 
@@ -58,7 +58,7 @@ A família está morando em um apartamento de fundos no Engenho Novo, na zona no
 
 Recentemente, as crianças subiram o morro para ir cortar o cabelo em um barbeiro indicado pela vizinha e depararam com traficantes armados.
 
-![Argelina prepara salgados em casa](../_resources/82cd6a90d4bc2d5073419c0487542974.jpg)
+![Argelina prepara salgados em casa](../00 EVERNOTE_EM_USO/82cd6a90d4bc2d5073419c0487542974.jpg)
 
 Image caption Os salgados são preparados no apartamento de fundos no Engenho Novo, onde a família vive
 
@@ -76,7 +76,7 @@ Os cartazes são importantes para facilitar a comunicação, sobretudo quando as
 
 "A gente esta aí nessa parceria. Eu pretendo trabalhar com eles todos os dias", anima-se Thaynara, que tem acompanhado de perto as batalhas e as pequenas vitórias da família. Quando Argelia e os pequenos Javier e Argelina desembarcaram no Aeroporto Internacional Antônio Carlos Jobim, em novembro, a jovem acompanhou o namorado para recebê-los.
 
-![Dionel e Argelia vendendo num posto de combustível no Rio](../_resources/ec20b06abffa69fffd13a884278c4f95.jpg)
+![Dionel e Argelia vendendo num posto de combustível no Rio](../00 EVERNOTE_EM_USO/ec20b06abffa69fffd13a884278c4f95.jpg)
 
 Image caption Dionel e Argelia fugiram da crise na Venezuela com os filhos
 
@@ -94,7 +94,7 @@ O percurso de vendas é pelas ruas perto da casa. Na falta de permissão para te
 
 Enquanto Thaynara e as crianças abordavam os carros esperando na fila, os pais cuidavam de distribuir quentinhas com as arepas e o troco. Cada venda era comemorada como uma pequena vitória pelas crianças.
 
-![Thalita vendendo salgados](../_resources/07c0291687db4113f045e6e14b2272c4.jpg)
+![Thalita vendendo salgados](../00 EVERNOTE_EM_USO/07c0291687db4113f045e6e14b2272c4.jpg)
 
 Image caption A brasileira Thaynara ajuda a família venezuelana a vender os salgados
 

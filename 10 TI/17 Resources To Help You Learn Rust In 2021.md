@@ -6,7 +6,7 @@
 
 ## Don’t get rusty this year
 
-![1*pG9R392NBdQrFOydkCrHjg.jpeg](../_resources/5fe3e6d3b00f6d53f525478c5afafe44.jpg)
+![1*pG9R392NBdQrFOydkCrHjg.jpeg](../00 EVERNOTE_EM_USO/5fe3e6d3b00f6d53f525478c5afafe44.jpg)
 
 Photo by [Roman Kraft](https://unsplash.com/@romankraft?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/books?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 

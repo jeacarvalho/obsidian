@@ -38,7 +38,7 @@ Rev. Sergio Kitagawa****
 
 |     |     |
 | --- | --- |
-| [![Avast logo](../_resources/d8ac715d1bdfa5c128ca5998faa85a72.png)](https://www.avast.com/antivirus) | Este email foi escaneado pelo Avast antivírus.<br>[www.avast.com](https://www.avast.com/antivirus) |
+| [![Avast logo](../00 EVERNOTE_EM_USO/d8ac715d1bdfa5c128ca5998faa85a72.png)](https://www.avast.com/antivirus) | Este email foi escaneado pelo Avast antivírus.<br>[www.avast.com](https://www.avast.com/antivirus) |
 
 [1. Introdução aos Estudos de História do Presbiterianismo e da IPB.pdf](453fc348416bf109740ae0844446e7ab.pdf)
 

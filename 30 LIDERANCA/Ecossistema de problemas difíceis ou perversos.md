@@ -12,4 +12,4 @@
 - Meu entendimento - os[[problemas são complexos porque se autoalimentam]]
 
 
-![foto.jpg](../_resources/ebfb69928207ae5f5510dc8befd86a84.jpg)
+![foto.jpg](../00 EVERNOTE_EM_USO/ebfb69928207ae5f5510dc8befd86a84.jpg)

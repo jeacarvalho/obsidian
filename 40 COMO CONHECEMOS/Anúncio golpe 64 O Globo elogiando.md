@@ -1,6 +1,6 @@
 Anúncio golpe 64 O GLoboundefined elogiando
 
-![foto.jpg](../_resources/bbbc1c6ff8c973a3f6176a53316c7b38.jpg)
+![foto.jpg](../00 EVERNOTE_EM_USO/bbbc1c6ff8c973a3f6176a53316c7b38.jpg)
 
 - [[viés de confirmação]]
 - Quem se beneficia do poder e do controle vai sermpre apoiar o que pode mantê-lo lá. Em um momento pode ser algo que é completamente diferente do que se usou no passado. 

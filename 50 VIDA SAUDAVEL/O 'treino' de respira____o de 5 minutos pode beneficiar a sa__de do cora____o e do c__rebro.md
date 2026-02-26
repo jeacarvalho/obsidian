@@ -13,7 +13,7 @@ By [Ana Sandoiu](https://www.medicalnewstoday.com/authors/ana-sandoiu)|
 
 Preliminary research reveals that a technique called Inspiratory Muscle Strength Training can boost cognitive and physical performance, as well as cardiovascular health.
 
-![4f9fdbb61d0cd9e76ec47f9c9895b493.jpg](../_resources/6b57d0ba54acb440e1124131efe90465.jpg)
+![4f9fdbb61d0cd9e76ec47f9c9895b493.jpg](../00 EVERNOTE_EM_USO/6b57d0ba54acb440e1124131efe90465.jpg)
 
 *New research adds another tool in the toolbox for preventing high blood pressure.*
 
@@ -40,7 +40,7 @@ IMST involves inhaling through a resistive hand-held device called an inspirator
 Craighead and team explain that in 2016, a 6-week trial on the effects of IMST on [obstructive sleep apnea](https://www.medicalnewstoday.com/articles/178633.php) — during which participants performed 30 inhalations per day — revealed that using the device also lowered systolic blood pressure by 12 millimeters of mercury.
 
 Related Article[(L)](https://www.medicalnewstoday.com/articles/324893.php?iacp)
-![8f999df7ea53cb0db554b59fbd368abd.jpg](../_resources/7f9d8c84263f3320e800b31fed20b594.jpg)
+![8f999df7ea53cb0db554b59fbd368abd.jpg](../00 EVERNOTE_EM_USO/7f9d8c84263f3320e800b31fed20b594.jpg)
 Frequent urination at night may be a sign of hypertension
 
 New research finds that nocturia, or the need to urinate frequently at night, may signal high blood pressure.

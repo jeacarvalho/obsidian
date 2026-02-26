@@ -37,7 +37,7 @@ Rev. Sergio Kitagawa
 
 [5.O Colégio Protestante de São Paulo.pdf](f0fd794a2219d0607aff692526e4d2ea.pdf)
 
-[A emancipação do presbiterianismo.EmileLeonard.pdf](../_resources/56c63f8a8e509cf350f50c09e39e72ad.pdf)
+[A emancipação do presbiterianismo.EmileLeonard.pdf](../00 EVERNOTE_EM_USO/56c63f8a8e509cf350f50c09e39e72ad.pdf)
 
 [A Maçonaria e o crente.Rev.SergioKitagawa.pdf](4444af84d90b1ba1ef49808d17297031.pdf)
 

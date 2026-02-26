@@ -10,7 +10,7 @@ The amount and nature of value in a particular product or service always lie in 
 
 We have identified 30 “elements of value”—fundamental attributes in their most essential and discrete forms. These elements fall into four categories: functional, emotional, life changing, and social impact. Some elements are more inwardly focused, primarily addressing consumers’ personal needs. For example, the life-changing element *motivation* is at the core of Fitbit’s exercise-tracking products. Others are outwardly focused, helping customers interact in or navigate the external world. The functional element *organizes* is central to The Container Store and Intuit’s TurboTax, because both help consumers deal with complexities in their world.
 
-![R1609C_ALMQUIST_VALUEPYRAMID](../_resources/e84f730954b9262dfb2bd9bcd118f732.png)
+![R1609C_ALMQUIST_VALUEPYRAMID](../00 EVERNOTE_EM_USO/e84f730954b9262dfb2bd9bcd118f732.png)
 Icons by Nik Schulz
 
 Find this and other HBR graphics in our [Visual Library](https://hbr.org/visual-library?term=The+Elements+of+Value+Pyramid)

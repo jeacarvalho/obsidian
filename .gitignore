@@ -11,7 +11,6 @@ Excalidraw/
 
 # Dados e backups
 data/
-.trash/
 _backup/
 *.bak
 
@@ -27,6 +26,7 @@ _backup/
 *.png
 *.gif
 *.svg
+*.mp2
 
 # Banco de dados
 *.db
@@ -36,9 +36,7 @@ _backup/
 .DS_Store
 Thumbs.db
 
-# Temporários
-*.tmp
-*.temp
+# Temporários e pastas vazias
  Untitled/
+Evernote/
 
-# VAULT EXTERNO - artigos-tcc.zip foi movido para /media/s015533607/bkp/

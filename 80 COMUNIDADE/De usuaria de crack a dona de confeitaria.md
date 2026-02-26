@@ -4,7 +4,7 @@ De usuária de crack a dona de confeitaria: a trajetória da mulher que saiu da 
 
  Da BBC Brasil em São Paulo
 
-![p05zkpjx.jpg](../_resources/c7dd9e52581145401dc610d842c61046.jpg)
+![p05zkpjx.jpg](../00 EVERNOTE_EM_USO/c7dd9e52581145401dc610d842c61046.jpg)
 
 'Nasci para fazer doces', diz ex-dependente de crack que virou confeiteira
 
@@ -22,7 +22,7 @@ Neste ponto, a história poderia avançar até o momento atual. Desirée hoje te
 
 Todas as manhãs, ela retorna à cracolândia e dá aula de gastronomia para os usuários que quiserem participar - fazem bolos, tortas, doces. A oficina funciona como uma porta de entrada para o tratamento. "É redução de danos. Quando o dependente está aqui comigo, na aula, ele não fuma crack", explica.
 
-![Desirée Mendes](../_resources/f4d09fdbc13032932629ab6f7d22d2c3.jpg)
+![Desirée Mendes](../00 EVERNOTE_EM_USO/f4d09fdbc13032932629ab6f7d22d2c3.jpg)
 
 Image caption Desirée tornou-se confeiteira e ajuda usuários de crack no tratamento contra o vício | Foto: Gui Christ/BBC Brasil
 
@@ -40,7 +40,7 @@ Em 25 de julho de 2012, dois meses depois de seu filho Enzo nascer na prisão, D
 
 Depois de duas décadas de vício, ex-presidiária, sem profissão, o que Desirée poderia fazer? "Quando você tem esse passado, todas as portas da sociedade se fecham para você. É muito difícil recomeçar e muita gente volta para o crack", diz. Ela chegou a trabalhar em cozinhas industriais, mas, quando funcionários e chefes descobriram sua história, foi tratada com chacotas e preconceito.
 
-![Jaqueline Alves em seu restaurante, na zona leste de São Paulo](../_resources/679fe49784fd96a3ec3d095b65f7d1c7.jpg)
+![Jaqueline Alves em seu restaurante, na zona leste de São Paulo](../00 EVERNOTE_EM_USO/679fe49784fd96a3ec3d095b65f7d1c7.jpg)
 
 Image caption Proprietária do bistrô Cereja Flor, Jaqueline Alves já contratou ex-presidiários e dependentes químicos | Foto: Gui Christ/BBC Brasil
 
@@ -60,7 +60,7 @@ Desirée rapidamente se destacou na cozinha e passou a liderar a equipe de confe
 
 No fim do ano passado, Desirée pensou em dar outro passo na carreira - a terceira reviravolta em sua biografia. Convidou Jaqueline para abrir um café no centro de São Paulo, a poucos metros da cracolândia. A amiga topou.
 
-![Taças de doces criadas por Desirée](../_resources/86663ddf20b0348a91a1d58de020fcbe.gif)
+![Taças de doces criadas por Desirée](../00 EVERNOTE_EM_USO/86663ddf20b0348a91a1d58de020fcbe.gif)
 
 Image caption Desirée inventou doces que ajudaram o Cereja Flor a crescer | Foto: Gui Christ/BBC Brasil
 
@@ -76,7 +76,7 @@ Além de equipamentos públicos de [[cultura]], como a Sala São Paulo e a Pinac
 
 São esses funcionários o foco do café de Desirée e Jaqueline. "A gente acha que pode dar certo, porque é uma região que não tem muitas opções. Nós vamos oferecer doces e um almoço de qualidade", explica Desirée.
 
-![Polícia realiza operação na cracolândia em 11 de junho de 2017](../_resources/86663ddf20b0348a91a1d58de020fcbe.gif)
+![Polícia realiza operação na cracolândia em 11 de junho de 2017](../00 EVERNOTE_EM_USO/86663ddf20b0348a91a1d58de020fcbe.gif)
 
 Direito de imagem Reuters
 
@@ -94,7 +94,7 @@ Esse buraco é a Justiça.
 
 Quando foi presa em flagrante, em 17 de junho de 2012, Desirée tinha R$ 5 em moedas e 30,6 gramas de crack. Ela alega que a droga era para uso pessoal, pois queria se matar de tanto fumar. Os policiais dizem que ela estava traficando as pedras.
 
-![Esquina da rua Helvétia e alameda Dino Bueno](../_resources/86663ddf20b0348a91a1d58de020fcbe.gif)
+![Esquina da rua Helvétia e alameda Dino Bueno](../00 EVERNOTE_EM_USO/86663ddf20b0348a91a1d58de020fcbe.gif)
 
 Direito de imagem AFP
 

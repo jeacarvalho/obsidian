@@ -10,7 +10,7 @@ Cá estamos, com quase tudo o que Negroponte antecipou e um tanto de consequênc
 
 ## **Inevitável – As 12 Forças Tecnológicas que Mudarão Nosso Mundo**
 
-![inevitavel-hsm-D_NQ_NP_924532-MLB25638187737_062017-F-203x300.jpg](../_resources/ada750697f8aeb94f2efc98c00ea3c8c.jpg)[Kevin Kelly](https://en.wikipedia.org/wiki/Kevin_Kelly_(editor)) é cofundador da revista ***Wired*** (que teve Negroponte como colunista nos bons tempos) e autor de livros de sucesso, dentre eles **Para Onde nos Leva a Tecnologia** (Bookman, 2012). Otimista confesso, pinta um futuro cor de rosa. Somos alertados sobre seu viés.
+![inevitavel-hsm-D_NQ_NP_924532-MLB25638187737_062017-F-203x300.jpg](../00 EVERNOTE_EM_USO/ada750697f8aeb94f2efc98c00ea3c8c.jpg)[Kevin Kelly](https://en.wikipedia.org/wiki/Kevin_Kelly_(editor)) é cofundador da revista ***Wired*** (que teve Negroponte como colunista nos bons tempos) e autor de livros de sucesso, dentre eles **Para Onde nos Leva a Tecnologia** (Bookman, 2012). Otimista confesso, pinta um futuro cor de rosa. Somos alertados sobre seu viés.
 
 Rotular as 12 forças como inevitáveis foi corajoso. Projetar algumas no horizonte de 20, 30 ou 100 anos é arriscado. Mas seus argumentos são fortes. E os exemplos têm o jeito das profecias autorrealizáveis. O livro deve servir como fonte de inspiração para designers e arquitetos de soluções.
 
@@ -22,7 +22,7 @@ Dentre as várias provocações, uma deveria virar pôster ou camiseta: “**Nes
 
 ## **Whiplash – Como Sobreviver ao nosso Futuro Acelerado**
 
-![41Vc4C0sdL._SX356_BO1204203200_-215x300.jpg](../_resources/26827461786f4128795405c27b972650.jpg)[Joi Ito](https://en.wikipedia.org/wiki/Joi_Ito) ocupa o cargo que já foi de Nicholas Negroponte no *MIT Media Lab*. Jeff Howe é seu colega, já escreveu para a *Wired* e nela criou o termo *Crowdsourcing*.
+![41Vc4C0sdL._SX356_BO1204203200_-215x300.jpg](../00 EVERNOTE_EM_USO/26827461786f4128795405c27b972650.jpg)[Joi Ito](https://en.wikipedia.org/wiki/Joi_Ito) ocupa o cargo que já foi de Nicholas Negroponte no *MIT Media Lab*. Jeff Howe é seu colega, já escreveu para a *Wired* e nela criou o termo *Crowdsourcing*.
 
 A Alta Books nos fez o desfavor de trocar o chicote *(**Whiplash**)* por “Disrupção e Inovação”. Que o restante da tradução não siga a linha “use a *hashtag* da moda”. Porque o livro não fala de modismos, muito pelo contrário.
 
@@ -44,7 +44,7 @@ São sugestões que vemos por aí não é de hoje. A diferença está na amarra�
 
 ## **WTF?: What’s the Future and Why It’s Up to Us**
 
-![0062565710-199x300.jpg](../_resources/4071cc7c40eaa98c5d5268b15867f3dd.jpg)[Tim O’Reilly](https://en.wikipedia.org/wiki/Tim_O%27Reilly) não gosta de ser apresentado como futurista. Mas ele antecipou tanta coisa (WWW, Software Livre, Web 2.0, dentre outras) que fica difícil evitar o rótulo. Seu livro é diferente dos dois anteriores porque: 1) Não evolui a partir de  uma lista de tendências, princípios ou afins; 2) Não faz vista grossa para notícias ruins; e 3) Usa muito o passado para amparar seus argumentos.
+![0062565710-199x300.jpg](../00 EVERNOTE_EM_USO/4071cc7c40eaa98c5d5268b15867f3dd.jpg)[Tim O’Reilly](https://en.wikipedia.org/wiki/Tim_O%27Reilly) não gosta de ser apresentado como futurista. Mas ele antecipou tanta coisa (WWW, Software Livre, Web 2.0, dentre outras) que fica difícil evitar o rótulo. Seu livro é diferente dos dois anteriores porque: 1) Não evolui a partir de  uma lista de tendências, princípios ou afins; 2) Não faz vista grossa para notícias ruins; e 3) Usa muito o passado para amparar seus argumentos.
 
 O último ponto motivou resenhas negativas como “parece que o cara quer mostrar quanta gente importante ele conhece”. Essa é a diferença: Tim se relacionou com muita gente que fez e faz diferença, em TI, [[economia]], política etc. E justifica o apelo ao passado citando [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain): “a história não se repete, mas quase sempre ela rima”.
 

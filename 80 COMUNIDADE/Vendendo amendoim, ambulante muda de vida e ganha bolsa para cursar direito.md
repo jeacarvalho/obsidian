@@ -10,7 +10,7 @@ Colaboração para o UOL, em Maceió
 
 - Carlos Madeiro/UOL
 
- ![Jhone Vicente dos Santos, 29, vende amendoim em avenida de Maceió e ganhou uma bolsa para cursar a faculdade de direito](../_resources/e7d66d7ac6b48966ec1828a5e72d9eaf.jpg)
+ ![Jhone Vicente dos Santos, 29, vende amendoim em avenida de Maceió e ganhou uma bolsa para cursar a faculdade de direito](../00 EVERNOTE_EM_USO/e7d66d7ac6b48966ec1828a5e72d9eaf.jpg)
 
 Jhone Vicente dos Santos, 29, vende amendoim em avenida de Maceió e ganhou uma bolsa para cursar a faculdade de direito
 
@@ -32,7 +32,7 @@ Como a mulher vai seguir em casa com o bebê, ele já planeja conciliar os estud
 
 Carlos Madeiro/UOL
 
-![jhone-vicente-dos-santos-29-vende-amendoim-em-maceio-e-ganhou-uma-bolsa-para-cursar-a-faculdade-de-direito-1500515895194_615x300.jpg](../_resources/b733c11c26ae6314234c566bafcffb46.jpg)
+![jhone-vicente-dos-santos-29-vende-amendoim-em-maceio-e-ganhou-uma-bolsa-para-cursar-a-faculdade-de-direito-1500515895194_615x300.jpg](../00 EVERNOTE_EM_USO/b733c11c26ae6314234c566bafcffb46.jpg)
 
 "Direito é uma carreira que me encanta porque faz a ligação entre a justiça e o povo. E minha vontade é essa: fazer essa ligação"
 

@@ -26,5 +26,5 @@ Para pensar porque estamos aqui: [[América Latina é uma sociedade com tanta de
 [[Justiça Social - Perfil de pobreza muda em dez anos do programa Bolsa Familia]]
 ##### Justiça social Brasil
 
-![IMG_20180212_124615.jpg](../_resources/a15f03a18eacb206e78aeaa3cfacb2d4.jpg)
+![IMG_20180212_124615.jpg](../00 EVERNOTE_EM_USO/a15f03a18eacb206e78aeaa3cfacb2d4.jpg)
 [[HORTA GIGANTE COMPLEMENTA REFEICAO DE 800 FAMILIAS EM FAVELA DO RIO NA PANDEMIA]]

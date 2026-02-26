@@ -49,12 +49,12 @@ Para juntada na documentação do alvará VSas podem tentar anexar os protocolos
 ** **
 Atenciosamente****
 ** **
-![ASS-Martha](../_resources/a39280801006c6562073c3cc4d6a7a36.jpg)****
+![ASS-Martha](../00 EVERNOTE_EM_USO/a39280801006c6562073c3cc4d6a7a36.jpg)****
 ** **
 
 |     |     |
 | --- | --- |
-| [![](../_resources/008b98484b9d3651de63a4bbd80b88bf.gif)](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail) | Livre de vírus. [www.avast.com](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail). |
+| [![](../00 EVERNOTE_EM_USO/008b98484b9d3651de63a4bbd80b88bf.gif)](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail) | Livre de vírus. [www.avast.com](https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail). |
 
 [(L)](#m_7094250053365356307_DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2)
 

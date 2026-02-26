@@ -1,1 +1,1 @@
-![IMG-20210212-WA0024.jpg](../_resources/6b1de1af897ed8fa5e7781c9a26263db.jpg)
+![IMG-20210212-WA0024.jpg](../00 EVERNOTE_EM_USO/6b1de1af897ed8fa5e7781c9a26263db.jpg)

@@ -87,7 +87,7 @@ Aqueça bem o Ghee ou manteiga comum em uma panela e jogue as semente dentro. Q
 
 Grelhe as especiarias inteiras até que elas comecem a estalar. Deixe esfriar e acrescente as especiarias em pó, o sal e o corante e processe-as até reduzí-lás a um pó fino.
 
-![masalas e especiarias indianas - aprenda a fazer uma](../_resources/b51a98c5ddecf1baa8ad2ddcd7e2189d.png)
+![masalas e especiarias indianas - aprenda a fazer uma](../00 EVERNOTE_EM_USO/b51a98c5ddecf1baa8ad2ddcd7e2189d.png)
 
 Olá,
 
@@ -153,9 +153,9 @@ PÓ DE CARIL DO CEILÃO
 
 Numa panela de fundo grosso, torre  o coentro, cominho, funcho e o feno grego   por  10 minutos aproximadamente, ou até que elas adquiram um tom castanho. Coloque-as no processador, juntamente com as malaguetas, cravos da índia, cardamomo, canela em pedaços, e as folhas de curry secas.  Reduza-as a um pó seco e guarde em um recipiente tampado.
 
-![9a9e50_29cc29cc0068448681fd2c2b9414b38e.jpg](../_resources/483b33e8873d4c04e8907a6498840f52.jpg)
+![9a9e50_29cc29cc0068448681fd2c2b9414b38e.jpg](../00 EVERNOTE_EM_USO/483b33e8873d4c04e8907a6498840f52.jpg)
 
-![9a9e50_8d43db5138e540e98ff6fbd5f2aafd96.jpg](../_resources/5e07720e1ecce874db30bf369b493032.jpg)
+![9a9e50_8d43db5138e540e98ff6fbd5f2aafd96.jpg](../00 EVERNOTE_EM_USO/5e07720e1ecce874db30bf369b493032.jpg)
 
 Olá
 
@@ -209,7 +209,7 @@ Boa noite pessoal,
 
 Como prometi hoje pela manhã, segue a receita da Masala para que voces possam fazer o sensacional Tandoori Chicken. Acabei de fazer a masala para voces e o cheiro está sensacional, aguçando meus sentidos, mas ainda é só o pó, amanhã com certeza envolverei o frango nessa mistura deliciosa e colorida, se animam...???
 
-![9a9e50_bbd2a9af2af344048c383ef19143f3a9.jpg](../_resources/8950a6a4876160b246f09469223258cb.jpg)
+![9a9e50_bbd2a9af2af344048c383ef19143f3a9.jpg](../00 EVERNOTE_EM_USO/8950a6a4876160b246f09469223258cb.jpg)
 
 Pessoal, lembro a voces que temos outra receita de Tandoori Masala já posta-
 da, e que podem  optar ou por essa  ou  pela outra. Dêem uma olhada e vejam
@@ -235,7 +235,7 @@ Torre os oito primeiros ingredientes um a um em uma panela de fundo grosso de 30
 
 Após frio coloque no processador juntamente com o restante dos ingredientes e processe até reduzí-los a um pó fino. Guarde em vidro fechado ao abrigo da luz.
 
-![9a9e50_d61264e793ef41c7bf75875262efcb9e.jpg.png](../_resources/861c0ee182d7bc372baf8b0e4c69dc03.png)
+![9a9e50_d61264e793ef41c7bf75875262efcb9e.jpg.png](../00 EVERNOTE_EM_USO/861c0ee182d7bc372baf8b0e4c69dc03.png)
 
 ###### Publlicado em18/09/2015
 
@@ -250,7 +250,7 @@ Após frio coloque no processador juntamente com o restante dos ingredientes e p
 
 #
 
-![9a9e50_21260d7732f644ccaa3cb8ed1ab18cc9.png](../_resources/cd4f534826501c071d9df9d5226b0f92.png)
+![9a9e50_21260d7732f644ccaa3cb8ed1ab18cc9.png](../00 EVERNOTE_EM_USO/cd4f534826501c071d9df9d5226b0f92.png)
 
 ##
 

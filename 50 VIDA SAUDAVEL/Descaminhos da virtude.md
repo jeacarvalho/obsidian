@@ -29,7 +29,7 @@ A Lava Jato infligiu graves danos aos funcionários das construtoras e colocou e
 [Compartilhar](https://www.cartacapital.com.br/revista/1010/descaminhos-da-virtude/whatsapp://send?text=Descaminhos%20da%20virtude%20-%20https%3A//www.cartacapital.com.br/revista/1010/descaminhos-da-virtude)
 
 Rovena Rosa/Agência Brasil
-![e23ddf8fb27fe52a2acd9a8db0d1fffc.jpg](../_resources/5d914d0d6413d1ed16a9cdf6c9751228.jpg)
+![e23ddf8fb27fe52a2acd9a8db0d1fffc.jpg](../00 EVERNOTE_EM_USO/5d914d0d6413d1ed16a9cdf6c9751228.jpg)
 
 As empresas alcançadas pela Lava Jato compunham uma indústria que representava a espinha dorsal da economia brasileira
 

@@ -1,6 +1,6 @@
 Rust vs Go in Backend Web Development - Qvault
 
-.![f98a847cc2002dddffd38aebdcdc9f4d.jpg](../_resources/44fd3bdcaf63f90a8d706e1422340055.jpg).
+.![f98a847cc2002dddffd38aebdcdc9f4d.jpg](../00 EVERNOTE_EM_USO/44fd3bdcaf63f90a8d706e1422340055.jpg).
 
 # Rust vs Go in Backend Web Development
 
@@ -22,7 +22,7 @@ Performance metrics generally put Rust squarely ahead of Go, but not by a lot. T
 
 ## Memory Management
 
-![1165ea7deed9fc2a2faca45741db7fcf.jpg](../_resources/ef91bc71f666da6e4c9d1addd35f5ad5.jpg)
+![1165ea7deed9fc2a2faca45741db7fcf.jpg](../00 EVERNOTE_EM_USO/ef91bc71f666da6e4c9d1addd35f5ad5.jpg)
 
 Both languages claim the title of “memory-safe” but take different approaches to achieve it. Rust catches memory errors at compile-time while Go uses a garbage collector at runtime.
 

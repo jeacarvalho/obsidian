@@ -1,0 +1,5 @@
+ - A felicidade envolve uma vitória do eu, uma expansão de si mesmo. Ela vem quando nos movemos em direção a nossos objetivos, quando as coisas saem como o esperado. Quando somos pro-movidos. Quando nos formamos na faculdade. Quando nosso time vence a Copa do Mundo. Quando comemos algo delicioso. A felicidade tem a ver com o sucesso, com uma habilidade nova ou algum prazer sensual intensificado [[brooks2019 - A segunda montanha]] p. XXIX
+ - A alegria tende a envolver certa transcendência do eu.
+ -  A alegria ge-ralmente envolve o autoesquecimento
+ -  Ficamos satisfeitos com a felicidade, mas somos transformados pela ale-gria
+ -  [[Fluxo]] é um nível de alegria p. XXX

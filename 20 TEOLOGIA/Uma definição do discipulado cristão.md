@@ -1,0 +1,1 @@
+[[Proeschold-Bell2018]] p. 29 diz que o discipulado é uma questão de entregar a Outro o controle, porque entendemos que Ele pode fazer melhor do que nós.É [[abrir mão do controle]]

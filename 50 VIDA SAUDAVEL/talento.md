@@ -1,0 +1,1 @@
+- O potencial que se realizou

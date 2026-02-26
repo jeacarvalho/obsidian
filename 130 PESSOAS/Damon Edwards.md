@@ -1,0 +1,2 @@
+- Um dos líderes do movimento Devops
+- Co founder da Rundeck: https://www.rundeck.com/team

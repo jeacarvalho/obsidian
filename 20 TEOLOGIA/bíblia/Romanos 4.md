@@ -1,0 +1,3 @@
+Esta bem-aventurança vem apenas sobre os circuncisos ou será que ela vem também sobre os incircuncisos? Porque dizemos: “A fé foi atribuída a Abraão para justiça.”  Como, pois, lhe foi atribuída? Estando ele já circuncidado ou sendo ainda incircunciso? Não foi no regime da circuncisão, mas quando ele ainda não havia sido circuncidado. E Abraão recebeu o sinal da circuncisão como selo da justiça da fé que teve quando ainda não havia sido circuncidado. E isto para que ele viesse a ser o pai de todos os que creem, embora não circuncidados, a fim de que a justiça fosse atribuída também a eles. Romanos 4:9‭-‬11 NAA
+- A fé que imputou justiça foi anterior a circuncisão.
+- Antes de dar sinais externos já operava no coração

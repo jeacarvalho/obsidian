@@ -1,0 +1,1 @@
+[Elegeram Bozo](https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2020/04/03/55percent-de-publicacoes-a-favor-de-bolsonaro-no-twitter-sao-feitas-por-robos.ghtml)

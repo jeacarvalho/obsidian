@@ -1,0 +1,2 @@
+>trabalho é a fonte de riqueza, ou seja, se o trabalho cria riqueza, consequentemente, cria capital. Conclusão: Quando medimos a riqueza, estamos medindo, na realidade, a quantidade de trabalho que foi necessária para criá-la (Aula)
+fonte: [[Economia Política#Aula 1 - A Economia Política Escola Fisiocrata e Escola Clássica]]

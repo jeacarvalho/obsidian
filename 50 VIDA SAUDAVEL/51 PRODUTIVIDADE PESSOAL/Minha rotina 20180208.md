@@ -1,0 +1,98 @@
+#ler
+
+Minha rotina 20180208
+
+- Dia de semana
+    - acordo em torno de 6h.
+    - roupa, banheiro, remédio e saio
+    - chego no [[serpro]] em torno de 07:00, 07:10h
+    - Faço café com leite, pego sanduiche que trouxe e vou ler a bíblia (discipulado), meditar e orar
+    - 08:00 estou na minha mesa
+    - Leio os email e respondo o que for possível
+    - Leio feeds que acompanho
+    - Leio o Globo
+    - Leio Uol
+    - 08:30 já posso trabalhar nas tarefas do dia.... ***mas não planejo meu dia e não tenho tarefas***, a não ser que existe alguma demanda acontecendo que me envolva.
+    - Como gerencio, ao receber demanda distribuo. Meu trabalho é acompanhar e orientar. Mas ***oriento muito pouco***.
+    - Também ***não estou acompanhando bem***. Não tenho visibilidade do andamento do que o time está fazendo. Em alguns casos, quando o colaborador é alocado em um projeto/sistema, nem sei o que ele está fazendo.
+    - Assim, passo a manhã com browser aberto, caixa de email e lendo ou livros, ou notícias
+    - Respondo aos email que chegam e que posso responder.
+    - 11:50h desço para o almoço
+    - Como até umas 12:25h, vou a um café e leio até 12:50h
+    - 13:00, 13:10h estou de volta.
+    - Mesma rotina da manhã.
+    - 17:30, 18:00h saio.
+    - 19, 19:30 estou no meu bairro. Quando há discipulado, vou para a casa hospedeira e fico lá até umas 22:00h. Dia de reunião de oração saio da igreja às 21:10h
+    - Dia de RO - 21:20 em casa. Banho, comida e cama para [[Leitura]]. Durmo em torno de 23:00h, muito tarde
+    - Dia de discipulado - 22:20 estou em casa. Banho, lanche e cama para [[Leitura]]. Durmo em torno de 23:20h, muito tarde
+- fim de semana
+    - Sábado
+        - Durmo até mais tarde
+        - Fico o dia inteiro ou lendo ou vendo filme.
+        - às vezes saímos para almoçar fora
+    - Domingo
+        - Acordo cedo, 08h +/-
+        - 08:30 estou preparando a mensagem da noite
+        - 12:00, 12:30 finalizo
+        - 12:30, 13:00 almoço
+        - até umas 15:30 soneca
+        - 15:30 revisão da mensagem e escolha de louvores
+        - 17:00 saio para a igreja
+        - Na igreja até 21, 21:30h
+        - Lanche e cama, com algum filme para ver. Durmo em torno de 22:30, 23:00h
+
+Onde vejo que preciso mudar?
+
+- Trabalho
+    - Tenho que ter um planejamento semanal. O que devo fazer amanhã? Não sei responder
+    - A partir desse planejamento semanal, planejar o dia seguinte antes de dormir
+    - A partir do planejamento diário, executar as tarefas durante o dia
+- Vida com Deus
+    - Preciso orar. Não digo nem "orar mais" porque na verdade acho que não estou orando. Preciso orar. Sentar, parar, e orar. Sozinho. E com Ana. E com Carol.
+- Atividade física
+    - Na hora do almoço, jiu jitsu firme 3 vezes na semana.
+    - Nos outros dias tenho que fazer pelo menos 30 minutos de elíptico e algum halteres/kettlebell. Em qual horário?
+- Lazer
+    - Sábado preciso ter um tempo na praia. Desopilando um pouco da semana
+- Igreja
+    - Não sei o que fazer. Preciso de maior preparação de sermões mas não encontro tempo. Ainda creio que preciso de um dia sem fazer nada, descansando, e tenho usado o sábado para isso. Mas preciso usar melhor o sábado ou algum horário durante a semana
+- Família
+    - Ana: Tento fazer da sexta o dia do casal mas não estou conseguindo. Acho até que Ana curte ficar em casa, comer algo gostoso junto com a família. Mas creio que essa falta de tempo para o casal está fazendo falta.
+    - Carol: Preciso acompanhar e ajudar minha filha no desenvolvimento de sua vida. Carol está muito solta no meu ponto de vista. Dia inteiro no youtube depois da escola e do dever de casa. Está insegura, não dorme sozinha. Está mais pesada do que deveria. E está respondendo muito. Assim, preciso ser mais presente como pai na vida dela.
+    - Bubu e Juju: Bubu ainda temos mais junto, mas mesmo assim, não sou presente de forma alguma. Não a ouço (ela também não fala). Não sei dos seus problemas e não sei como ajudar. Juju não mora de verdade mais lá em casa. Sei muito pouco de sua vida.
+    - Meus pais: Estão abandonados à própria sorte. Não sei como ser mais presente. Não estou ausente quando me chamam. Mas eu não inicio o movimento
+    - Babá: Tentamos, eu e Ana, chamar Baba em nossa casa nas sextas. Mas não acontece sempre. E tira a sexta do casal. Não sei como melhorar. Não encontro tempo.
+    - Irmãs: Só whatsapp. Não consigo mais nada
+- Santidade e vida
+    - Não tenho amigos com os quais [[compartilhar]] com constância, para quem confessar pecados.
+    - Marcelo poderia estar mais próximo, mas é uma pessoa difícil, com muitas questões com a igreja/liderança e com a família
+    - Roberto poderia estar mais perto, mas tem todas as demandas de um ministério pastoral em uma igreja grande e em crescimento, bem como no envolvimento em outros ministérios.
+    - Simas me parece sempre "querer que eu vá lá", mas nunca se colocando pra vir aqui. Ou seja, muito indisponível
+    - Vandi: Depois da "formação de pastor" retornou às suas demandas. Mas eu também não procuro. Se bem que o último movimento foi meu ("vamos marcar"..."Sim, vamos".. mas não retornou - FIZ a mesma coisa em 2021 e estou devendo resposta). Tem uma vida muito cheia: Trabalho, igreja, família enorme e em várias fases...
+    - Claudinho está indo para Austrália. Foi o que chegou mais perto de ser um confidente e conselheiro. Mas mesmo quando esteve aqui nos encontramos muito pouco.
+    - (Por que será que nos envolvemos tanto com "atividades" e tão pouco com as pessoas. Elas não deveriam ser a maior de "nossas atividades"?)
+- Ministério pastoral
+    - Não estou conseguindo planejar. Mesma coisa de minha vida no trabalho.
+    - Assim, temos que resolver um monte de coisa e não consigo:
+        - renovação do conselho e da diaconia,
+        - eleição para conselho e diaconia,
+        - administração do dia a dia: Iolanda, Seu Pedro, Carlos Eduardo, Luíza)
+        - projeto social:
+            - relatórios financeiros,
+            - relatórios pedagógicos,
+            - tratar Carlos Eduardo,
+            - problema de recursos financeiros,
+            - acompanhamento das crianças e suas famílias
+        - Discipulado:
+            - Reunir o time.
+            - Reforçar a visão.
+            - Estimular.
+            - Acompanhar andamento.
+            - Envolver toda a igreja
+        - Louvor
+            - Nunca nos reunimos.
+            - Preciso estar junto, pastorear o time
+            - preciso que os envolvidos no louvor se responsabilizem pela montagem. Escala Dalmo e Henrique
+        - Aconselhamento na igreja
+            - Tenho que abrir horários mas que sejam no tempo que já estou lá. Ou seja, segunda antes da RO e domingo antes do culto.
+            - Para isso, preciso que os envolvidos no louvor se responsabilizem pela montagem. Escala Dalmo e Henrique

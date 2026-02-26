@@ -1,0 +1,6 @@
+> Wassily Wassilyovitch Leontief (Munique,[1] 5 de agosto de 1905 — Nova Iorque, 5 de fevereiro de 1999) foi um economista russo, naturalizado estadunidense.
+> Foi notável por pesquisas sobre como as mudanças em um único setor da [[economia]] afetam os demais.
+> De origem russa, em 1931 emigrou para os Estados Unidos, onde se naturalizou. 
+> Recebeu o Prémio de Ciências Económicas em Memória de Alfred **Nobel de 1973, pelo desenvolvimento da matriz de insumo-produto (input-output), conhecida como a "matriz de Leontief"**, e a sua aplicação à economia. O modelo input-output foi apresentado pela primeira vez no seu livro The Structure of the American Economy, publicado em 1941. O modelo tornou-se um instrumento essencial para o planejamento, tanto nos países de economia centralmente planejada quanto àqueles que adotam a economia de mercado.
+> Do ponto de vista das correntes de pensamento económico, Leontief foi um destacado keynesiano, com grande influência sobre os neo-keynesianos e os neo-ricardianos.
+fonte: https://pt.wikipedia.org/wiki/Wassily_Leontief

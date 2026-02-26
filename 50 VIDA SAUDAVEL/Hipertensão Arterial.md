@@ -1,0 +1,1 @@
+[pesquisas](https://www.bbc.com/portuguese/geral-50150715) parecem mostrar que tomar o remédio á noite protege mais

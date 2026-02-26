@@ -1,0 +1,3 @@
+#### Confissão era pré requisito para o batismo
+> [[Marcos 1]]: 5b Quando confessavam seus pecados, ele os batizava no rio Jordão. 6João vestia roupas tecidas com pelos de camelo, usava um cinto de couro e alimentava-se de gafanhotos e mel silvestre. 
+- E veja que o [[batismo]] estava relacionado com confissão de pecado. É de se imaginar que esse padrão se manteve quando os próprios discípulos começaram a batizar. E, muito provavelmente, com a igreja. Na católica, até hoje, a 1a comunhão só ocorre após um período de confissão com o padre. Acho que perdemos isso na ig. evangélica. Com o desejo de romper com tudo o que era católico, perdemos o que era bom. E como não haveria algo de bom em uma igreja que vinha desse tempo?

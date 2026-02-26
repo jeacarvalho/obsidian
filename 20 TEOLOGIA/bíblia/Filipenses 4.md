@@ -1,0 +1,2 @@
+Filipenses 4:9 (New American Commentary - New Testament Set)  
+Thus the two sets of instructions on peace complement each other. ***When anxiety appears, the cure is [[Oração]]. When the life is disorderly, the cure is mental and practical [[disciplina]].***

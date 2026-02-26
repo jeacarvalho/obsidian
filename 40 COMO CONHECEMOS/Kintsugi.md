@@ -1,0 +1,1 @@
+ a arte de reparar cerâmicas quebradas com ouro — pode ser vista como uma metáfora poderosa para a narrativa, onde as falhas e imperfeições se tornam parte da beleza da história. Essa abordagem cultural poderia ser incorporada à prática de contar histórias, incentivando narradores a valorizar as experiências autênticas e imperfeitas

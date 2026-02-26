@@ -1,0 +1,6 @@
+- Localização: 378 - O texto de não ficção educa, persuade e entretém os leitores. Isso significa que [[toda escrita de texto não ficcionais começa com problemas]]
+- Localização 384 - Sobre [[a importância de escrever para pensar]]: há insigths que só ocorrem quando pensamos e aprendemos enquanto escrevemos
+- Localização 404 - Só conseguimos ver o que realmente estamos pensando quando escrevemos e nos mantemos nesse processo de escrever. Isso vai nos capacitar a escrever mais e, também, fazer conexões que não conseguiríamos se não estivéssemos escrevendo. [[O pensamento aprender e fica mais claro enquanto escrevemos]]
+- Localização 430/ p29 - a autora propõe um processo cíclico. Escrever direto, sem corrigir nada por 15 minutos. Então parar e rever para ver o quão claro isso foi, corrigindo e explicando melhor. Esse processo permite avaliar a clareza das ideias, que é o maior objetivo da escrita.
+- Localização 428/ p. 30 - Exemplos, estórias e [[anedota]] podem ajudar a aumentar a clareza do que vc quis dizer. Leitores vão te agradecer por isso.
+- p. 32 - A autora propõe que, no processo cíclico, um parágrafo que não ficou claro seja deletado e reescrito, a partir da idea que foi entendida ao rever o texto. Corrigir daria mais trabalho e diminuiria a fluidez da escrita

@@ -1,0 +1,16 @@
+[[Contabilidade]]
+- Marketing (AIDA) - Um funil
+	- Atrair Atenção 
+	- Despertar Interesse
+	- Despertar Desejo
+	- Levar a Ação
+- Marketing pessoal - seja **influencer**
+	- Instagram é a rede
+	- Um perfil profissional separado do pessoal
+	- Paleta de cores como identidade
+	- Seja regular na publicação
+		- TACOE - Técnico, Autoridade, Conexão, Objeção, Engajamento - TIpos de conteúdos
+	- LIves semanais com temas relevantes
+		- Pessoais e com colaboradores
+	- OFFLINE - Eventos, escrever livros, participar da entidade de classe, dar aula
+- 

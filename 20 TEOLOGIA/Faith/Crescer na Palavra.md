@@ -1,0 +1,3 @@
+Crescer na Palavra
+
+>Temos muito o que dizer a respeito desse assunto; mas, porque vocês custam a entender as coisas, é difícil explicá-las. Depois de tanto tempo, vocês já deviam ser mestres, mas ainda precisam de alguém que lhes ensine as primeiras lições dos ensinamentos de Deus. Em vez de alimento sólido, vocês ainda precisam de leite. E quem precisa de leite ainda é criança e não tem nenhuma [[experiência]] para saber o que está certo ou errado. Porém a comida dos adultos é sólida, pois eles pela prática sabem a diferença entre o que é bom e o que é mau. ([[Hebreus]] 5:11-14 NTLH)

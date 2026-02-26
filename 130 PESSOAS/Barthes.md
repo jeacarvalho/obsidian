@@ -1,0 +1,3 @@
+> Roland Barthes (Cherbourg, 12 de novembro de 1915 — Paris, 26 de março de 1980) foi um escritor, sociólogo, crítico literário, semiólogo e filósofo francês. [1]
+> Formado em Letras Clássicas em 1939 e Gramática e [[filosofia]] em 1943 na Universidade de Paris, fez parte da escola estruturalista, influenciado pelo lingüista Ferdinand de Saussure. Crítico dos conceitos teóricos complexos que circularam dentro dos centros educativos franceses nos anos 50. Entre 1952 e 1959 trabalhou no Centre national de la recherche scientifique - CNRS. [1]
+fonte: https://pt.wikipedia.org/wiki/Roland_Barthes

@@ -1,0 +1,4 @@
+2048 venci
+
+![screenshot_20200901-195543.png](12b29fc61655d1579baac1e7f626e464.png)
+![screenshot_20200901-204821.png](07dbbd510e6d90d5eef58528c78905ca.png)

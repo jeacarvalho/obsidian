@@ -1,0 +1,1 @@
+2-3  Busquem o Eterno, todos vocês, que promovem a paz com disciplina,que vivem segundo a justiça do Eterno.Busquem as estradas retas do Eterno. Busquem uma vida pacífica e disciplinada.Talvez assim sejam poupados no dia da ira do Eterno. (Biblia A Mensagem) Sofonias 2:2

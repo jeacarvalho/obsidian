@@ -1,0 +1,1 @@
+- ![[ComoHumanosSeEspalharamPeloMundo_ArmasGermesAco_p39.png]]

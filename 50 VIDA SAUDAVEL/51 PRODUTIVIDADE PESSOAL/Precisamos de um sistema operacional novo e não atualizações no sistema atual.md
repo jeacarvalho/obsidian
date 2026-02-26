@@ -1,0 +1,6 @@
+#### Precisamos de um sistema operacional novo e não atualizações no sistema atual
+Location: 170
+
+If the assumptions baked into our OS are invalid, then no amount of commitment or resolve is going to make things better. We are addicted to the idea that the world can be predicted and controlled—that our stoplights are the only way to keep things in check. But when you view the world that way, today’s uncertainty and volatility become triggers for retreating to what has worked in the past. We just need to hire more capable leaders. We just need to squeeze out a little more efficiency and growth. We just need to reorganize. . . . But we know better. The real barrier to progress in the twenty-first century is us.
+
+- Precisamos de um sistema operacional novo e não atualizações no sistema atual. Atualizações essas que tentamos com a contratação de gente "melhor", com mais esforço para sermos eficientes e crescermos, com reorganização. Quantas mudanças de layout já fizemos aqui no DERJO? O difícil é encarar a verdade: ***The real barrier to progress in the twenty-first century is us***.

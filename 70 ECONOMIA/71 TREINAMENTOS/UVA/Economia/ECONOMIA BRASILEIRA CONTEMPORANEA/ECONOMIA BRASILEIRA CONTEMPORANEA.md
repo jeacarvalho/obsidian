@@ -1,0 +1,57 @@
+- ![[D ESENVOLVIMENTO, CRESCIMENTO E SALÁRIO LUIZ CARLOS BRESSER-PEREIRA 1.pdf]]
+- ![[Estratégia de desenvolvimento e as três frentes de expansão no Brasil -  um desenho conceitual - Ricardo Bielschowsky.pdf]]
+- https://www.youtube.com/watch?v=83vOal_hRAk&list=PLJJrzEKslHUztRE65Mg0TihJMgGadRgry
+- [[O crescimento econômico estagnou. Vamos resolver isso]]
+- https://www.youtube.com/watch?v=CvVtzDFoQmU
+- ![[Economia Brasileira 178-183.pdf]]
+- ![[me000834.mp4]]
+- ![[Desenvolvimento capitalista no Brasil e estrutura agrária.pdf]]
+- ![[Economia Brasileira 196-198.pdf]]
+- A Evolução da Atividade Industrial no Brasil: de Vargas a Geisel - Extensivo Geografia | Descomplica [](https://www.youtube.com/@descomplica)
+- ![[o_processo_de_substituicao_de_importacoes.pdf]]
+- https://www.youtube.com/watch?v=m1hCgnHJ2Fo&t=445s (História do Brasil por Boris Fausto - A era Vargas)
+- Videoaulas Poliedro | Enem | 50 anos em 5: O governo de JK [](https://www.youtube.com/@poliedroeducacao)
+- ![[Desenvolvimento econômico x desigualdade social.mp3]]
+- Pensando com Celso Furtado [](https://www.youtube.com/@realidadebrasileira6931)
+- ![[O PAEG e a economia planejada.pdf]]
+- ![[O PAEG e o Plano Trienal -  Uma Análise Comparativa de suas Políticas de Estabilização de Curto Prazo.pdf]]
+- ![[O Programa Estratégico de Desenvolvimento _ 1968-1970.pdf]]
+- ![[A economia brasileira na década de 1960.jpg]]
+- ![[O Milagre Econômico Brasileiro _ 1968 – 1973.pdf]]
+- ![[II PND _1975 – 1979.pdf]]
+- ![[Linha do tempo dos planos de desenvolvimento.pdf]]
+- ![[O choque heterodoxo do Plano Cruzado.pdf]]
+- Ep. 06 da série 'ECONOMIA BRASILEIRA' : 1986 – 1987 – Plano Cruzado e reformas - https://www.youtube.com/watch?v=EtswYSJe4_8
+- ![[O gatilho salarial e o congelamento de preços - propostas do Plano Bresser.pdf]]
+- ![[O impacto do Plano Verão na economia brasileira - 1989.pdf]]
+- [O Plano Cruzado e o desabastecimento do mercado](https://www.youtube.com/watch?v=Pl6qnt5eI8I)
+- ![[Ortodoxa x Heterodoxa - qual a melhor estabilização.pdf]]
+- ![[Abertura e integração comercial brasileira na década de 1990.pdf]]
+- ![[O reformismo econômico liberal.pdf]]
+- [O confisco de ativos do Plano Collor](https://www.youtube.com/watch?v=XF3YRXAQ-0o)
+- ![[As privatizações como mecanismo de diminuição do deficit público.pdf]]
+- [Plano Real: conjuntura econômica e características principais](https://www.youtube.com/watch?v=jIRzw5ChqJ0)
+- ![[As três fases do Plano Real.pdf]]
+- ![[Plano Real e o processo de reconstrução da estrutura de poder.pdf]]
+- [A hiperinflação em 1994 e o Plano Real](https://www.youtube.com/watch?v=fkTE3Lu-8tY)
+- ![[O Brasil e seus planos econômicos - propostas de estabilização.pdf]]
+- ![[Mudanças na estrutura do comércio exterior brasileiro.pdf]]
+- [Coeficientes de Abertura Comercial](https://www.youtube.com/watch?v=L-P-vstwRUE)
+- ![[Inserção comercial no mercado internacional de FHC a Dilma.pdf]]
+- ![[A abertura comercial de um país protecionista.mp3]]
+- ![[Política externa - o viés do Balanço de Pagamentos.pdf]]
+- [Intervencionista ou liberal: qual o papel do Estado?](https://www.youtube.com/watch?v=TXqSFru7Xf4)
+- ![[O controverso papel do Estado no mercado.pdf]]
+- ![[Capacidades Estatais para o Desenvolvimento no Século XXI.pdf]]
+- ![[O Consenso de Washington e o Welfare State.pdf]]
+- [Privatizações e Regulação](https://www.youtube.com/watch?v=jG9kyOBr3go)
+- [A realidade da pobreza no Brasil](https://www.youtube.com/watch?v=8gjHwpeiEPc)
+- ![[Do Fome Zero ao Bolsa Família - os programas de erradicação da pobreza.pdf]]
+- ![[A contribuição do salário mínimo na distribuição de renda do país nos anos 2000.pdf]]
+- [Objetivos do desenvolvimento sustentável](https://www.youtube.com/watch?v=pZ2RsinirlA)
+
+## AVA2
+- ![[Pasted image 20250616161806.png]]
+
+## A2
+- ![[Pasted image 20250705125001.png]]

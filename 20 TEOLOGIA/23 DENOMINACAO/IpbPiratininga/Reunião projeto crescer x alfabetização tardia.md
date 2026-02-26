@@ -1,0 +1,22 @@
+### Reunião
+- Leda e Livia são as idealizadoras
+	- Método fonético silábico
+	- Site da agência nacional de alfabetização, pegam os critérios desse site para avaliar as crianças
+	- Retorno todo mês para todos os doadores
+	- Doações na conta pessoal da Lívia
+	- site do projeto: www.institutoimpulso.org
+- Thaís Damasceno, da Oceânica
+- 1o turmas no Rio
+- "Trinta trinta"
+	- Um real por dia. Apadrinha uma criança
+- Turmas de pelo menos 20 crianças
+	- 20 - 30
+	- 600 reais. Contrata via RPA. **Quem contrata?**
+	- Professora da própria comunidade
+- Não tem lanche, nem nada. Dinheiro é para material e professora
+- **Quem procura e avalia** as candidatas a professores?
+	- Tem que ter formação em licenciatura ou normal
+- Qual a idade alvo?
+	- 9 - 12 anos
+- Qual seria o horário? Contraturno, como o projeto crescer
+	- Qual a carga horária semanal? 4 1/2, 6 ou 9 h, de acordo com disponibilidade da professora

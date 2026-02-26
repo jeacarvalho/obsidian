@@ -1,0 +1,4 @@
+- https://pt.wikipedia.org/wiki/David_Ricardo
+- David Ricardo (Londres, 18 de Abril de 1772 – Gatcombe Park, 11 de setembro de 1823) foi um economista e político britânico — um dos mais influentes economistas clássicos, ao lado de Thomas Malthus, [[Adam Smith]] e James Mill. Ricardo e a sua família têm origens sefarditas que remontam à Holanda e Portugal.
+- Ao morrer, em 1823, a fortuna de Ricardo era estipulada entre £675.000 e £775.000,[5] algo em torno de 80 a 92 milhões de libras esterlinas[6] (aproximadamente entre 438 e 504 milhões de reais)[7] em valores de 2019. 
+	- Quanto trabalho tinha aqui? Somente dele? O que [[Adam Smith]] e sua [[Teoria do valor do trabalho]] diriam?

@@ -1,0 +1,1 @@
+The truth is, you can’t improve what you won’t face and own. The problems you encounter in your health, marriage, parenting, career, or personal finances will not just magically disappear. They have to be confronted and dealt with.

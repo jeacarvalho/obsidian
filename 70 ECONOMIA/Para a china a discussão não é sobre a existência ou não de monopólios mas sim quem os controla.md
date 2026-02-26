@@ -1,0 +1,7 @@
+#### Para a china a discussão não é sobre a existência ou não de monopólios mas sim quem os controla
+Amarelo destaque | Local: 1,346 Nota | Local: 1,346
+
+Colocar o vinho – e, sobretudo, a produção do sal e do ferro – sob monopólio estatal fazia parte da política mais ampla de Sang. Em uma elaboração precoce da teoria do monopólio natural, e prefigurando Galbraith (ver capítulo 2), Sang argumentou que “os recursos naturais em geral se encontram em lugares afastados. Se fossem autorizados a particulares, provavelmente seriam controlados por magnatas e as pessoas seriam excluídas de suas fontes e de seus benefícios econômicos”153. Em outras palavras, por sua natureza, os recursos naturais, uma vez descobertos, devem ser controlados por um monopólio. A questão é saber se o monopólio deve ser privado ou público, não se a extração de recursos geograficamente concentrados deve ser colocada sob o poder do monopólio. Assim, Sang pedia para se “proibir a utilização das montanhas e dos recursos hídricos por particulares”, pois isso permitiria ao Estado “recuperar o equilíbrio entre aqueles que têm mais que o suficiente e aqueles que estão em estado de necessidade \[e\] dar alívio aos necessitados”
+
+>[!note]
+> Isso aqui parece muito à frente do seu tempo. Não era discussão se deveria haver monopólio sobre os recursos naturais, mas quem deveria controlá-lo. Magnatas ou o Estado? Parece ser esse um dos pontos essenciais para se entender a forma chinesa de ver as coisas, economicamente falando.

@@ -1,0 +1,5 @@
+Reincidência no [[pecado]]
+
+Como é que as pessoas que abandonaram a fé podem se arrepender de novo? Elas já estavam na luz de Deus. Já haviam experimentado o *dom do céu e recebido a sua parte do [[Espírito Santo]]. Já haviam conhecido por [[experiência]] que a palavra de Deus é boa e tinham experimentado os poderes do mundo que há de vir. Mas depois abandonaram a fé. É impossível levar essas pessoas a se arrependerem de novo, pois estão crucificando outra vez o Filho de Deus e zombando publicamente dele. ([[Hebreus 6]]:4-6 NTLH)
+
+Portanto, aqueles que chegaram a conhecer o nosso Senhor e Salvador [[Jesus]] Cristo e que escaparam das imoralidades do mundo, mas depois foram agarrados e dominados por elas, ficam no fim em pior situação do que no começo. Pois teria sido muito melhor que eles nunca tivessem conhecido o caminho certo do que, depois de o conhecerem, voltarem atrás e se afastarem do mandamento sagrado que receberam. ([[II Pedro 2 ]]2:20, 21 NTLH)

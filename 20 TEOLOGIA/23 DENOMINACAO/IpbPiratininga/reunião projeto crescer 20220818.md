@@ -1,0 +1,12 @@
+- Dia dos pais, como foi?
+	- Elza achou muito bom, um sucesso
+	- Teve pai que nunca tinha ido
+	- Elza acho que devemos aproveitar melhor as oportunidades com essas, de evangelismo
+	- Luiza, como eu, pensa que isso depende do que o Espírito orienta a quem está palestrando.
+	- Luciana, o clima foi bom, ambiente muito agradável. As pessoas que vivem na exceção não entende que foram acolhidas, mas não prejudicou o evento na avaliação. Falou evangeliquês. 
+- Letícia mandou uma programação da Betânia, uma conferência missionária
+	- Domingo às 09h.
+- Doações voluntárias vão entrar no site.
+- 2o bazar - ainda não tem o dia, mas já se decidiu a realizar nesse 2o semestre.
+	- Deixar a Fenase preparada para fazermos lá se não estivermos mais na igreja.
+	- Luiza vai dar um pulo na igreja para separar o que o projeto vai usar de forma a deixarmos o resto para Iolanda e a igreja lá

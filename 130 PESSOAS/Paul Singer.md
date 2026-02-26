@@ -1,0 +1,2 @@
+fonte: https://pt.wikipedia.org/wiki/Paul_Singer
+> Paul Israel Singer (Viena, 24 de março de 1932 – São Paulo, 16 de abril de 2018) foi um economista, professor e escritor brasileiro nascido na Áustria.

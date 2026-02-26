@@ -1,0 +1,3 @@
+- Tenho que desenvolver em mim. Faz parte de uma das minhas menores competências, conforme identificado no curso de [[COMPETÊNCIAS SERPRO E O SEU ESTILO DE LIDERANÇA]]
+- Em [[ferguson-lideranca]] o autor comenta que investiria mais em quem tem determinação do que talento nato.
+- Em [[kotler2015 - Super-humanos - Como os atletas radicais redefinem os limites do possivel]] o autor cita que a [[experiência]] de pico (que ele compara com as experiências místicas de São Tiago) trazem um maior senso de [[significado]] de vida, aumentando o senso de [[propósito]] e de autodeterminação

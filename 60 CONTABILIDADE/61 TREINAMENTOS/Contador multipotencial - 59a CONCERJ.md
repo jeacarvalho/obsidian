@@ -1,0 +1,20 @@
+[[Contabilidade]]
+- não é multitarefa
+- multipotencial = mais de uma carreira, mais de um ramo na carreira
+- multipotencialidade pode gerar ansiedade, dúvidas, crises
+- Aptidão, vocação, talento, propósito
+	- Propósito --> aplicação dos outros itens em favor de outros
+- Perguntas:
+	- Do que não abro mão?
+	- No que eu mando bem?
+	- No que eu mando mal?
+	- O que eu amo fazer?
+	- O que eu gostaria de aprender?
+- Multipotencial tem super poderes
+	- Combina duas áreas de atuação para criar algo novo!
+	- É inovador porque sempre está com ideias diferentes na cabeça
+	- Converge o pensamento com facilidade
+	- Aprendizado rápido
+	- Se adapta muito rápido
+	- QA - Quociente de adaptação é uma das habilidades mais importantes a ser desenvolvida nos tempos atuais
+- 

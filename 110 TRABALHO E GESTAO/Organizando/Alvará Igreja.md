@@ -1,0 +1,6 @@
+- Lembrando aqui das [[Exigências Prefeitura legalização igreja]]
+- Aqui uma foto do [[ProcessoLegalizacaoPrefeitura.jpg]]
+- Enviamos documentação solicitada para a CBERJ
+- Estamos trabalhando em duas frentes para renovação do contrato de aluguel: seguro fiança e depósito caução
+- Solicitei à Martha a proposta de adequação à metragem para legalização do imóvel
+-   Acompanhar resposta da Martha sobre adequação do imóvel - Martha não deu resposta e paramos na questão do forro da sala de reunião porque não vamos gastar dinheiro sabendo que vamos sair

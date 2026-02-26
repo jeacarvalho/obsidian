@@ -1,0 +1,5 @@
+[[Índice fotos notas evernote]]
+
+![img_20170709_223004.jpg](e186c02ceaa000970514a797da6cd125.jpg)
+![img_20170709_223002.jpg](9cbdfe282241b12983f8f877898c4a4a.jpg)
+![IMG_20170709_222939.jpg](30490c8c03156c184bd52d076be7773d.jpg)

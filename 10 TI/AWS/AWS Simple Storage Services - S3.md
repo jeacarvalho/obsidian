@@ -1,0 +1,16 @@
+- Serviço gerenciado de armazenamento em nuvem
+	- Gerenciado - vc não se preocupa em gerenciar os discos envolvidos, nem em qual servidor está. Vai mandando os objetos e a AWS se vira
+- Pode armzenat trilhões de objetos e recebe picos de milhões de solicitações por segundo.
+	- vc armazena objetos. Podem ter dimensões enormar como terabytes e são acessíveis via http/s
+- API simples para armazenamento e recuperação de objetos
+- Ideal (?) para armazenar database snapshots (terabytes, lembra?)
+- COntroles avançados de segurança. Vc pode configurar para ser acessível somente para sua [[AWS Virtual Private Cloud - VPC]]
+- Quando um bucket é criado ele é associado a uma [[AWS Regions]] específica. E cada objeto enviado é armazenado em múltiplos "locais" dessa região. 
+- É possível acessar via [[AWS console]], [[AWS CLI]] ou [[AWS SDK]] ou diretamente via os endpoints
+	- Exemplo de endpoint: "https://nomedobucket/endpointespecificoregiao/chavedoobjeto"
+- é possível copiar arquivos de seu computador via CLI: 
+	- (um a um) aws s3 cp demo.txt s3://enderecobucket/nomearquivo
+	- (diretório) aws s3 sync algumdiretorio  s3://enderecobucket/nomediretorio
+- Ao logar na instância EC2 é possível acessar, mas para visualizar é preciso fazer uma cópia do bucket para o diretório da instância
+- Depois de copiado para o bucket é possível alterar permissões, etc, via console web
+	

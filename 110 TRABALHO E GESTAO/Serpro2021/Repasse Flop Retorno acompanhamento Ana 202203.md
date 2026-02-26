@@ -1,0 +1,26 @@
+- Incra Geonode: Em andamento
+- SCPC - Stamato: DASI. RTA marcado
+	- SVG - produto customizado no grande porte que se integra aos bancos
+	- Precisa criptograr o arquivo, mas não pode ser no mainframe
+	- Não precisaria de RTA mas como integra com Bancos Flop entendeu melhor fazer.
+- Embarque Seguro: Deitos envolveu a gente porque vai para AWS.
+	- Ficamos de suporte por ser aws
+- Loja franca : RTA Jetro
+- INCRA MDM: Serviço de acesso
+	- GRSI realizada
+- INCRA MDM: Uso do oracle relational data services (ORDS)
+	- objetivo: poder ser feito por DBA e não precisar do desenvolvimento
+- Recintos: DASI para novo RTA
+	- Estamos aguardando conclusão do DASI pela equipe
+- Moderniza CNPJ
+	- apenas uma proposta inicial. Mas RFB bastante insatisfeita
+- ArcGIS
+	- Consultoria quer vender licenças ao [[serpro]]
+	- Flop participou de reunião com superintendentes
+- Acesso:
+	- Suporte para time DES e alterações no que já foi feito. João demandou alguns "meios dias".
+	- Planejamento: não temos tarefas (SEAT7) específicas e continuamos como suporte
+- SUPAI serviço elastic: ver andamento no git
+- Para ver: HE problemas MEI
+- OSM
+	- GRSI

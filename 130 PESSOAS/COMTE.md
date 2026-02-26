@@ -1,0 +1,2 @@
+> Isidore Auguste Marie François Xavier Comte (Montpellier, 19 de janeiro de 1798 — Paris, 5 de setembro de 1857) foi um filósofo francês que formulou a doutrina do Positivismo. Ele é considerado como o primeiro filósofo da [[ciência]] no sentido moderno do termo.[5] Comte também é visto como o fundador da disciplina acadêmica de Sociologia.
+fonte: https://pt.wikipedia.org/wiki/Auguste_Comte

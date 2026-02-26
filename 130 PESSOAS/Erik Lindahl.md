@@ -1,0 +1,2 @@
+> Erik Lindahl (Estocolmo, 21 de novembro de 1891 - Upsália, 6 de janeiro de 1960), foi um economista sueco. Ele foi professor de [[economia]] na Universidade de Uppsala 1942-1958 e de 1956-1959 foi o Presidente da Associação Econômica Internacional. Foi conselheiro do governo sueco e do Sveriges Riskbank.
+fonte: https://pt.wikipedia.org/wiki/Erik_Lindahl

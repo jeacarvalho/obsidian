@@ -1,0 +1,17 @@
+[[Economia]]
+- ABEFIN - Associação Brasileira de Educadores Financeiros
+- educação financeira = novos hábitos
+- passado - o que te influenciou a ter esse comportamento com o dinheiro?
+	- Como eram seus pais?
+	- Seus amigos, gente que te influenciou
+	- Como é tua relação com dinheiro?
+- "Dinheiro é escambo"
+- Onde vc gastou seu 1o salário?
+	- E os aumentos que teve, como alocou?
+- Propósito! Objetivo! Sempre. Sobrou? Vai fazer o q? Faltou? Vai mudar oq?
+- Ter propósito no valor que desejo ter de "sobra"
+- Trocar nome: de reserva de emergência para reserva estratégica
+- Inflação
+	- Vai ser superior ao rendimento da renda fixa
+- Liberdade financeira - praticamente todos tem. Vc faz o que quer com o dinheiro.. Mas com qual sustentabilidade? Com qual propósito?
+- 

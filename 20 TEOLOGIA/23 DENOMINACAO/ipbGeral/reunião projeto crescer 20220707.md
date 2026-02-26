@@ -1,0 +1,11 @@
+- Tentar comprar apenas uma vez na semana
+- Perguntar sobre como tem ficado as salas
+	- Há uma pintura das paredes pelo zelador da igreja
+- Bazar
+	- Qua, qui e sex da semana que vem
+	- Vão escolher as coisas que tem lá
+	- 10 às 15h -- Alguém pra abrir a igreja --> Moisés
+	- Cadeiras e mesas da igreja apenas?
+- Férias
+	- 16 a 31/07
+- Camisas 5 , pagar

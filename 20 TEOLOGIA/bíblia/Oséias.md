@@ -1,0 +1,5 @@
+[[OS_1_5]]
+[[Oséias 6]]
+[[OS_7_10]]
+[[OS_11_14]]
+[[Oseias the message]]

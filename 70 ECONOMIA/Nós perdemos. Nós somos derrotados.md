@@ -1,0 +1,6 @@
+Maria Conceição Tavares
+
+fonte: ![[ssstwitter.com_1751554749165.mp4]]
+https://x.com/PedroRonchi2/status/1940509354375119004
+
+"Só faz de conta que a política não interessa. Quem manda, meu bem. E Deus sabe que a política lhe interessa muito. O problema é que ele disfarça o seu interesse político. Ele faz em câmaras secretas. Ele faz, aí sim, em chás, em almoços. Imagina se os japoneses não estão interessados em política? Pra caralho. Mas não se trata de ser ostentatório. Podemos resolver no jantar das sextas-feiras. Nós não podemos resolver no jantar das sextas-feiras. Nós não somos da elite dominante desse país. Por mais que alguns de vocês tenham alguma pretensão a ser, se é que algum tem. Eu não tenho. Então não é chá e simpatia. Isto é um curso rebelde, quer dizer. Nós perdemos. Nós somos derrotados. E se vocês não fossem derrotados, não vinham para essa universidade. Iam pra USP, pra PUC, pra outra qualquer. Ou pra Harvard. Pra que é que não viriam, seguramente? Então, isto está claro. Estamos lutando pela hegemonia? Imagine-se. Estamos lutando apenas para não ficar malucos. Para não dizer besteira demais. Para não contribuir com a nossa gota de fel para um veneno alheio. Tomemos a nossa cicuta com tranquilidade, meus filhos."

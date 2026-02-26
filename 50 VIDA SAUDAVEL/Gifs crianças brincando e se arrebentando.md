@@ -1,0 +1,8 @@
+Gifs crianças brincando e se arrebentando..
+
+[VID-20171011-WA0014.mp4](../_resources/e4ebfe0addbea3dab2bb8bb65cbf231e.mp4)
+
+[VID-20171011-WA0013.mp4](../_resources/7e7c188361d8cf166b3c4f6d4ce8700d.mp4)
+[VID-20171011-WA0012.mp4](../_resources/63107de9787134def7293fe47e06c5a2.mp4)
+[VID-20171011-WA0011.mp4](../_resources/b71c74b013ebef7fd69593f98e44a531.mp4)
+[VID-20171011-WA0010.mp4](../_resources/c4b4eb8c803c4343b411e2ffe8dc6091.mp4)

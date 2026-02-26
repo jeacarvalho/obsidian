@@ -1,0 +1,5 @@
+[[conhecimento]]
+[[quando modelo algo, limito a realidade]]
+[[Bisus em obsidian]]
+[[Idea Compass]]
+[[23 LEIS DO INTERESSE]]

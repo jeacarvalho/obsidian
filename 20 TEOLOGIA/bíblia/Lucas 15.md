@@ -1,0 +1,1 @@
+Lc 15 Jesus e os fariseus. Parabolas para mostrar a **importancia do pecador arrependido**

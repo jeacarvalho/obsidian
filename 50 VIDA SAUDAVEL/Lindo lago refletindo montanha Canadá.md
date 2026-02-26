@@ -1,0 +1,3 @@
+Lindo lago refletindo montanhaundefined Canadá
+
+![foto.jpg](../_resources/dcb4042c588eae011275aae02c1cfb2d.jpg)

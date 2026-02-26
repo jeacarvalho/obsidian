@@ -1,0 +1,1 @@
+[[Muitas de nossas lutas só existiram em nossas mentes]]

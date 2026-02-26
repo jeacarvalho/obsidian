@@ -1,0 +1,3 @@
+> No caso da depreciação, a perda de valor do bem é provocada por seu uso, desgaste natural ou obsolescência. Já na amortização a perda de valor se deve **à redução no tempo do contrato** que resta para o uso daquele bem ou direito
+> Esse registro pode ter impacto no direto no **cálculo dos impostos**, pois afeta o lucro da empresa e seu patrimônio contábil. Para isso, porém, é preciso que a amortização seja feita de acordo com as regras legais.
+fonte: https://www.dicionariofinanceiro.com/amortizacao-na-contabilidade/

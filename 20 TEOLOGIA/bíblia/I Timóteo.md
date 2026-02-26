@@ -1,0 +1,5 @@
+[[1TM_1_6]]
+[[I Timóteo 2]]
+[[I Timóteo 3]]
+[[I Timóteo 4]]
+[[I Timóteo 6]]

@@ -1,0 +1,12 @@
+[[Deus nos molda. O que nem sempre é sem luta e dor]]
+[[Deus nos usa apesar de nossas fragilidades]]
+[[Deus nos consola para que possamos no futuro consolar outros]]
+[[Deus quer nos fazer bem e tem prazer nisso! Jr32_3]]
+[[Deus é quem ilumina nosso caminho. Até mesmo para ver a luz]]
+[[É pra Deus que devemos nos voltar, não pra igreja]]
+[[Deus vê o coração não as aparências]]
+[[Somente em Cristo sabemos realmente o que é ser hu]]
+[[somente do Senhor vem a vitoria]]
+[[Sofrimento é alegria para o cristão]]
+[[Não devemos confundir o Deus da benção com a benção]]
+

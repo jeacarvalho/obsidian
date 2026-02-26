@@ -1,0 +1,3 @@
+> Thomas Müntzer (Stolberg, 1490 — Mühlhausen, 27 de maio de 1525), com o nome também grafado Muentzer ou Münzer, foi um dos primeiros teólogos alemães da era da Reforma, ele se tornou um líder rebelde durante a Guerra dos Camponeses. Müntzer virou-se contra Lutero com vários escritos contra o reformador, e apoiou os anabatistas. Na Batalha de Frankenhausen, Müntzer e seus seguidores foram derrotados. Ele foi capturado, torturado e decapitado
+
+fonte: https://pt.wikipedia.org/wiki/Thomas_M%C3%BCntzer#cite_ref-Schenk_1-0

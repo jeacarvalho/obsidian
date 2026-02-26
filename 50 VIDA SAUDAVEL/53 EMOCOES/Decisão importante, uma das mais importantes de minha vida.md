@@ -1,0 +1,5 @@
+#### Decisão importante, uma das mais importantes de minha vida
+>[!note]
+>Eu quero desenvolver esse espaço em mim mesmo. Estou tão assoberbado com minhas próprias vozes internas, me cobrando constantemente algo que muitas vezes nem sei o que é, perco esse espaço. Quero criá-lo a partir de hoje. 
+>Um ato simples: respirar mais a cada  momento. Prestar atenção naquilo que a vida está trazendo. A cada criação - lembra que criamos o tempo todo - permitir que meu ser a perceba. E, veja: erros também são criações, ok? Até mesmo os erros podem me ensinar algo. A **partir de hoje decido aceitá-los e ficar atento até mesmo neles, para que eu possa perceber o que o Senhor quer me dizer**. Onde Rubin usa Universo para mim o que está lá é Deus, Pai de Jesus Cristo!
+>Olha só o que eu já tinha escrito a partir de [[2011pressfield The war of art]]: [[tenho medo ate de nomear o que minha alma me diz pra fazer]]

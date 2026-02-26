@@ -1,0 +1,3 @@
+https://pt.wikipedia.org/wiki/Fran%C3%A7ois_Quesnay
+- (Méré, 4 de Junho de 1694 - Paris, 16 de dezembro de 1774) foi um médico e economista francês que se destacou como principal figura da escola dos fisiocratas.
+- Em 1758 publicou a sua principal obra, [Tableau Économique](https://pt.wikipedia.org/wiki/Tableau_%C3%A9conomique) (_Quadro Económico_), a que se seguiu, em 1760, _Maximes générales du gouvernement économique d´un royaume agricole._

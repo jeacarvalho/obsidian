@@ -1,0 +1,1 @@
+- Como não conseguia voltar, por medo, ficava escondido nas escadas, chorando.

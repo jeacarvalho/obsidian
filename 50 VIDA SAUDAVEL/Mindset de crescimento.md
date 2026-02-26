@@ -1,0 +1,1 @@
+Conceito de Carol [[Dweck]], aponta para um estilo de vida que não coloca apenas nos dons o sucesso, mas em um desejo constante de crescer, de aprender

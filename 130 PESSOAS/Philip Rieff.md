@@ -1,0 +1,6 @@
+- 19221215 - 20060701
+- Foi um sociólogo americano e crítico cultural. 
+- Ensinou na Universidade da Pennsylvania até 1992
+- Autor de importantes obras: Sigmund Freud and his legacy, including Freud: The Mind of the Moralist (1959) and The Triumph of the Therapeutic: Uses of Faith after Freud (1966)
+- fonte: https://en.wikipedia.org/wiki/Philip_Rieff
+- Usado fortemente em [[trueman2020]]

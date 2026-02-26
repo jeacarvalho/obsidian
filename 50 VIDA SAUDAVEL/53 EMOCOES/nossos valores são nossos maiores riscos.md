@@ -1,0 +1,5 @@
+Por quê?
+Porque, me parece, é sempre por ali que o inimigo nos pega mais desprevinidos. Os valores, para nós, são como um norte, uma bússola. Mas podem ser tornar tão fortes, que se tornam, de alguma forma, ídolos. 
+E como são o que nos move, nos motiva, é mais fácil nos sabotar por ali. Amo a [[verdade]]. Mas sempre é possível encontrar ou gerar a verdade? Veja, não se trata de mentir, deliberadamente. Mas sempre é possível falarmos toda a verdade? Seja para nós, ou para os outros, nem sempre a verdade consegue se estabelecer. E mais: o que é A verdade em dada situação?
+Assim, ao não conseguir a verdade, me torno um "sincericida"? Me torno alguém chato ou implacável?
+Quanto à [[perfeição]]: será que ela é possível? Em não sendo, o amor a ela me torna doente quando não vejo que estou perto?

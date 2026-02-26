@@ -1,0 +1,4 @@
+- Dia dos pais : pensar se Esther e Daniel não querem falar às crianças
+- Bazar: Luciana gostou muito 
+	- usou coisa à beça da igreja
+- Apresentação da situação financeira

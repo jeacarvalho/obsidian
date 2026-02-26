@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "98 ARQUIVOS E REFERENCIAS"
+    order:
+      - file.name
+      - file.backlinks
+    sort:
+      - property: file.backlinks
+        direction: DESC
+    columnSize:
+      file.name: 371
+  - type: table
+    name: View

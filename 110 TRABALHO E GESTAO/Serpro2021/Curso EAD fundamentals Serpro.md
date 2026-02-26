@@ -1,0 +1,12 @@
+- Azure geo
+- [[azure-services-6c41a736.png]]
+- CapEx x OpEx --> Os caras falam sobre dedução de impostos em cada categoria. Tudo é dinheiro...
+- [[ComparaPassSassIass.png]]
+- [[regions-azure.png]]
+- [There's a minimum of three zones within a single region](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones)
+- [Subscription limits: Subscriptions are bound to some hard limitations. For example, the maximum number of Azure ExpressRoute circuits per subscription is 10](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/management-groups-subscriptions)
+- Vc pode criar uma estrutura flexível de managment groups e Subscription. É flexível, como vc pode ver nessa imagem: ![[management-groups-and-subscriptions-bba71896.png]]
+- Limitações quanto aos grupos de gestão: 
+	- [Important facts about management groups](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/management-groups-subscriptions)
+- [Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/overview)
+- Azure Key Vault - Armazenar senhas, tokens, etc...

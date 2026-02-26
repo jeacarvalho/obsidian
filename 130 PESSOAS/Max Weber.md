@@ -1,0 +1,2 @@
+>Maximilian Karl Emil Weber (Erfurt, 21 de abril de 1864 — Munique, 14 de junho de 1920) foi um intelectual, jurista e economista alemão considerado um dos fundadores da Sociologia. Seu irmão foi o também famoso sociólogo e economista Alfred Weber. A esposa de Max Weber, Marianne Weber, biógrafa do marido, foi uma das alunas pioneiras na universidade alemã e integrava grupos feministas de seu tempo.
+- fonte: https://pt.wikipedia.org/wiki/Max_Weber

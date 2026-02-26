@@ -1,0 +1,6 @@
+- ciclos de 2 anos
+- tirar supervisor
+- Como vc se sente?
+	- perder equipe x experiência
+- Nova rota nordeste de internet
+- 

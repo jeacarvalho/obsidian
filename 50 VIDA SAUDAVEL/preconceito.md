@@ -1,0 +1,2 @@
+- [[ferguson-liderança]] fala sobre nossa dificuldade em ver fatos. 
+- [[levitin2015 - A mente Organizada]] - fala sobre a importância de aprendermos e ensinarmos a nos ver de fora. Como sou preconceituoso? O que me atrai a acreditar em uma informação que pode não ser [[verdade]], mas se adequa ao que já penso sobre algo?

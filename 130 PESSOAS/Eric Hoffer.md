@@ -1,0 +1,3 @@
+> Eric Hoffer (July 25, 1902 – May 21, 1983)[1] was an American moral and social philosopher. He was the author of ten books and was awarded the Presidential Medal of Freedom in February 1983. His first book, The True Believer (1951), was widely recognized as a classic, receiving critical acclaim from both scholars and laymen,[2] although Hoffer believed that The Ordeal of Change (1963) was his finest work.[3] The Eric Hoffer Book Award is an international literary prize established in his honor.[4] The University of California, Berkeley awards an annual literary prize named jointly for Hoffer.[5]
+
+fonte: https://en.wikipedia.org/wiki/Eric_Hoffer

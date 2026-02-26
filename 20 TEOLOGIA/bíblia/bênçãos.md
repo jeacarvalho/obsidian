@@ -1,0 +1,1 @@
+[[bênçãos de Deus para nós!]]

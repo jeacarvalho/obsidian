@@ -1,0 +1,15 @@
+[[Contabilidade]]
+- Terceirizar o que não é foco. Exemplo da palestrante:
+	- Faz a contabilidade, especilizada em imobiliário
+	- BPO de DP
+	- BPO de fiscal
+- Mais análise do que operacional
+- Burocracia governamental atrapalha
+- Escassez de mão de obra qualificada - dificuldade levantada pela palestrante
+- Mercado atual
+	- Compliance
+	- Due Dilligence
+	- Auditorias
+	- Relato Integrado
+	- LGPD?
+- Auditoria pública - terceirização permitida

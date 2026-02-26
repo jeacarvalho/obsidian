@@ -1,0 +1,2 @@
+- Uma coisa se cruza com outra. O amor pelo dinheiro gera paixão pelo lucro, que gera mais desigualdade (paga-se muito ao topo e pouco à base).
+- Não podemos tentar resolver uma ponta sem tratar - ou pelo menos levar em consideração - todas as outras.

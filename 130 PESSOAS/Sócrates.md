@@ -1,0 +1,3 @@
+> Sócrates (em grego: Σωκράτης, AFI: [sɔːkrátɛːs], transl. Sōkrátēs; Alópece, c. 470 a.C. – Atenas, 399 a.C.)[1] foi um filósofo ateniense do período clássico da Grécia Antiga. Creditado como um dos fundadores da filosofia ocidental, é até hoje uma figura enigmática, conhecida principalmente através dos relatos em obras de escritores que viveram mais tarde, especialmente dois de seus alunos, Platão e Xenofonte, bem como pelas peças teatrais de seu contemporâneo Aristófanes. Muitos defendem que os diálogos de Platão seriam o relato mais abrangente de Sócrates a ter perdurado da Antiguidade aos dias de hoje
+
+fonte: https://pt.wikipedia.org/wiki/S%C3%B3crates

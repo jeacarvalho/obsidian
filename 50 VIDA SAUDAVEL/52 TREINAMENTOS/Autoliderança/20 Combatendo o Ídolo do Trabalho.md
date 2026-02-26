@@ -1,0 +1,21 @@
+## [20 Combatendo o Ídolo do Trabalho](https://aartedaautoliderancamod-okbyyx.club.hotmart.com/lesson/V4VrNkmn42/20.-combatendo-o-idolo-do-trabalho)
+- Idolatria do trabalho - esperar em outra coisa que não Deus. Trabalho tb pode ser esse falso deus
+	- Gera [[culpa por não fazer o suficiente]]
+	- Poder gerar uma [[teoria da santificação]] em relação ao trabalho
+	- Vai atrapalhar a gente de ver que o [[ministério pastoral entrega a outros o resultado de minhas lutas pessoais]]. Se o trabalho é "santo", tendo a não dar visibilidade das minhas lutas nele.
+	- Também dificulta a gente de ver que [[se estamos trabalhando alinhados a Deus isto deve ser o suficiente]]. Se é ao trabalho que presto culto, é a ele que sirvo
+- Sintomas dessa idolatria
+	- vício
+	- negligência
+		- Papéis essenciais
+		- vida com deus
+		- descanso
+	- Desequilíbrio
+	- exaustão
+- Performance x [[identidade]].
+	- Comparação: Desde Caim e Abel
+		- Quem diz qual é o "padrão de performance"?
+		- nós mesmos somos nosso próprio padrão. è para ser melhor do que o eu de ontem e não melhor do que o outro...
+	- Isso aqui pode ser qq coisa x identidade: casamento, filhos, saúde
+	- Precisamos ser lembrados todos os dias de quem já somos em [[Jesus]] - diário!
+- Prestação de contas, como é difícil!

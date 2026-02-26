@@ -1,0 +1,2 @@
+Mais uma citações importante do livro linkado.
+Talvez eu sempre tenha procurado no lugar errado. Um novo método, um novo sistema... Sem nunca me perguntar: o problema é organizar o que DEVO fazer ou descobrir o que QUERO fazer, o que trará maior qualidade da atenção e mais foco no trabalho

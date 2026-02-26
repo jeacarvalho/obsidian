@@ -1,0 +1,4 @@
+#### Erros de previsão
+- [Emanuel Aragão](https://youtu.be/MDPAHueOvq0?t=648) fala sobre ansiedade, medo, ou qualquer outro sentimento mais forte, estar associado com um erro de previsão. Como a maior parte do funcionamento da vida é no automático, não percebemos, não sentimos, diversas coisas que já entendemos como parte do que é normal. Mas quando algo sai desse normal, um erro de previsão acontece, e preciso avaliar se essa mudança me traz algum risco.
+- Segundo ele, os sentimentos de ansiedade, medo, estão associados a erros de previsão que, de alguma forma, avaliamos como risco à nossa integridade.
+- Então, quais são os erros de previsão que estão sempre me levando de volta à ansiedade e ao medo?

@@ -1,0 +1,2 @@
+ “Se um homem aceita a Divindade de Cristo e está vivendo para Cristo no melhor do seu conhecimento, eu tenciono ter comunhão com ele em Cristo.” ~ Billy Graham, respondendo sobre a participação de lideranças católicas em sua cruzadas.
+ (As dimensões da espiritualidade reformada, pg 74)(https://twitter.com/omaltrapilho/status/1694771556495278314))

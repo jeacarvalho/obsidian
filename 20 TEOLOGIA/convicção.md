@@ -1,0 +1,6 @@
+- Conceito chave na bíblia para fé. [[Hebreus 11]] vai definir fé como convicção de fatos que não se veem
+- [[Eugene Peterson]], na Mensagem, vai falar sobre [[Vida ruim x boa - GL_5_19 - A Mensagem]]: Convicção de que há algo sagrado em toda criação e nas pessoas.
+- [[II Pedro 1]]:5_9 vai falar sobre as [[Qualidades que devemos ter]], citando a fé, novamente, a convicção
+- [[bungay2011-The art of action]] vai falar sobre a lacuna de alinhamento, que gera conformidade por compulsão e não por convicção. 
+- [[ferguson-liderança]] vai falar que a maioria de nós não tem convicção, tendo a confiança facilmente abalada pelos revezes. 
+- Talvez uma das qualidades mais difíceis de desenvolver: convicção. Porque demanda uma visão muito clara de [[propósito]] e missão. Eu realmente não tenho muita convicção das coisas, a não ser de minha vocação em Cristo e de minha salvação Nele. Mas como isso se reflete em minha vida, em minha [[contribuição ao mundo]], não fica muito clara. E, veja: sou um pastor ordenado. O que tem me trazido profunda crise nesses dias é o alinhamento de grande parte de minha denominação ao governo atual (2021), com tantas e tantas contradições em relação ao evangelho.

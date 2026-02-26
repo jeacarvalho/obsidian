@@ -1,0 +1,23 @@
+[[Economia]]
+
+**Por Vladimir Safatle —na revista  Carta capital**
+
+![HSBC](https://i0.wp.com/www.cartacapital.com.br/revista/837/quem-nos-governa-9428.html/hsbc/@@images/b76d1a59-9c81-42da-b7da-7b5b6de76f89.jpeg)
+
+**Traficantes de drogas e armas não teriam tanto poder se não existissem bancos que oferecem seus serviços de lavagem de dinheiro**
+
+Estamos em 1860. O Império Britânico acaba de vencer a famosa “Guerra do Ópio” contra a China, talvez uma das páginas mais cínicas e criminosas da história cínica e criminosa do colonialismo. Metade do comércio da Inglaterra com a China baseia-se na venda ilegal de ópio. Diante da devastação provocada pela droga em sua população, o governo chinês resolve proibir radicalmente seu comércio. A resposta chega por uma sucessão de guerras nas quais a Inglaterra vence e obriga a China a abrir seus portos para os traficantes e missionários cristãos (uma dupla infalível, como veremos mais à frente), além de ocupar Hong Kong por 155 anos.
+
+Em 1860, guerra terminada, os ingleses tiveram a ideia de abrir um banco para financiar o comércio baseado no tráfico de drogas. Dessa forma apoteótica, nasceu o HKSC, tempos depois transformado em HSBC (Hong Kong and Shangai Bank Corporation), conhecido de todos nós atualmente. Sua história é o exemplo mais bem acabado de como o desenvolvimento do [[capitalismo]] financeiro e a cumplicidade com a alta criminalidade andam de mãos dadas.
+
+A partir dos anos 70 do século passado, por meio da compra de corporações nos Estados Unidos e no Reino Unido, o HSBC transformou-se em um dos maiores conglomerados financeiros do mundo. No Brasil, adquiriu o falido Bamerindus. Tem atualmente 270 mil funcionários e atua em mais de 80 países. Sua expansão deu-se, em larga medida, por meio da aquisição de bancos conhecidos por envolvimento em negócios ilícitos, entre eles o Republic New York Corporation, de propriedade do banqueiro brasileiro Edmond Safra, morto em circunstâncias misteriosas em seu apartamento monegasco. Um banco cuja carteira de clientes era composta, entre outros, de traficantes de diamantes e suspeitos de negócios com a máfia russa, para citar alguns dos nobres correntistas. Segundo analistas de Wall Street, a instituição financeira de Nova York teria sido vendida por um preço 40% inferior ao seu valor real.
+
+Assim que vários jornais do mundo exibiram documentos com detalhes de como a filial do HSBC em Genebra havia lavado dinheiro de ditadores, traficantes de armas e drogas, auxiliado todo tipo de gente a operar fraudes fiscais milionárias e a abrir empresas _offshore_, a matriz emitiu um seco comunicado no qual informava que tais práticas, ocorridas até 2007, não tinham mais lugar e que, desde então, os padrões de controle estavam em outro patamar. Mas não é exatamente essa a realidade.
+
+Em julho de 2013, a senadora norte-americana Elisabeth Warren fez um discurso no qual perguntava: quanto tempo seria ainda necessário para fechar um banco como o HSBC? A instituição havia acabado de assumir a culpa por lavagem de dinheiro do tráfico de drogas mexicano e colombiano, além de organizações ligadas ao terrorismo. Tudo ocorreu entre 2003 e 2010. A punição? Multa irrisória de 1,9 milhão de dólares.
+
+Que fantástico. Entre 2006 e 2010, o diretor mundial do banco era o pastor anglicano (sim, o pastor, lembram-se da Guerra do Ópio?) Stephen Green, que, desde 2010, tem um novo cargo, o de ministro do gabinete conservador de David Cameron, cujo governo é conhecido por não ser muito ágil na caça à evasão fiscal dos ricos que escondem seu dinheiro. Enquanto isso, os ingleses veem seu serviço social decompor-se e suas universidades serem privatizadas de fato. O que permite perguntas interessantes sobre quem realmente nos governa e quais são seus reais interesses.
+
+Alguns fatos são bastante evidentes para qualquer interessado em juntar os pontos. Você poderia colocar seus filhos em boas escolas públicas e ter um bom sistema de saúde público, o que o levaria a economizar parte de seus rendimentos, se especuladores e rentistas não tivessem a segurança de que bancos como o HSBC irão auxiliá-los, com toda a sua _expertise_, na evasão de divisas e na fraude fiscal. Traficantes de armas e drogas não teriam tanto poder se não existissem bancos que, placidamente, oferecem seus serviços de lavagem de dinheiro com discrição e eficiência. Se assim for, por que chamar de “bancos” o que se parece mais com instituições criminosas institucionalizadas de longa data?
+
+**FONTE: http://www.cartacapital.com.br/revista/837/quem-nos-governa-9428.htm**l

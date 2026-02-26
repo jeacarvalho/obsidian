@@ -1,0 +1,24 @@
+- **Exclusão** de Membros
+	- Edson e Neli
+	- Thaisa
+	- Narsele e André? (Bettini e Vera se manifestaram para permacener, eles, não) - aguardar
+- **Retorno** 
+	- **Projeto**
+		- Poderia ser no início do mês? Elza avaliando
+			- Ricardo trouxe o pedido de oração pela criança de 2 anos com rim paralisado e provavelmente por consequência de Covid. Bettini entende que devemos ter prudência e aguardar mais um mês parar retorno.
+			- Zé concorda
+			- Pegar as orientações da Prefeitura sobre como voltar
+			- Aguardar pelo menos 15 dias. 
+		- Luciana Ramos se prontificou a tentar mais patrocinadores
+	- **Igreja**
+		- 3o domingo de novembro? Sim.
+			- Mas transmitir de lá, mesmo sem ninguém, no dia 14/11, 2o domingo
+		- Passaporte da vacina
+		- Agendamento?
+		- Transmissão...
+			- Comprar câmera
+			- Fechar o fornecedor para puxar o cabo de rede até a secretaria (não impede o início das transmissões, mas economiza a segunda conta que estamos pagando para manter a rede lá em cima)
+			- Microfonar bateria
+			- Operar o computador
+- Beto: Adriano
+	- 

@@ -1,0 +1,3 @@
+#### sermos do Senhor não nos livra das lutas da vida
+Tudo acontece igualmente com todos: o mesmo acontece com o justo e com o ímpio, com o bom e com o mau, com o puro e com o impuro, com o que oferece sacrifícios e com o que não os oferece, com o bom e com o pecador, tanto com o que faz juramentos como com aquele que tem medo de fazê-los. Eclesiastes 9:2 NAA
+- Esse é um dos desafios mais severos da vida cristã. Aceitar que sermos do Senhor não nos livra das lutas da vida.

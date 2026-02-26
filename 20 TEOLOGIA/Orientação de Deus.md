@@ -1,0 +1,2 @@
+#### Orientação de Deus
+A Deus, o Senhor, pedi uma coisa, e o que eu quero é só isto: que ele me deixe viver na sua casa todos os dias da minha vida, para sentir, maravilhado, a sua bondade e pedir a sua orientação. (Salmos 27:4 NTLH)

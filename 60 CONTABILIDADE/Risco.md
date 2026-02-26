@@ -1,0 +1,2 @@
+Conforme livro da disciplina em [[Empreendedorismo]] da UVA [[EMPREENDEDORISMO.pdf]], p. 70:
+>Cocurullo (2003) define que o risco encontra-se na existência de **situações** que possam **impedir **o alcance dos objetivos corporativos ou a **não existência de situações consideradas necessárias** para chegar a tais objetivos.

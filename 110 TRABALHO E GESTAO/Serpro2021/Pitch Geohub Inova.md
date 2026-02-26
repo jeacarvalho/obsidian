@@ -1,0 +1,9 @@
+**Para** Clientes internos e externos **que** tenham necessidade de trabalhar com dados georeferenciados **o(a)** Geohub **é um(a)** infraestrutura para prover esses dados de maneira centralizada e automatizada **que** tem a possibilidade de automatizar a coleta de dados de seus fontes e fornecê-lo à sistemas que declarem a necessidade de uso desses dados **Diferente do(a)** desenvolvedor de cada sistema se responsabilizar pela atualização desses dados  **o produto** Geohub provê todo mecanismo de busca, atualização e sensibilização dos sistemas
+**Autor:** José Eduardo 
+
+**Para** Clientes internos e externos **que** tenham necessidade de trabalhar mapas base georeferenciados **o(a)** Geohub/osm tiles **é um(a)** Mirror do Open Street Maps disponibilizado na infraestrutura do [[serpro]] **que** provê os mesmos dados daquela organização, de maneira atualizada e com nível de serviço adequado ao ambiente do Serpro **Diferente do(a)** site do Open Street Maps, que não permite o uso massivo de consultas  **o produto** Geohub/osm tiles conta com nível de serviço que permite o alto uso 
+**Autor:** José Eduardo 
+
+**Para** Clientes internos e externos **que** tenham necessidade de trabalhar mapas base georeferenciados **o(a)** Geohub/Nominatim **é um(a)** Mirror da consulta fornecida pelo Open Street Maps disponibilizado na infraestrutura do Serpro **que** disponibiliza as mesmas consultas daquele site, em base local ao Serpro, atualizada, e com nível de serviço adequado ao ambiente da Empresa
+**Diferente do(a)** nominatim no site do Open Street Maps, que não permite o uso massivo de consultas  **o produto** Geohub/nominatim conta com nível de serviço que permite o alto uso.
+**Autor:** José Eduardo 

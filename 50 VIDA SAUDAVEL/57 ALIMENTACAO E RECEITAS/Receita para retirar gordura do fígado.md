@@ -1,0 +1,4 @@
+- alho e limão
+- 4 5 dentes e alho fervido, 8 miunutos descansando
+- 1 limão nesse chá
+- beber em jejum

@@ -1,0 +1,3 @@
+
+> James Hal Cone (August 5, 1938 – April 28, 2018) was an American theologian. He is best known for his advocacy of black theology and black liberation theology. His 1969 book Black Theology and Black Power provided a new way to comprehensively define the distinctiveness of theology in the black church.[17] His message was that Black Power, defined as black people asserting the humanity that white supremacy denied, was the gospel in America. Jesus came to liberate the oppressed, advocating the same thing as Black Power. He argued that white American churches preached a gospel based on white supremacy, antithetical to the gospel of Jesus.
+fonte: https://en.wikipedia.org/wiki/James_H._Cone

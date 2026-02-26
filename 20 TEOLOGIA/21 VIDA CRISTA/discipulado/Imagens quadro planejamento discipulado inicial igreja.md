@@ -1,0 +1,4 @@
+Foto
+
+![Evernote Snapshot 20160528 114309.jpg](782ea734a1bab88a14f826c026982728.jpg)
+![Evernote Snapshot 20160528 114309.png](60062d3b510664c87c7eb20142d9bc57.png)

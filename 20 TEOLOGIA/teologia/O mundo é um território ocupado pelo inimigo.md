@@ -1,0 +1,3 @@
+#### Um território ocupado pelo inimigo — eis o que é o mundo
+
+Um território ocupado pelo inimigo — eis o que é o mundo. E o cristianismo é a história de como o rei legítimo aportou, você poderia dizer até que aportou disfarçado, e nos chama para participar da grande campanha de sabotagem. Quando você vai à igreja, na verdade está captando ondas secretas da rádio de nossos aliados: eis por que o inimigo está tão ansioso por nos impedir de ir até lá.

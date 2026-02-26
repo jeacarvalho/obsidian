@@ -1,0 +1,1 @@
+No estado de fluxo, ficamos tão concentrados na tarefa que estamos desempenhando que tudo o mais desaparece. Ação e consciência se fundem. O tempo voa. O eu se desvanece. O desempenho vai às alturas.

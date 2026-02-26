@@ -1,0 +1,7 @@
+- Aqui, defino: Modo através do qual alguma coisa é representada ou vista
+- É importante sempre estar atento às perspectivas que nos dirigem.
+- Podem ser momentâneas, fruto de uma emoção, um acontecimento. 
+- Ou podem ser mais perenes, fruto de uma visão de mundo que formamos.
+- Em [[Felicidade imaginação e infância]] a Stephanie diz que a conversão ao cristianismo trouxe como maior mudança uma nova perspectiva. É isso que busco. Para mim. Para os outros
+- Em [[magaldi2018-Gestão do amanhã]] o autor fala que que se todos caminhamos em uma mesma direção, essa união vai trazer novas perspectivas
+- Em [[kotler2015 - Super-humanos - Como os atletas radicais redefinem os limites do possível]] o autor mostra que o [[Estado de Fluxo]] traz clareza mental e distanciamento emocional que permite observar a si próprio a partir de um perspectica distanciada

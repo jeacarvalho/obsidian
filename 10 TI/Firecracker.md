@@ -1,0 +1,1 @@
+uma tecnologia de vitualização que faz uso do [[KVM]]

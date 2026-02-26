@@ -1,0 +1,3 @@
+Kristin Neff é professora associada do departamento de psicologia educacional da Universidade do Texas em Austin . [ 1 ] A Dra. Neff recebeu seu doutorado pela Universidade da Califórnia em Berkeley, estudando desenvolvimento moral. Ela fez dois anos de pós-doutorado na Universidade de Denver estudando desenvolvimento de autoconceito. Ela criou as Escalas de Autocompaixão . [ 2 ] [ 3 ] A escala longa consiste em 26 itens e a escala curta consiste em 12 itens. [ 2 ] [ 4 ] Ela foi creditada por conduzir os primeiros estudos acadêmicos sobre autocompaixão.
+
+fonte: https://en.wikipedia.org/wiki/Kristin_Neff

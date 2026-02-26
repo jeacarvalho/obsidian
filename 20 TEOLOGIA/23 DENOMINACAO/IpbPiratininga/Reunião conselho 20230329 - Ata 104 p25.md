@@ -1,0 +1,8 @@
+- Reunião anterior em 13/12/2022, apenas eleição diretoria, ata 103
+- Situação imóvel atual
+- Vendas
+- Resposta proprietário
+- Denilson e informação de tirar tudo
+- [x] Paulo Maisonette e situação atual da venda. situação do imóvel, e  legalização da obra 📅 2023-03-30 ✅ 2023-06-12
+- Bettini: marcar encontro presencial para negociar a entrega até a alçada da metade do valor da poupança. Zé concorda. Beto tb
+- 

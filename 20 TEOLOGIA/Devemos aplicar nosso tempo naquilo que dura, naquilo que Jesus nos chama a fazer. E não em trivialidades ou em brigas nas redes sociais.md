@@ -1,0 +1,3 @@
+#### Devemos aplicar nosso tempo naquilo que dura, naquilo que [[Jesus]] nos chama a fazer. E não em triviliadades ou em brigas nas redes sociais
+
+I am amazed at how many Christians spend their days on Twitter and Facebook—too often platforms for ephemeral trivia and unpleasantness. I do not believe Jesus wants me to use my remaining years in exchanging insults with other Christians. I think he wants all his people to witness to the world by using the time and talents he has given them to edify the body of Christ and to help the rising generation think clearly about the challenges we all face.

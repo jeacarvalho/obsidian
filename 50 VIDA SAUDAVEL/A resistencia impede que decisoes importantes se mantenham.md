@@ -1,0 +1,9 @@
+#### A [[resistência]] impede que decisões importantes se mantenham
+Amarelo destaque | Local: 85 Nota | Local: 85
+
+The life we live, and the unlived life within us. Between the two stands Resistance.
+
+>[!note]
+> Ontem assisti a um filme chamado "Vida" em Português. Um filme inglês, baseado em obra de Akira Kurosawa. Um filme lento. Drama. Um homem recebe a notícia de morrerá em 6 meses. Um chefe de departamento na prefeitura de Londres. Formal. Metódico. Vivendo uma vida que não parecia vida. E que se vê com poucos meses sem nunca ter vivido. Bebe. Vai a bares. Chama a antiga funcionária do setor para almoçar. Só a ela conta sua tragédia. Mas decide dar os últimos meses para realizar algo: trabalhar, na prefeitura, para que o pedido de algumas mulheres para que uma praça seja feita em certo do lugar da cidade, saia. Ele vinha cozinhando as mulheres. Colocando o processo em uma pilha, junto com outros, que não andava. E consegue. Vence não somente a [[resistência]] de seu departamento, mas de toda a prefeitura, a ponto de pedir ao prefeito que não engavete o projeto. Que sai. A tempo desse homem poder sentar no balanço, cantar uma canção de sua infância, e se sentir feliz ao menos uma vez na vida, antes de partir.  
+> Seus colegas de departamento, ao pensarem no histórico dos últimos meses durante seu sepultamento chegam a conclusão: ele sabia que estava no fim e trabalhou, arduamente, para que a praça acontecesse. Tomam uma decisão em conjunto ali: nunca mais enrolar no trabaho. Nunca mais fingir que trabalham. Fazer as coisas acontecerem.  
+> Até um dia, muito depois do sepultamento, que um projeto chega até eles. Que fazem o que sempre fizeram, mesmo com a reclamação do mais novo: engavetam o pedido.  A [[resistência]] é um monstro.

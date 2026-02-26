@@ -1,0 +1,3 @@
+David Brooks (Toronto, 11 de agosto de 1961) é um jornalista, escritor e comentarista político américo-canadiano. Trabalhou em importantes veículos de notícias norte-americanos, como The Atlantic, The Washington Post e a rede NPR. Desde 2003 é colunista de opinião no jornal The New York Times e desde 2004 é analista político na PBS NewsHour.[1] No campo político, é considerado um analista conservador.[1] Também é autor de O Animal Social (Objetiva, 2014).
+
+fonte: https://pt.wikipedia.org/wiki/David_Brooks

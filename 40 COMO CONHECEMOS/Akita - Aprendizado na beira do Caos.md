@@ -1,0 +1,8 @@
+-  [# Rant: Aprendizado na Beira do Caos](https://www.youtube.com/watch?v=am-FQ86mKV0)
+- Falando sobre o sucesso, como aprender.
+- Depois de vários argumentos, ele chega a um bordão: **Tentativa e erro** = [[melhoria contínua]]
+	- Como fazer a melhor gestão de umn projeto? Tentativa e erro
+	- Como estudar melhor? Tentativa e erro
+	- Como ter sucesso? Tentativa e erro
+- [[aprendizado]]
+- [[conhecimento]]

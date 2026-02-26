@@ -1,0 +1,5 @@
+Peço que Deus abra a mente de vocês para que vejam a luz dele e conheçam a [[Esperança]] para a qual ele os chamou. E também para que saibam como são maravilhosas as [[bênçãos]] que ele prometeu ao seu povo e como é grande o seu poder que age em nós, os que cremos nele. Esse poder que age em nós é a mesma força poderosa que ele usou quando ressuscitou Cristo e fez com que ele se sentasse ao seu lado direito no mundo celestial. ([[Efésios]] [1:18-20NTLH)]()
+
+[[Efésios 1]]:18-20
+
+iluminados os olhos do vosso [[coração]], para saberdes qual é a [[Esperança]] do seu chamamento, qual a riqueza da glória da sua herança nos santos e qual a suprema grandeza do seu poder para com os que cremos, segundo a eficácia da força do seu poder; o qual exerceu ele em Cristo, ressuscitando-o dentre os mortos e fazendo-o sentar à sua direita nos lugares celestiais,

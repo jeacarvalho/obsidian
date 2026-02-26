@@ -1,0 +1,12 @@
+# 20240423
+- Talvez esse seja um dos itens mais difíceis para mim, por tudo o que já falei sobre [[medo de errar]], [[MEDO DA REJEIÇÃO]]
+- Mas vou tentar.,
+- Publiquei uma música minha, tendo realizado todo o processo de registro, produção e divulgação
+- Estou em uma área do Serpro onde me sinto energizado e preenchido constantemente
+- Sirvo ao Senhor da melhor maneira que minha fé permite nesse momento. (Aqui fui pouco específico porque ainda não sei se devo ou não ficar à frente da IPB Piratininga)
+- Estou 10 kg mais magro, meu fígado está limpo e minhas taxas pancreáticas normalizaram
+- Ana está saudável e atendendo pessoas
+- Carol está feliz e focada
+- Estou próximo de me formar
+- Compramos nosso apto! (eita, coragem!)
+- A terapia e o Espírito atuaram na cura de meus traumas e me sinto muito mais adequado, me aceitando mais.

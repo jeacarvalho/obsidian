@@ -1,0 +1,6 @@
+#### Temos que aprender a viver com Jesus
+> [[Marcos 2]]:1Dias depois, quando [[Jesus]] retornou a Cafarnaum, a notícia de que ele tinha voltado se espalhou rapidamente. 2Em pouco tempo, a casa onde estava hospedado ficou tão cheia que não havia lugar nem do lado de fora da porta
+- Jesus se hospedava em casas de discípulos. Não tinha onde dormir - [[Lucas 9]]:58; [[Mateus 8]]:20. O ministério de Jesus não moldou um padrão de [[riqueza]]. Muito pelo contrário. Sempre foi simples. Sempre focou em dar, mais do que receber. 
+- Hoje vemos - e somos tentados! - tanta gente ficando rica com a exploração da fé. Como foi possível, em 2000 anos, sairmos do fundador que não tinha onde recostar a cabeça, para pastores com jatinhos?
+- E como ficar protegido disso? Eu nunca me preocupei com dinheiro. Mas sei que sou pecador e posso ser tentado a isso. Como me proteger? Acho que a melhor proteção para todas as tentações é: Olhe para Jesus. Veja como Ele viveu. Aprenda com Ele a falar, pensar, agir, decidir, planejar. Conheça a meta Dele e tenha a mesma. 
+- Difícil errar caminhando assim.

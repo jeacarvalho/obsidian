@@ -1,0 +1,16 @@
+- Elaine Sampaio Pinho de Castro
+- Vou anotar, ok?
+- Minhas férias em 06/2024 - COmbinar periodicidade
+- Isso aqui é sobre vc e não sobre mim. Ou seja, vc é a prioridade. 
+	- Teu tempo, teu ritmo, teus objetivos
+- Meus limites
+	- Não sou psicólogo. Apesar de ser pastor e isso me ajudar, não tenho formação para cuidar da tua saúde
+	- Falo de "meu lugar": homem, hétero, branco, classe média. Isso me formou e define muito de como eu vejo o mundo, apesar de todo meu esforço para ser empático.
+	- "posso te falar do mundo dos negócios, do serpro e quero estar disponível para TROCAR (ao invés ensinar, ajudar)"
+- "é a primeira vez que estou mentorando uma mulher, peço que me ensine neste processo"
+- Combinar a frequência
+- tentar sair com um plano de assuntos para as seis sessões
+- estabelecer conexão
+- Estruturar as falas, organizar, clarificar, validar a compreensão
+- TUDO QUE EU FALAR PRECISA TER UM VIÉS POSITIVO
+- Mulheres não precisam de minha proteção

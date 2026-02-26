@@ -1,0 +1,2 @@
+#### gerentes devem ficar alertas para as diferenças de estilos de motivação
+Por outro lado, funcionários motivados, ativos e criativos talvez achem tarefas que não exigem autonomia sufocantes, frustrantes e tediosas, o que pode reduzir drasticamente sua motivação de produzir um alto nível de trabalho. Isso significa que os gerentes devem ficar alertas para as diferenças de estilos de motivação, e prestar atenção em fornecer tarefas com autonomia às pessoas com locus de controle interno, e tarefas mais limitadas a indivíduos com locus de controle externo.

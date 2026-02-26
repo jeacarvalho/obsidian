@@ -1,0 +1,35 @@
+[[Contabilidade]]
+- Contador
+	- Cuida do patrimônio jurídica e física
+	- Controla entradas e saídas
+	- tributação, encargos trabalhistas
+	- auxilia na tomada de decisão
+	- audita contratos
+	- Seguros, previdência
+	- Perícia judicial
+- Auditoria
+	- Legislação em dia na ponta da língua
+- Análise contábil
+- Perícia
+- Contabilidade de escritório
+- Consultorias
+	- COnhecimento profundo na área
+	- Experiência profissional
+- Instituições públicas
+- Competências profissionais
+	- Qualificação
+		- Graduação não é diferencial
+		- Não acomodar
+		- Cursos, palestras, congressos, seminários
+	- Ética e moral
+		- Código de ética
+	- Teoria e aplicação
+		- Legislação, códigos tributários
+	- Informática e inovação
+		- automação, sempre
+	- Habilidades pessoais
+	- Analisar e processar informações
+		- acompanhe o que está acontecendo ao redor
+	- Marketing pessoal
+		- coerência - ter o que mostrar não somente fingir pra mostrar
+	- 

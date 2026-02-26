@@ -1,0 +1,7 @@
+[[Jacques Barzun’s 20 Principles for Simple and Dire]]
+[[Jane Friedman Writing Advice Archive]]
+[[Conselhos de Annie Dillar para uma escrita excelente]]
+[[Sobre escrita de livros]]
+[[Preparação e revisão - o trabalho com o texto - EAD Unesp]]
+[[Como se tornar um escritor melhor sendo um observador melhor]]
+[[Some Awesome Books on Writing – Summit Life with J]]

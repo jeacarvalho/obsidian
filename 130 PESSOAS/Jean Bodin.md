@@ -1,0 +1,3 @@
+> Jean Bodin (Angers, 1530 — Laon, 1596) foi um teórico político, jurista francês, membro do Parlamento de Paris e professor de Direito em Toulouse. O autor é reconhecido pelos seus estudos que foram de suma importância para o avanço dos conceitos de soberania e absolutismo dos Estados. Além disso, a exposição de seus pensamentos a respeito do modelo de governo ideal foi muito influente na Europa.
+
+fonte: https://pt.wikipedia.org/wiki/Jean_Bodin

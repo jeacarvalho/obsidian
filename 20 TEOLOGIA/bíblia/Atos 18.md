@@ -1,0 +1,4 @@
+Atos 18:2 (RA Strong's) Lá, encontrou certo judeu chamado Áqüila, natural do Ponto, recentemente chegado da Itália, com Priscila, sua mulher, em vista de ter Cláudio decretado que todos os judeus se retirassem de Roma. Paulo aproximou-se deles.
+- Atos 18:2 (NIV Cultural Backgrounds Study Bible) Claudius. Emperor of Rome from AD 41 to 54, he dealt firmly with the Jewish community at various times, and expelled them from the city of Rome, ***probably in AD 49***, shortly before Paul reached Corinth. What provoked the expulsion order was conflict in the Jewish community over one “Chrestus,” usually thought to be debates about [[Jesus]] as the Christ. Jewish Roman citizens probably would not have left, however, and probably many others also remained; given the controversy, however, leaders of the Jesus movement were probably among those forced to leave.
+
+[[Não temos controle dos resultados, apenas do nosso próprio trabalho]]

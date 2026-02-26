@@ -1,0 +1,3 @@
+> πτωχος ptochos de πτωσσω ptosso (rastejar, semelhante a 4422 e o substituto de 4098 ); TDNT - 6:885,969; adj 1) reduzido a pobreza, mendicância; que pede esmola 2) destituído de riqueza, influência, posição, honra 2a) humilde, aflito, destituído de virtudes cristãs e riquezas eternas 2b) desamparado, impotente para realizar um objetivo 2c) pobre, indigente 3) necessitado em todos os sentidos 3a) com respeito ao seu espírito 3a1) destituído da riqueza do aprendizado e da [[cultura]] intelectual que as escolas proporcionam (pessoas desta classe mais prontamente se entregam ao ensino de Cristo e mostram-se prontos para apropriar-se do tesouro celeste)
+
+[[Justiça Social]]

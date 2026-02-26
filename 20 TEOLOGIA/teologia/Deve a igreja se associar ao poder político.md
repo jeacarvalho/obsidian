@@ -1,0 +1,2 @@
+#### Deve a igreja se associar ao poder político
+When the church, in the interests of acquiring political power, aligns too much with the current age’s secular left or right, it is sapped of both spiritual power  and credibility with non-Christians. We see “the political captivity of the faithful. (p. 11)

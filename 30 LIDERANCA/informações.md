@@ -1,0 +1,1 @@
+[[informação é aquilo que reduz a incerteza]]

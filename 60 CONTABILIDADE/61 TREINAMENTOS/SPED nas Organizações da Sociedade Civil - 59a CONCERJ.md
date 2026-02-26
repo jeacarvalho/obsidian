@@ -1,0 +1,11 @@
+[[Contabilidade]]
+- Obrigações para 3o setor:
+	- ECD
+	- ECF
+	- EFD REINF
+	- DCTFWeb
+	- eSocial
+- ![[ObrigacoesAcessoriasDigitais3oSetor-59aCONCERJ.png]]
+- Plano de contas tem que bater com o estatuto e atividade da organização
+- Plano de contas referencial RFB
+- 

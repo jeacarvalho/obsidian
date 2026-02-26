@@ -1,0 +1,2 @@
+> John Dewey (Burlington, Vermont, 20 de outubro de 1859 — 1 de junho de 1952) foi um filósofo e pedagogo norte-americano, um dos principais representantes da corrente pragmatista, inicialmente desenvolvida por Charles Sanders Peirce, Josiah Royce e William James. Dewey também escreveu extensivamente sobre pedagogia e é uma referência no campo da educação. Tinha fortes compromissos políticos e sociais, expressados muitas vezes em suas publicações no jornal The New Republic.
+fonte: https://pt.wikipedia.org/wiki/John_Dewey

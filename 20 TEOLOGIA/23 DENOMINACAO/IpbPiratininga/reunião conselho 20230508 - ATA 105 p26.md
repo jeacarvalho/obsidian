@@ -1,0 +1,17 @@
+
+- Entrega do imóvel
+	- Não legalização
+	- Não aceite do proprietário
+	- Assessoria jurídica?
+- Beto
+	- Edson entende que tem que cessar a responsabilidade do aluguel
+	- Mas MArcelo diz que para isso é preciso que o imóvel esteja reformado
+- Ze 
+	- Seguir com advogado para assessorar
+- Ricardo
+	- Ter um advogado
+	- Procurar mais de um para orçamento?
+	- Manter a direção da demolição? Procurar outro profissional para orçar?
+- Dalmo
+	- Seguir com advogado para acessorar
+- Oração final Dalmo, 21:57

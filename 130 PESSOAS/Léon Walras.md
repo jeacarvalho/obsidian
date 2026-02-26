@@ -1,0 +1,2 @@
+> Marie-Ésprit-Léon Walras (Évreux, 16 de dezembro de 1834 — Clarens, 5 de janeiro de 1910) foi um economista e matemático francês, conhecido como o criador da Teoria do Equilíbrio Geral. Também descreveu o processo de tâtonnement ("tateio", do verbo "tatear", em português), segundo o qual determinado mercado pode atingir o equilíbrio, tendo em conta que o equilíbrio geral, conforme delimitado pela matemática, pode não ser possível.
+fonte: [Léon Walras – Wikipédia, a enciclopédia livre (wikipedia.org)](https://pt.wikipedia.org/wiki/L%C3%A9on_Walras)

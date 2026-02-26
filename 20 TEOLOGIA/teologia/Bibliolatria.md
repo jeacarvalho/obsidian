@@ -1,0 +1,1 @@
+- Citando Roger Olson e John Stott - https://twitter.com/cesarmoshe/status/1694364053014020486?s=20

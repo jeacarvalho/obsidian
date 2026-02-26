@@ -1,0 +1,5 @@
+#### e-mail, Facebook e Twitter constituem vícios neuronais.
+*Toda vez que enviamos um e-mail, de um modo ou de outro, experimentamos uma sensação de realização, e nosso cérebro ganha uma gota de hormônios de recompensa que nos informam que conseguimos realizar algo. Cada vez que verificamos um tuíte no Twitter ou uma atualização no Facebook, encontramos uma coisa nova, nos sentimos mais socialmente conectados (de um estranho modo impessoal cyber) e recebemos outra dose de hormônios de recompensa. Mas não se esqueçam, é a parte burra do cérebro, a que busca novidades, que impele o sistema límbico e induz essa sensação de prazer, e não os centros de pensamento mais elevados no córtex pré-frontal, que planejam, esquematizam. Não se enganem: e-mail, Facebook e Twitter constituem vícios neuronais.*
+
+- anti-[[Estado de Fluxo]] mas com recompensas hormonais parecidas
+- o que mostra que o [[inimigo não é o desconhecido, mas o conhecido sutilmente alterado]]

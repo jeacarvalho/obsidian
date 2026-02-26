@@ -1,0 +1,14 @@
+- Agradecer convite
+- Auto descrição e me apresentar 
+- Minha experiência, não é A verdade, mas uma possível verdade
+- 1a prática: se convencer da importância
+	- Quando foi que vc mais cresceu?  
+	- Minha história no início da faculdade
+	- POr que isso seria uma prática? Porque demanda pensar, meditar, voltar, tentar.
+- 2a prática: demonstrar interesse na vida do outro - confiança (falado pelo Adolfo)
+	- Porque seu crescimento é bom para nós, empresa pública
+	- Se estou interessado, realmente, até o feedback construtivo se torna positivo
+- 3a prática: tenha uma rede de aprendizado
+	- Olhos de líder
+	- Grupos regionais
+	- Livros:  conversas difíceis, [[Comunicação Não Violenta]], Multiplicadores, Mindset (dweck)

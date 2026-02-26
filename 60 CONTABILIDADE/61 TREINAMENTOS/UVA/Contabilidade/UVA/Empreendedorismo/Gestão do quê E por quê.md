@@ -1,0 +1,17 @@
+# [Gestão do quê? E por quê?](https://player.vimeo.com/video/369349276)
+- Recursos escassos - necessidade de organizar
+- Indústria - recursos materiais
+- Recursos humanos: 
+	- ajudar prestar serviços a organização, dirigentes e empregados
+	- Deswcrever responsabilidades dos postos laborais e qualidades dos ocupantes
+	- avaliar desempenho desenvoilvendo liderança
+	- recrutar
+	- Capacitar e desenvolver conhecimentos
+	- Propocioanr ajudar psicológica - harmonia e resoluçaõ de problemas
+	- Marca pessoal baseada em competências
+	- Distribuir políticas e procedimentos a todos os empregados
+- Recursos tecnológicos - aparato de máquinas, equipamentos e processos de produção
+	- Incorporada - máquinas, equipamentos, instalações - hardware
+	- Não incorporada - conhecimento, habilidade, métodos, etc - software
+- Recursos financeiros - 
+- 

@@ -1,0 +1,2 @@
+Anedota é, originalmente, **um caso ou acontecimento curioso, peculiar ou engraçado que é pouco divulgado, pois normalmente decorre em segundo plano de um evento mais significativo**.
+fonte: https://www.significados.com.br/anedota/#:~:text=O%20que%20%C3%A9%20uma%20Anedota,de%20um%20evento%20mais%20significativo.

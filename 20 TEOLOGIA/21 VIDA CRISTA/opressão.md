@@ -1,0 +1,2 @@
+- Somos chamados a acabar com ela!
+- [[Isaías 58]]

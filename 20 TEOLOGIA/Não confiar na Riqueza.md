@@ -1,0 +1,2 @@
+#### Não confiar na [[Riqueza]]
+Confie sempre em Deus, meu povo! Abram o coração para Deus, pois ele é o nosso refúgio. Os seres humanos, tanto os pobres como os ricos, são inúteis, são somente um sopro. Se fossem colocados na balança, não pesariam nada; são mais leves do que um sopro. Não confiem na violência, nem esperem ganhar alguma coisa com o roubo. **Ainda que as suas riquezas aumentem, não confiem nelas**.  [[Salmos 62]]: 8-10

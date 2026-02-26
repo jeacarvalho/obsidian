@@ -1,0 +1,26 @@
+# Piores elites do mundo
+fonte: https://www.estadao.com.br/economia/pedro-fernando-nery/piores-elites-do-mundo/
+
+## Brasil aparece atrás de México, Rússia, Índia e até de países como Casaquistão
+
+O [**Brasil**](https://tudo-sobre.estadao.com.br/brasil-america-do-sul) teria a 6.ª pior elite entre 32 países. Em ranking de qualidade das elites mundiais – liderado por [**Cingapura**](https://tudo-sobre.estadao.com.br/cingapura-asia), [**Suíça**](https://tudo-sobre.estadao.com.br/suica-europa) e [**Alemanha**](https://tudo-sobre.estadao.com.br/alemanha-europa) –, o Brasil aparece atrás do [**México**](https://tudo-sobre.estadao.com.br/M%C3%A9xico), da [**Rússia**](https://tudo-sobre.estadao.com.br/R%C3%BAssia), da [**Índia**](https://tudo-sobre.estadao.com.br/india-asia) e até de países como [**Casaquistão**](https://tudo-sobre.estadao.com.br/cazaquistao-asia), [**Arábia Saudita**](https://tudo-sobre.estadao.com.br/arabia-saudita-asia) e [**Botswana**](https://tudo-sobre.estadao.com.br/botswana-africa) (embora na frente da [**Argentina**](https://tudo-sobre.estadao.com.br/argentina-america-do-sul)). O Índice de Qualidade das Elites foi veiculado em relatório recente dos economistas Tomas Casas e Guido Cozzi (Fundação para a Criação de Valor). O que ele explica sobre o nosso País e como se relaciona com a agenda de reformas?
+
+Os autores definem elites como grupos pequenos e coordenados, capazes de acumular riqueza, e que seriam uma “inevitabilidade empírica” – presentes em todas as sociedades. Um índice alto significaria que a elite do país cria mais valor do que captura, contribuindo para o crescimento econômico e o desenvolvimento humano. Já nos países com índices baixos as elites teriam desenhado instituições mais “extrativas”. Grosso modo, a questão é se, na acumulação de sua riqueza, a respectiva elite beneficia a sociedade ou dela se beneficia.
+
+O relatório bebe em conceitos dos economistas Daron Acemoglu (MIT) e James Robinson (Chicago), do best-seller _Por que as Nações Fracassam_, mas em particular do livro mais recente da dupla, _The Narrow Corridor_ (ainda sem tradução). Acemoglu e Robinson explicam o desenvolvimento dos países pela qualidade de suas instituições (regras informais ou formais, como leis, que regem o funcionamento da sociedade). Resumidamente, essas instituições podem ser inclusivas ou extrativas. No último caso, a riqueza do país é extraída pela sua elite – que por sua vez concentra seus esforços e recursos não em ser produtiva, mas em conquistar favores e privilégios. Essa postura que visa à renda improdutiva é expressa no termo rent-seeking, traduzido como caça às rendas ou rentismo.
+
+A [[elite brasileira]] é do grupo das rentistas, aquelas que extraem valor e detêm muito poder. 
+
+A partir daí, Casas e Cozzi dividem as elites em três tipos principais: rentistas (extraem valor e detêm muito poder), competitivas (geram valor, mas não detêm muito poder) e iluministas (geram valor, a despeito de deterem muito poder). O estudo basicamente identifica apenas elites rentistas e competitivas. 
+
+A [[elite brasileira]] é do grupo das rentistas. Nossas piores classificações no indicador são na categoria que avalia como o Estado retira renda; na categoria de rentismo da produção; e na categoria de rentismo do trabalho. 
+
+A primeira compreende uma avaliação da regressividade e distorções do sistema tributário. A tributação dos lucros e a parcela da renda retida pelos 10% mais ricos são alguns dos itens. Aqui, é possível fazer ligação clara com a reforma tributária e instrumentos como a isenção no IR para lucros e dividendos, bem como outros mecanismos que permitem que os mais ricos paguem menos impostos que os mais pobres.
+
+A segunda categoria que vamos especialmente mal diz respeito à exposição dos grandes à competição. Nessa categoria de rentismo dos produtores são avaliadas questões que podem levar à formação de monopólios ou oligopólios – aptos a extrair renda das famílias com produtos mais caros ou de pior qualidade. Inclui a proteção tarifária contra produtos estrangeiros, regulações que criam barreiras à entrada de novas empresas no mercado e a facilidade de fazer negócios. A agenda mais óbvia aqui é a da abertura comercial, mas também a de desburocratização.
+
+Uma terceira categoria em que estamos perto da lanterna, a de rentismo do trabalho, contempla a forma como instituições do mercado de trabalho preterem os jovens. Demandaria pauta de abertura do mercado de trabalho, para tornar mais fácil empregar grupos excluídos. Seriam exemplos mudanças como a reforma trabalhista e a carteira de trabalho verde e amarelo – não à toa, duramente combatidas pelos representantes dos incluídos.
+
+A agenda por instituições mais inclusivas, em prejuízo das atuais elites dominantes, não é exclusiva de nenhum ponto no espectro ideológico. Por exemplo, a esquerda é mais combativa pelo fim dos privilégios no sistema tributário, mas é historicamente contra a exposição à competição de empresas estrangeiras ou mulheres e jovens – respectivamente no mercado de bens e no mercado de trabalho. Há uma grande concertação nacional a ser feita nos próximos anos se quisermos subir da última divisão das elites mundiais.
+
+*DOUTOR EM ECONOMIA

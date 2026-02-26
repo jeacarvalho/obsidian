@@ -1,0 +1,3 @@
+> Dietrich Bonhoeffer (Wrocław, 4 de fevereiro de 1906 — Flossenbürg, 9 de abril de 1945) foi um teólogo, pastor luterano, membro da resistência alemã anti-nazista e membro fundador da Igreja Confessante, ala da igreja evangélica contrária à política nazista.
+> Bonhoeffer envolveu-se na trama da Abwehr para assassinar Hitler. Em março de 1943 foi preso e acabou sendo enforcado, pouco tempo antes do próprio Hitler cometer suicídio.
+fonte: https://pt.wikipedia.org/wiki/Dietrich_Bonhoeffer

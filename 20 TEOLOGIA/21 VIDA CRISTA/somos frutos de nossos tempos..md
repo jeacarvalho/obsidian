@@ -1,0 +1,6 @@
+#### somos frutos de nossos tempos.
+- Uma coisa que precisa ficar claro para mim: nós somos frutos de nossos tempos. Certamente nossa visão crítica pode nos ajudar a ver as falhas de nosso próprio tempo. Mas foi esse tempo que formou a gente, a nossa própria visão crítica!
+- Estava ouvindo uma "aula" do [Paulo Gala do Elias Jabbour sobre a nova rota da seda da Chinas](https://www.youtube.com/watch?v=awX-I0j0Ofo)
+- Jabbour trouxe uma visão sobre a "faceta escura" do Iluminismo, que acabou por nos afastar do que de melhor existia no oriente, direcionando o mundo ocidental para uma visão eurocentrista. 
+- Gala, em outro momento (36 minutos +-), cita, então, o sermão do pe. Antonio Vieira, onde ele dizia que "os negros africanos não sabem o bem que recebem ao serem tirados de um continente pagão para vir para o Brasil". Como pode isso?
+- Por isso: somos frutos de nossos dias. Que teologia eu teria em 1500? Que padre seria? Que sermões pregaria? Que sermões prego hoje, senão aqueles que os dias em que vivo me influenciam?

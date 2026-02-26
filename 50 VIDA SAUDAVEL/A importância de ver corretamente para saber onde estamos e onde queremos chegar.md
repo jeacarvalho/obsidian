@@ -1,0 +1,2 @@
+#### importante ver. eu e você precisamos olhar e ver. porque sem ver como saberemos onde estamos e para onde queremos ir?
+You get what you focus on. What we see ahead impacts the actions we take right now. How we live and lead is directly connected to what we see.

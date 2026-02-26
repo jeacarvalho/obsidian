@@ -1,0 +1,14 @@
+- Fechar coisas das consultas/api
+- erros anteriores da vmWare - Leandro vai ver com Otávio se a resposta dada atendeu
+- API - Atualizar swagger de maneira automatizada
+	- Isso é necessário para liberar api na produção
+- Documentação de negócio ainda não tem. Raffa tá documentando o processo do bilhetador, tecnicamente
+- SO como cobrar
+	- Evoluiu mas ainda tem informação que não tá batendo. vMware diz que é feature não bug. Mary ciente
+- Complexidade está alta no processo como um todo. 
+- Integrações (GMC e infosupcd)?
+	- Aguardando api ser publicada por nós
+- Exacc?
+	- Teve reunião para validar os testes. Há custo para fazermos o teste.
+	- Daniel Guerra levou a necessidade de pagar para Elaine e não houve retorno ainda
+- 

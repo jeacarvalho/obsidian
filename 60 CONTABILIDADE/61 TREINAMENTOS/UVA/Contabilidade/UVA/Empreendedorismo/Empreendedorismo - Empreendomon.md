@@ -1,0 +1,3 @@
+# [Empreendedorismo - Empreendomon](https://player.vimeo.com/video/369348901)
+- Um das melhores gameficações que já vi.. quer dizer, apresentação através de game, na verdade
+- Um empreendedor tendo que enfrentar desafios nos jogos, tais como novos produtos a desenvolver, queda de vendas, etc...

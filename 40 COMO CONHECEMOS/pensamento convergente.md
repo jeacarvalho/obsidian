@@ -1,0 +1,2 @@
+> O pensamento convergente é linear, analítico e sistemático, resumindo, lógico. Se caracteriza por buscar respostas e eleger ideias como melhores que outras, tornando o processo mais focado e simples.
+fonte: https://criarh.com.br/pensamentos-divergente-convergente/#:~:text=O%20que%20%C3%A9%20o%20Pensamento,seja%2C%20o%20n%C3%BAmero%20de%20ideias.

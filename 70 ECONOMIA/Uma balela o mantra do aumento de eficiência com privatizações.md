@@ -1,0 +1,3 @@
+#### Uma balela o mantra do aumento de eficiência com privatizações
+Nota | Local: 93
+E o mantra sobre aumento da eficiência não passa disso — balela. No Reino Unido, quando a empresa de consultoria internacional Deloitte foi paga para gerenciar testes de covid-19, os testes se extraviaram. Isso foi um lembrete do gigantesco fracasso da G4S, outra empresa privada que angariou contratos públicos para prestar serviços de segurança durante os Jogos Olímpicos de Londres, em 2012, o que levou à convocação dos militares para salvar o dia.

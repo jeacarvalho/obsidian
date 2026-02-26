@@ -1,0 +1,11 @@
+coerencia entre confissao e pratica de vida
+
+>A mensagem que Cristo nos deu e que anunciamos a vocês é esta: Deus é luz, e não há nele nenhuma escuridão. Portanto, se dizemos que estamos unidos com Deus e ao mesmo tempo vivemos na escuridão, então estamos mentindo com palavras e ações. Porém, se vivemos na luz, como Deus está na luz, então estamos unidos uns com os outros, e o sangue de [[Jesus]], o seu Filho, nos limpa de todo pecado. Se dizemos que não temos pecados, estamos nos enganando, e não há [[verdade]] em nós. Mas, se confessarmos os nossos pecados a Deus, ele cumprirá a sua promessa e fará o que é correto: ele perdoará os nossos pecados e nos limpará de toda maldade. Se dizemos que não temos cometido pecados, fazemos de Deus um mentiroso, e a sua mensagem não está em nós. ([[I João]] 1:5-10 NTLH)
+
+Uniao com Cristo necessariamente leva a uma vida correta. Nao ha como dissociar nossa pratica no dia a dia de nossa confissao religiosa em Jesus. Nao podemos ir a Igreja no domingo, levantarmos nossas maos, adorarmos a Deus, e, na segunda, mentirmos ao telefone, falarmos mal de nossos colegas de trabalho, falsearmos uma informacao no Imposto de Renda, ou qualquer outra coisa que seja "escuridao". Viver assim eh ser mentiroso. Com todas as letras: MENTIROSO!
+
+Um sinal apresentado pelo texto para a verdade da ligacao entre o que fazemos e o que dizemos que somos eh a uniao com nossos irmaos e a seguranca de que o sangue de Jesus nos limpa de todo o pecado.
+
+Viver uma vida coerente com nossa confissao nao quer dizer que nao somos pecadores, que nao erramos quase todo o dia. Mas quer dizer que buscamos identificar os erros e confessa-los a Deus, que, como diz o texto, cumpre sua promessa - Ele nunca pode mentir - e nos limpa de toda maldade e nos perdoa.
+
+Qualquer coisa diferente disso - coerencia e vida de santidade, confessando os pecados - eh uma forma de chamar a Deus de mentiroso e deixar claro ao mundo que Sua mensagem nao esta em nos. Nos faz mentirosos e mostra que chamamos a Deus da mesma coisa

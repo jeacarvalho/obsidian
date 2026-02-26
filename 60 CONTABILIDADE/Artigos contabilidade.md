@@ -1,0 +1,12 @@
+# Artigos de [[Contabilidade]] para leitura
+- [Formação, qualificação e educação continuada dos profissionais da contabilidade](http://rbc.cfc.org.br/index.php/rbc/article/view/1866)
+- [Estrutura e redação de artigos em contabilidade e organizações](https://www.revistas.usp.br/rco/article/view/142547)
+- [Escolha de carreira: o Dark Triad revela interesses de estudantes de Contabilidade](https://www.revistas.usp.br/rco/article/view/151837)
+- [Influência dos traços de personalidade no ceticismo profissional de auditores independentes](https://www.revistas.usp.br/rco/article/view/158537)
+- [Role-Play: desenvolvendo habilidades e competências do Ensino Embasado na Estrutura Conceitual](https://www.revistas.usp.br/rco/article/view/164092)
+- [Revolução tecnológica no mundo dos negócios e algumas oportunidades e desafios na área contábil](https://www.revistas.usp.br/rco/article/view/165516)
+- [Justiça e desonestidade acadêmica: um estudo com estudantes do curso de ciências contábeis](https://periodicos.ufsc.br/index.php/contabilidade/article/view/2175-8069.2020v17n44p71)
+- [Determinantes do grau de penalização contra auditores independentes no Brasil](https://periodicos.ufsc.br/index.php/contabilidade/article/view/2175-8069.2020v17n45p115)
+- [Expectation gap: análise da percepção social quanto às responsabilidades do auditor independente](https://periodicos.ufsc.br/index.php/contabilidade/article/view/2175-8069.2020v17n45p66)
+- [Pesquisas experimentais aplicadas à educação contábil: panorama atual e oportunidades no cenário brasileiro](https://periodicos.ufsc.br/index.php/contabilidade/article/view/77682)
+- [Potenciais modelos de negócios disruptivos no mercado contábil: estudo de caso com empresas brasileiras](https://periodicos.ufsc.br/index.php/contabilidade/article/view/77767)

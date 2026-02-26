@@ -1,0 +1,2 @@
+Conforme livro da disciplina em [[Empreendedorismo]] da UVA [[EMPREENDEDORISMO.pdf]], p. 68:
+> Sobral, Cardoso e Sanches (2017) que o capital de giro nada mais é do que a **fonte dos recursos necessários para custear as operações empresariais**, tais como **vendas a prazo**, **compra de matérias-primas **de fornecedores, **estoques**, **pagamento de salários** e suas **despesas operacionais**

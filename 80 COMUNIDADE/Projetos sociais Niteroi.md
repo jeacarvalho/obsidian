@@ -1,0 +1,5 @@
+Projetos sociais Niterói
+
+#### O Aprova Jovem visa oferecer 4 mil bolsas de estudos de cursos on-line voltadas aos jovens que estão se preparando para o Enem 2018. Podem se inscrever até o dia 25 de maio, através do site [aprovajovem.com.br](http://aprovajovem.com.br), estudantes entre 15 e 29 anos, que morem em Niterói. Através dessa ação, a Prefeitura pretende, de forma gratuita, auxiliar os jovens niteroienses a acessarem a universidade. Você conhecia essa iniciativa?
+
+#### A Plataforma Urbana Digital da Engenhoca, localizado na Zona Norte oferece cursos gratuitos de Informática, Programação, Robótica com Lego, Desenvolvimento de Jogo, Fotografia, Inglês, entre outros. A região possui o menor percentual de jovens que frequentam o ensino superior. As inscrições podem ser realizadas através do site [plataformadigital.niteroi.rj.gov.br](http://plataformadigital.niteroi.rj.gov.br). Você conhecia a Plataforma e os cursos que oferece?

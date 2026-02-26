@@ -1,0 +1,3 @@
+Poder de Deus que capacita para uma vida plena!
+
+O poder de Deus nos tem dado tudo o que precisamos para viver uma vida que agrada a ele, por meio do conhecimento que temos daquele que nos chamou para tomar parte na sua própria glória e bondade. Desse modo ele nos tem dado os maravilhosos e preciosos dons que prometeu. Ele fez isso para que, por meio desses dons, nós escapássemos da imoralidade que os maus desejos trouxeram a este mundo e pudéssemos tomar parte na sua natureza divina. (2 Pedro 1:3, 4 NTLH)

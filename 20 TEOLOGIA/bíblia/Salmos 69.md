@@ -1,0 +1,2 @@
+Salva-me, ó Deus, porque as águas me sobem até a alma. Estou atolado num profundo lamaçal, que não dá pé. Entrei em águas profundas, e estou sendo arrastado pela correnteza. Salmos 69:1‭-‬2 NAA  
+- Davi e o transe [[depressão]] [[ansiedade]]

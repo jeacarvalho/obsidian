@@ -1,0 +1,1 @@
+![foto.jpg](a452c78d6f2396ea6a9f2d3663c522bb.jpg)

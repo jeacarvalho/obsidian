@@ -1,0 +1,1 @@
+*ὀργή orgḗ, or-gay'; from [[G3713]]; properly, desire (as a reaching forth or excitement of the mind), i.e. (by analogy), violent passion (ire, or (justifiable) abhorrence); by implication punishment:—anger, indignation, vengeance, wrath*."

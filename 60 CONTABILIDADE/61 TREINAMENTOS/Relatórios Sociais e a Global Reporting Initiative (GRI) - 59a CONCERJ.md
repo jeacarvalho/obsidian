@@ -1,0 +1,14 @@
+[[Contabilidade]]
+- Glaucia Terreo
+- 89 - Acidente da ENron levou investidores a pensar se tomavam decisões corretas de alocação de recursos
+- Canibais com garfo e faca - livro
+- triple "bottom" line (?)
+	- sucesso financeiro
+	- social
+	- ambiental
+- [[ESG]]
+	- Enviroment
+	- Social
+	- Governança
+- ![[EESG-59aCONCERJ.png]]
+- 

@@ -1,0 +1,3 @@
+> Lev Semionovitch Vigotski (em russo: Лев Семёнович Выготский, transliteração: Lev Semyonovich Vygotskij, sendo o sobrenome também transliterado como Vigotski, Vygotski ou Vygotsky; Orsha, 17 de novembro de 1896 — Moscou, 11 de junho de 1934), foi um psicólogo, proponente da Psicologia histórico-cultural.
+> Pensador importante em sua área e época, foi pioneiro no conceito de que o desenvolvimento intelectual das crianças ocorre em função das interações sociais e condições de vida. Veio a ser descoberto pelos meios acadêmicos ocidentais muitos anos após a sua morte, que ocorreu em 1934, por tuberculose, aos 37 anos.
+fonte: https://pt.wikipedia.org/wiki/Lev_Vygotsky

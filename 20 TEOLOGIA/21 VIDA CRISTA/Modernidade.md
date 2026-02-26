@@ -1,0 +1,1 @@
+[[há mais ponto de contato do mundo e da cultura atual com o amor do que com a justiça]]

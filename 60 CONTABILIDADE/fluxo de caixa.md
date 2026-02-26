@@ -1,0 +1,2 @@
+Conforme livro da disciplina em [[Empreendedorismo]] da UVA [[EMPREENDEDORISMO.pdf]], p. 68:
+>O Sebrae (2010) descreve o fluxo de caixa como o **saldo disponível **(dinheiro disponível no caixa ou depositado em conta corrente nos bancos etc.) apurado pela **diferença entre o total do valor dos recebimentos e pagamentos efetivamente realizados** em uma determinada data ou período

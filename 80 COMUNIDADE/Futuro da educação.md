@@ -1,0 +1,1 @@
+[[Vai ser preciso dar liberdade para o aprendizado escolar]]

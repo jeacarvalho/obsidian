@@ -1,0 +1,2 @@
+#### Resultado de não confiar em Deus
+O Senhor, o Santo Deus de Israel, diz ao seu povo: “Se voltarem para mim e ficarem calmos, vocês serão salvos; fiquem tranquilos e confiem em mim, e eu lhes darei a vitória. Mas vocês não quiseram fazer o que eu disse. Pelo contrário, disseram assim: ‘Não! Nós vamos montar cavalos ligeiros e assim escaparemos do inimigo!’ Pois fujam, se puderem; mas os cavalos dos inimigos são mais ligeiros do que os seus. (IS_30_15_16 NTLH)

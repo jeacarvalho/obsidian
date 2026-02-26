@@ -1,0 +1,14 @@
+# [Montando seu plano de negócios](https://player.vimeo.com/video/369352231)
+- Premissas
+	- Área geográfica
+- Capital de giro
+- Potencial de mercado
+	- Ver habitantes do bairro por faixa etária e determinar qual percentual deseja alcançar em cada faixa e frequência estimada de visita e ticket médio
+- Recursos humanos
+	- Salários e encargos, por atividade necessária da empresa
+- Planejamento operacional financeiro
+	- A partir do potencial de mercado, distribuir o quanto desse alvo vai conseguir alcançar por mês, durante 36 meses
+	- Esse percentual tende a aumentar conforme as pessoas vão conhecendo. Se diminuir é sinal ruim. Ticket médio idem - menor do que alvo e aumentando
+	- Gastos
+	- Tempo de fluxo negativo x tempo em que o investimento inicial é recuperado
+- 

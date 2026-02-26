@@ -1,0 +1,2 @@
+#### Músicos, compositores, escritores, artistas em geral também lideram
+Uma definição mais ampla de [[liderança]] promovida por Howard Gardner, psicólogo de Harvard, inclui pessoas que afetam de maneira significativa e indireta os pensamentos, sentimentos e comportamentos de uma quantidade importante de indivíduos através das obras que criam

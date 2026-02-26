@@ -1,0 +1,18 @@
+- Representantes (05/12 abertura; 13 e 14/12 sessões)
+	- Dalmo
+	- Zé
+- Vandi culto aniversário 12/11
+	- Cessão da igreja
+	- Verba lanche +-200,00
+- Que igreja?
+	- Negócio social - vender a preço de custo
+	- SENAI, treinamento
+	- Cuidado com a "leitura" que pode ser feita
+		- Amigos, membro da igreja demitido
+	- Seminarista deve concordar
+- Mudança
+	- Propor dar um valor ao proprietário para obras
+	- Avisar à Daize
+	- Férias pastoral 31/12 a 19/01
+	- Conversar com o João
+	- Doar o que sobrar para PNTR

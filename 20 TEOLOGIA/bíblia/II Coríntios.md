@@ -1,0 +1,8 @@
+[[2 Co The Message]]
+[[II Coríntios 1]]
+[[II Coríntios 3]]
+[[II Coríntios 5]]
+[[II Coríntios 6]]
+[[II Coríntios 7]]
+[[II Coríntios 9]]
+[[II Coríntios 10]]

@@ -1,0 +1,18 @@
+- Não há verdades, apenas visões. Vamos construir a verdade juntos
+- Pensar no todo e não nas partes apenas
+	- E aqui há muitas partes
+		- gestão de Capacidade
+		- FinOps
+		- DevOPs
+			- Essa é A definição crítica
+		- Bilhetagem
+		- Sustentação
+			- Monitoração, logs, etc.
+		- Contrato/ faturamento
+	- Se uma parte ficar de fora ou não for bem tratada o todo ficará prejudicado
+		- Teoria das restrições: a corrente é tão forte quanto seu elo mais fraco.
+
+- Um só local para nossas atividades/issues
+	- Temos tido muitos gits
+	- Priorização do assunto, no nível em que cada um puder dar.
+- Um time, ainda que seja parcial, mas preciso de ponto focal de cada área envolvida

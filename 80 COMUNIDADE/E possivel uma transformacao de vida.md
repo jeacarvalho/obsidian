@@ -1,0 +1,14 @@
+- [Esse texto](https://www.bbc.com/portuguese/geral-55420556) mostra como uma prostituta conseguiu que sua filha não seguisse o seu caminho
+- [O garoto que vendia amendoim e virou cientista](https://g1.globo.com/educacao/noticia/2019/07/02/a-historia-do-garoto-que-vendia-amendoim-no-semaforo-e-se-tornou-doutor-e-cientista.ghtml)
+- [[Vendendo amendoim, ambulante muda de vida e ganha bolsa para cursar direito]]
+- [a mulher que quebrava castanha e chefia cooperativa](https://www.bbc.com/portuguese/brasil-50474935)
+- [os presos britânicos que se formaram em criminologia](https://www.bbc.com/portuguese/geral-49053492)
+- [[De flanelinha a pos-doutor em fisica]]
+- [[De usuaria de crack a dona de confeitaria]]
+- [[Ele viveu 8 anos na rua. Hoje, tem um negocio de jardinagem]]
+- [[Familia de venezuelanos surdos reconstroi a vida vendendo arepas na zona norte do Rio]]
+- [[Jovem da periferia de SP que chegou a Harvard sonha em mudar educacao brasileira e entrar para a politica]]
+- [[como um ex-camelo abriu quase 50 franquias de hot dog no metro de SP]]
+- [[De catador a presidente de empresa]]
+- [[O estudante que transformou sua vida batendo em portas de casas ricas de Londres]]
+

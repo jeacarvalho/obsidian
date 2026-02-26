@@ -1,0 +1,11 @@
+Quando estou em bom momento sou/apresento:
+- Bom humor
+- Canto muito
+- Converso mais
+- Estou em algum fluxo de criação/construção/trabalho
+- Respiro melhor
+- Estou energizado
+- Estou engajado
+- Sou grato
+- otimista
+- [[Pensando minhas paixões#Liste as atividades e momentos em sua vida em que você se sentiu mais realizado e energizado]]

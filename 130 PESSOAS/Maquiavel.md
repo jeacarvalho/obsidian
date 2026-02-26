@@ -1,0 +1,1 @@
+“Os fins justificam os meios.”

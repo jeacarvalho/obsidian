@@ -1,0 +1,1 @@
+- Estar disponível ao outro

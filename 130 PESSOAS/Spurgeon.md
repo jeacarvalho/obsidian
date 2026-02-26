@@ -1,0 +1,2 @@
+> Charles Haddon Spurgeon, referido como C. H. Spurgeon (Kelvedon, Inglaterra, 19 de junho de 1834 — Menton, França, 31 de janeiro de 1892), foi um pregador Batista inglês. Muito influente no protestantismo reformado nos dias de hoje, meio no qual é conhecido como o "Príncipe dos Pregadores". Foi uma figura forte na tradição Batista Reformada, defendendo a Igreja de acordo com o entendimento da Confissão de Fé Batista de 1689, e se opondo às tendências teológicas liberais e pragmáticas na Igreja de seus dias.
+fonte: https://pt.wikipedia.org/wiki/Charles_Spurgeon

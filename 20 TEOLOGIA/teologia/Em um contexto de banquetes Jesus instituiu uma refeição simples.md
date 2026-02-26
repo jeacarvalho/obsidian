@@ -1,0 +1,4 @@
+#### Em um contexto de banquetes Jesus instituiu uma refeição simples
+- Muito interessante essa lembrança do autor. Como o contexto ali era de banquetes comemorativos. Ou seja, se um importante líder do Sinédrio ou Pilatos fossem instituir uma refeição celebrativa, seria uma baita refeição, com  tudo de bom e do melhor que o dinheiro pudesse comprar.
+- Mas Jesus, de forma revolucionária, institui uma refeição simples, onde todos poderiam participar: pão e vinho, ambos abundantes naquela época e acessíveis a qualquer classe social.
+- A [[ceia do senhor]], então, é, também, um "tapa na cara" dos poderosos de Seus dias

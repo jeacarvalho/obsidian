@@ -1,0 +1,2 @@
+#### [[Fluxo]] e a [[experiência]] com a [[presença de Deus]]
+Na tradição mística cristã, uma vez que você tenha experimentado a graça de Deus, a ‘noite escura da alma’ descreve a dor incrível de sua ausência. O mesmo vale para o fluxo.

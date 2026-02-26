@@ -1,0 +1,3 @@
+#### Mesmo tendo começado em 2007 um plano para mais ventiladores mecânicos os EUA foram pegos sem capacidade pela covid em 2020
+Nota | Local: 103
+O governo federal dos Estados Unidos enfrentou dificuldades semelhantes. Em 2007, elaborou um plano para induzir o desenvolvimento de ventiladores portáteis de baixo custo, a serem mobilizados em casos de emergência. No começo de 2020, nada menos que treze anos depois, nenhum ventilador tinha sido entregue, basicamente por conta de sua dependência da terceirização. A crise de covid-19 agravou ainda mais as consequências dessa falta de capacidade.

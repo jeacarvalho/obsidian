@@ -1,0 +1,5 @@
+[[Índice fotos notas evernote]]
+
+![img-20180505-wa0036.jpg](4aa2eaf8dbc38bbac30041e86065f645.jpg)
+
+![img-20180505-wa0035.jpg](532c7186b63c479bd18e15d5c5bded53.jpg)![img-20180505-wa0034.jpg](9813da9ff75837b59f5b756fea913761.jpg)![img-20180505-wa0033.jpg](2fa703f5c7241d6c2bf4cabfa72db409.jpg)![img-20180505-wa0032.jpg](9b8403696e2e77ca14f7713e39df70e4.jpg)![img-20180505-wa0031.jpg](e0f91d38546ec5da1c2bc1ec451c199b.jpg)![img-20180505-wa0030.jpg](da70f06b80732daeefe039c05e0a84a6.jpg)![img-20180505-wa0029.jpg](466a3b1c1bfa63988df02b4923dfb67c.jpg)

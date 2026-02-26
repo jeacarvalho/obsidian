@@ -1,0 +1,2 @@
+> Esther Hillesum foi uma jovem judia, cujos diários e cartas descrevem a vida em Amsterdã, durante a ocupação alemã. Nasceu a 15 de Janeiro de 1914, em Middelburg (Países Baixos).
+fonte: https://pt.wikipedia.org/wiki/Etty_Hillesum

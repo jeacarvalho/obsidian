@@ -1,0 +1,5 @@
+- Conceito em [[kishimi2018 - A coragem de não agradar]] da psicologia adleriana - [[Alfred Adler]]
+- Não são os traumas que formam minha vida. Mas as decisões que tomei, por toda vida, do que fazer a cada [[experiência]] ruim que vivi.
+- E as fiz sempre com metas em vista. Eu sempre quis chegar a algum lugar. 
+- A partir desse mesmo conceito, comecei a vascular a vida atrás de outras metas que me são ocultas. E pensei: estou sempre acima de meu peso. Vivo tentando, nunca conseguindo manter. Há alguma meta escondida aí? Parece que sim. Quero ser grande. Quero impor algum medo. Mesmo que meu peso seja de gordura, ao olhar rápido o outro acha que sou grande. De onde vem? Apanhei várias vezes quando criança. Houve um prédio em que moramos que foi muito ruim para minha vida. Muito garoto "mau", brigão. E eu não tinha essa formação em casa. Apanhei um bocado, até que fui para o judô e, brigando depois disso, quando apaguei o "valentão" que vivia me batendo. 
+- Mas o desejo de ser temido ficou lá. E é muito mais fácil ser grande pela gordura do que ser grande pela musculatura. Meus 108kg de [[20220611]] seriam muito difíceis se fosse só músculo

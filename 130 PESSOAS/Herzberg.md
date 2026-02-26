@@ -1,0 +1,2 @@
+https://pt.wikipedia.org/wiki/Frederick_Herzberg
+- Frederick Irving Herzberg (Lynn, Massachusetts, EUA, 18 de Abril de 1923 - 19 de Janeiro de 2000, Salt Lake City, Utah) foi o autor da "Teoria dos dois fatores" que aborda a situação de motivação e satisfação das pessoas. 

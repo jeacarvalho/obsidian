@@ -1,0 +1,2 @@
+#### Falta de desafios na sociedade moderna pode estar relacionada a [[ansiedade]] e [[depressão]]
+- Novas pesquisas mostram que depressão, ansiedade e o sentimento de não pertencimento podem estar ligados a não ser desafiado

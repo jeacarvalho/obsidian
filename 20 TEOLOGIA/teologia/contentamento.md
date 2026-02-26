@@ -1,0 +1,2 @@
+- (Dicionario Strong) αυταρκεια autarkeia de 842 ; TDNT - 1:466,78; n f 1) uma condição de vida ideal, em que nenhuma ajuda ou apoio são necessários 2) estar suprido de todas as necessidades para a vida 3) um espírito contente com a sua sorte ou porção, contentamento
+- Se tivéssemos mais, mais [[Justiça Social]] haveria.

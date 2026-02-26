@@ -1,0 +1,4 @@
+1. Time engenharia vai criar nova oferta
+2. vMware : Todo recurso que for insumo para faturamento posterior precisa conter os seguintes metadados: codigo-servico; cnpj-cliente; numero-contrato. Todo consumo nesse ambiente será coletado e enviado para apropriação de custos e faturamento pelo bilhetador SUPCD
+3. Elementos da oferta que estejam fora do ambiente vMware: verificar se há insumo criado para os elementos. Em não havendo procurar time da Jussiara. 
+4. Em existindo insumo, ele já estará sendo coletado por código de serviço no sigecom. O bilhetador SUPCD irá buscar essa apropriação no serpro data e irá usar o consumo para aumentar o valor consumido na console (vcc) que irá subsidiar o cálculo do csb

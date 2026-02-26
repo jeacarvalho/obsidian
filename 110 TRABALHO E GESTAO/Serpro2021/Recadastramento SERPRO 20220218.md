@@ -1,0 +1,1 @@
+- O recadastramento foi realizado com sucesso. Foi gerado o número de protocolo :202202186519 

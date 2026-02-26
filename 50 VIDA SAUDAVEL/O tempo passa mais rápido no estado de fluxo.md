@@ -1,0 +1,2 @@
+#### O tempo passa mais rápido no estado de fluxo
+1.  A distortion of temporal experience due to altered subjective perception of time: People who experience flow tend to view time as passing faster than normal; however, the sensation that time slows down has also been reported.

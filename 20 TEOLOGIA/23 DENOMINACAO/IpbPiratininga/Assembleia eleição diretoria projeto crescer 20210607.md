@@ -1,0 +1,14 @@
+- COntagem de presentes: COm Ricardo, vamos a 25 associados e precisamos de metade mais um - 13
+- Abertura com oração e leitura de: 
+	- 1 Co 10:31 Portanto, se vocês comem, ou bebem ou fazem qualquer outra coisa, façam tudo para a glória de Deus.
+	- Eclesiastes 9:10 NAA  Tudo o que vier às suas mãos para fazer, faça-o conforme as suas forças, porque na sepultura, que é para onde você vai, não há obra, nem projetos, nem conhecimento, nem sabedoria alguma.
+- Apresentação do resultado financeiro consolidado ainda em fechamento
+- Apresentação do cenário financeiro com as reduções
+- Eleições
+	- Proposta de chapa
+	- Proposta de conselho fiscal
+- Inclusão membros
+- Assinatura de lista: Daize vai estar na igreja todos os dias de 13 às 18h
+	- Se vc não puder nos avise que ela vai buscar a tua assinatura
+- Link da video realizada: https://meet.google.com/dhc-fnkk-wbb
+	

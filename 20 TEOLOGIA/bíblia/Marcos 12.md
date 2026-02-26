@@ -1,0 +1,1 @@
+[[Marcos 12 - intimo dinheiro tempo esperanca emocoes inteligencia  - tudo isso deve amar a Deus]]

@@ -1,0 +1,1 @@
+The Critical Thinker: The Path To Better Problem Solving, Accurate Decision Making, and Self-Disciplined Thinking Steven Schuster 2018

@@ -1,0 +1,4 @@
+- Alain de Botton
+	- aristóteles: techne + sofia = eudamonia (wise & effective)
+	- ![[Pasted image 20250416180512.png]]
+	-  

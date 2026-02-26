@@ -1,0 +1,8 @@
+[[Deuteronômio 5]]
+[[Deuteronômio 6]]
+[[Deuteronômio 7]]
+[[Deuteronômio 20]]
+[[Deuteronômio 23]]
+[[Deuteronômio 29]]
+[[Deuteronômio 31]]
+[[Deuteronômio 32]]

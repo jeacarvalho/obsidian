@@ -1,0 +1,11 @@
+[[magaldi2018-Gestão do amanhã]]
+[[Conhecimento de Deus da sabedoria]]
+[[Conhecimento preciso é requisito da liderança]]
+[[Lacuna de conhecimento]]
+[[Perigos do conhecimento]]
+[[Ataque ao conhecimento é a maior ameaça global na era da pós-verdade, diz pesquisadora - BBC News Brasil]]
+[[Aula 2 O ministério na Era do Conhecimento]]
+[[inimigo não é o desconhecido, mas o conhecido sutilmente alterado]]
+[[7 dicas para melhorar a maneira como você pensa mais do que ler 7 livros sobre isso]]
+
+![[PKMProcess.jpg]]

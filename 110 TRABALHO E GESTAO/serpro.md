@@ -1,0 +1,5 @@
+## 20250317 - Apresentação do Novo Modelo de Gestão do Serpro
+- https://nam02.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_Y2JiNjdjMGUtMWUxYi00NGQxLTg0MWItMDcyYjlkZWNlYTVj%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522c2db1c4d-29e6-4330-85e3-fb54b7696668%2522%252c%2522Oid%2522%253a%25228df8a0bc-ef06-44cc-b217-9f4bc6de54d0%2522%257d&data=05%7C02%7Cjose-eduardo.carvalho%40serpro.gov.br%7C7567cb1d6fdd4c15ba6208dd6229c446%7Cc2db1c4d29e6433085e3fb54b7696668%7C0%7C0%7C638774653801938080%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=UL3MnpSduvYmvn3%2FYeSD2MxGoUl4o4twAkn28w%2FvUDo%3D&reserved=0
+- Escritório de processos - Serpro ou diretoria?
+- Unifica já não foi uma tentativa de criar essa integração? O que falhou lá? Aprendemos? Se sim, essa lição aprendida está sendo levada em consideração?
+- Cronograma?

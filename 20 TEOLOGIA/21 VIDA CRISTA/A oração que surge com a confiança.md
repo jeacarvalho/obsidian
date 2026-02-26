@@ -1,0 +1,2 @@
+#### A oração que surge com a confiança
+Porém eu, ó Senhor Deus, faço a minha oração a ti. Ó Deus, responde-me quando achares por bem, pois me amas muito! Salva-me como prometeste. ([[Salmos 69]]_13 NTLH)

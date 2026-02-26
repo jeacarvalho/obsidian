@@ -1,0 +1,4 @@
+Niver tio Edvar fotos 2019
+
+![img_20190818_134355.jpg](6196ee69ed575493fa8a917cccf658d2.jpg)
+![img_20190818_134352.jpg](00347354b1b396e378711c7fd6e2f8ca.jpg)

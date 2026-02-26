@@ -1,0 +1,14 @@
+- Armário novo chegou hoje
+- Apadrinhamento
+- Alunas novas. Quantos somos hoje? - 3 alunas
+	- Saiu o Luiz Fernando: 
+- Estamos andando com a lista de alunos e com a proposta de termos o perfil de cada um?
+	- Estamos usando o caderno da Luíza? Alguma anotação?
+- Andamento da logística alimentação
+- Classe para as mães
+	- Lista de seis pessoas
+- Depoimento Elza
+	- Mãe preocupada em chegar atrasada por causa do horário de saída escola, outra mãe falando para que ela fale na escola
+	- Mãe do Rai: onde o projeto for, eu vou atrás.
+	- Pensar em usar coisas assim como propaganda no instagram do projeto para mostrar o [[valor]] do trabalho realizado
+- Situação financeira

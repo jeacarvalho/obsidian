@@ -1,0 +1,3 @@
+Sim, todas as coisas que um dia considerei importantes nada mais valem na minha vida. Comparado com o alto privilégio de conhecer Cristo [[Jesus]], meu Senhor, em primeira mão, tudo o mais é insignificante — esterco. Joguei tudo no lixo para abraçar Cristo e ser abraçado por ele. Não me interessa a justiça inferior e insignificante que se baseia na observância de uma lista de regras, quando posso desfrutar aquela que é resultado de confiar em Cristo — a justiça de Deus. Fp3
+
+- 16 Assim, os interessados em tudo que Deus tem para nós devem se manter focados no alvo. Se algum de vocês tem outra coisa em mente, algo menos que um compromisso total, Deus vai clarear a vista embaçada de vocês — e vocês vão enxergar! Agora, que estamos no caminho certo, permaneçamos nele.

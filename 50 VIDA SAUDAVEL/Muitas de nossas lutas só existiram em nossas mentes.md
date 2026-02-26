@@ -1,0 +1,2 @@
+#### Muitas de nossas lutas só existiram em nossas mentes
+Minha mente já enfrentou muitas dificuldades, mas a maioria delas nunca existiu." Mark Twain Apud http://mude.nu/top-10-pensamentos-de-mark-twain/

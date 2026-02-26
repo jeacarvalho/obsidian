@@ -1,0 +1,4 @@
+- **Vigiem** - γρηγορέω (_grēgoreō_) - **[[G1127]]**
+- **Fiquem atentos** - ἀγρυπνέω (_agrupneō_) - **[[G69]]**
+- **Atentos / Olhai** - βλέπω (_blepō_) - **[[G991]]**
+- **Estar preparado / perceber** - νοέω (_noeō_) - **[[G3539]]**

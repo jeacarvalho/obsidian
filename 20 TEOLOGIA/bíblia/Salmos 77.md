@@ -1,0 +1,4 @@
+Não me deixas pregar os olhos; tão perturbado estou, que nem posso falar. Penso nos dias de outrora, trago à lembrança os anos de tempos passados. De noite indago o meu íntimo, e o meu espírito pergunta: “Será que o Senhor nos rejeitará para sempre? Acaso, não voltará a ser propício? Cessou perpetuamente a sua graça? Caducou a sua promessa para todas as gerações? Será que Deus se esqueceu de ser bondoso? Ou será que encerrou as suas misericórdias na sua ira?” Então eu disse: “Esta é a minha aflição: o poder do Altíssimo não é mais o mesmo.” Salmos 77:4‭-‬10 NAA  
+- as dúvidas sempre presente em todas as geracoes  
+- e a dúvida mor: Deus ainda está lá?.
+- [[fé]] e [[dúvida]]

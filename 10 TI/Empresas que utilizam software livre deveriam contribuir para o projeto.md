@@ -1,0 +1,6 @@
+- Se uso o linux porque não contribuir no desenvolvimento? Idem para Jboss, Wildfly
+- A Amazon passou a fazer isso. Ao entender a importância do [[Rust]] passou a utlizar a linguagem e contratou gente para ajudar no desenvolvimento dela.
+- Benefícios? Passou a ter especialistas dentro de casa. Passou a ter voz na direção de onde o SL deveria ir.
+- Importante a fala de um engenheiro da [[AWS]]:
+	- *Hiring engineers to work directly on Rust allows us to improve it in ways that matter to us and to our customers, and help grow the overall Rust community.*
+	- fonte: [[20201124asay - Why AWS Loves Rust,]]

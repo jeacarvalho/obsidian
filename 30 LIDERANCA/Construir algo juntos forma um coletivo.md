@@ -1,0 +1,6 @@
+#### Construir algo juntos forma um coletivo
+- A partir da construção do tabernáculo em [[Êxodo 25]]
+> Por que a construção dessa estrutura — com instruções específicas
+sobre o comprimento das vigas e todas as madeiras e ornamentos diferen-tes — requer uma atenção tão minuciosa? É porque os israelitas ainda não são um povo. São um grupo de tribos e indivíduos oprimidos e díspares. Como diz Sacks: “Para transformar um grupo de indivíduos em uma na-ção comprometida, eles devem construir algo juntos.” Uma pessoa é for-mada pelo fazer, continua Sacks; uma nação é edificada pela construção. (p. 305)
+
+> O diplomata britânico Victor Mishcon, no início da década de 1980, tentava negociar um acordo de paz com o Oriente Médio, então convidou o Rei Hussein da Jordânia e o Ministro das Relações Exteriores israelense Shimon Peres para jantarem em sua casa. Eles comeram e tiveram uma conversa agradável, e finalmente se levantaram para ir embora. Mishcon disse a eles que não iriam a lugar nenhum. Precisavam lavar os pratos. Ele colocou o Rei Hussein na pia e Peres ao lado do escorredor e os fez trabalhar lado a lado, lavando e secando. Esse foi o objetivo da noite para ele

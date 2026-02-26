@@ -1,0 +1,3 @@
+- ![[ElementosDeUmaAssociacao-palestra-CRCSP.png]]
+- Conselho CUrador / Administrativo
+- ![[curso_certificado_3osetor_crcSP.pdf]]

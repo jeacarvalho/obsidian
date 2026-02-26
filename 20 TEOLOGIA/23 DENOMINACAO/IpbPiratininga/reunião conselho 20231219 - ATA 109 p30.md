@@ -1,0 +1,2 @@
+- Eleição diretoria
+- Em seguida compartilhei minha situação. Não sei se teremos ata - confirmar com Ricardo quando da próxima reunião.

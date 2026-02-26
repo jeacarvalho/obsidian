@@ -1,0 +1,15 @@
+# O perigo da [[tecnologia]]
+- Eu sempre pensei sobre o fato de Caim e sua descendência terem sido os precursores das grandes invenções.
+- Aí, acabei de ler um artigo que já estava salvo aqui há algum tempo, [[5 alertas sobre mudanças tecnológicas de Neil Post]]
+- Ali o autor lista:
+	- **Compensação**: uma tecnologia sempre traz vantagem e desvantagem
+		- "O que a nova tecnologia fará?” é não mais importante que a pergunta “O que a nova tecnologia desfará?"
+	- **Desigualdade**: a distribuição de vantagens e desvantagens não é igual para todos. Alguns terão só vantagens, enquanto outros, só desvantagem
+		- "Quem especificamente se beneficia do desenvolvimento de uma nova tecnologia? Que grupos, e que tipo de pessoa, que tipo de indústria serão favorecidos? E, é claro, quais grupos de pessoas serão, portanto, prejudicados?"
+	- Ideologia: O que vai mudar na forma que pensamos a vida? Escrita diminuiu a necessidade de memória, mas o que isso trouxe para o ser humano? Perdemos as referências de "cor" do que é bom e mau. Provérbios não são mais decorados.
+		- "a pessoa que detém o computador valoriza a informação, não o conhecimento, certamente não a sabedoria. De fato, na era da informática, o conceito de sabedoria pode desaparecer completamente"
+	- ecologia: uma tecnologia não "acrescenta algo". Ela muda tudo. Assim como uma gota de tinta vermelha em uma cisterna muda a cor da água.
+		- "As consequências da mudança tecnológica são sempre vastas, frequentemente imprevisíveis e predominantemente irreversíveis"
+	- mítica: tecnologias mudam tudo e é como se nunca tivessem "não existido". Carros, aviões, tv...É como se sempre existissem, como se o próprio Deus os tivesse criado. COm isso, não questionamos mais essas tecnologias. Elas passam a ser aceitas como são. O carro é realmente o melhor meio de transporte, mais eficiente?
+		- " nosso entusiasmo pela tecnologia pode se tornar uma forma de idolatria e nossa crença em seus benefícios podem ser um falso absoluto",
+- Então, passei a entender melhor porque foi a família do 1o assassino os 1os inventores.

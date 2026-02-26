@@ -1,0 +1,1 @@
+Conceito a que cheguei no entendimento que tive daquilo que Carlo Rovelli explicou sobre a física quântica nos livros "Sete breves lições de física" e "A realidade não é o que parece: A estrutura elementar das coisas"

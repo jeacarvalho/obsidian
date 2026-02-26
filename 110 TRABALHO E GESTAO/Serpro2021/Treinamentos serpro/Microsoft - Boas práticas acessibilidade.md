@@ -1,0 +1,10 @@
+- DAD - Suporte técnico da MS para clientes com deficiências
+- eDAD - Para empresas
+- Insights da MS para testar [[acessibilidade]]. Tem plugin chrome (**Accessibilty checker? Ou só no Office**)
+- ![[AcessilidadeToolsMicrosoft.png]]
+- LInks muito grandes são ruins para entender com o leitor de tela
+- Imagens são reconhecidas por AI e "descritas" mas se há texto na imagem isso não é descrito
+- toda imagem precisa ter um texto alternativo
+- defina o idioma do documento de maneira correta para que o leitor tenha o "accent" correto
+- [[Pensar acessibilidade com tarefa do professor ou pregador]]
+- 

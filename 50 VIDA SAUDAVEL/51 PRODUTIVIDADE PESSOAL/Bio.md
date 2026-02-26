@@ -1,0 +1,3 @@
+Ansioso em recuperação, tenho 51 anos e sou casado com uma mulher maravilhosa. Além disso sou padrasto de duas enteadas, pai de uma filha e "avôdrasto" de uma neta. Todas lindas. Atualmente curso graduações em Ciências Contábeis e Ciências Econômicas (EAD - UVA) e sou graduado em Ciências da Computação (UFF) e Teologia, tendo cursado pós graduação em Comércio Exterior (UFRJ) e em Gestão Pública (UFRGS). Desenvolvi software por mais de 10 anos e estou gerente de times de TI há 16 anos. 
+
+- [[Fotos para perfil]]

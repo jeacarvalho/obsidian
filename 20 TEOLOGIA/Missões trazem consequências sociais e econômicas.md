@@ -1,0 +1,4 @@
+#### Missões traz consequências sociais e econômicas
+AT_16_18_20 Isto se repetia por muitos dias. Então, Paulo, já indignado, voltando-se, disse ao espírito: Em nome de [[Jesus]] Cristo, eu te mando: retira-te dela. E ele, na mesma hora, saiu. 19 Vendo os seus senhores que se lhes desfizera a [[Esperança]] do lucro, agarrando em Paulo e Silas, os arrastaram para a praça, à presença das autoridades; 20 e, levando-os aos pretores, disseram: Estes homens, sendo judeus, perturbam a nossa cidade,
+- Temos que enfrentar as consequências sociais e econômicas de nossa ação missionária no mundo.
+- Estamos preparados para pagarmos um preço? Aqui foi açoite por ter feito cessar o lucro de poderosos...a denúncia cristã em um mundo tão desigual e mau não deveria nos levar a viver um bocado desses açoites?

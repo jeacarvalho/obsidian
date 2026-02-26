@@ -1,0 +1,6 @@
+- RE PNTR 
+	- 29 de AGOSTO, de 16h às 22h,na IP LITORANEA
+	- pb. Dalmo
+- Martha e Daniel
+	- João Mororó olhar
+- Gigia?

@@ -1,0 +1,5 @@
+> **Jacques Le Goff** ([Toulon](https://pt.wikipedia.org/wiki/Toulon "Toulon"), [1 de janeiro](https://pt.wikipedia.org/wiki/1_de_janeiro "1 de janeiro") de [1924](https://pt.wikipedia.org/wiki/1924 "1924") – [Paris](https://pt.wikipedia.org/wiki/Paris "Paris"), [1 de abril](https://pt.wikipedia.org/wiki/1_de_abril "1 de abril") de [2014](https://pt.wikipedia.org/wiki/2014 "2014")) foi um [historiador](https://pt.wikipedia.org/wiki/Historiador "Historiador") [francês](https://pt.wikipedia.org/wiki/Fran%C3%A7a "França") especialista em [Idade Média](https://pt.wikipedia.org/wiki/Idade_M%C3%A9dia "Idade Média"). Autor de dezenas de livros e trabalhos, era membro da [Escola dos Annales](https://pt.wikipedia.org/wiki/Escola_dos_Annales "Escola dos Annales"), pertencente à terceira geração, empregou-se em [antropologia histórica](https://pt.wikipedia.org/wiki/Antropologia_hist%C3%B3rica "Antropologia histórica") do ocidente medieval.
+
+Recebeu o [Prêmio Gobert](https://pt.wikipedia.org/wiki/Pr%C3%AAmio_Gobert "Prêmio Gobert") em 1996
+
+fonte: https://pt.wikipedia.org/wiki/Jacques_Le_Goff

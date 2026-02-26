@@ -1,0 +1,11 @@
+# 20240423
+- Faculdade de informática - apesar de ter perdido muito tempo, na verdade, de ter "me perdido", foi um período em que me senti bem. Não fiz muito bem - apenas o 1o período. Mas voltar lá nesse período me dá essa sensação de realização e preenchimento
+- Os festivais, a banda, , com Gustavo, as canções - 100% de preenchimento e bem estar
+- Quando no início da faculdade, muito magro, jogando volei bem pra caramba. Até mesmo o campeonato de volei na Uff.
+- seminário, o período na Betânia
+- Como candidato, sermões de prova, ordenação, início em Piratininga
+- Viagem!!!! kkkkk
+- As entregas de projetos - Firjan, Siscomex Carga. A entrada no Serpro, aquele início de futebol, novidade, ônibus levando a gente para o Horto!
+- Casamento. Carol
+- Bike para o trabalho! Quando consegui ver que podia, aquilo foi sensacional! E ver os kms crescendo, a disposição, a saúde, remédio diminuindo!
+- 

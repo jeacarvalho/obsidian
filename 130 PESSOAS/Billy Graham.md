@@ -1,0 +1,3 @@
+> William Franklin "Billy" Graham Jr (Charlotte, 7 de novembro de 1918 - Montreat, 21 de fevereiro de 2018)[1] foi um evangelista evangélico, teólogo arminiano e pastor batista norte-americano. Foi conselheiro espiritual de vários presidentes dos Estados Unidos e proeminente membro da Convenção Batista do Sul.
+> Billy Graham pregou pessoalmente para mais pessoas do que qualquer outro pregador da [[história]] ao redor do mundo. De acordo com a sua equipe, a partir de 1993, mais de 2,5 milhões de pessoas tinham dado "um passo à frente em suas cruzadas para receber Jesus Cristo como seu Salvador pessoal". A partir de 2008, a audiência de Graham's lifetime, incluindo rádio e televisão, superou 2,2 bilhões.
+fonte: https://pt.wikipedia.org/wiki/Billy_Graham

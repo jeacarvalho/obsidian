@@ -1,0 +1,2 @@
+> Ferdinand de Saussure (Genebra, 26 de novembro de 1857 — Morges, 22 de fevereiro de 1913) foi um linguista e filósofo suíço, cujas elaborações teóricas propiciaram o desenvolvimento da linguística enquanto [[ciência]] autônoma. Seu pensamento exerceu grande influência sobre o campo da teoria da literatura e dos estudos culturais.[1][2]
+fonte: https://pt.wikipedia.org/wiki/Ferdinand_de_Saussure

@@ -1,0 +1,3 @@
+#### O que é uma vida bem vivida
+ O mundo diz para serem boas consumidoras, mas elas preferem ser consumidas — por uma causa moral. O mundo diz para desejarem independência, mas elas escolhem a interdependência — estar envoltas em uma rede de relacionamentos afetuosos. O mundo diz para quererem liberdade individual, mas elas preferem intimidade, responsabilidade e compromisso. O mundo quer que subam os degraus em busca do sucesso, mas elas querem ser alguém
+para outras pessoas.  p. XVIII

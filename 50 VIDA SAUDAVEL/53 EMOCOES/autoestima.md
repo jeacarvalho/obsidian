@@ -1,0 +1,2 @@
+## Excelente definição 
+O Capítulo 14, "Self-Esteem", define autoestima como "uma forma de pensar, sentir e agir que implica que você se aceita, respeita, confia e acredita em si mesmo". A essência é que a autoestima precisa "vir de dentro"; a baixa autoestima cria um vazio que se tenta preencher compulsivamente com algo externo, levando a "vícios". Construir a autoestima significa desenvolver "confiança e força de dentro", baseando o valor próprio internamente para uma sensação mais duradoura e estável.

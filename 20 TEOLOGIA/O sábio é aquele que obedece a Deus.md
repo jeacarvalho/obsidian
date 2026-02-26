@@ -1,0 +1,2 @@
+#### O sábio é aquele que obedece a Deus
+- Quem ouve esses meus ensinamentos e vive de acordo com eles é como um homem sábio que construiu a sua casa na rocha. Caiu a chuva, vieram as enchentes, e o vento soprou com força contra aquela casa. Porém ela não caiu porque havia sido construída na rocha. (MT_7_24_25 NTLH)

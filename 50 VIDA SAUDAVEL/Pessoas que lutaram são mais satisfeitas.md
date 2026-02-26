@@ -1,0 +1,2 @@
+#### Pessoas que lutaram são mais satisfeitas
+- Comparadas às pessoas que foram protegidas a vida inteira, "as pessoas que enfrentaram alguma adversidade relataram um bem-estar psicológico melhor ao longo dos vários anos do estudo", disse Seery. "Elas tinham uma satisfação maior com a vida, e menos sintomas físicos e psicológicos. Eram menos propensas a usar analgésicos com prescrição. Usavam serviços de saúde menos vezes. Eram menos propensas a relatar sua condição de empregados como deficientes."

@@ -1,0 +1,1 @@
+Colocando de forma simples: o estado de fluxo é o único motivo de esses atletas sobreviverem às imensas montanhas, às ondas gigantes e aos grandes rios. Quando você está forçando os limites do desempenho humano, a escolha é uma só: fluir ou morrer.

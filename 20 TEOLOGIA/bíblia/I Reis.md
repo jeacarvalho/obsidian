@@ -1,0 +1,7 @@
+[[1RS_1_5]]
+[[1RS_6_10]]
+[[1RS11_15]]
+[[1RS_16_22]]
+[[I Reis 19]]
+[[Tabela reis e profetas.png]]
+[[Reis x profetas]]

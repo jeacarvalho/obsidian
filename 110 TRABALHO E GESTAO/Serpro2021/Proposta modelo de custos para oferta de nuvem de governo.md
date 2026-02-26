@@ -1,0 +1,2 @@
+1) Tudo o que for criado na vMware será bilhetado pelo extrator vMware plugado no chargback. Usar cd de serviço nos metadados dos elementos criados na estrutura
+2) Qualquer oferta de itens externos a vMware deve ser consultado qual insumo foi criado para abranger os recursos envolvidos daquela estrutura (contrato, pessoas, máquinas, etc). Além disso deve ser verificado com Pedro Gurgel como esse insumo tem sido apropriado por ele. Buscar automatização do processo de leitura dessas informações

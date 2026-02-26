@@ -1,0 +1,3 @@
+>George Elton Mayo (1880–1949) foi um psicólogo australiano, professor sociólogo e pesquisador das organizações. Como professor da Harvard Business School, entre 1923 e 1926 realizou a destacada pesquisa que popularizou-se como Hawthorne Studies, revelando a importância de considerar os fatores sociais que poderiam influenciar uma situação de trabalho, tornando-se reconhecido por esses experimentos
+
+fonte: https://pt.wikipedia.org/wiki/Elton_Mayo

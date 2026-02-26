@@ -1,0 +1,2 @@
+## 20250328
+- [SUPAN - Discussão sobre Arquitetura de Dados.xlsx](https://serprogovbr.sharepoint.com/:x:/r/sites/ANDAG-Divisoes/Shared%20Documents/Estudos/Arquitetura-Dados/SUPAN%20-%20Discuss%C3%A3o%20sobre%20Arquitetura%20de%20Dados.xlsx?d=w57afbcae50324b76937aa7d865d08c9c&csf=1&web=1&e=iTiQIF)

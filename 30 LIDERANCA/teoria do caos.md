@@ -1,0 +1,3 @@
+Segundo [[bungay2011-The art of action]] trata-se da teoria que diz que estados de sistemas não lineares interferem no próximo estado no próprio sistema. Ou seja, não há como saber o futuro porque ele depende do que está acontecendo agora no próprio sistema. Esses sistemas não chamados caóticos por causa dessa imprevisibilidade e não por seu estado futuro ser randômico.
+
+O próprio desenrolar de uma guerra afeta a sua conclusão. Penso ser a mesma coisa em projetos de software. O que acontece durante o seu desenvolvimento afeta o futuro do próprio projeto o que traz a incerteza de seu fim, seja em tempo, seja em escopo. 

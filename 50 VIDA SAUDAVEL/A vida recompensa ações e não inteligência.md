@@ -1,0 +1,2 @@
+#### A vida recompensa ações e não inteligência
+"Life rewards action, not intelligence. Many brilliant people talk themselves out of getting started, and being smart doesn't help very much without the courage to act. You can't win if you're not in the game." JamesClear

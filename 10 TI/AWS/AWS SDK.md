@@ -1,0 +1,3 @@
+- Kit de desenvolvimento para linguagens diversas.
+- Podem ser vistas [aqui](https://aws.amazon.com/tools/?nc1=h_ls)
+- Também [aqui](https://docs.aws.amazon.com/index.html) na seção "SDks & Toolkits"

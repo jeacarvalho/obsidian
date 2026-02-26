@@ -1,0 +1,44 @@
+# Obsidian
+.obsidian/
+.obsidian.json
+.trash/
+.inbox/
+
+# Plugins
+.smart-connections/
+.smart-env/
+Excalidraw/
+
+# Dados e backups
+data/
+.trash/
+_backup/
+*.bak
+
+# Arquivos grandes (mover para armazenamento externo)
+*.zip
+*.mp3
+*.mp4
+*.mov
+*.avi
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
+# Banco de dados
+*.db
+*.db-journal
+
+# Sistemas
+.DS_Store
+Thumbs.db
+
+# Temporários
+*.tmp
+*.temp
+ Untitled/
+
+# VAULT EXTERNO - artigos-tcc.zip foi movido para /media/s015533607/bkp/

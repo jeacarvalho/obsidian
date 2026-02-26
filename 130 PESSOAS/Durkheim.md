@@ -1,0 +1,2 @@
+> David Émile Durkheim (Épinal, 15 de abril de 1858 — Paris, 15 de novembro de 1917) foi um sociólogo, antropólogo, cientista político, psicólogo social e filósofo francês. Formalmente, tornou a sociologia uma [[ciência]] e, com Karl Marx e Max Weber, é comumente citado como o principal arquiteto da ciência social moderna e pai da sociologia
+fonte: https://pt.wikipedia.org/wiki/%C3%89mile_Durkheim

@@ -1,0 +1,2 @@
+- Participo do trabalho de uma empresa e sou membro de um sindicato
+- O exemplo do avô de [[trueman2020]]: "Vc é feliz com seu trabalho? Sim, porque me permite colocar comida nas bocas aqui em casa e calçar os pés". Uma resposta voltada "para fora", e não "para dentro". E comparado pelo autor a si mesmo: Seu prazer é dar aula. Sou resposta não está voltada ao bem que faz aos alunos, mas ao prazer e senso de realização que tem em fazer o que gosta

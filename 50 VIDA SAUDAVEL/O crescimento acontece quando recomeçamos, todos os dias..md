@@ -1,0 +1,1 @@
+>Spiritual growth occurs by ever starting, starting, starting every day some creative new thing that will sponsor a creative, never boring walk with Christ.

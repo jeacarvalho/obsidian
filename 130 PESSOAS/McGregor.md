@@ -1,0 +1,4 @@
+>Douglas Murray McGregor (September 1906 – 1 October 1964) was an American management professor at the MIT Sloan School of Management and president of Antioch College from 1948 to 1954. He also taught at the Indian Institute of Management Calcutta. His 1960 book The Human Side of Enterprise had a profound influence on education practices.
+McGregor was a student of Abraham Maslow. He has contributed much to the development of the management and motivational theory, and is best known for his Theory X and Theory Y as presented in his book ‘The Human Side of Enterprise’ (1960), which proposed that manager's individual assumptions about human nature and behavior determined how individual manages their employees.
+
+fonte: https://en.wikipedia.org/wiki/Douglas_McGregor

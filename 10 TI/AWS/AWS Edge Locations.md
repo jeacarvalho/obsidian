@@ -1,0 +1,1 @@
+Hospeda (host) um [[CDN]] : a [[AWS Cloudfront]]

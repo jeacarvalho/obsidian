@@ -1,0 +1,6 @@
+- Representantes
+	- Dalmo titular e Beto suplente
+- Rol de membros
+	- colocando 12 mulheres e 3 homens em rol separado
+- Atas para impressão para a RO/PNTR
+	- Atualizado com Ricardo da ata 103 em diante

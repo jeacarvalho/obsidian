@@ -1,0 +1,7 @@
+- Transformação é liderada pelos afetivos
+	- Eles trazem para si: "isso é meu"
+- Delegar é uma forma de desenvolver o time
+- ![[LHHMudancaXTransformacao.png]]
+- Empoderar - me olhar no espelho e ter a certeza do que eu quero fazer
+	- Empoderar é algo interno, não externo
+- 

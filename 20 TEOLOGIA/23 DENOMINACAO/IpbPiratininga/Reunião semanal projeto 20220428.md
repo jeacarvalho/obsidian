@@ -1,0 +1,4 @@
+- O que devemos cuidar?
+- [ ] Pensar no pastoreio das famílias do projeto
+- [x] Fernando é pastor da igreja Plena? Ver com Dodo ✅ 2023-03-16
+- [x] Pegar cestas do projeto 01, 02 e 03/2022 para Luciana ✅ 2023-03-16

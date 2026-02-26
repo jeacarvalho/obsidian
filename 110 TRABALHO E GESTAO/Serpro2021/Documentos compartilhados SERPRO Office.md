@@ -1,0 +1,1 @@
+- [Semanal SEDAT](https://serprogovbr-my.sharepoint.com/:w:/g/personal/jonas_vian_[[serpro]]_gov_br/EchkTrheHlpRnbJdJh2Bx10BTlOxzfj7eoCFZfTU-bySIQ?e=4%3AJoVDq2&at=9&CID=b9b9da08-ea9f-7f94-7463-8ece903985e8)

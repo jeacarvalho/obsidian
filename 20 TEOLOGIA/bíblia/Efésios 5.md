@@ -1,0 +1,1 @@
+Ef 5:6 Não se deixem enganar por palavras vazias, pois a [[ira de Deus]] virá sobre os que lhe desobedecerem.  (NVT)

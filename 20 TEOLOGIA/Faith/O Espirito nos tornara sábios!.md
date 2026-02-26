@@ -1,0 +1,5 @@
+Ef 1:16-20 NVT 16 não deixo de **agradecer** a Deus por vocês. Em minhas orações, 17 peço que Deus, o Pai glorioso de nosso Senhor Jesus Cristo, lhes dê **sabedoria espiritual e entendimento para que cresçam no  conhecimento dele**. 18 Oro para que seu **coração seja iluminado**, a fim de que **compreendam a esperança concedida** àqueles que ele chamou e a rica e gloriosa herança que ele deu a seu povo santo. 19 Também oro para que **entendam a grandeza insuperável do poder de Deus** para conosco, os que cremos. É o **mesmo poder grandioso 20 que ressuscitou Cristo dos mortos** e o fez sentar-se no lugar de honra, à direita de Deus, nos domínios celestiais.
+
+E peço ao Deus do nosso Senhor [[Jesus]] Cristo, o Pai glorioso, que dê a vocês o seu Espírito, o Espírito que os tornará sábios e revelará Deus a vocês, para que assim vocês o conheçam como devem conhecer. (Efésios 1:17 NTLH)
+
+[[Efésios 1]]:16-17 não cesso de dar graças por vós, fazendo menção de vós nas minhas orações, para que o Deus de nosso Senhor Jesus Cristo, o Pai da glória, vos conceda espírito de sabedoria e de revelação no pleno conhecimento dele,

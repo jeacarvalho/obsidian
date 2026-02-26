@@ -1,0 +1,20 @@
+#### Canta alma
+[Canta Alma linha melódica começando](../_resources/d3a796e628d331c443f97d9c55cf400a.mp2)
+[2020_05_25_16_32_30.mp3](../_resources/68c5a8b7fe3264f3622fa5fd6999485a.mp2)
+[2020_05_06_20_50_40.mp3](../_resources/d3a796e628d331c443f97d9c55cf400a.mp2)
+[2020_05_06_20_50_19.mp3](../_resources/8f352cb711de6baccfabb21b5eb46c6d.mp2)
+[2020_05_06_20_33_53.mp3](../_resources/ae69db8360a20dce5bbb43bfd7a71296.mp2)
+[2020_05_06_20_33_27.mp3](../_resources/8da79d3036e7e212d179cfb641ffa809.mp2)
+[2020_05_06_20_30_02.mp3](../_resources/126f5927ce862e93b75158f8e17f7924.mp2)
+[2020_05_06_20_28_00.mp3](../_resources/1c7cf2926520edc8a422387933fde482.mp2)
+[2020_05_07_21_53_38.mp3](../_resources/f1a28b9fd2c9c879ef88f9589693e1a2.mp2)
+[2020_05_07_20_24_45.mp3](../_resources/6b71476c0a5f5c9cd4a655a023c8d843.mp2)
+[2020_05_07_20_24_28.mp3](../_resources/50f31bddbf81797b21d2fdf750b1ae63.mp2)
+
+
+
+[Canta alma.mp3](../_resources/a308c3bddb3c3f305cf89c807a8eafa6.mp2)
+[canta alma-consolidated.mp3](../_resources/f13f9887ebbb9bb402fa1b2288db527c.mp2)
+[linga guitarra canta alma.mp3](../_resources/8094997255f8b48a9121a091d0e94a95.mp2)
+
+[[Canta Alma 1a gravação]]

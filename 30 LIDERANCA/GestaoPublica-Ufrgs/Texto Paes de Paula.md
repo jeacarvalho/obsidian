@@ -1,0 +1,7 @@
+Texto Paes de Paula
+
+Nesse contexto, o ideal de burocracia insulada deixa de ser o caminho para assegurar o interesse pú-blico, pois há um conflito entre a interlocução direta com a sociedade e a configuração de um aparato admi-nistrativo tipicamente racional-legal  pg 46
+
+há a demanda de um programa de va-lorização, formação e treinamento de administradores públicos que crie especialistas tecnopolíticos capazes de pesquisar, negociar, aproximar pessoas e interes-ses, planejar, executar e avaliar Pg 46 - isso já existe em algum lugar?
+
+Apesar disso, a capacitação promovida no  âmbito dos movimentos sociais e das ONGs merece atenção, pois enfatiza uma qualificação técnica e também política, além de uma **tradução da linguagem burocrática para a popular** (Carmo Carvalho, 1997). O resultado foi uma maior integração entre a visão administrativa e a política que tornou o perfil desses profissionais desejável para o gestor que atua no contexto da administração pública societal. Nesse contexto, *o ideal de burocracia insulada deixa de ser o caminho para assegurar o **interesse público**, pois há  um conflito entre a interlocução direta com a sociedade e a configuração de um aparato administrativo tipicamente racional-legal

@@ -1,0 +1,6 @@
+#### Se consigo ver mais [[beleza]] também verei mais feiúra
+- A capacidade ver beleza vem do mesmo sentido que nos leva a ver feiúra. E ambas aumentam juntos.
+- Philosopher **John Macmurray** explains one of the dilemmas of life:
+>"In imagination we feel sure that it would be lovely to live with a full and rich awareness of the world. But in practice sensitiveness hurts. It is not possible to develop the capacity to see beauty without developing also the capacity to see ugliness, for they are the same capacity. The capacity for joy is also the capacity for pain. We soon find that any increase in our sensitiveness to what is lovely in the world increases also our capacity for being hurt. That is the dilemma in which life has placed us. We must choose between a life that is thin and narrow, uncreative and mechanical, with the assurance that even if it is not very exciting it will not be intolerably painful; and a life in which the increase in its fullness and creativeness brings a vast increase in delight, but also in pain and hurt."
+
+_Source:_ [_Reason and Emotion_](https://www.amazon.com/Reason-Emotion-John-Macmurray/dp/1573927384?&linkCode=sl1&tag=jamesclearema-20&linkId=47c11a5cac5eeb3b6038269f349b41e8&language=en_US&ref_=as_li_ss_tl)

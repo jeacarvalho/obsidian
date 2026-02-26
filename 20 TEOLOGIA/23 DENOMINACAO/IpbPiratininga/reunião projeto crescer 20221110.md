@@ -1,0 +1,2 @@
+- Bazar
+	- Daize ficou de conseguir uma pessoa para comprar o resto do bazar do Projeto

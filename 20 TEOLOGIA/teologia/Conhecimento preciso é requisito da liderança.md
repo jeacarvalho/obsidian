@@ -1,0 +1,2 @@
+#### Conhecimento preciso é requisito da liderança
+Não pensem que nós, líderes, somos o que não somos. Somos servos de Cristo, não senhores dele. ***Não somos guardiões; nossa responsabilidade é conduzi- los aos mais sublimes segredos de Deus. ***Os requisitos exigidos de nós são:confiabilidade e conhecimento preciso. (Biblia A Mensagem) 1CO_4_1

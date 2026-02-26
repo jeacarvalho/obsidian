@@ -1,0 +1,3 @@
+> Søren Aabye Kierkegaard ( /ˈsɒrən ˈkɪərkəɡɑːrd/ pronúncia SORR-ən KEER-kə-gard; Copenhague, 5 de maio de 1813 – Copenhague, 11 de novembro de 1855) foi um filósofo, teólogo, poeta e crítico social dinamarquês, amplamente considerado o primeiro filósofo existencialista.[1] Em meados do século XX, seu pensamento passou a exercer uma influência substancial sobre a filosofia,[2] teologia[3] psicologia, antropologia, sociologia[4] e toda a cultura ocidental.[2]
+
+fonte: https://pt.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard

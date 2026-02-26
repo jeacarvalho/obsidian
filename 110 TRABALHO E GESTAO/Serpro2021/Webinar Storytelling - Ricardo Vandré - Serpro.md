@@ -1,0 +1,5 @@
+- Comunicar com clareza é ato de paciência e amor. As emoções ajudam a dar clareza. Lembra do 11/09? Vc sabe onde estava até hoje, 20 anos depois
+- Carmine Gallo - [[Storytelling]] livro
+	- _[[Storytelling]] não é algo que fazemos é algo que somos_
+- livro: o poder da presença
+- Confiança e [[empatia]] são fundamentais

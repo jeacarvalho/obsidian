@@ -28,7 +28,11 @@ _backup/
 *.svg
 *.mp2
 
-# Banco de dados
+# Dados locais do agente
+_local/
+
+# Banco de dados vetoriais
+chroma_db/
 *.db
 *.db-journal
 

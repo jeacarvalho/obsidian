@@ -234,28 +234,39 @@ with religion in a way that indicates neither process is irreversible. A dialect
 ## Notas Relacionadas
 - [[40 COMO CONHECEMOS/Divisões da filosofia]]
   - **Similaridade:** 90.5%
-  - _Conclusion
+  - **Trecho do capítulo:** _Conclusion
 W
 e have focused on four key figures in the development of what eventually became
 classical economic thought: Hugo Grotius, John Locke, Tho..._
+  - **Trecho da nota:** _# A filosofia 
+- teórica,
+	- teologia
+	- física
+	- matemática._
 - [[120 FILOSOFIA/101 TREINAMENTOS/Filosofia UNINTER/COMO ESTUDAR FILOSOFIA E SUA FUNÇÃO SOCIAL]]
   - **Similaridade:** 74.1%
-  - _Here self-
+  - **Trecho do capítulo:** _Here self-
 interest as an unwitting social good comes into play, as do comparative advantage in
 decision making and the ultimate rationality of the ch..._
+  - **Trecho da nota:** _Abertura ao novo: não tornar óbvio o que é "dado"
+	- Processo: não ao senso comum + o que, como e por que + crítica + reconstrução;
+	- Faço filosofia ..._
 - [[20 TEOLOGIA/21 VIDA CRISTA/comentarios chatgpt sobre meditacao marcos 13-3-6-21-23 e proposta de sermao]]
   - **Similaridade:** 72.9%
-  - _Mill, and Malthus (in his
+  - **Trecho do capítulo:** _Mill, and Malthus (in his
 Principles).[3] More than that, myth becomes a necessary generic feature, appearing early
 in often voluminous studies, there..._
+  - **Trecho da nota:** _Reformadores como Martinho Lutero e Calvino enfrentaram crises semelhantes no contexto da Reforma, onde a falsa autoridade religiosa era desmascarada,..._
 - [[120 FILOSOFIA/101 TREINAMENTOS/Filosofia UNINTER/ÁREAS DA FILOSOFIA]]
   - **Similaridade:** 71.5%
-  - _In the cases of Grotius, Locke, Smith, and Malthus,
+  - **Trecho do capítulo:** _In the cases of Grotius, Locke, Smith, and Malthus,
 the “all” is limited to the men of a certain class in European colonial centers._
+  - **Trecho da nota:** _Que ótimo que você está se aprofundando em filosofia._
 - [[70 ECONOMIA/CORSI - CAP3 - A criação das bases da industrialização (1930-1945)]]
   - **Similaridade:** 70.4%
-  - _It may also be called an imperialist universal: all the world is the same as us,
+  - **Trecho do capítulo:** _It may also be called an imperialist universal: all the world is the same as us,
 since we control that world._
+  - **Trecho da nota:** _A depressão que se seguiu durou, com matizes regionais, cerca de dez anos._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:15*
+*Processado automaticamente em: 2026-02-27 16:23*

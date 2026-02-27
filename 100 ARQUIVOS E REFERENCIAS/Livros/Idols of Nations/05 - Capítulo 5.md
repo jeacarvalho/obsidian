@@ -972,28 +972,41 @@ natural disaster. The population may be drastically reduced, but this enables th
 ## Notas Relacionadas
 - [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
   - **Similaridade:** 88.9%
-  - _Faithful to the dominant ideological
+  - **Trecho do capítulo:** _Faithful to the dominant ideological
 position of the biblical narrative, Malthus is clear that it is not._
+  - **Trecho da nota:** _Reunião conselho diaconos 20150503
+
+Provérbios 27:17
+Como o ferro com o ferro se afia, assim, o homem, ao seu amigo._
 - [[20 TEOLOGIA/21 VIDA CRISTA/discipulado/1SM_11_14 — Meditação]]
   - **Similaridade:** 78.5%
-  - _Similar to Locke
+  - **Trecho do capítulo:** _Similar to Locke
 and Smith, this ethnocentrism is both spatial and temporal.[40] Spatially, plenty of these
 constructed savages live still in this day..._
+  - **Trecho da nota:** _A narrativa ilustra como a fragilidade humana pode ser superada pela ação divina, mas também alerta sobre os riscos de desobediência e decisões precip..._
 - [[20 TEOLOGIA/21 VIDA CRISTA/discipulado/JR_6_10]]
   - **Similaridade:** 75.5%
-  - _They are the precursors in the great army of destruction; and often finish the
+  - **Trecho do capítulo:** _They are the precursors in the great army of destruction; and often finish the
 dreadful work themselves._
+  - **Trecho da nota:** _Jeremias 7:18 NAA
+
+- Guardadas todas as proporções, mas todo cuidado com a mariolatria
+
+.Mas será que é a mim que eles provocam à ira?_
 - [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Econômico-Existencial/Economia bíblica & Jubileu/2018Brueggemann-The Prophetic Imagination]]
   - **Similaridade:** 71.7%
-  - _Let us quote him again:
+  - **Trecho do capítulo:** _Let us quote him again:
 
 
 And thus it appears, that a society constituted according to the most beautiful form that imagination can
 conceive, with ben..._
+  - **Trecho da nota:** _Dialoga com Heschel ("pathos de Deus") e Soelle ("luto como libertação")._
 - [[20 TEOLOGIA/bíblia/Romanos 14]]
   - **Similaridade:** 71.4%
-  - _The effort by some to negate Malthus’s consistent theological concerns in favor of a utilitarian perspective is
+  - **Trecho do capítulo:** _The effort by some to negate Malthus’s consistent theological concerns in favor of a utilitarian perspective is
 particularly unpersuasive._
+  - **Trecho da nota:** _Romanos 14:12 NAA
+- No fim, não devemos julgar._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:15*
+*Processado automaticamente em: 2026-02-27 16:23*

@@ -1075,28 +1075,34 @@ trans. Gregory Elliott (London: Verso, 2011 [2006]). See also Dominico Losurdo, 
 ## Notas Relacionadas
 - [[20 TEOLOGIA/21 VIDA CRISTA/analise do groq sobre minhas meditacoes em  Marcos 14-60-64]]
   - **Similaridade:** 89.4%
-  - _1
+  - **Trecho do capítulo:** _1
 Hugo Grotius: Rewriting the Narrative of the Fall
 The authority of those books which men inspired by God, either writ or approved of, I often use._
+  - **Trecho da nota:** _#### analise do groq sobre minhas meditacoes em  Marcos 14-60-64
+Ao ler o texto bíblico em Marcos 14:60-64 e as anotações sobre ele, podemos perceber ..._
 - [[20 TEOLOGIA/21 VIDA CRISTA/discipulado/1SM_11_14 — Meditação]]
   - **Similaridade:** 88.9%
-  - _As is typical for Grotius’ humanist style, it
+  - **Trecho do capítulo:** _As is typical for Grotius’ humanist style, it
 abounds with references to Greek and Roman authors, along with one or two medieval
 ones (we have more to..._
+  - **Trecho da nota:** _A narrativa ilustra como a fragilidade humana pode ser superada pela ação divina, mas também alerta sobre os riscos de desobediência e decisões precip..._
 - [[50 VIDA SAUDAVEL/Aprender a viver no caos pode não ser tão nocivo]]
   - **Similaridade:** 84.0%
-  - _Likewise, we have emphasized that this tale
+  - **Trecho do capítulo:** _Likewise, we have emphasized that this tale
 amounts to a myth, a grand narrative for the sake of bolstering a specific argument
 concerning Dutch comme..._
+  - **Trecho da nota:** _O autor é muito conhecido, até onde entendi._
 - [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
   - **Similaridade:** 83.8%
-  - _As Arminius puts it: “the decree of God by
+  - **Trecho do capítulo:** _As Arminius puts it: “the decree of God by
 which, of Himself, from eternity, He decreed to justify in Christ, believers, and to accept
 them unto etern..._
+  - **Trecho da nota:** _**- Verba da igreja Betânia para o louvor de 700**._
 - [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Histórico-Político/História da Igreja & Colonialidade/2021morris - The Christian Origins of Social Revolt]]
   - **Similaridade:** 83.4%
-  - _In linking the free-willing individual with the rational man (we choose the word
+  - **Trecho do capítulo:** _In linking the free-willing individual with the rational man (we choose the word
 deliberately) who balances his self-interest with a social imperative..._
+  - **Trecho da nota:** _Em um mundo de extrema divisão do trabalho, pesquisadores não plantam, não cultivam, não colhem, não transportam, não beneficiam, não distribuem, não ..._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:15*
+*Processado automaticamente em: 2026-02-27 16:23*

@@ -209,27 +209,44 @@ Rutgers University Press, 1992); Lawrence Iannaccone, “The Consequences of Rel
 ## Notas Relacionadas
 - [[30 LIDERANCA/GestaoPublica-Ufrgs/Forum semana II Vídeo 2 - Neoliberalismo e Gerenci]]
   - **Similaridade:** 89.0%
-  - _Introduction
+  - **Trecho do capítulo:** _Introduction
 The present study investigates the interaction between theology and economy in the
 writings of four political economists—Hugo Grotius, Jo..._
+  - **Trecho da nota:** _Forum semana II Vídeo 2 - Neoliberalismo e Gerencialismo
+
+O slide 27 do material obrigatório define ‘gerencialismo’ como uma “estrutura calculista que..._
 - [[40 COMO CONHECEMOS/Divisões da filosofia]]
   - **Similaridade:** 89.0%
-  - _For Locke, the Fall pertains only to
+  - **Trecho do capítulo:** _For Locke, the Fall pertains only to
 mortality, which enables him to sidestep the other curses relating to labor and property._
+  - **Trecho da nota:** _- aritmética
+		- música 
+		- geometria
+		- astronomia
+- prática,
+	- individual
+	- privada
+	- pública._
 - [[70 ECONOMIA/homo economicus]]
   - **Similaridade:** 84.5%
-  - _While we are in some sympathy with the general
+  - **Trecho do capítulo:** _While we are in some sympathy with the general
 tenor of such works, we remain suspicious of ethics as an elite discourse.[5] That is, given
 the very w..._
+  - **Trecho da nota:** _Homo economicus: origem, significado e o que está por trás do conceito (warren.com.br)
+
+> The term "economic man" was used for the first time in the l..._
 - [[60 CONTABILIDADE/61 TREINAMENTOS/UVA/Contabilidade/UVA/Empreendedorismo/Empreendedorismo - conceitos e definições]]
   - **Similaridade:** 80.4%
-  - _One of the most sweeping of such efforts is that of Viner, or rather the snippets that appeared of a project he
+  - **Trecho do capítulo:** _One of the most sweeping of such efforts is that of Viner, or rather the snippets that appeared of a project he
 was never able to complete._
+  - **Trecho da nota:** _são otimistas e apaixonados pelo que fazem; 
+	8._
 - [[70 ECONOMIA/CORSI - CAP3 - A criação das bases da industrialização (1930-1945)]]
   - **Similaridade:** 79.4%
-  - _Long, Divine Economy:
+  - **Trecho do capítulo:** _Long, Divine Economy:
 Theology and the Market (London: Routledge, 2000); David Loy, “The Religion of the Market,” Journal of the
 American Academy of R..._
+  - **Trecho da nota:** _A depressão que se seguiu durou, com matizes regionais, cerca de dez anos._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:15*
+*Processado automaticamente em: 2026-02-27 16:23*

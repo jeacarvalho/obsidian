@@ -1181,30 +1181,39 @@ many things wanting.” Ibid., 2.124; see also 2.3; 1.92.
 ## Notas Relacionadas
 - [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
   - **Similaridade:** 96.1%
-  - _His desire to
+  - **Trecho do capítulo:** _His desire to
 base his thoughts in the Bible alone makes him seem somewhat Reformed, yet he had
 little interest in the “systems of Divinity.” Locke fa..._
+  - **Trecho da nota:** _Reunião conselho diaconos 20150503
+
+Provérbios 27:17
+Como o ferro com o ferro se afia, assim, o homem, ao seu amigo._
 - [[20 TEOLOGIA/(REC) Eclesiastes]]
   - **Similaridade:** 96.0%
-  - _Self-Interest
+  - **Trecho do capítulo:** _Self-Interest
 Thus far we have covered two aspects of Locke’s effort to create a new theory of human
 nature._
+  - **Trecho da nota:** _- "Confiança em temor": sim, depois da queda sofremos sempre e constantemente._
 - [[110 TRABALHO E GESTAO/diário/20210601]]
   - **Similaridade:** 94.6%
-  - _Once he has done so, the item
+  - **Trecho do capítulo:** _Once he has done so, the item
 picked mysteriously attains the same status as that labor, without requiring consent from
 anyone else._
+  - **Trecho da nota:** _No dia em que fecharemos nossos olhos._
 - [[20 TEOLOGIA/bíblia/Eclesiastes 7]]
   - **Similaridade:** 93.9%
-  - _As for Locke and his contemporaries, they were, perhaps,
+  - **Trecho do capítulo:** _As for Locke and his contemporaries, they were, perhaps,
 more aware of the changes being wrought, unlike our own situation, in which
 capitalism seems ..._
+  - **Trecho da nota:** _A tristeza nos faz ponderar no que nos motivação a estar naquela situação/emoção e, com isso, nos faz melhores, mais experientes na própria vida e mai..._
 - [[110 TRABALHO E GESTAO/diário/2022-W38]]
   - **Similaridade:** 93.5%
-  - _Laslett, Introduction to Locke:
+  - **Trecho do capítulo:** _Laslett, Introduction to Locke:
 T
 wo T
 reatises of Government 42–44, 106–107._
+  - **Trecho da nota:** _E já devia ter movimentado mais o conselho sobre a mudança
+- Mais produção - daquilo que tenho pensado, diariamente, na bíblia._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:15*
+*Processado automaticamente em: 2026-02-27 16:23*

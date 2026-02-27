@@ -1284,27 +1284,37 @@ scrutiny to be conjectural, contradictory, irrelevant, or inconclusive, the righ
 ## Notas Relacionadas
 - [[50 VIDA SAUDAVEL/determinação]]
   - **Similaridade:** 88.3%
-  - _3
+  - **Trecho do capítulo:** _3
 Adam Smith the Storyteller
 The desire of being believed, or the desire of persuading, of leading and directing other people, seems to be one of the
 ..._
+  - **Trecho da nota:** _- Tenho que desenvolver em mim._
 - [[40 COMO CONHECEMOS/Kintsugi]]
   - **Similaridade:** 87.3%
-  - _Whoever has had the fortune to live in a mercantile town situated in an unimproved country, must have
+  - **Trecho do capítulo:** _Whoever has had the fortune to live in a mercantile town situated in an unimproved country, must have
 frequently observed how much more spirited the o..._
+  - **Trecho da nota:** _Essa abordagem cultural poderia ser incorporada à prática de contar histórias, incentivando narradores a valorizar as experiências autênticas e imperf..._
 - [[110 TRABALHO E GESTAO/Serpro2021/Webinar Storytelling - Ricardo Vandré - Serpro]]
   - **Similaridade:** 84.0%
-  - _He is caught
+  - **Trecho do capítulo:** _He is caught
 between the explicit theological engagements of those who came before and after
 (Malthus especially) and the “secular” theorists who soug..._
+  - **Trecho da nota:** _Vc sabe onde estava até hoje, 20 anos depois
+- Carmine Gallo - Storytelling livro
+	- _Storytelling não é algo que fazemos é algo que somos_
+- livro: o..._
 - [[50 VIDA SAUDAVEL/concentre-se menos em si mesmo, e mais nos outros.]]
   - **Similaridade:** 83.3%
-  - _Here, we find the moral coding of heroes and villains, of
+  - **Trecho do capítulo:** _Here, we find the moral coding of heroes and villains, of
 good and bad, in Smith’s work._
+  - **Trecho da nota:** _Este reforço no apoio social pode ajudar as pessoas a lidar com a situação", diz Steven Taylor, professor de psiquiatria da Universidade de British Co..._
 - [[50 VIDA SAUDAVEL/confiança]]
   - **Similaridade:** 81.6%
-  - _Lisa Hill, “The Hidden Theology of Adam Smith,” European Journal for the History of Economic Thought 8
+  - **Trecho do capítulo:** _Lisa Hill, “The Hidden Theology of Adam Smith,” European Journal for the History of Economic Thought 8
 (2001): 1–29, 1–3; Paul Oslington, ed._
+  - **Trecho da nota:** _Com o respeito é a base moral e emocional das táticas de missão
+
+Interessante conhecer a Confiança na bíblia_
 
 ---
-*Processado automaticamente em: 2026-02-27 16:15*
+*Processado automaticamente em: 2026-02-27 16:23*

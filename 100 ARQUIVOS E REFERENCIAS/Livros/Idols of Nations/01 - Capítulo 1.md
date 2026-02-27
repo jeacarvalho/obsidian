@@ -207,48 +207,31 @@ all Street.
 Rutgers University Press, 1992); Lawrence Iannaccone, “The Consequences of Religious Market Structures:
 
 ## Notas Relacionadas
-- [[20 TEOLOGIA/bíblia/salmos 72]]
-  - **Similaridade:** 94.3%
-  - **Trecho do capítulo:** _Introduction
-The present study investigates the interaction between theology and economy in the
-writings of four political economists—Hugo Grotius, Jo..._
-  - **Trecho da nota:** _Porque ele livra os necessitados que pedem socorro, e também os aflitos e aqueles que não têm quem os ajude._
-- [[30 LIDERANCA/GestaoPublica-Ufrgs/Forum Semana II - Vídeo 1 - Para Começar_ Max Webe]]
-  - **Similaridade:** 90.9%
-  - **Trecho do capítulo:** _For Locke, the Fall pertains only to
-mortality, which enables him to sidestep the other curses relating to labor and property._
-  - **Trecho da nota:** _A partir dessa lógica do modelo, seguidores de Parsons desenvolveram uma série de estudos sobre tema das “disfunções da burocracia”._
-  - ⚠️ _Match questionável: O trecho do capítulo discute a perspectiva de Locke sobre a queda e suas implicações para a mortalidade, enquanto a nota aborda disfunções da burocracia a partir de estudos de seguidores de Parsons. Os temas são distintos e não se relacionam semanticamente._
-- [[20 TEOLOGIA/21 VIDA CRISTA/chatgpt e a questão do reino de Deus e o reino dos homens]]
-  - **Similaridade:** 90.1%
-  - **Trecho do capítulo:** _His backpedaling only serves to highlight the possibility that God may be responsible
-for both good and evil._
-  - **Trecho da nota:** _**Impostos e autoridade**:
-   - Você sugere que pagar impostos é uma forma de manter o Reino de Deus em funcionamento, visto que Deus permite as autor..._
-  - ⚠️ _Match questionável: O trecho do capítulo discute a dualidade do bem e do mal em relação à responsabilidade divina, enquanto a nota aborda a questão dos impostos e da autoridade em relação ao Reino de Deus. As temáticas são distintas e não se conectam semanticamente._
-- [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
-  - **Similaridade:** 89.9%
-  - **Trecho do capítulo:** _Spencer Banzhaf, eds., Keeping Faith, Losing
-Faith: Religious Belief and Political Economy (Durham: Duke University Press, 2008); Kelly Johnson, “Whos..._
-  - **Trecho da nota:** _**- Verba da igreja Betânia para o louvor de 700**._
-  - ⚠️ _Match questionável: O trecho do capítulo menciona obras acadêmicas sobre crença religiosa e economia política, enquanto a nota refere-se a uma verba específica da igreja Betânia para louvor, o que não estabelece uma conexão semântica clara entre os dois._
-- [[110 TRABALHO E GESTAO/diário/20240910]]
-  - **Similaridade:** 89.4%
-  - **Trecho do capítulo:** _Long, Divine Economy:
-Theology and the Market (London: Routledge, 2000); David Loy, “The Religion of the Market,” Journal of the
-American Academy of R..._
-  - **Trecho da nota:** _João 3:3
+- [[70 ECONOMIA/CORSI - CAP3 - A criação das bases da industrialização (1930-1945)]]
+  - **Similaridade:** 100.0%
+  - **Trecho do capítulo:** _Introdução  
+O presente estudo investiga a interação entre teologia e economia nos escritos de quatro economistas políticos—Hugo Grotius, John Locke, ..._
+  - **Trecho da nota:** _A criação das bases da industrialização (1930-1945)
 
-## Pensamentos
-
-
-
-
-## Atividade física
-- Fazer o treino completo casa
-- https://twitter.com/FitnessDr_/status/1782447149780783152
-- https://..._
-  - ⚠️ _Match questionável: O trecho do capítulo discute temas relacionados à teologia e ao mercado, enquanto a nota menciona um versículo bíblico e atividades físicas, que não têm relação com o conteúdo teológico ou econômico apresentado no trecho. Portanto, não há uma conexão semântica entre eles._
+Introdução
+Como visto anteriormente, a Revolução de 1930, que levou Getúlio Vargas ao poder, é um..._
+- [[70 ECONOMIA/AVA1 Mercado Financeiro]]
+  - **Similaridade:** 99.9%
+  - **Trecho do capítulo:** _Para Fine e Milonakis, “imperialismo econômico” refere-se à aplicação de supostos critérios universais derivados da economia clássica e neoclássica a ..._
+  - **Trecho da nota:** _Com a estabilidade econômica e financeira, o acesso ao crédito torna-se mais favorável, incentivando o investimento produtivo e o crescimento econômic..._
+- [[30 LIDERANCA/GestaoPublica-Ufrgs/Bacelar (semana 3) - As Políticas Públicas no Br]]
+  - **Similaridade:** 100.0%
+  - **Trecho do capítulo:** _Optamos por colocar Smith dentro desse continuum em vez de designá-lo como um começo ou fim de uma tradição particular._
+  - **Trecho da nota:** _Problema, pois Cada lugar requer uma solução que venha da realidade do lugar e não de uma política homogeneizada._
+- [[70 ECONOMIA/neoliberalismo]]
+  - **Similaridade:** 99.9%
+  - **Trecho do capítulo:** _Para Fine e Milonakis, “imperialismo econômico” refere-se à aplicação de supostos critérios universais derivados da economia clássica e neoclássica a ..._
+  - **Trecho da nota:** _-  Netto e Braz (2012) afirmam que o objetivo real do capital monopolista não é a “diminuição” do Estado, mas a diminuição das funções estatais coesiv..._
+- [[60 CONTABILIDADE/61 TREINAMENTOS/UVA/Contabilidade/UVA/Empreendedorismo/Empreendedorismo - conceitos e definições]]
+  - **Similaridade:** 100.0%
+  - **Trecho do capítulo:** _Esse mito também fornece a Grotius um meio para argumentar que os mares não podem ser propriedade privada, pois nunca atenderam aos critérios que ele ..._
+  - **Trecho da nota:** _são bem relacionados (networking); 
+	12._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:54*
+*Processado automaticamente em: 2026-02-27 17:21*

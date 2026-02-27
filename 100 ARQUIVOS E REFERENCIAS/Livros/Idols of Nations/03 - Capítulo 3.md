@@ -1179,46 +1179,35 @@ themselves under government, is the preservation of their property. To which in 
 many things wanting.” Ibid., 2.124; see also 2.3; 1.92.
 
 ## Notas Relacionadas
-- [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
-  - **Similaridade:** 96.1%
-  - **Trecho do capítulo:** _His desire to
-base his thoughts in the Bible alone makes him seem somewhat Reformed, yet he had
-little interest in the “systems of Divinity.” Locke fa..._
-  - **Trecho da nota:** _Reunião conselho diaconos 20150503
+- [[30 LIDERANCA/GestaoPublica-Ufrgs/INTRODUÇÃO À TEORIA DA POLÍTICA PÚBLICA Enrique Saravia]]
+  - **Similaridade:** 99.8%
+  - **Trecho do capítulo:** _Em vez de naufrágios, Locke renunciou a um cargo universitário para ensinar os filhos de um Whig obscenamente rico e levemente progressista; em vez de..._
+  - **Trecho da nota:** _INTRODUÇÃO À TEORIA DA POLÍTICA PÚBLICA Enrique Saravia
 
-Provérbios 27:17
-Como o ferro com o ferro se afia, assim, o homem, ao seu amigo._
-  - ⚠️ _Match questionável: O trecho do capítulo discute a relação entre a teologia reformada e o pensamento de Locke, enquanto a nota menciona uma reunião de um conselho diaconal e um versículo de Provérbios, que não se relacionam diretamente com a discussão teológica apresentada no trecho._
-- [[20 TEOLOGIA/(REC) Eclesiastes]]
-  - **Similaridade:** 96.0%
-  - **Trecho do capítulo:** _Self-Interest
-Thus far we have covered two aspects of Locke’s effort to create a new theory of human
-nature._
-  - **Trecho da nota:** _- "Confiança em temor": sim, depois da queda sofremos sempre e constantemente._
-  - ⚠️ _Match questionável: O trecho do capítulo discute a teoria da natureza humana de Locke, enquanto a nota se refere a um conceito teológico relacionado ao livro de Eclesiastes. Não há uma conexão semântica clara entre os dois temas._
-- [[110 TRABALHO E GESTAO/diário/20210601]]
-  - **Similaridade:** 94.6%
-  - **Trecho do capítulo:** _Once he has done so, the item
-picked mysteriously attains the same status as that labor, without requiring consent from
-anyone else._
-  - **Trecho da nota:** _No dia em que fecharemos nossos olhos._
-  - ⚠️ _Match questionável: O trecho do capítulo discute a atribuição de status a um item sem consentimento, enquanto a nota menciona um momento de fechamento dos olhos, que não está relacionado ao conceito de trabalho ou gestão. Portanto, não há uma conexão semântica entre os dois._
-- [[20 TEOLOGIA/bíblia/Eclesiastes 7]]
-  - **Similaridade:** 93.9%
-  - **Trecho do capítulo:** _As for Locke and his contemporaries, they were, perhaps,
-more aware of the changes being wrought, unlike our own situation, in which
-capitalism seems ..._
-  - **Trecho da nota:** _A tristeza nos faz ponderar no que nos motivação a estar naquela situação/emoção e, com isso, nos faz melhores, mais experientes na própria vida e mai..._
-  - ⚠️ _Match questionável: O trecho do capítulo discute a consciência das mudanças sociais e econômicas em relação ao capitalismo, enquanto a nota fala sobre a tristeza e a reflexão pessoal, que não se relacionam diretamente com o tema do capitalismo ou das mudanças sociais._
-- [[110 TRABALHO E GESTAO/diário/2022-W38]]
-  - **Similaridade:** 93.5%
-  - **Trecho do capítulo:** _Laslett, Introduction to Locke:
-T
-wo T
-reatises of Government 42–44, 106–107._
-  - **Trecho da nota:** _E já devia ter movimentado mais o conselho sobre a mudança
-- Mais produção - daquilo que tenho pensado, diariamente, na bíblia._
-  - ⚠️ _Match questionável: O trecho do capítulo menciona obras de Locke sobre governo, enquanto a nota fala sobre movimentação de um conselho e produção relacionada à bíblia. Não há uma conexão semântica clara entre os temas abordados._
+INTRODUÇÃO À TEORIA DA POLÍTICA PÚBLICA Enrique Saravia
+
+Visões de analise:
+
+- jurídica do me..._
+- [[50 VIDA SAUDAVEL/confiança]]
+  - **Similaridade:** 99.8%
+  - **Trecho do capítulo:** _Em comparação com Grotius, John Locke levou uma vida um tanto menos emocionante._
+  - **Trecho da nota:** _Se todos estão bem intencionados quanto ao resultado do time, então todos podem ser vulneráveis, humanos._
+- [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
+  - **Similaridade:** 99.7%
+  - **Trecho do capítulo:** _O problema é que a preocupação quase obsessiva em identificar uma natureza humana eterna ocorreu em um momento em que a própria natureza humana estava..._
+  - **Trecho da nota:** _- evangelização em grupo, institucional
+- missões._
+- [[100 ARQUIVOS E REFERENCIAS/101-bibliografia/2024carazza-o pais dos privilegios]]
+  - **Similaridade:** 99.7%
+  - **Trecho do capítulo:** _Na seção inicial, rastreamos a maneira como as ideias de Locke sobre liberdade, razão e interesse próprio emergem de suas deliberações sobre Adão._
+  - **Trecho da nota:** _Os acordos de redução e parcelamento das dívidas tributárias das
+empresas do patrono do Instituto Inhotim, portanto, foram um bom
+negócio para todos o..._
+- [[40 COMO CONHECEMOS/Kintsugi]]
+  - **Similaridade:** 99.6%
+  - **Trecho do capítulo:** _Como lidamos extensivamente com os argumentos teológicos, ou melhor, bíblicos de Locke, um comentário preliminar sobre suas preferências teológicas de..._
+  - **Trecho da nota:** _Essa abordagem cultural poderia ser incorporada à prática de contar histórias, incentivando narradores a valorizar as experiências autênticas e imperf..._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:55*
+*Processado automaticamente em: 2026-02-27 17:21*

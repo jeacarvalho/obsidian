@@ -232,50 +232,37 @@ over a culture for a time, only to recede once again in the face of explicit eng
 with religion in a way that indicates neither process is irreversible. A dialectical reading
 
 ## Notas Relacionadas
-- [[20 TEOLOGIA/21 VIDA CRISTA/paganismo nos dias de hoje]]
-  - **Similaridade:** 92.7%
-  - **Trecho do capítulo:** _Conclusion
-W
-e have focused on four key figures in the development of what eventually became
-classical economic thought: Hugo Grotius, John Locke, Tho..._
-  - **Trecho da nota:** _O termo "paganismo" na época dos cristãos primitivos tinha uma conotação bem específica: referia-se às religiões politeístas e às práticas espirituais..._
-  - ⚠️ _Match questionável: O trecho do capítulo discute figuras importantes do pensamento econômico clássico, enquanto a nota aborda o conceito de paganismo na época dos cristãos primitivos. Não há uma conexão semântica clara entre os dois temas._
-- [[40 COMO CONHECEMOS/Divisões da filosofia]]
-  - **Similaridade:** 86.1%
-  - **Trecho do capítulo:** _In addition, they found themselves part of larger
-debates that ranged between Hobbes’s grim view and the breezily positive position of a
-natural benev..._
-  - **Trecho da nota:** _- aritmética
-		- música 
-		- geometria
-		- astronomia
-- prática,
-	- individual
-	- privada
-	- pública._
-  - ⚠️ _Match questionável: O trecho do capítulo discute debates filosóficos relacionados a visões de Hobbes, enquanto a nota parece listar divisões da filosofia e áreas de estudo, como aritmética e música, que não se conectam diretamente ao conteúdo do trecho._
 - [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
-  - **Similaridade:** 84.5%
-  - **Trecho do capítulo:** _Mill, and Malthus (in his
-Principles).[3] More than that, myth becomes a necessary generic feature, appearing early
-in often voluminous studies, there..._
-  - **Trecho da nota:** _- evangelização em grupo, institucional
-- missões._
-  - ⚠️ _Match questionável: O trecho do capítulo discute conceitos relacionados a Mill e Malthus, além de mencionar mitos em estudos, enquanto a nota se refere a temas de evangelização e missões, que são de natureza teológica e institucional. Não há uma conexão semântica clara entre os dois textos._
-- [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Econômico-Existencial/Economia bíblica & Jubileu/2018Brueggemann-The Prophetic Imagination]]
-  - **Similaridade:** 83.9%
-  - **Trecho do capítulo:** _In the cases of Grotius, Locke, Smith, and Malthus,
-the “all” is limited to the men of a certain class in European colonial centers._
-  - **Trecho da nota:** _Dialoga com Heschel ("pathos de Deus") e Soelle ("luto como libertação")._
-  - ⚠️ _Match questionável: O trecho do capítulo discute a limitação do conceito de 'todos' em relação a uma classe específica na Europa colonial, enquanto a nota menciona diálogos sobre temas teológicos e existenciais que não se relacionam diretamente com a análise econômica ou social apresentada no trecho._
-- [[20 TEOLOGIA/21 VIDA CRISTA/analise do groq sobre minhas meditacoes em  Marcos 14-60-64]]
-  - **Similaridade:** 83.8%
-  - **Trecho do capítulo:** _It may also be called an imperialist universal: all the world is the same as us,
-since we control that world._
-  - **Trecho da nota:** _**A Ilegalidade do Julgamento**
- * Texto: Marcos 14:60-64
- * Comentário reformado: João Calvino sobre a importância da justiça e da legalidade na apli..._
-  - ⚠️ _Match questionável: O trecho do capítulo discute uma perspectiva imperialista sobre o controle do mundo, enquanto a nota se concentra na ilegalidade do julgamento em um contexto teológico e bíblico. Não há uma conexão semântica clara entre os dois temas._
+  - **Similaridade:** 99.9%
+  - **Trecho do capítulo:** _Ao começarmos este projeto, tínhamos uma ideia razoável de certos desenvolvimentos-chave: que a Bíblia era importante para Grotius e Locke, talvez até..._
+  - **Trecho da nota:** _Reunião conselho diaconos 20150503
+
+Provérbios 27:17
+Como o ferro com o ferro se afia, assim, o homem, ao seu amigo._
+- [[40 COMO CONHECEMOS/Kintsugi]]
+  - **Similaridade:** 99.9%
+  - **Trecho do capítulo:** _Essa narrativa bíblica é um componente crucial no pensamento de Grotius, Locke e Malthus; ela até incomoda Smith em um nível mais profundo e formal._
+  - **Trecho da nota:** _Essa abordagem cultural poderia ser incorporada à prática de contar histórias, incentivando narradores a valorizar as experiências autênticas e imperf..._
+- [[50 VIDA SAUDAVEL/confiança]]
+  - **Similaridade:** 99.9%
+  - **Trecho do capítulo:** _1:28 para serem fecundos e se multiplicarem._
+  - **Trecho da nota:** _Resultado das relações humanas que surgem dentro de um time, considerado por por fournier2017 a pedra fundamental de Times
+
+Segundo bungay2011-The art..._
+- [[80 COMUNIDADE/O que e necessario ao estudo]]
+  - **Similaridade:** 99.9%
+  - **Trecho do capítulo:** _Apesar de seus esforços desesperados para recuar, para voltar a sanções morais em suas revisões posteriores do ensaio sobre a população, Malthus apres..._
+  - **Trecho da nota:** _Não há vergonha em aprender de qualquer um
+		- Nunca despreze o outro por vc saber mais
+	- uma vida recolhida
+	- a pobreza_
+- [[40 COMO CONHECEMOS/Divisões da filosofia]]
+  - **Similaridade:** 99.9%
+  - **Trecho do capítulo:** _Apenas Malthus, com todos os seus defeitos, estava disposto a enfrentar essa natureza pecaminosa, embora a visse como um paradoxo da bondade._
+  - **Trecho da nota:** _- argumentação demonstrativa
+		- provável
+			- dialética
+			- retórica._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:55*
+*Processado automaticamente em: 2026-02-27 17:22*

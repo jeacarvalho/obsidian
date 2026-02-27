@@ -1073,49 +1073,28 @@ Grotius and the History of Political Thought.”
 trans. Gregory Elliott (London: Verso, 2011 [2006]). See also Dominico Losurdo, “Lenin and Herrnvolk
 
 ## Notas Relacionadas
+- [[20 TEOLOGIA/21 VIDA CRISTA/chatgpt e a questão do reino de Deus e o reino dos homens]]
+  - **Similaridade:** 99.4%
+  - **Trecho do capítulo:** _Hugo Grotius: Reescrevendo a Narrativa da Queda
+A autoridade daqueles livros que homens inspirados por Deus escreveram ou aprovaram, eu frequentemente..._
+  - **Trecho da nota:** _Sua meditação sobre Marcos 12:13-17 levanta pontos relevantes e reflete sobre questões centrais do texto, como a bajulação e a armadilha dos fariseus,..._
+- [[20 TEOLOGIA/Faith/EF_2 - uma nova humanidade]]
+  - **Similaridade:** 99.7%
+  - **Trecho do capítulo:** _A discussão a seguir começa com as questões da natureza humana e da Queda através da lente da teologia arminiana de Grotius, uma teologia que também i..._
+  - **Trecho da nota:** _Tendo um grande sacerdote sobre a casa de Deus, 22 aproximemo-nos com coração sincero, com a plena certeza da fé, com o coração purificado da má consc..._
 - [[20 TEOLOGIA/(REC) Eclesiastes]]
-  - **Similaridade:** 90.0%
-  - **Trecho do capítulo:** _1
-Hugo Grotius: Rewriting the Narrative of the Fall
-The authority of those books which men inspired by God, either writ or approved of, I often use._
-  - **Trecho da nota:** _Jesus dá sentido ao livro de eclesiastes._
-  - ⚠️ _Match questionável: O trecho do capítulo menciona a autoridade de livros inspirados por Deus, enquanto a nota se concentra na interpretação de Eclesiastes à luz de Jesus. Embora ambos tratem de temas teológicos, a conexão entre a autoridade dos escritos e a interpretação específica de Eclesiastes não é clara, tornando a relação semântica fraca._
-- [[20 TEOLOGIA/teoria da santificação]]
-  - **Similaridade:** 87.9%
-  - **Trecho do capítulo:** _As is typical for Grotius’ humanist style, it
-abounds with references to Greek and Roman authors, along with one or two medieval
-ones (we have more to..._
-  - **Trecho da nota:** _- Pode ser bom, mas tende a ser ruim
-	- Muita energia, proteção, falta de percepção e até desolação pela perda
-- No trabalho pastoral isso é crucial._
-  - ⚠️ _Match questionável: O trecho do capítulo discute o estilo humanista de Grotius e suas referências literárias, enquanto a nota aborda aspectos da teologia e da santificação, que são temas distintos e não se conectam semanticamente._
-- [[20 TEOLOGIA/21 VIDA CRISTA/analise do groq sobre minhas meditacoes em  Marcos 14-60-64]]
-  - **Similaridade:** 87.5%
-  - **Trecho do capítulo:** _Likewise, we have emphasized that this tale
-amounts to a myth, a grand narrative for the sake of bolstering a specific argument
-concerning Dutch comme..._
-  - **Trecho da nota:** _**Análise Teológica**
-
-As anotações refletem uma perspectiva teológica reformada, enfatizando a importância da autoridade das Escrituras, a natureza p..._
-  - ⚠️ _Match questionável: O trecho do capítulo discute a natureza de um mito e sua função em um argumento, enquanto a nota se concentra em uma análise teológica específica sobre as Escrituras e a vida cristã. Não há uma conexão semântica clara entre os dois textos._
-- [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Econômico-Existencial/Economia bíblica & Jubileu/2018Brueggemann-The Prophetic Imagination]]
-  - **Similaridade:** 87.2%
-  - **Trecho do capítulo:** _Is it possible that the law’s imagination may also bring certain acts into
-existence?_
-  - **Trecho da nota:** _Dialoga com Heschel ("pathos de Deus") e Soelle ("luto como libertação")._
-- [[20 TEOLOGIA/21 VIDA CRISTA/discipulado/1SM_11_14 — Meditação]]
-  - **Similaridade:** 85.7%
-  - **Trecho do capítulo:** _For instance, in the long discussion of self-defence, he writes, “The
-Christian Religion commands, that we should lay down our Lives one for another; ..._
-  - **Trecho da nota:** _### Minha reflexão
-
-
-
-## Meditação de 2026-01-09
-
-### Leitura do Copista
-O texto aborda a ascensão e os desafios do reinado de Saul, destacando a frag..._
-  - ⚠️ _Match questionável: O trecho do capítulo discute a auto-defesa e a ética cristã sobre sacrificar-se pelos outros, enquanto a nota se concentra na ascensão e desafios do reinado de Saul, que não está diretamente relacionado ao tema da meditação sobre discipulado e vida cristã._
+  - **Similaridade:** 99.6%
+  - **Trecho do capítulo:** _À luz dessa teologia, Grotius lê a Queda como menos uma catástrofe._
+  - **Trecho da nota:** _Mesmo nos dias bons, sabemos que tudo é vaidade._
+- [[30 LIDERANCA/GestaoPublica-Ufrgs/INTRODUÇÃO À TEORIA DA POLÍTICA PÚBLICA Enrique Saravia]]
+  - **Similaridade:** 99.6%
+  - **Trecho do capítulo:** _Consequentemente, uma ênfase na teoria econômica requer um processo de destilação, uma cuidadosa triagem por clareza._
+  - **Trecho da nota:** _as novas tecnologias de comunicação e informação e
+7._
+- [[30 LIDERANCA/GestaoPublica-Ufrgs/Forum semana II Vídeo 2 - Neoliberalismo e Gerenci]]
+  - **Similaridade:** 99.6%
+  - **Trecho do capítulo:** _Consequentemente, uma ênfase na teoria econômica requer um processo de destilação, uma cuidadosa triagem por clareza._
+  - **Trecho da nota:** _Penso, até, que essa necessidade de padronização esta presente no modelo ideado de Weber para a burocracia._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:54*
+*Processado automaticamente em: 2026-02-27 17:21*

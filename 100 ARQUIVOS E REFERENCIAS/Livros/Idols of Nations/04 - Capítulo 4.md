@@ -1282,44 +1282,34 @@ discrimination in what he accepted as supporting evidence, if some of this evide
 scrutiny to be conjectural, contradictory, irrelevant, or inconclusive, the rightness of his argument, the power
 
 ## Notas Relacionadas
-- [[100 ARQUIVOS E REFERENCIAS/101-bibliografia/1996Ortberg - The Life You've Always Wanted -  Spiritual Disciplines for Ordinary People]]
-  - **Similaridade:** 69.9%
-  - **Trecho do capítulo:** _Yet,
-given the detached nature of this process and the uncertainty of knowing precisely how
-other people function, Smith then seeks to internalize thi..._
-  - **Trecho da nota:** _# Cap 
+- [[50 VIDA SAUDAVEL/confiança]]
+  - **Similaridade:** 100.0%
+  - **Trecho do capítulo:** _3  
+Adam Smith, o Contador de Histórias  
+O desejo de ser acreditado, ou o desejo de persuadir, de liderar e direcionar outras pessoas, parece ser um ..._
+  - **Trecho da nota:** _Segundo lencioni2015, é a certeza de que todos estão bem intencionados em um time._
+- [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
+  - **Similaridade:** 99.9%
+  - **Trecho do capítulo:** _Sugerimos que pode ser encontrado em sua habilidade de construir mitos, de contar histórias de uma maneira que atrai o leitor._
+  - **Trecho da nota:** _cuidado com segurança
 
-##  Análise do Conteúdo
-
-#### Ideias Centrais
-O capítulo apresentado discorre sobre a insatisfação do autor em relação à sua vida e ao seu com..._
-  - ⚠️ _Match questionável: O trecho do capítulo menciona a internalização de processos e a incerteza sobre como as pessoas funcionam, enquanto a nota se refere à insatisfação do autor com sua vida, o que não parece estar diretamente relacionado ao conteúdo do trecho apresentado._
-- [[50 VIDA SAUDAVEL/Aprender a viver no caos pode não ser tão nocivo]]
-  - **Similaridade:** 93.7%
-  - **Trecho do capítulo:** _Whoever has had the fortune to live in a mercantile town situated in an unimproved country, must have
-frequently observed how much more spirited the o..._
-  - **Trecho da nota:** _O livro, então, deve ser muito bom._
-  - ⚠️ _Match questionável: O trecho do capítulo fala sobre a experiência de viver em uma cidade mercantil, enquanto a nota menciona 'vida saudável' e 'aprender a viver no caos', que não se relacionam diretamente com a observação do ambiente mercantil descrito. A conexão entre os dois textos não é clara ou lógica._
-- [[50 VIDA SAUDAVEL/determinação]]
-  - **Similaridade:** 93.3%
-  - **Trecho do capítulo:** _To solve the problem,
-they situate private property and labor before the Fall, as an unfolding of created human
-nature, indeed as the outcome of the d..._
-  - **Trecho da nota:** _- Em kotler2015 - Super-humanos - Como os atletas radicais redefinem os limites do possivel o autor cita que a experiência de pico (que ele compara co..._
-  - ⚠️ _Match questionável: O trecho do capítulo discute a propriedade privada e o trabalho em um contexto filosófico e teológico, enquanto a nota se refere a atletas radicais e experiências de pico, que são temas completamente diferentes e não se conectam semanticamente._
+-- Simone, que trabalha no underground, como sugestão para diaconia._
 - [[40 COMO CONHECEMOS/Kintsugi]]
-  - **Similaridade:** 92.9%
-  - **Trecho do capítulo:** _Here, we find the moral coding of heroes and villains, of
-good and bad, in Smith’s work._
+  - **Similaridade:** 99.9%
+  - **Trecho do capítulo:** _Antes de examinarmos seus contos, discutimos sua abordagem sobre a natureza humana, focando em sua afirmação de que os seres humanos naturalmente troc..._
   - **Trecho da nota:** _Essa abordagem cultural poderia ser incorporada à prática de contar histórias, incentivando narradores a valorizar as experiências autênticas e imperf..._
-  - ⚠️ _Match questionável: O trecho do capítulo discute a moralidade dos personagens em uma obra específica, enquanto a nota aborda uma abordagem cultural na narrativa, sem conexão direta com a moralidade ou a dualidade de heróis e vilões mencionada no capítulo._
-- [[50 VIDA SAUDAVEL/MEDO DA REJEIÇÃO]]
-  - **Similaridade:** 92.5%
-  - **Trecho do capítulo:** _Lisa Hill, “The Hidden Theology of Adam Smith,” European Journal for the History of Economic Thought 8
-(2001): 1–29, 1–3; Paul Oslington, ed._
-  - **Trecho da nota:** _## 20231013
-- jang2017 - SEM MEDO DA REJEICAO_
-  - ⚠️ _Match questionável: O trecho do capítulo refere-se a uma citação acadêmica sobre a teologia oculta de Adam Smith, enquanto a nota menciona 'vida saudável' e 'medo da rejeição', que não têm relação semântica com o conteúdo do trecho. Não há conexão clara entre os temas abordados._
+- [[40 COMO CONHECEMOS/Divisões da filosofia]]
+  - **Similaridade:** 99.9%
+  - **Trecho do capítulo:** _Antes de examinarmos seus contos, discutimos sua abordagem sobre a natureza humana, focando em sua afirmação de que os seres humanos naturalmente troc..._
+  - **Trecho da nota:** _- gramática 
+	- argumento do discurso._
+- [[80 COMUNIDADE/O que e necessario ao estudo]]
+  - **Similaridade:** 99.9%
+  - **Trecho do capítulo:** _No entanto, a referência compreende, no máximo, uma ou duas frases, fornecendo o pano de fundo assumido para os tratamentos sobre aluguel de terras, q..._
+  - **Trecho da nota:** _Não há vergonha em aprender de qualquer um
+		- Nunca despreze o outro por vc saber mais
+	- uma vida recolhida
+	- a pobreza_
 
 ---
-*Processado automaticamente em: 2026-02-27 16:55*
+*Processado automaticamente em: 2026-02-27 17:22*

@@ -240,25 +240,22 @@ e have focused on four key figures in the development of what eventually became
 classical economic thought: Hugo Grotius, John Locke, Tho..._
 - [[120 FILOSOFIA/101 TREINAMENTOS/Filosofia UNINTER/COMO ESTUDAR FILOSOFIA E SUA FUNÇÃO SOCIAL]]
   - **Similaridade:** 74.1%
-  - _dialectical process of individualization, de-socialization, and de-historicization, a_
+  - _Here self-
+interest as an unwitting social good comes into play, as do comparative advantage in
+decision making and the ultimate rationality of the ch..._
 - [[20 TEOLOGIA/21 VIDA CRISTA/comentarios chatgpt sobre meditacao marcos 13-3-6-21-23 e proposta de sermao]]
   - **Similaridade:** 72.9%
-  - _Conclusion
-W
-e have focused on four key figures in the development of what eventually became
-classical economic thought: Hugo Grotius, John Locke, Tho..._
+  - _Mill, and Malthus (in his
+Principles).[3] More than that, myth becomes a necessary generic feature, appearing early
+in often voluminous studies, there..._
 - [[120 FILOSOFIA/101 TREINAMENTOS/Filosofia UNINTER/ÁREAS DA FILOSOFIA]]
   - **Similaridade:** 71.5%
-  - _Conclusion
-W
-e have focused on four key figures in the development of what eventually became
-classical economic thought: Hugo Grotius, John Locke, Tho..._
+  - _In the cases of Grotius, Locke, Smith, and Malthus,
+the “all” is limited to the men of a certain class in European colonial centers._
 - [[70 ECONOMIA/CORSI - CAP3 - A criação das bases da industrialização (1930-1945)]]
   - **Similaridade:** 70.4%
-  - _Conclusion
-W
-e have focused on four key figures in the development of what eventually became
-classical economic thought: Hugo Grotius, John Locke, Tho..._
+  - _It may also be called an imperialist universal: all the world is the same as us,
+since we control that world._
 
 ---
-*Processado automaticamente em: 2026-02-27 15:15*
+*Processado automaticamente em: 2026-02-27 16:15*

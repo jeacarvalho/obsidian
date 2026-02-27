@@ -214,22 +214,22 @@ The present study investigates the interaction between theology and economy in t
 writings of four political economists—Hugo Grotius, Jo..._
 - [[40 COMO CONHECEMOS/Divisões da filosofia]]
   - **Similaridade:** 89.0%
-  - _Introduction
-The present study investigates the interaction between theology and economy in the
-writings of four political economists—Hugo Grotius, Jo..._
+  - _For Locke, the Fall pertains only to
+mortality, which enables him to sidestep the other curses relating to labor and property._
 - [[70 ECONOMIA/homo economicus]]
   - **Similaridade:** 84.5%
-  - _and motivational factors that the traditional homo economicus fails to answer.[7] Third, we_
+  - _While we are in some sympathy with the general
+tenor of such works, we remain suspicious of ethics as an elite discourse.[5] That is, given
+the very w..._
 - [[60 CONTABILIDADE/61 TREINAMENTOS/UVA/Contabilidade/UVA/Empreendedorismo/Empreendedorismo - conceitos e definições]]
   - **Similaridade:** 80.4%
-  - _Introduction
-The present study investigates the interaction between theology and economy in the
-writings of four political economists—Hugo Grotius, Jo..._
+  - _One of the most sweeping of such efforts is that of Viner, or rather the snippets that appeared of a project he
+was never able to complete._
 - [[70 ECONOMIA/CORSI - CAP3 - A criação das bases da industrialização (1930-1945)]]
   - **Similaridade:** 79.4%
-  - _Introduction
-The present study investigates the interaction between theology and economy in the
-writings of four political economists—Hugo Grotius, Jo..._
+  - _Long, Divine Economy:
+Theology and the Market (London: Routledge, 2000); David Loy, “The Religion of the Market,” Journal of the
+American Academy of R..._
 
 ---
-*Processado automaticamente em: 2026-02-27 15:15*
+*Processado automaticamente em: 2026-02-27 16:15*

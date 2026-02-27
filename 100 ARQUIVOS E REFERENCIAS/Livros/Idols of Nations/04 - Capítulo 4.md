@@ -1290,25 +1290,21 @@ The desire of being believed, or the desire of persuading, of leading and direct
 ..._
 - [[40 COMO CONHECEMOS/Kintsugi]]
   - **Similaridade:** 87.3%
-  - _3
-Adam Smith the Storyteller
-The desire of being believed, or the desire of persuading, of leading and directing other people, seems to be one of the
-..._
+  - _Whoever has had the fortune to live in a mercantile town situated in an unimproved country, must have
+frequently observed how much more spirited the o..._
 - [[110 TRABALHO E GESTAO/Serpro2021/Webinar Storytelling - Ricardo Vandré - Serpro]]
   - **Similaridade:** 84.0%
-  - _However, the second parable is more typical of Smith’s storytelling. It concerns the_
+  - _He is caught
+between the explicit theological engagements of those who came before and after
+(Malthus especially) and the “secular” theorists who soug..._
 - [[50 VIDA SAUDAVEL/concentre-se menos em si mesmo, e mais nos outros.]]
   - **Similaridade:** 83.3%
-  - _3
-Adam Smith the Storyteller
-The desire of being believed, or the desire of persuading, of leading and directing other people, seems to be one of the
-..._
+  - _Here, we find the moral coding of heroes and villains, of
+good and bad, in Smith’s work._
 - [[50 VIDA SAUDAVEL/confiança]]
   - **Similaridade:** 81.6%
-  - _3
-Adam Smith the Storyteller
-The desire of being believed, or the desire of persuading, of leading and directing other people, seems to be one of the
-..._
+  - _Lisa Hill, “The Hidden Theology of Adam Smith,” European Journal for the History of Economic Thought 8
+(2001): 1–29, 1–3; Paul Oslington, ed._
 
 ---
-*Processado automaticamente em: 2026-02-27 15:15*
+*Processado automaticamente em: 2026-02-27 16:15*

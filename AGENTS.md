@@ -46,21 +46,35 @@ Scripts em `_local/scripts/processar_livro.py`
 
 ### Funcionalidade
 - Extrai texto de PDFs do Calibre
-- Detecta capítulos automaticamente (padrão "CHAPTER X")
+- Suporta chapters via arquivo externo (formato: pagina_inicio,pagina_fim)
+- Ou detecta capítulos automaticamente (padrão "CHAPTER X")
 - Traduz para português (via Langbly/Google/DeepL/AWS)
 - Cria notas no vault com linking semântico para notas existentes
 
 ### Uso
 ```bash
-# Processar livro (sem traduzir)
+# Processar livro com arquivo de capítulos (recomendado)
+python3 _local/scripts/processar_livro.py "Nome do Livro" -c caminho/capitulos.txt
+
+# Processar livro com detecção automática de capítulos
 python3 _local/scripts/processar_livro.py "Nome do Livro"
 
 # Processar com tradução
 export LANGBLY_API_KEY="sua-chave"
-python3 _local/scripts/processar_livro.py "Nome do Livro" --traduzir
+python3 _local/scripts/processar_livro.py "Nome do Livro" -c caminho/capitulos.txt --traduzir
 
 # Reconstruir índice de embeddings
 python3 _local/scripts/processar_livro.py "Nome do Livro" --reindex
+```
+
+### Formato do arquivo de capítulos
+```
+# Exemplo: pagina_inicio,pagina_fim
+7,25
+26,50
+51,75
+76,100
+...
 ```
 
 ### Estrutura de Notas Criadas

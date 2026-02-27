@@ -1179,41 +1179,40 @@ themselves under government, is the preservation of their property. To which in 
 many things wanting.” Ibid., 2.124; see also 2.3; 1.92.
 
 ## Notas Relacionadas
+- [[20 TEOLOGIA/21 VIDA CRISTA/analise do chatgpt sobre minhas meditacoes em marcos 12-38-40]]
+  - **Similaridade:** 96.8%
+  - **Trecho do capítulo:** _2
+John Locke and the Trouble with Adam
+As Adam was turned out of Paradise, so all his Posterity were born out of it, out of the reach of the T
+ree of ..._
+  - **Trecho da nota:** _Sua meditação sobre Marcos 12:38-40 toca em um ponto central do ensino de Jesus, que frequentemente denunciou o perigo de a religiosidade se tornar um..._
 - [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
   - **Similaridade:** 96.1%
-  - **Trecho do capítulo:** _His desire to
-base his thoughts in the Bible alone makes him seem somewhat Reformed, yet he had
-little interest in the “systems of Divinity.” Locke fa..._
-  - **Trecho da nota:** _Reunião conselho diaconos 20150503
+  - **Trecho do capítulo:** _Besides writing frequently to Locke, his personal and intellectual
+friend, Limborch managed to write several major works of Remonstrant theology,
+incl..._
+  - **Trecho da nota:** _cuidado com segurança
 
-Provérbios 27:17
-Como o ferro com o ferro se afia, assim, o homem, ao seu amigo._
+-- Simone, que trabalha no underground, como sugestão para diaconia._
 - [[20 TEOLOGIA/(REC) Eclesiastes]]
   - **Similaridade:** 96.0%
-  - **Trecho do capítulo:** _Self-Interest
-Thus far we have covered two aspects of Locke’s effort to create a new theory of human
-nature._
-  - **Trecho da nota:** _- "Confiança em temor": sim, depois da queda sofremos sempre e constantemente._
-- [[110 TRABALHO E GESTAO/diário/20210601]]
-  - **Similaridade:** 94.6%
   - **Trecho do capítulo:** _Once he has done so, the item
 picked mysteriously attains the same status as that labor, without requiring consent from
 anyone else._
-  - **Trecho da nota:** _No dia em que fecharemos nossos olhos._
-- [[20 TEOLOGIA/bíblia/Eclesiastes 7]]
-  - **Similaridade:** 93.9%
+  - **Trecho da nota:** _Mesmo nos dias bons, sabemos que tudo é vaidade._
+- [[20 TEOLOGIA/21 VIDA CRISTA/chatgpt e a questão do reino de Deus e o reino dos homens]]
+  - **Similaridade:** 95.9%
   - **Trecho do capítulo:** _As for Locke and his contemporaries, they were, perhaps,
 more aware of the changes being wrought, unlike our own situation, in which
 capitalism seems ..._
-  - **Trecho da nota:** _A tristeza nos faz ponderar no que nos motivação a estar naquela situação/emoção e, com isso, nos faz melhores, mais experientes na própria vida e mai..._
-- [[110 TRABALHO E GESTAO/diário/2022-W38]]
-  - **Similaridade:** 93.5%
+  - **Trecho da nota:** _Sempre que um governo humano contraria diretamente a lei de Deus, o crente deve se submeter a Deus antes de obedecer às autoridades (Atos 5:29)._
+- [[110 TRABALHO E GESTAO/diário/20210601]]
+  - **Similaridade:** 94.6%
   - **Trecho do capítulo:** _Laslett, Introduction to Locke:
 T
 wo T
 reatises of Government 42–44, 106–107._
-  - **Trecho da nota:** _E já devia ter movimentado mais o conselho sobre a mudança
-- Mais produção - daquilo que tenho pensado, diariamente, na bíblia._
+  - **Trecho da nota:** _Eis a chave, a pergunta mais importante para mim, hoje._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:23*
+*Processado automaticamente em: 2026-02-27 16:34*

@@ -233,7 +233,7 @@ with religion in a way that indicates neither process is irreversible. A dialect
 
 ## Notas Relacionadas
 - [[40 COMO CONHECEMOS/Divisões da filosofia]]
-  - **Similaridade:** 90.5%
+  - **Similaridade:** 93.7%
   - **Trecho do capítulo:** _Conclusion
 W
 e have focused on four key figures in the development of what eventually became
@@ -244,29 +244,29 @@ classical economic thought: Hugo Grotius, John Locke, Tho..._
 	- física
 	- matemática._
 - [[120 FILOSOFIA/101 TREINAMENTOS/Filosofia UNINTER/COMO ESTUDAR FILOSOFIA E SUA FUNÇÃO SOCIAL]]
-  - **Similaridade:** 74.1%
+  - **Similaridade:** 92.4%
   - **Trecho do capítulo:** _Here self-
 interest as an unwitting social good comes into play, as do comparative advantage in
 decision making and the ultimate rationality of the ch..._
   - **Trecho da nota:** _Abertura ao novo: não tornar óbvio o que é "dado"
 	- Processo: não ao senso comum + o que, como e por que + crítica + reconstrução;
 	- Faço filosofia ..._
-- [[20 TEOLOGIA/21 VIDA CRISTA/comentarios chatgpt sobre meditacao marcos 13-3-6-21-23 e proposta de sermao]]
-  - **Similaridade:** 72.9%
+- [[70 ECONOMIA/CORSI - CAP3 - A criação das bases da industrialização (1930-1945)]]
+  - **Similaridade:** 89.1%
   - **Trecho do capítulo:** _Mill, and Malthus (in his
 Principles).[3] More than that, myth becomes a necessary generic feature, appearing early
 in often voluminous studies, there..._
-  - **Trecho da nota:** _Reformadores como Martinho Lutero e Calvino enfrentaram crises semelhantes no contexto da Reforma, onde a falsa autoridade religiosa era desmascarada,..._
-- [[120 FILOSOFIA/101 TREINAMENTOS/Filosofia UNINTER/ÁREAS DA FILOSOFIA]]
-  - **Similaridade:** 71.5%
+  - **Trecho da nota:** _Essa tendência ficaria mais clara no período do Estado Novo._
+- [[20 TEOLOGIA/21 VIDA CRISTA/chatgpt e a questão do reino de Deus e o reino dos homens]]
+  - **Similaridade:** 87.5%
   - **Trecho do capítulo:** _In the cases of Grotius, Locke, Smith, and Malthus,
 the “all” is limited to the men of a certain class in European colonial centers._
-  - **Trecho da nota:** _Que ótimo que você está se aprofundando em filosofia._
-- [[70 ECONOMIA/CORSI - CAP3 - A criação das bases da industrialização (1930-1945)]]
-  - **Similaridade:** 70.4%
+  - **Trecho da nota:** _Sempre que um governo humano contraria diretamente a lei de Deus, o crente deve se submeter a Deus antes de obedecer às autoridades (Atos 5:29)._
+- [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Econômico-Existencial/Economia bíblica & Jubileu/2018Brueggemann-The Prophetic Imagination]]
+  - **Similaridade:** 87.4%
   - **Trecho do capítulo:** _It may also be called an imperialist universal: all the world is the same as us,
 since we control that world._
-  - **Trecho da nota:** _A depressão que se seguiu durou, com matizes regionais, cerca de dez anos._
+  - **Trecho da nota:** _- A tese de que a profecia opera na *tensão dialética* entre crítica (luto) e energização (esperança) evita os dois perigos do ativismo: o cinismo sem..._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:23*
+*Processado automaticamente em: 2026-02-27 16:34*

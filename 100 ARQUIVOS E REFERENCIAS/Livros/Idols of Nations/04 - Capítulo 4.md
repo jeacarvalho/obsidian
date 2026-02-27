@@ -1282,18 +1282,19 @@ discrimination in what he accepted as supporting evidence, if some of this evide
 scrutiny to be conjectural, contradictory, irrelevant, or inconclusive, the rightness of his argument, the power
 
 ## Notas Relacionadas
-- [[50 VIDA SAUDAVEL/determinação]]
-  - **Similaridade:** 88.3%
+- [[40 COMO CONHECEMOS/Kintsugi]]
+  - **Similaridade:** 89.2%
   - **Trecho do capítulo:** _3
 Adam Smith the Storyteller
 The desire of being believed, or the desire of persuading, of leading and directing other people, seems to be one of the
 ..._
-  - **Trecho da nota:** _- Tenho que desenvolver em mim._
-- [[40 COMO CONHECEMOS/Kintsugi]]
-  - **Similaridade:** 87.3%
+  - **Trecho da nota:** _a arte de reparar cerâmicas quebradas com ouro — pode ser vista como uma metáfora poderosa para a narrativa, onde as falhas e imperfeições se tornam p..._
+- [[50 VIDA SAUDAVEL/determinação]]
+  - **Similaridade:** 88.3%
   - **Trecho do capítulo:** _Whoever has had the fortune to live in a mercantile town situated in an unimproved country, must have
 frequently observed how much more spirited the o..._
-  - **Trecho da nota:** _Essa abordagem cultural poderia ser incorporada à prática de contar histórias, incentivando narradores a valorizar as experiências autênticas e imperf..._
+  - **Trecho da nota:** _Faz parte de uma das minhas menores competências, conforme identificado no curso de COMPETÊNCIAS SERPRO E O SEU ESTILO DE LIDERANÇA
+- Em ferguson-lide..._
 - [[110 TRABALHO E GESTAO/Serpro2021/Webinar Storytelling - Ricardo Vandré - Serpro]]
   - **Similaridade:** 84.0%
   - **Trecho do capítulo:** _He is caught
@@ -1317,4 +1318,4 @@ good and bad, in Smith’s work._
 Interessante conhecer a Confiança na bíblia_
 
 ---
-*Processado automaticamente em: 2026-02-27 16:23*
+*Processado automaticamente em: 2026-02-27 16:34*

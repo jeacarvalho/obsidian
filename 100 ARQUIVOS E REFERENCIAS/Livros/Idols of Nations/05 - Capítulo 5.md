@@ -970,43 +970,34 @@ oleration, 2.49.
 natural disaster. The population may be drastically reduced, but this enables them to take on paradise-like
 
 ## Notas Relacionadas
-- [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
-  - **Similaridade:** 88.9%
-  - **Trecho do capítulo:** _Faithful to the dominant ideological
-position of the biblical narrative, Malthus is clear that it is not._
-  - **Trecho da nota:** _Reunião conselho diaconos 20150503
-
-Provérbios 27:17
-Como o ferro com o ferro se afia, assim, o homem, ao seu amigo._
-- [[20 TEOLOGIA/21 VIDA CRISTA/discipulado/1SM_11_14 — Meditação]]
-  - **Similaridade:** 78.5%
+- [[20 TEOLOGIA/21 VIDA CRISTA/analise do chatgpt sobre minhas meditacoes em marcos 12-38-40]]
+  - **Similaridade:** 97.2%
+  - **Trecho do capítulo:** _4
+The Lust and Hunger of Thomas Malthus
+The temptations to evil are too strong for human nature to resist._
+  - **Trecho da nota:** _Sua meditação sobre Marcos 12:38-40 toca em um ponto central do ensino de Jesus, que frequentemente denunciou o perigo de a religiosidade se tornar um..._
+- [[20 TEOLOGIA/bíblia/Hebreus 6]]
+  - **Similaridade:** 95.5%
   - **Trecho do capítulo:** _Similar to Locke
 and Smith, this ethnocentrism is both spatial and temporal.[40] Spatially, plenty of these
 constructed savages live still in this day..._
-  - **Trecho da nota:** _A narrativa ilustra como a fragilidade humana pode ser superada pela ação divina, mas também alerta sobre os riscos de desobediência e decisões precip..._
-- [[20 TEOLOGIA/21 VIDA CRISTA/discipulado/JR_6_10]]
-  - **Similaridade:** 75.5%
+  - **Trecho da nota:** _Dado o contexto , parece que era uma coisa normal e importante ali._
+- [[20 TEOLOGIA/21 VIDA CRISTA/chatgpt e a questão do reino de Deus e o reino dos homens]]
+  - **Similaridade:** 95.3%
   - **Trecho do capítulo:** _They are the precursors in the great army of destruction; and often finish the
 dreadful work themselves._
-  - **Trecho da nota:** _Jeremias 7:18 NAA
-
-- Guardadas todas as proporções, mas todo cuidado com a mariolatria
-
-.Mas será que é a mim que eles provocam à ira?_
-- [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Econômico-Existencial/Economia bíblica & Jubileu/2018Brueggemann-The Prophetic Imagination]]
-  - **Similaridade:** 71.7%
-  - **Trecho do capítulo:** _Let us quote him again:
-
-
-And thus it appears, that a society constituted according to the most beautiful form that imagination can
-conceive, with ben..._
-  - **Trecho da nota:** _Dialoga com Heschel ("pathos de Deus") e Soelle ("luto como libertação")._
-- [[20 TEOLOGIA/bíblia/Romanos 14]]
-  - **Similaridade:** 71.4%
+  - **Trecho da nota:** _**Impostos e autoridade**:
+   - Você sugere que pagar impostos é uma forma de manter o Reino de Deus em funcionamento, visto que Deus permite as autor..._
+- [[20 TEOLOGIA/21 VIDA CRISTA/analise do groq sobre minhas meditacoes em  Marcos 14-60-64]]
+  - **Similaridade:** 95.3%
+  - **Trecho do capítulo:** _However, this happiness is precisely the
+cause of its own undoing—a dialectical trap contained within what is essentially good._
+  - **Trecho da nota:** _O contexto histórico é marcado pela tensão entre os líderes religiosos judeus e Jesus, com o Sinédrio buscando remover Jesus do cenário político e rel..._
+- [[20 TEOLOGIA/21 VIDA CRISTA/analise do groq sobre minhas meditacoes em Marcos 14-22-26]]
+  - **Similaridade:** 93.9%
   - **Trecho do capítulo:** _The effort by some to negate Malthus’s consistent theological concerns in favor of a utilitarian perspective is
 particularly unpersuasive._
-  - **Trecho da nota:** _Romanos 14:12 NAA
-- No fim, não devemos julgar._
+  - **Trecho da nota:** _A pessoa que meditou parece estar concordando com a ideia de que Deus se manifestou em Jesus Cristo, que se fez homem e se submeteu às limitações huma..._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:23*
+*Processado automaticamente em: 2026-02-27 16:34*

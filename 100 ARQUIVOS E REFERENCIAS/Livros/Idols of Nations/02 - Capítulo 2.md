@@ -1073,36 +1073,39 @@ Grotius and the History of Political Thought.”
 trans. Gregory Elliott (London: Verso, 2011 [2006]). See also Dominico Losurdo, “Lenin and Herrnvolk
 
 ## Notas Relacionadas
+- [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Econômico-Existencial/Economia bíblica & Jubileu/2018Brueggemann-The Prophetic Imagination]]
+  - **Similaridade:** 97.4%
+  - **Trecho do capítulo:** _Is it possible that the law’s imagination may also bring certain acts into
+existence?_
+  - **Trecho da nota:** _### 🔑 PASSO 1: ATIVAÇÃO DA LENTE DISCIPLINAR
+
+**Lente Ativada:** MODO TEOLÓGICO-CRÍTICO → *Teologia Sistemática com inflexão hermenêutica crítica*
+
+Ju..._
 - [[20 TEOLOGIA/21 VIDA CRISTA/analise do groq sobre minhas meditacoes em  Marcos 14-60-64]]
-  - **Similaridade:** 89.4%
-  - **Trecho do capítulo:** _1
-Hugo Grotius: Rewriting the Narrative of the Fall
-The authority of those books which men inspired by God, either writ or approved of, I often use._
-  - **Trecho da nota:** _#### analise do groq sobre minhas meditacoes em  Marcos 14-60-64
-Ao ler o texto bíblico em Marcos 14:60-64 e as anotações sobre ele, podemos perceber ..._
-- [[20 TEOLOGIA/21 VIDA CRISTA/discipulado/1SM_11_14 — Meditação]]
-  - **Similaridade:** 88.9%
+  - **Similaridade:** 96.0%
   - **Trecho do capítulo:** _As is typical for Grotius’ humanist style, it
 abounds with references to Greek and Roman authors, along with one or two medieval
 ones (we have more to..._
-  - **Trecho da nota:** _A narrativa ilustra como a fragilidade humana pode ser superada pela ação divina, mas também alerta sobre os riscos de desobediência e decisões precip..._
-- [[50 VIDA SAUDAVEL/Aprender a viver no caos pode não ser tão nocivo]]
-  - **Similaridade:** 84.0%
+  - **Trecho da nota:** _Outras visões que podem ser consideradas incluem:
+
+* A importância da defesa dos direitos dos marginalizados e a oposição à injustiça, conforme exempl..._
+- [[20 TEOLOGIA/teologia/analise do groq sobre minhas meditacoes em Marcos 15-1]]
+  - **Similaridade:** 95.4%
   - **Trecho do capítulo:** _Likewise, we have emphasized that this tale
 amounts to a myth, a grand narrative for the sake of bolstering a specific argument
 concerning Dutch comme..._
-  - **Trecho da nota:** _O autor é muito conhecido, até onde entendi._
-- [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
-  - **Similaridade:** 83.8%
-  - **Trecho do capítulo:** _As Arminius puts it: “the decree of God by
-which, of Himself, from eternity, He decreed to justify in Christ, believers, and to accept
-them unto etern..._
-  - **Trecho da nota:** _**- Verba da igreja Betânia para o louvor de 700**._
-- [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Histórico-Político/História da Igreja & Colonialidade/2021morris - The Christian Origins of Social Revolt]]
-  - **Similaridade:** 83.4%
-  - **Trecho do capítulo:** _In linking the free-willing individual with the rational man (we choose the word
-deliberately) who balances his self-interest with a social imperative..._
-  - **Trecho da nota:** _Em um mundo de extrema divisão do trabalho, pesquisadores não plantam, não cultivam, não colhem, não transportam, não beneficiam, não distribuem, não ..._
+  - **Trecho da nota:** _Isso é uma demonstração da humildade e obediência de Jesus à vontade de Deus._
+- [[20 TEOLOGIA/21 VIDA CRISTA/chatgpt e a questão do reino de Deus e o reino dos homens]]
+  - **Similaridade:** 95.4%
+  - **Trecho do capítulo:** _One might respond by pointing out the continued relegation of these people to
+lower working class status (as much out of work as in it) and the high r..._
+  - **Trecho da nota:** _Sempre que um governo humano contraria diretamente a lei de Deus, o crente deve se submeter a Deus antes de obedecer às autoridades (Atos 5:29)._
+- [[20 TEOLOGIA/teologia/analise do chatgpt sobre minhas meditacoes em marcos 14-1-2]]
+  - **Similaridade:** 94.3%
+  - **Trecho do capítulo:** _For instance, in the long discussion of self-defence, he writes, “The
+Christian Religion commands, that we should lay down our Lives one for another; ..._
+  - **Trecho da nota:** _**Instrumentalização da Religião**: O uso da religião como ferramenta para justificar conflitos e divisões políticas, embora tentador, pode trazer o r..._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:23*
+*Processado automaticamente em: 2026-02-27 16:34*

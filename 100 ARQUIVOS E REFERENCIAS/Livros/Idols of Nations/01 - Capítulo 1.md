@@ -207,46 +207,39 @@ all Street.
 Rutgers University Press, 1992); Lawrence Iannaccone, “The Consequences of Religious Market Structures:
 
 ## Notas Relacionadas
-- [[30 LIDERANCA/GestaoPublica-Ufrgs/Forum semana II Vídeo 2 - Neoliberalismo e Gerenci]]
-  - **Similaridade:** 89.0%
+- [[40 COMO CONHECEMOS/Divisões da filosofia]]
+  - **Similaridade:** 93.1%
   - **Trecho do capítulo:** _Introduction
 The present study investigates the interaction between theology and economy in the
 writings of four political economists—Hugo Grotius, Jo..._
-  - **Trecho da nota:** _Forum semana II Vídeo 2 - Neoliberalismo e Gerencialismo
-
-O slide 27 do material obrigatório define ‘gerencialismo’ como uma “estrutura calculista que..._
-- [[40 COMO CONHECEMOS/Divisões da filosofia]]
-  - **Similaridade:** 89.0%
+  - **Trecho da nota:** _# A filosofia 
+- teórica,
+	- teologia
+	- física
+	- matemática._
+- [[110 TRABALHO E GESTAO/diário/20240910]]
+  - **Similaridade:** 92.5%
   - **Trecho do capítulo:** _For Locke, the Fall pertains only to
 mortality, which enables him to sidestep the other curses relating to labor and property._
-  - **Trecho da nota:** _- aritmética
-		- música 
-		- geometria
-		- astronomia
-- prática,
-	- individual
-	- privada
-	- pública._
-- [[70 ECONOMIA/homo economicus]]
-  - **Similaridade:** 84.5%
-  - **Trecho do capítulo:** _While we are in some sympathy with the general
-tenor of such works, we remain suspicious of ethics as an elite discourse.[5] That is, given
-the very w..._
-  - **Trecho da nota:** _Homo economicus: origem, significado e o que está por trás do conceito (warren.com.br)
-
-> The term "economic man" was used for the first time in the l..._
-- [[60 CONTABILIDADE/61 TREINAMENTOS/UVA/Contabilidade/UVA/Empreendedorismo/Empreendedorismo - conceitos e definições]]
-  - **Similaridade:** 80.4%
+  - **Trecho da nota:** _Dada nossa criação, o ambiente "humano" onde nascemos que nos formou, temos muita dificuldade em aceitar que o outro esteja na "frente"._
+- [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Econômico-Existencial/Economia bíblica & Jubileu/2018Brueggemann-The Prophetic Imagination]]
+  - **Similaridade:** 91.4%
+  - **Trecho do capítulo:** _Thus, we
+found that the psalms and prophetic texts also speak of the idols of nations._
+  - **Trecho da nota:** _*Sintético*: reelabora Marx ("crítica da religião como base da crítica política") com análise psicossocial de Lifton ("negação da morte") e teologia d..._
+- [[20 TEOLOGIA/21 VIDA CRISTA/analise do groq sobre minhas meditacoes em  Marcos 14-60-64]]
+  - **Similaridade:** 91.3%
   - **Trecho do capítulo:** _One of the most sweeping of such efforts is that of Viner, or rather the snippets that appeared of a project he
 was never able to complete._
-  - **Trecho da nota:** _são otimistas e apaixonados pelo que fazem; 
-	8._
-- [[70 ECONOMIA/CORSI - CAP3 - A criação das bases da industrialização (1930-1945)]]
-  - **Similaridade:** 79.4%
+  - **Trecho da nota:** _O contexto histórico é marcado pela tensão entre os líderes religiosos judeus e Jesus, com o Sinédrio buscando remover Jesus do cenário político e rel..._
+- [[50 VIDA SAUDAVEL/confiança]]
+  - **Similaridade:** 91.0%
   - **Trecho do capítulo:** _Long, Divine Economy:
 Theology and the Market (London: Routledge, 2000); David Loy, “The Religion of the Market,” Journal of the
 American Academy of R..._
-  - **Trecho da nota:** _A depressão que se seguiu durou, com matizes regionais, cerca de dez anos._
+  - **Trecho da nota:** _Com o respeito é a base moral e emocional das táticas de missão
+
+Interessante conhecer a Confiança na bíblia_
 
 ---
-*Processado automaticamente em: 2026-02-27 16:23*
+*Processado automaticamente em: 2026-02-27 16:34*

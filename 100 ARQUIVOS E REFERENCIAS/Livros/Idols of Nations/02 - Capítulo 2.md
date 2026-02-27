@@ -1073,39 +1073,49 @@ Grotius and the History of Political Thought.”
 trans. Gregory Elliott (London: Verso, 2011 [2006]). See also Dominico Losurdo, “Lenin and Herrnvolk
 
 ## Notas Relacionadas
-- [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Econômico-Existencial/Economia bíblica & Jubileu/2018Brueggemann-The Prophetic Imagination]]
-  - **Similaridade:** 97.4%
-  - **Trecho do capítulo:** _Is it possible that the law’s imagination may also bring certain acts into
-existence?_
-  - **Trecho da nota:** _### 🔑 PASSO 1: ATIVAÇÃO DA LENTE DISCIPLINAR
-
-**Lente Ativada:** MODO TEOLÓGICO-CRÍTICO → *Teologia Sistemática com inflexão hermenêutica crítica*
-
-Ju..._
-- [[20 TEOLOGIA/21 VIDA CRISTA/analise do groq sobre minhas meditacoes em  Marcos 14-60-64]]
-  - **Similaridade:** 96.0%
+- [[20 TEOLOGIA/(REC) Eclesiastes]]
+  - **Similaridade:** 90.0%
+  - **Trecho do capítulo:** _1
+Hugo Grotius: Rewriting the Narrative of the Fall
+The authority of those books which men inspired by God, either writ or approved of, I often use._
+  - **Trecho da nota:** _Jesus dá sentido ao livro de eclesiastes._
+  - ⚠️ _Match questionável: O trecho do capítulo menciona a autoridade de livros inspirados por Deus, enquanto a nota se concentra na interpretação de Eclesiastes à luz de Jesus. Embora ambos tratem de temas teológicos, a conexão entre a autoridade dos escritos e a interpretação específica de Eclesiastes não é clara, tornando a relação semântica fraca._
+- [[20 TEOLOGIA/teoria da santificação]]
+  - **Similaridade:** 87.9%
   - **Trecho do capítulo:** _As is typical for Grotius’ humanist style, it
 abounds with references to Greek and Roman authors, along with one or two medieval
 ones (we have more to..._
-  - **Trecho da nota:** _Outras visões que podem ser consideradas incluem:
-
-* A importância da defesa dos direitos dos marginalizados e a oposição à injustiça, conforme exempl..._
-- [[20 TEOLOGIA/teologia/analise do groq sobre minhas meditacoes em Marcos 15-1]]
-  - **Similaridade:** 95.4%
+  - **Trecho da nota:** _- Pode ser bom, mas tende a ser ruim
+	- Muita energia, proteção, falta de percepção e até desolação pela perda
+- No trabalho pastoral isso é crucial._
+  - ⚠️ _Match questionável: O trecho do capítulo discute o estilo humanista de Grotius e suas referências literárias, enquanto a nota aborda aspectos da teologia e da santificação, que são temas distintos e não se conectam semanticamente._
+- [[20 TEOLOGIA/21 VIDA CRISTA/analise do groq sobre minhas meditacoes em  Marcos 14-60-64]]
+  - **Similaridade:** 87.5%
   - **Trecho do capítulo:** _Likewise, we have emphasized that this tale
 amounts to a myth, a grand narrative for the sake of bolstering a specific argument
 concerning Dutch comme..._
-  - **Trecho da nota:** _Isso é uma demonstração da humildade e obediência de Jesus à vontade de Deus._
-- [[20 TEOLOGIA/21 VIDA CRISTA/chatgpt e a questão do reino de Deus e o reino dos homens]]
-  - **Similaridade:** 95.4%
-  - **Trecho do capítulo:** _One might respond by pointing out the continued relegation of these people to
-lower working class status (as much out of work as in it) and the high r..._
-  - **Trecho da nota:** _Sempre que um governo humano contraria diretamente a lei de Deus, o crente deve se submeter a Deus antes de obedecer às autoridades (Atos 5:29)._
-- [[20 TEOLOGIA/teologia/analise do chatgpt sobre minhas meditacoes em marcos 14-1-2]]
-  - **Similaridade:** 94.3%
+  - **Trecho da nota:** _**Análise Teológica**
+
+As anotações refletem uma perspectiva teológica reformada, enfatizando a importância da autoridade das Escrituras, a natureza p..._
+  - ⚠️ _Match questionável: O trecho do capítulo discute a natureza de um mito e sua função em um argumento, enquanto a nota se concentra em uma análise teológica específica sobre as Escrituras e a vida cristã. Não há uma conexão semântica clara entre os dois textos._
+- [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Econômico-Existencial/Economia bíblica & Jubileu/2018Brueggemann-The Prophetic Imagination]]
+  - **Similaridade:** 87.2%
+  - **Trecho do capítulo:** _Is it possible that the law’s imagination may also bring certain acts into
+existence?_
+  - **Trecho da nota:** _Dialoga com Heschel ("pathos de Deus") e Soelle ("luto como libertação")._
+- [[20 TEOLOGIA/21 VIDA CRISTA/discipulado/1SM_11_14 — Meditação]]
+  - **Similaridade:** 85.7%
   - **Trecho do capítulo:** _For instance, in the long discussion of self-defence, he writes, “The
 Christian Religion commands, that we should lay down our Lives one for another; ..._
-  - **Trecho da nota:** _**Instrumentalização da Religião**: O uso da religião como ferramenta para justificar conflitos e divisões políticas, embora tentador, pode trazer o r..._
+  - **Trecho da nota:** _### Minha reflexão
+
+
+
+## Meditação de 2026-01-09
+
+### Leitura do Copista
+O texto aborda a ascensão e os desafios do reinado de Saul, destacando a frag..._
+  - ⚠️ _Match questionável: O trecho do capítulo discute a auto-defesa e a ética cristã sobre sacrificar-se pelos outros, enquanto a nota se concentra na ascensão e desafios do reinado de Saul, que não está diretamente relacionado ao tema da meditação sobre discipulado e vida cristã._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:34*
+*Processado automaticamente em: 2026-02-27 16:54*

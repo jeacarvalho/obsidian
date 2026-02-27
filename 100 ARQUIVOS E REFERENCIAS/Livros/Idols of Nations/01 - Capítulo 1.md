@@ -207,39 +207,48 @@ all Street.
 Rutgers University Press, 1992); Lawrence Iannaccone, “The Consequences of Religious Market Structures:
 
 ## Notas Relacionadas
-- [[40 COMO CONHECEMOS/Divisões da filosofia]]
-  - **Similaridade:** 93.1%
+- [[20 TEOLOGIA/bíblia/salmos 72]]
+  - **Similaridade:** 94.3%
   - **Trecho do capítulo:** _Introduction
 The present study investigates the interaction between theology and economy in the
 writings of four political economists—Hugo Grotius, Jo..._
-  - **Trecho da nota:** _# A filosofia 
-- teórica,
-	- teologia
-	- física
-	- matemática._
-- [[110 TRABALHO E GESTAO/diário/20240910]]
-  - **Similaridade:** 92.5%
+  - **Trecho da nota:** _Porque ele livra os necessitados que pedem socorro, e também os aflitos e aqueles que não têm quem os ajude._
+- [[30 LIDERANCA/GestaoPublica-Ufrgs/Forum Semana II - Vídeo 1 - Para Começar_ Max Webe]]
+  - **Similaridade:** 90.9%
   - **Trecho do capítulo:** _For Locke, the Fall pertains only to
 mortality, which enables him to sidestep the other curses relating to labor and property._
-  - **Trecho da nota:** _Dada nossa criação, o ambiente "humano" onde nascemos que nos formou, temos muita dificuldade em aceitar que o outro esteja na "frente"._
-- [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Econômico-Existencial/Economia bíblica & Jubileu/2018Brueggemann-The Prophetic Imagination]]
-  - **Similaridade:** 91.4%
-  - **Trecho do capítulo:** _Thus, we
-found that the psalms and prophetic texts also speak of the idols of nations._
-  - **Trecho da nota:** _*Sintético*: reelabora Marx ("crítica da religião como base da crítica política") com análise psicossocial de Lifton ("negação da morte") e teologia d..._
-- [[20 TEOLOGIA/21 VIDA CRISTA/analise do groq sobre minhas meditacoes em  Marcos 14-60-64]]
-  - **Similaridade:** 91.3%
-  - **Trecho do capítulo:** _One of the most sweeping of such efforts is that of Viner, or rather the snippets that appeared of a project he
-was never able to complete._
-  - **Trecho da nota:** _O contexto histórico é marcado pela tensão entre os líderes religiosos judeus e Jesus, com o Sinédrio buscando remover Jesus do cenário político e rel..._
-- [[50 VIDA SAUDAVEL/confiança]]
-  - **Similaridade:** 91.0%
+  - **Trecho da nota:** _A partir dessa lógica do modelo, seguidores de Parsons desenvolveram uma série de estudos sobre tema das “disfunções da burocracia”._
+  - ⚠️ _Match questionável: O trecho do capítulo discute a perspectiva de Locke sobre a queda e suas implicações para a mortalidade, enquanto a nota aborda disfunções da burocracia a partir de estudos de seguidores de Parsons. Os temas são distintos e não se relacionam semanticamente._
+- [[20 TEOLOGIA/21 VIDA CRISTA/chatgpt e a questão do reino de Deus e o reino dos homens]]
+  - **Similaridade:** 90.1%
+  - **Trecho do capítulo:** _His backpedaling only serves to highlight the possibility that God may be responsible
+for both good and evil._
+  - **Trecho da nota:** _**Impostos e autoridade**:
+   - Você sugere que pagar impostos é uma forma de manter o Reino de Deus em funcionamento, visto que Deus permite as autor..._
+  - ⚠️ _Match questionável: O trecho do capítulo discute a dualidade do bem e do mal em relação à responsabilidade divina, enquanto a nota aborda a questão dos impostos e da autoridade em relação ao Reino de Deus. As temáticas são distintas e não se conectam semanticamente._
+- [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
+  - **Similaridade:** 89.9%
+  - **Trecho do capítulo:** _Spencer Banzhaf, eds., Keeping Faith, Losing
+Faith: Religious Belief and Political Economy (Durham: Duke University Press, 2008); Kelly Johnson, “Whos..._
+  - **Trecho da nota:** _**- Verba da igreja Betânia para o louvor de 700**._
+  - ⚠️ _Match questionável: O trecho do capítulo menciona obras acadêmicas sobre crença religiosa e economia política, enquanto a nota refere-se a uma verba específica da igreja Betânia para louvor, o que não estabelece uma conexão semântica clara entre os dois._
+- [[110 TRABALHO E GESTAO/diário/20240910]]
+  - **Similaridade:** 89.4%
   - **Trecho do capítulo:** _Long, Divine Economy:
 Theology and the Market (London: Routledge, 2000); David Loy, “The Religion of the Market,” Journal of the
 American Academy of R..._
-  - **Trecho da nota:** _Com o respeito é a base moral e emocional das táticas de missão
+  - **Trecho da nota:** _João 3:3
 
-Interessante conhecer a Confiança na bíblia_
+## Pensamentos
+
+
+
+
+## Atividade física
+- Fazer o treino completo casa
+- https://twitter.com/FitnessDr_/status/1782447149780783152
+- https://..._
+  - ⚠️ _Match questionável: O trecho do capítulo discute temas relacionados à teologia e ao mercado, enquanto a nota menciona um versículo bíblico e atividades físicas, que não têm relação com o conteúdo teológico ou econômico apresentado no trecho. Portanto, não há uma conexão semântica entre eles._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:34*
+*Processado automaticamente em: 2026-02-27 16:54*

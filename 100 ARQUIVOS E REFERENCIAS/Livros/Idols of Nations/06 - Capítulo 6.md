@@ -232,41 +232,50 @@ over a culture for a time, only to recede once again in the face of explicit eng
 with religion in a way that indicates neither process is irreversible. A dialectical reading
 
 ## Notas Relacionadas
-- [[40 COMO CONHECEMOS/Divisões da filosofia]]
-  - **Similaridade:** 93.7%
+- [[20 TEOLOGIA/21 VIDA CRISTA/paganismo nos dias de hoje]]
+  - **Similaridade:** 92.7%
   - **Trecho do capítulo:** _Conclusion
 W
 e have focused on four key figures in the development of what eventually became
 classical economic thought: Hugo Grotius, John Locke, Tho..._
-  - **Trecho da nota:** _# A filosofia 
-- teórica,
-	- teologia
-	- física
-	- matemática._
-- [[120 FILOSOFIA/101 TREINAMENTOS/Filosofia UNINTER/COMO ESTUDAR FILOSOFIA E SUA FUNÇÃO SOCIAL]]
-  - **Similaridade:** 92.4%
-  - **Trecho do capítulo:** _Here self-
-interest as an unwitting social good comes into play, as do comparative advantage in
-decision making and the ultimate rationality of the ch..._
-  - **Trecho da nota:** _Abertura ao novo: não tornar óbvio o que é "dado"
-	- Processo: não ao senso comum + o que, como e por que + crítica + reconstrução;
-	- Faço filosofia ..._
-- [[70 ECONOMIA/CORSI - CAP3 - A criação das bases da industrialização (1930-1945)]]
-  - **Similaridade:** 89.1%
+  - **Trecho da nota:** _O termo "paganismo" na época dos cristãos primitivos tinha uma conotação bem específica: referia-se às religiões politeístas e às práticas espirituais..._
+  - ⚠️ _Match questionável: O trecho do capítulo discute figuras importantes do pensamento econômico clássico, enquanto a nota aborda o conceito de paganismo na época dos cristãos primitivos. Não há uma conexão semântica clara entre os dois temas._
+- [[40 COMO CONHECEMOS/Divisões da filosofia]]
+  - **Similaridade:** 86.1%
+  - **Trecho do capítulo:** _In addition, they found themselves part of larger
+debates that ranged between Hobbes’s grim view and the breezily positive position of a
+natural benev..._
+  - **Trecho da nota:** _- aritmética
+		- música 
+		- geometria
+		- astronomia
+- prática,
+	- individual
+	- privada
+	- pública._
+  - ⚠️ _Match questionável: O trecho do capítulo discute debates filosóficos relacionados a visões de Hobbes, enquanto a nota parece listar divisões da filosofia e áreas de estudo, como aritmética e música, que não se conectam diretamente ao conteúdo do trecho._
+- [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
+  - **Similaridade:** 84.5%
   - **Trecho do capítulo:** _Mill, and Malthus (in his
 Principles).[3] More than that, myth becomes a necessary generic feature, appearing early
 in often voluminous studies, there..._
-  - **Trecho da nota:** _Essa tendência ficaria mais clara no período do Estado Novo._
-- [[20 TEOLOGIA/21 VIDA CRISTA/chatgpt e a questão do reino de Deus e o reino dos homens]]
-  - **Similaridade:** 87.5%
+  - **Trecho da nota:** _- evangelização em grupo, institucional
+- missões._
+  - ⚠️ _Match questionável: O trecho do capítulo discute conceitos relacionados a Mill e Malthus, além de mencionar mitos em estudos, enquanto a nota se refere a temas de evangelização e missões, que são de natureza teológica e institucional. Não há uma conexão semântica clara entre os dois textos._
+- [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Econômico-Existencial/Economia bíblica & Jubileu/2018Brueggemann-The Prophetic Imagination]]
+  - **Similaridade:** 83.9%
   - **Trecho do capítulo:** _In the cases of Grotius, Locke, Smith, and Malthus,
 the “all” is limited to the men of a certain class in European colonial centers._
-  - **Trecho da nota:** _Sempre que um governo humano contraria diretamente a lei de Deus, o crente deve se submeter a Deus antes de obedecer às autoridades (Atos 5:29)._
-- [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Econômico-Existencial/Economia bíblica & Jubileu/2018Brueggemann-The Prophetic Imagination]]
-  - **Similaridade:** 87.4%
+  - **Trecho da nota:** _Dialoga com Heschel ("pathos de Deus") e Soelle ("luto como libertação")._
+  - ⚠️ _Match questionável: O trecho do capítulo discute a limitação do conceito de 'todos' em relação a uma classe específica na Europa colonial, enquanto a nota menciona diálogos sobre temas teológicos e existenciais que não se relacionam diretamente com a análise econômica ou social apresentada no trecho._
+- [[20 TEOLOGIA/21 VIDA CRISTA/analise do groq sobre minhas meditacoes em  Marcos 14-60-64]]
+  - **Similaridade:** 83.8%
   - **Trecho do capítulo:** _It may also be called an imperialist universal: all the world is the same as us,
 since we control that world._
-  - **Trecho da nota:** _- A tese de que a profecia opera na *tensão dialética* entre crítica (luto) e energização (esperança) evita os dois perigos do ativismo: o cinismo sem..._
+  - **Trecho da nota:** _**A Ilegalidade do Julgamento**
+ * Texto: Marcos 14:60-64
+ * Comentário reformado: João Calvino sobre a importância da justiça e da legalidade na apli..._
+  - ⚠️ _Match questionável: O trecho do capítulo discute uma perspectiva imperialista sobre o controle do mundo, enquanto a nota se concentra na ilegalidade do julgamento em um contexto teológico e bíblico. Não há uma conexão semântica clara entre os dois temas._
 
 ---
-*Processado automaticamente em: 2026-02-27 16:34*
+*Processado automaticamente em: 2026-02-27 16:55*

@@ -1,214 +1,14 @@
 # Capítulo 1
 
-Introduction
-The present study investigates the interaction between theology and economy in the
-writings of four political economists—Hugo Grotius, John Locke, Adam Smith and
-Thomas Malthus—who are commonly grouped with the founding “fathers” of
-“economics.” If, as Ben Fine and Dimitri Milonakis argue,[1] the discipline of economics
-constituted itself through a process of individualization, de-socialization, and de-
-historicization, we would like to add to this the process of de-theologization, as also an
-important step in the dialectic of reduction and universalism that is crucial to economics
-imperialism. For Fine and Milonakis, “economics imperialism” refers to the application of
-supposed universal criteria derived from classical and neoclassical economics to all
-aspects of human existence, including the choices people make in relation to religion.
-That is, religion too is a marketplace, and human beings as economic animals make
-rational choices in light of what they regard as their own benefit. In the process of
-reduction and universalization, the specific and limited nature of the economic theory in
-question is effaced. These limitations appear when one investigates not only the social
-and historical context of its emergence, but also the biblical and theological nature of
-those earlier debates. Our task here is to focus on this final element, namely, the way the
-Bible and theology indelibly stamp the theories in question.
-W
-e have decided to focus on four of the key theorists rather than offer a grand sweep
-characteristic of what is known as the “History of Economic Thought” (HET).[2] These
-histories inevitably either lead up to Adam Smith, or begin with his work and then
-follow his successors, thereby marking him as both the culmination of a preparatory
-phase and the inaugurator of a new tradition. W
-e opt to place Smith within this
-continuum rather than designate him as a beginning or end of a particular tradition. But
-why do we focus on these four? It enables us to dig deeper into their work, to explore the
-crucial deployments and rewritings of the myth of the emergence of private property,
-labor, if not the free market itself. Thereby, we are able to investigate with some patience
-their engagements with the Bible and the myths they derive from it, especially how they
-struggle to force new theories of economic activity and human nature from biblical
-narratives that resist such theories.[3]
-
-
-Thus, in the chapter on Grotius (1583–1645), we identify his Arminian (or
-Remonstrant) theology and the constituent role it plays in his interpretation of the Fall.
-Keen to avoid the imputation of evil to God and to assert the freedom of the will for each
-individual, Grotius effectively minimizes the effects of the Fall on human nature. As a
-ruling class ideologue in the United Provinces (Netherlands) during the first capitalist
-commercial empire, he shares their abhorrence at the central doctrinal point of Calvinism
-that all one’s works, achievements, wealth, and power count as nothing before God. This
-effort to tame the Fall provides the necessary preconditions for what is arguably the first
-version of the myth of capitalism—a myth that constructs a story of the origin of private
-property out of an original common, as well as the growth of law
-, states, and commerce.
-That myth also provides Grotius with a means for arguing that the seas cannot be
-private property, for they have never met the criteria he has invented. Grotius also
-provides an excellent example of the constitutive limitations of the doctrine of liberalism,
-particularly in the way he shows how slavery is entailed by private property.
-From Grotius we move to Locke (1632–1704), who develops the myth further on the
-basis of his own effort to limit the effects of the Fall. For Locke, the Fall pertains only to
-mortality, which enables him to sidestep the other curses relating to labor and property.
-However, the Fall continues to trip up Locke as he outlays both his principles of human
-nature (freedom and equality) and his myth. In order to trace the Fall’s deft ability to
-trouble Locke’s efforts, we focus on both of his treatises on government, since the first
-treatise’s detailed biblical engagements (especially Genesis 1–3) provide the basis for his
-famous myth of property in the fifth book of the second treatise. Like Grotius, Locke
-provides clear examples of the logic of exclusion found in the universal claims of
-liberalism, particularly in terms of children, the state of nature, and ethnocentrism.
-Grotius and Locke may have provided early versions of the myth of capitalism, but
-Adam Smith (1723–90) is really the preeminent mythmaker and storyteller. Not content
-with a single myth, he develops two: a foundation myth and a grand narrative. While the
-former seeks to justify his assertions concerning human nature (that human beings
-naturally truck, barter, and exchange, and that self-interest leads to greater social benefit),
-the latter universalizes the chronic particularity of Smith’s ideas concerning capitalism
-and the free market. Beyond those myths, we also explore his penchant for vignettes,
-fables, sayings, moral tales, and parables. But does the Fall make its presence felt in
-Smith’s writings? At first glance, he seems to have left it behind; yet at a deeper, narrative
-level it recurs—not merely in the construction of myths but also in the tension between
-narratives of difference and those of identity, between those stories that need to narrate a
-
-
-passage from a different state in the past to those that assert that the past was largely the
-same as the present. W
-e close by observing that Smith’s ambivalence concerning religion
-enables both theological and secular readings of his rambling works.
-W
-e close our in-depth analyses with Thomas Malthus (1766–1834), not least because
-he troubles any clear narrative of the secularization of economic thought after Smith.
-Malthus is one of the few with a decidedly strong doctrine of evil. Obviously, this means
-that the Fall is once again crucially important, especially when one studies Malthus’s
-sermons (he was a priest in the Church of England). With this in mind, we analyze
-closely his essay on population, especially the first edition with its stark observations
-concerning the goodness of God that turns into evil. For Malthus, God’s gifts of
-procreation and the impulse to work for our subsistence lead inevitably to misery and
-vice through overpopulation and inadequate food. That Malthus shies away from the full
-implications of his argument is made clear through the subsequent editions of his essay
-on population, where he asserts the role of moral sanction on restricting the drive for sex.
-His backpedaling only serves to highlight the possibility that God may be responsible
-for both good and evil. All of these issues appear in his half dozen efforts to retell the
-myth of capitalism. Although Malthus dabbles with a myth of progress, he clearly prefers
-a myth of regress, with its increasingly dire outcomes that result from the growth of
-human societies and economies. Yet Malthus’s chronic racism—which he shares with
-Adam Smith and indeed John Locke—is once again the clearest indication that
-liberalism’s universal claims are far from universal.
-Thus, the central themes that appear in the following study include the importance of
-the biblical Fall (to the extent that the early economic theories of capitalism were wrested
-from the text of Genesis 1–3), the importance of myth,[4] the theorists’ near-obsessive
-deliberations concerning human nature, and the systemic limitations of liberalism and its
-claims to freedom. However, given that a number of recent studies deal with matters
-concerning religion and economics, we would like to point out what this work is not.
-First of all, we do not undertake a study of economic theology, by which we mean
-the spate of studies that emphasize moral and social justice issues. For the most part,
-these studies are written by theologians of a mildly left-wing persuasion seeking to
-critique capitalism and its ravages. While we are in some sympathy with the general
-tenor of such works, we remain suspicious of ethics as an elite discourse.[5] That is, given
-the very way ethics first appears in the oft-cited work of Aristotle, especially The
-Nicomachian Ethics, it continues to be determined by the ruling class assumptions in
-which he framed his treatment.[6] Second, we are not engaged in adding to the arsenal of
-
-
-neoclassical economic theory, using religion as a way to understand the psychological
-and motivational factors that the traditional homo economicus fails to answer.[7] Third, we
-find the efforts by those who are inspired by a radically conservative agenda (often
-known as radical orthodoxy) to be quite wayward. This emphasis may appear in a weak
-form, making the unremarkable point that economic theory is based upon unexamined
-moral and ideological assumptions or that economics and religion may be loosely
-analogous.[8] It may also appear in a distinctly reactionary form, arguing that “revealed
-religion” is the basis of economics.[9] Finally, we are clearly opposed to any form of
-economics imperialism, which approaches the study of religious belief, behavior, and
-institutions from an economic, market, or “rational choice” perspective.[10]
-One question remains: why “Idols of Nations” as our title? Since Adam Smith most
-likely drew the title of W
-ealth of Nations from Isa. 61:6,12 (and 60:5), we consider it
-apropos to draw upon the Bible for a title that presents an opposing view
-. Thus, we
-found that the psalms and prophetic texts also speak of the idols of nations. Jeremiah
-14:22 asks, “Can any idols of the nations bring rain? Or can the heavens give showers?”
-But Ps. 135:15 comes straight to the point: “The idols of the nations are silver and gold,
-the work of human hands.” In other words, the development of classical economics
-identifies not so much the sources of the wealth of nations but rather provides—
-unwittingly—a theory that seeks to justify the idolatry of the nations which worship the
-work of human hands.
-1. Dimitris Milonakis and Ben Fine, From Political Economy to Economics: Method, the Social and the Historical in
-the Evolution of Economic Theory (London: Routledge, 2009); Ben Fine and Dimitris Milonakis, From
-Economics Imperialism to Freakonomics: The Shifting Boundaries between Economics and Other Social Sciences
-(London: Routledge, 2009); Ben Fine and Dimitris Milonakis, “From Freakonomics to Political Economy,"
-Historical Materialism 20, no. 3 (2012): 81–96.
-2. One of the most sweeping of such efforts is that of Viner, or rather the snippets that appeared of a project he
-was never able to complete. He runs all the way from classical Greece to the 1960s, thereby replicating the
-myth of classicism and the grand narratives characteristic of economic theorists such as Smith. The effect is
-both to universalize the specific forms of economic behavior peculiar to capitalism and to exclude or sideline
-significant contributions, including Marxists and Calvinists. Jacob Viner, The Role of Providence in the Social
-Order: An Essay in Intellectual History  (Princeton: Princeton University Press, 1972); Jacob Viner, Essays on
-the Intellectual History of Economics  (Princeton: Princeton University Press, 1991).
-3. Others may have made the list, such as John Stuart Mill, but his self-proclaimed “Religion of Humanity” in
-its hand-wringing liberal form offers little in the way of intense struggle, by which we mean the effort to
-wrest a new story of human nature and economic activity from the traditions he inherited. To be sure, his
-thoughts on communism and the stable state of society are perhaps the best parts of his work, but they fall
-short of a serious engagement with communism. Hobbes might also have been worthwhile to discuss,
-especially since he argues that human beings left to their own devices do not obey the laws of nature.
-Rather, they are given to the desires for safety, gain, glory, and power, thereby engaging in continual warfare
-
-
-with one another. For that reason, they need a strong, authoritarian government to keep them in line. In the
-state of nature, man’s life was “solitary, poor, nasty, brutish and short” and was engaged in a “war . . . of every
-man against every man.” The government may be democratic to a limited extent, but Hobbes preferred
-absolute monarchy. He focuses on human nature and government, with little in the way of economic
-thought. Already in the 1950s, Levy was able to summarize Hobbes’s economic thought in a few pages.
-Aaron Levy, “Economic Views of Thomas Hobbes,” Journal of the History of Ideas 15, no. 4 (1954): 589–
-95.
-4. Of all the works we have read, only Sedlacek notes the mythical nature of economic theory, although he
-prefers to speak of an underlying metaphysics of economics, which he seeks to trace throughout human
-history. Tomas Sedlacek, Economics of Good and Evil: The Quest for Economic Meaning from Gilgamesh to W
-all
-Street (Oxford: Oxford University Press, 2011).
-5. Albino Barrera, Market Complicity and Christian Ethics (Cambridge: Cambridge University Press, 2011); John
-Cobb, The Earthist Challenge to Economism: A Theological Critique of the W
-orld Bank (New York: Macmillan,
-1999); Philip Goodchild, Capitalism as Religion: The Price of Piety (London: Routledge, 2002); Philip
-Goodchild, Theology of Money (Durham: Duke University Press, 2009); Stephen D. Long, Divine Economy:
-Theology and the Market (London: Routledge, 2000); David Loy, “The Religion of the Market,” Journal of the
-American Academy of Religion 65, no. 2 (1996): 275–90; M. Douglas Meeks, God the Economist: The Doctrine
-of God and Political Economy (Minneapolis: Fortress Press, 1989); Max L. Stackhouse, God and Globalization,
-vol. 4, Globalization and Grace (Philadelphia: Trinity Press International, 2007); William Schweiker and
-Charles Matthewes, eds., Having: Property and Possesion in Religious and Social Life (Grand Rapids: Eerdmans,
-2004); Robert Wuthnow, “New Directions in the Study of Religion and Economic Life,” in The Handbook
-of Economic Sociology, eds. Neil J. Smelser and Richard Swedberg, (Princeton: Princeton University Press,
-2005), 603–26. By contrast, McCloskey offers a cloying study that attempts to defend and perfect capitalism
-and its attendant ideologies, again on ethical grounds. Deidre N. McCloskey, The Bourgeois Virtues: Ethics for
-an Age of Commerce (Chicago: Chicago University Press, 2006).
-6. Aristotle coined the term itself as ta ethika, from ethos or custom, habit, and the status quo. However, these
-ethics are not for the lowly: “The utter vulgarity of the herd of men comes out in their preference for the
-sort of existence a cow leads.” Aristotle, The Ethics of Aristotle, trans. J.A.K. Thomson (Harmondsworth:
-Penguin, 1955), 30. See further Roland Boer, In the V
-ale of T
-ears: On Marxism and Theology V (Leiden: Brill,
-2014), 245-86.
-7. Bradley Bateman, “Presidential Address: Reflections on the Secularization of American Economics,” Journal
-of the History of Economic Thought 30, no. 1 (2008): 1–20; Bradley Bateman, “In a Space of Questions: A
-Reflection on Religion and Economics at the Beginning of the Twenty-First Century,” History of Political
-Economy 43, no. 2 (2011): 389–411; Bradley Bateman and H. Spencer Banzhaf, eds., Keeping Faith, Losing
-Faith: Religious Belief and Political Economy (Durham: Duke University Press, 2008); Kelly Johnson, “Whose
-Economics? Which Religion? Comments on Brad Bateman’s “In a Space of Questions,” History of Political
-Economy 43, no. 2 (2011): 417–22.
-8. Duncan K. Foley, Adam's Fallacy: A Guide to Economic Theology (Cambridge: Belknap, 2006); Robert
-Nelson, Economics as Religion: From Samuelson to Chicago and Beyond (Pittsburgh: Penn State University
-Press, 2001); Robert Nelson, “What Is Economic Theology?” Princeton Seminary Bulletin 25, no. 1 (2004):
-58–79; Sedlacek, Economics of Good and Evil: The Quest for Economic Meaning from Gilgamesh to W
-all Street.
-9. Paul Oslington, “A Theological Economics,” International Journal of Social Economics 27, no. 1 (2000): 32–
-44.
-10. Robert Barro and Rachel McCleary, “Religion and Economic Growth,” American Sociological Review 68
-(2005): 760–81; Roger Finke and Rodney Stark, The Churching of America, 1776-1990 (New Brunswick:
-Rutgers University Press, 1992); Lawrence Iannaccone, “The Consequences of Religious Market Structures:
+Introdução  
+O presente estudo investiga a interação entre teologia e economia nos escritos de quatro economistas políticos—Hugo Grotius, John Locke, Adam Smith e Thomas Malthus—que são comumente agrupados com os “pais” fundadores da “economia.” Se, como argumentam Ben Fine e Dimitri Milonakis,[1] a disciplina da economia se constituiu através de um processo de individualização, desocialização e deshistoricização, gostaríamos de acrescentar a isso o processo de desteologização, como também um passo importante na dialética da redução e do universalismo que é crucial para o imperialismo econômico. Para Fine e Milonakis, “imperialismo econômico” refere-se à aplicação de supostos critérios universais derivados da economia clássica e neoclássica a todos os aspectos da existência humana, incluindo as escolhas que as pessoas fazem em relação à religião. Ou seja, a religião também é um mercado, e os seres humanos, como animais econômicos, fazem escolhas racionais à luz do que consideram seu próprio benefício. No processo de redução e universalização, a natureza específica e limitada da teoria econômica em questão é apagada. Essas limitações aparecem quando se investiga não apenas o contexto social e histórico de seu surgimento, mas também a natureza bíblica e teológica desses debates anteriores. Nossa tarefa aqui é focar nesse elemento final, ou seja, a maneira como a Bíblia e a teologia estampam de forma indelével as teorias em questão.  
+Decidimos nos concentrar em quatro dos principais teóricos em vez de oferecer uma visão geral característica do que é conhecido como a “História do Pensamento Econômico” (HET).[2] Essas histórias inevitavelmente levam a Adam Smith ou começam com seu trabalho e, em seguida, seguem seus sucessores, marcando-o como tanto a culminação de uma fase preparatória quanto o inaugurador de uma nova tradição. Optamos por colocar Smith dentro desse continuum em vez de designá-lo como um começo ou fim de uma tradição particular. Mas por que nos concentramos nesses quatro? Isso nos permite aprofundar em seu trabalho, explorar os desdobramentos e reescritas cruciais do mito da emergência da propriedade privada, do trabalho, se não do próprio mercado livre. Assim, somos capazes de investigar com alguma paciência seus engajamentos com a Bíblia e os mitos que dela derivam, especialmente como eles lutam para forçar novas teorias da atividade econômica e da natureza humana a partir de narrativas bíblicas que resistem a tais teorias.[3]  
+Assim, no capítulo sobre Grotius (1583–1645), identificamos sua teologia arminiana (ou remonstrante) e o papel constitutivo que ela desempenha em sua interpretação da Queda. Desejoso de evitar a imputação de mal a Deus e de afirmar a liberdade da vontade para cada indivíduo, Grotius efetivamente minimiza os efeitos da Queda sobre a natureza humana. Como um ideólogo da classe dominante nas Províncias Unidas (Países Baixos) durante o primeiro império comercial capitalista, ele compartilha seu horror ao ponto doutrinário central do calvinismo de que todas as obras, conquistas, riquezas e poderes de uma pessoa não contam como nada diante de Deus. Esse esforço para domar a Queda fornece as pré-condições necessárias para o que é, sem dúvida, a primeira versão do mito do capitalismo—um mito que constrói uma história da origem da propriedade privada a partir de um comum original, bem como o crescimento do direito, dos estados e do comércio. Esse mito também fornece a Grotius um meio para argumentar que os mares não podem ser propriedade privada, pois nunca atenderam aos critérios que ele inventou. Grotius também fornece um excelente exemplo das limitações constitutivas da doutrina do liberalismo, particularmente na maneira como ele mostra como a escravidão é implicada pela propriedade privada.  
+De Grotius, passamos para Locke (1632–1704), que desenvolve o mito mais adiante com base em seu próprio esforço para limitar os efeitos da Queda. Para Locke, a Queda diz respeito apenas à mortalidade, o que lhe permite contornar as outras maldições relacionadas ao trabalho e à propriedade. No entanto, a Queda continua a atrapalhar Locke enquanto ele expõe tanto seus princípios
 
 ## Notas Relacionadas
 - [[70 ECONOMIA/CORSI - CAP3 - A criação das bases da industrialização (1930-1945)]]
-  - **Similaridade:** 100.0%
+  - **Similaridade:** 99.9%
   - **Trecho do capítulo:** _Introdução  
 O presente estudo investiga a interação entre teologia e economia nos escritos de quatro economistas políticos—Hugo Grotius, John Locke, ..._
   - **Trecho da nota:** _A criação das bases da industrialização (1930-1945)
@@ -219,19 +19,21 @@ Como visto anteriormente, a Revolução de 1930, que levou Getúlio Vargas ao po
   - **Similaridade:** 99.9%
   - **Trecho do capítulo:** _Para Fine e Milonakis, “imperialismo econômico” refere-se à aplicação de supostos critérios universais derivados da economia clássica e neoclássica a ..._
   - **Trecho da nota:** _Com a estabilidade econômica e financeira, o acesso ao crédito torna-se mais favorável, incentivando o investimento produtivo e o crescimento econômic..._
-- [[30 LIDERANCA/GestaoPublica-Ufrgs/Bacelar (semana 3) - As Políticas Públicas no Br]]
-  - **Similaridade:** 100.0%
-  - **Trecho do capítulo:** _Optamos por colocar Smith dentro desse continuum em vez de designá-lo como um começo ou fim de uma tradição particular._
-  - **Trecho da nota:** _Problema, pois Cada lugar requer uma solução que venha da realidade do lugar e não de uma política homogeneizada._
 - [[70 ECONOMIA/neoliberalismo]]
   - **Similaridade:** 99.9%
   - **Trecho do capítulo:** _Para Fine e Milonakis, “imperialismo econômico” refere-se à aplicação de supostos critérios universais derivados da economia clássica e neoclássica a ..._
-  - **Trecho da nota:** _-  Netto e Braz (2012) afirmam que o objetivo real do capital monopolista não é a “diminuição” do Estado, mas a diminuição das funções estatais coesiv..._
-- [[60 CONTABILIDADE/61 TREINAMENTOS/UVA/Contabilidade/UVA/Empreendedorismo/Empreendedorismo - conceitos e definições]]
+  - **Trecho da nota:** _- O governo Collor era respaldado em medidas neoliberais:
+		-  Redução da Burocracia que dificultavam as ações das empresas e inibiam os negócios;
+		-..._
+- [[30 LIDERANCA/GestaoPublica-Ufrgs/Bacelar (semana 3) - As Políticas Públicas no Br]]
   - **Similaridade:** 100.0%
-  - **Trecho do capítulo:** _Esse mito também fornece a Grotius um meio para argumentar que os mares não podem ser propriedade privada, pois nunca atenderam aos critérios que ele ..._
-  - **Trecho da nota:** _são bem relacionados (networking); 
-	12._
+  - **Trecho do capítulo:** _Isso nos permite aprofundar em seu trabalho, explorar os desdobramentos e reescritas cruciais do mito da emergência da propriedade privada, do trabalh..._
+  - **Trecho da nota:** _o movimento de globalização;
+2._
+- [[70 ECONOMIA/71 TREINAMENTOS/UVA/Economia/FORMAÇÃO ECONÔMICA BRASILEIRA/Aula 1 formação econômica]]
+  - **Similaridade:** 99.8%
+  - **Trecho do capítulo:** _Assim, somos capazes de investigar com alguma paciência seus engajamentos com a Bíblia e os mitos que dela derivam, especialmente como eles lutam para..._
+  - **Trecho da nota:** _Na colônia portuguesa americana, em função dos ataques franceses e problemas no mundo asiático, em 1534, foram tomadas medidas para o povoamento e val..._
 
 ---
-*Processado automaticamente em: 2026-02-27 17:21*
+*Processado automaticamente em: 2026-02-27 17:26*

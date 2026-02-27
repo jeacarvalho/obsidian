@@ -6,6 +6,34 @@ Sou Marcos, mais conhecido pelo meu sobrenome Hirota. Atualmente tenho 39 anos, 
 
 Gostaria de trocar experiências e obter conselhos sobre alguns dos meus atuais desafios como: 1-Transição do papel funcional para o gerencial, 2-Gestão do tempo, 3-Organização da equipe, 4-Liderança humanizada e 5-Gestão de conflitos.
 
+## 20260227
+- Para a próxima
+	- Duas pessoas da equipe
+		- Gabriel
+			- Era parceiro do chato
+			- relacionamento com pessoas difícil nas equipes anteriores
+				- Já mudou umas 3 vezes de equipe
+				- No remoto veio para o Hirota
+				- Transtornos psicológicos
+					- Ele se abre co Hirota
+					- "ataques de microfrequência de ondas enviadas por torre de celular"
+					- Sente dores
+					- Já fez remédios mas não agora
+					- Em terapia
+		- Katia
+			- Tem tempo de empresa
+			- Entrou depois na equipa há uns 5 anos
+			- "acabei de entrar não conheço nãoa posso colaborar"
+			- UX
+				- Fez atuações fora do depto e divisão e se frustrou pq se destacava e mesmo assim não foi promovida
+					- Hirota entende que ela tem razão
+					- Tem problemas pessoais tem dificuldade de engravidar
+					- Se auto declarou como autista
+				- Focou mais agora na equipe
+				- Tem ajudado muito com isso
+				- Mas precisa puxar mais o potencial dela
+	- Promoção por mérito
+
 ## 20260213
 - 2 frentes RTC no Simples
 	- Simples

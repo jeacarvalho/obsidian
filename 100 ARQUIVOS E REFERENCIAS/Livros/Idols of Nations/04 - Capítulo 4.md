@@ -1283,10 +1283,32 @@ scrutiny to be conjectural, contradictory, irrelevant, or inconclusive, the righ
 
 ## Notas Relacionadas
 - [[50 VIDA SAUDAVEL/determinação]]
+  - **Similaridade:** 88.3%
+  - _3
+Adam Smith the Storyteller
+The desire of being believed, or the desire of persuading, of leading and directing other people, seems to be one of the
+..._
 - [[40 COMO CONHECEMOS/Kintsugi]]
+  - **Similaridade:** 87.3%
+  - _3
+Adam Smith the Storyteller
+The desire of being believed, or the desire of persuading, of leading and directing other people, seems to be one of the
+..._
 - [[110 TRABALHO E GESTAO/Serpro2021/Webinar Storytelling - Ricardo Vandré - Serpro]]
+  - **Similaridade:** 84.0%
+  - _However, the second parable is more typical of Smith’s storytelling. It concerns the_
 - [[50 VIDA SAUDAVEL/concentre-se menos em si mesmo, e mais nos outros.]]
+  - **Similaridade:** 83.3%
+  - _3
+Adam Smith the Storyteller
+The desire of being believed, or the desire of persuading, of leading and directing other people, seems to be one of the
+..._
 - [[50 VIDA SAUDAVEL/confiança]]
+  - **Similaridade:** 81.6%
+  - _3
+Adam Smith the Storyteller
+The desire of being believed, or the desire of persuading, of leading and directing other people, seems to be one of the
+..._
 
 ---
-*Processado automaticamente em: 2026-02-27 15:03*
+*Processado automaticamente em: 2026-02-27 15:15*

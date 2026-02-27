@@ -208,10 +208,28 @@ Rutgers University Press, 1992); Lawrence Iannaccone, “The Consequences of Rel
 
 ## Notas Relacionadas
 - [[30 LIDERANCA/GestaoPublica-Ufrgs/Forum semana II Vídeo 2 - Neoliberalismo e Gerenci]]
+  - **Similaridade:** 89.0%
+  - _Introduction
+The present study investigates the interaction between theology and economy in the
+writings of four political economists—Hugo Grotius, Jo..._
 - [[40 COMO CONHECEMOS/Divisões da filosofia]]
+  - **Similaridade:** 89.0%
+  - _Introduction
+The present study investigates the interaction between theology and economy in the
+writings of four political economists—Hugo Grotius, Jo..._
 - [[70 ECONOMIA/homo economicus]]
+  - **Similaridade:** 84.5%
+  - _and motivational factors that the traditional homo economicus fails to answer.[7] Third, we_
 - [[60 CONTABILIDADE/61 TREINAMENTOS/UVA/Contabilidade/UVA/Empreendedorismo/Empreendedorismo - conceitos e definições]]
+  - **Similaridade:** 80.4%
+  - _Introduction
+The present study investigates the interaction between theology and economy in the
+writings of four political economists—Hugo Grotius, Jo..._
 - [[70 ECONOMIA/CORSI - CAP3 - A criação das bases da industrialização (1930-1945)]]
+  - **Similaridade:** 79.4%
+  - _Introduction
+The present study investigates the interaction between theology and economy in the
+writings of four political economists—Hugo Grotius, Jo..._
 
 ---
-*Processado automaticamente em: 2026-02-27 15:03*
+*Processado automaticamente em: 2026-02-27 15:15*

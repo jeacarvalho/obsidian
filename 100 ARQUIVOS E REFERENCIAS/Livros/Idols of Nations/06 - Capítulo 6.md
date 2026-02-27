@@ -233,10 +233,32 @@ with religion in a way that indicates neither process is irreversible. A dialect
 
 ## Notas Relacionadas
 - [[40 COMO CONHECEMOS/Divisões da filosofia]]
+  - **Similaridade:** 90.5%
+  - _Conclusion
+W
+e have focused on four key figures in the development of what eventually became
+classical economic thought: Hugo Grotius, John Locke, Tho..._
 - [[120 FILOSOFIA/101 TREINAMENTOS/Filosofia UNINTER/COMO ESTUDAR FILOSOFIA E SUA FUNÇÃO SOCIAL]]
+  - **Similaridade:** 74.1%
+  - _dialectical process of individualization, de-socialization, and de-historicization, a_
 - [[20 TEOLOGIA/21 VIDA CRISTA/comentarios chatgpt sobre meditacao marcos 13-3-6-21-23 e proposta de sermao]]
+  - **Similaridade:** 72.9%
+  - _Conclusion
+W
+e have focused on four key figures in the development of what eventually became
+classical economic thought: Hugo Grotius, John Locke, Tho..._
 - [[120 FILOSOFIA/101 TREINAMENTOS/Filosofia UNINTER/ÁREAS DA FILOSOFIA]]
+  - **Similaridade:** 71.5%
+  - _Conclusion
+W
+e have focused on four key figures in the development of what eventually became
+classical economic thought: Hugo Grotius, John Locke, Tho..._
 - [[70 ECONOMIA/CORSI - CAP3 - A criação das bases da industrialização (1930-1945)]]
+  - **Similaridade:** 70.4%
+  - _Conclusion
+W
+e have focused on four key figures in the development of what eventually became
+classical economic thought: Hugo Grotius, John Locke, Tho..._
 
 ---
-*Processado automaticamente em: 2026-02-27 15:03*
+*Processado automaticamente em: 2026-02-27 15:15*

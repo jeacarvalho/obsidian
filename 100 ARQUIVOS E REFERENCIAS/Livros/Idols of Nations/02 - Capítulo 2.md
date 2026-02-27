@@ -1074,10 +1074,26 @@ trans. Gregory Elliott (London: Verso, 2011 [2006]). See also Dominico Losurdo, 
 
 ## Notas Relacionadas
 - [[20 TEOLOGIA/21 VIDA CRISTA/analise do groq sobre minhas meditacoes em  Marcos 14-60-64]]
+  - **Similaridade:** 89.4%
+  - _1
+Hugo Grotius: Rewriting the Narrative of the Fall
+The authority of those books which men inspired by God, either writ or approved of, I often use. [..._
 - [[20 TEOLOGIA/21 VIDA CRISTA/discipulado/1SM_11_14 — Meditação]]
+  - **Similaridade:** 88.9%
+  - _1
+Hugo Grotius: Rewriting the Narrative of the Fall
+The authority of those books which men inspired by God, either writ or approved of, I often use. [..._
 - [[50 VIDA SAUDAVEL/Aprender a viver no caos pode não ser tão nocivo]]
+  - **Similaridade:** 84.0%
+  - _1
+Hugo Grotius: Rewriting the Narrative of the Fall
+The authority of those books which men inspired by God, either writ or approved of, I often use. [..._
 - [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
+  - **Similaridade:** 83.8%
+  - _accept that call of grace and then at another reject it. The loss of one’s faith removes him_
 - [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Histórico-Político/História da Igreja & Colonialidade/2021morris - The Christian Origins of Social Revolt]]
+  - **Similaridade:** 83.4%
+  - _order to provide an account of the origins of private property, law_
 
 ---
-*Processado automaticamente em: 2026-02-27 15:03*
+*Processado automaticamente em: 2026-02-27 15:15*

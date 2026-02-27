@@ -1180,10 +1180,32 @@ many things wanting.” Ibid., 2.124; see also 2.3; 1.92.
 
 ## Notas Relacionadas
 - [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
+  - **Similaridade:** 96.1%
+  - _approach that regarded faith as intellectual and moral assent to basic propositions found_
 - [[20 TEOLOGIA/(REC) Eclesiastes]]
+  - **Similaridade:** 96.0%
+  - _2
+John Locke and the Trouble with Adam
+As Adam was turned out of Paradise, so all his Posterity were born out of it, out of the reach of the T
+ree of ..._
 - [[110 TRABALHO E GESTAO/diário/20210601]]
+  - **Similaridade:** 94.6%
+  - _2
+John Locke and the Trouble with Adam
+As Adam was turned out of Paradise, so all his Posterity were born out of it, out of the reach of the T
+ree of ..._
 - [[20 TEOLOGIA/bíblia/Eclesiastes 7]]
+  - **Similaridade:** 93.9%
+  - _2
+John Locke and the Trouble with Adam
+As Adam was turned out of Paradise, so all his Posterity were born out of it, out of the reach of the T
+ree of ..._
 - [[110 TRABALHO E GESTAO/diário/2022-W38]]
+  - **Similaridade:** 93.5%
+  - _2
+John Locke and the Trouble with Adam
+As Adam was turned out of Paradise, so all his Posterity were born out of it, out of the reach of the T
+ree of ..._
 
 ---
-*Processado automaticamente em: 2026-02-27 15:03*
+*Processado automaticamente em: 2026-02-27 15:15*

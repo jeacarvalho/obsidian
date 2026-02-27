@@ -971,10 +971,32 @@ natural disaster. The population may be drastically reduced, but this enables th
 
 ## Notas Relacionadas
 - [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
+  - **Similaridade:** 88.9%
+  - _done so. But is this outcome an improvement? Faithful to the dominant ideological_
 - [[20 TEOLOGIA/21 VIDA CRISTA/discipulado/1SM_11_14 — Meditação]]
+  - **Similaridade:** 78.5%
+  - _4
+The Lust and Hunger of Thomas Malthus
+The temptations to evil are too strong for human nature to resist. [1]
+ 
+Of the two possible readings of Adam ..._
 - [[20 TEOLOGIA/21 VIDA CRISTA/discipulado/JR_6_10]]
+  - **Similaridade:** 75.5%
+  - _4
+The Lust and Hunger of Thomas Malthus
+The temptations to evil are too strong for human nature to resist. [1]
+ 
+Of the two possible readings of Adam ..._
 - [[100 ARQUIVOS E REFERENCIAS/102-LECTIO BIBLIOTHECA/Modo Econômico-Existencial/Economia bíblica & Jubileu/2018Brueggemann-The Prophetic Imagination]]
+  - **Similaridade:** 71.7%
+  - _the imagination.”[33] Instead, the true situation of human beings on earth is one of the_
 - [[20 TEOLOGIA/bíblia/Romanos 14]]
+  - **Similaridade:** 71.4%
+  - _4
+The Lust and Hunger of Thomas Malthus
+The temptations to evil are too strong for human nature to resist. [1]
+ 
+Of the two possible readings of Adam ..._
 
 ---
-*Processado automaticamente em: 2026-02-27 15:03*
+*Processado automaticamente em: 2026-02-27 15:15*

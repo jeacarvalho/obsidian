@@ -1,0 +1,8 @@
+python-dotenv
+chromadb
+sentence-transformers
+tqdm
+pyyaml
+pymupdf
+google-genai
+requests

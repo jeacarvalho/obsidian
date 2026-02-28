@@ -40,7 +40,92 @@
 3. Para artigos web, usar defuddle antes de salvar
 4. Manter consistência com os padrões existentes
 
-## Workflow - Processamento de Livros PDF
+---
+
+# Pipeline RAG: Livros → Notas do Vault
+
+## Scripts Criados
+
+### 1. `vault_indexer.py`
+Indexa todas as notas do vault no ChromaDB para busca semântica.
+
+**Uso:**
+```bash
+python3 vault_indexer.py --clean  # Primeira vez
+python3 vault_indexer.py           # Atualizar índice
+```
+
+**Modelo de Embedding:** `paraphrase-multilingual-MiniLM-L12-v2` (384 dimensões)
+- Multilíngue (PT-BR)
+- ~4x menor e mais rápido que bge-m3 em CPU
+
+### 2. `book_connector.py`
+Conecta capítulos de livros às notas existentes do vault com validação via LLM.
+
+**Uso:**
+```bash
+# Processar de capítulos extraídos
+python3 book_connector.py "pasta/do/livro" --chapters
+
+# Processar PDF direto
+python3 book_connector.py "livro.pdf"
+
+# Com tradução
+python3 book_connector.py "livro.pdf" --no-translate
+```
+
+**Stack:**
+- Extração: PyMuPDF (fitz) ou leitura direta de .md
+- Tradução: Gemini 2.0 Flash
+- Embeddings: sentence-transformers
+- Vector Store: ChromaDB
+- Validação: Ollama (llama3.2)
+
+## Lições Aprendidas
+
+### Problemas Encontrados e Soluções
+
+1. **Embedding com Ollama CPU era muito lento**
+   - Solução: Usar `sentence-transformers` local (~50x mais rápido)
+
+2. **Modelos de embedding diferentes = dimensões incompatíveis**
+   - Solução: Usar sempre `paraphrase-multilingual-MiniLM-L12-v2`
+
+3. **Chunking gerava chunks vazios**
+   - Solução: Corrigir lógica de split - usar tokens diretamente, não multiplicar por 4
+
+4. **Trechos do livro eram retornados como matches**
+   - Solução: Adicionar filtro `exclude_paths` na busca
+
+5. **Validação Ollama muito lenta (timeout)**
+   - Status: Não resolvido - precisa de modelo mais leve ou processamento paralelo
+
+6. **Similaridade exibida incorretamente (0 ou 1)**
+   - Solução: Usar `1 - distance` diretamente
+
+## ToDo
+
+- [ ] Otimizar validação Ollama (usar modelo mais leve: gemma2:2b)
+- [ ] Implementar processamento incremental (salvar a cada chunk)
+- [ ] Adicionar filtro por confiança mínima (atualmente 80%)
+- [ ] Melhorar extração de chunks (remover notas relacionadas do final dos capítulos)
+- [ ] Testar com outros livros
+- [ ] Adicionar suporte a mais modelos de tradução
+
+## Configuração (.env)
+
+```bash
+VAULT_PATH=/caminho/para/vault
+CHROMA_PERSIST_DIR=./chroma_db
+GEMINI_API_KEY=sua_chave
+OLLAMA_HOST=http://localhost:11434
+OLLAMA_MODEL=llama3.2
+EMBEDDING_MODEL=paraphrase-multilingual-MiniLM-L12-v2
+```
+
+---
+
+## Workflow Antigo - Processamento de Livros PDF
 
 Scripts em `_local/scripts/processar_livro.py`
 

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:57.650057+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: internalizacao_sistema_spu
+    weight: 10
+    confidence: 0.98
+  - name: sistema_spunet_cadastro_imoveis
+    weight: 9
+    confidence: 0.95
+  - name: geolocalizacao_poligonos
+    weight: 8
+    confidence: 0.92
+  - name: arquitetura_sistema_antiga
+    weight: 7
+    confidence: 0.88
+  - name: manutencao_java
+    weight: 6
+    confidence: 0.85
+  - name: restauracao_banco_dados
+    weight: 7
+    confidence: 0.82
+  - name: visualizacao_dados_geograficos
+    weight: 8
+    confidence: 0.9
+  - name: analise_dides_dominio_spu
+    weight: 6
+    confidence: 0.78
+  - name: riscos_desempenho_sistema
+    weight: 7
+    confidence: 0.8
+  - name: integracao_sistema_supai
+    weight: 8
+    confidence: 0.87
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '004.8'
+  - '528.9'
+  cdu_description: 004.4 - Desenvolvimento de software; 004.8 - Inteligência artificial; 528.9 - Cartografia digital e sistemas de informação geográfica
+---
 | Arquivos relacionados                          |
 | ---------------------------------------------- |
 | [[Inteligência_Espacial_no_Serpro_v1.0.0.pdf]] |

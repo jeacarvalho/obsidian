@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:32.515404+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: superacao_da_mediocridade
+    weight: 8
+    confidence: 0.98
+  - name: importancia_da_acao
+    weight: 10
+    confidence: 0.99
+  - name: processo_criativo
+    weight: 9
+    confidence: 0.97
+  - name: aprendizado_por_experiencia
+    weight: 9
+    confidence: 0.96
+  - name: risco_no_desenvolvimento
+    weight: 7
+    confidence: 0.95
+  - name: evolucao_artistica
+    weight: 8
+    confidence: 0.94
+  - name: superacao_do_medo_de_errar
+    weight: 7
+    confidence: 0.93
+  - name: valor_do_primeiro_passo
+    weight: 9
+    confidence: 0.92
+  - name: desenvolvimento_de_habilidades
+    weight: 8
+    confidence: 0.91
+  - name: critica_a_inercia
+    weight: 6
+    confidence: 0.9
+  cdu_primary: 159.947.2
+  cdu_secondary:
+  - '004.78'
+  - 37.011.3
+  cdu_description: Psicologia da criatividade e da inovação; Desenvolvimento pessoal e profissional; Motivação para a ação e superação da mediocridade.
+---
 #### É preciso arriscar todo mundo começa ruim em algo
 Amarelo destaque | Local: 85 Nota | Local: 85
 

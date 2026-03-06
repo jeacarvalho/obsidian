@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.704166+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceito_direitos_humanos
+    weight: 10
+    confidence: 0.98
+  - name: evolucao_historica_direitos_humanos
+    weight: 10
+    confidence: 0.97
+  - name: dignidade_pessoa_humana
+    weight: 9
+    confidence: 0.95
+  - name: carta_magna_1215
+    weight: 8
+    confidence: 0.92
+  - name: petition_of_rights_1628
+    weight: 8
+    confidence: 0.91
+  - name: habeas_corpus_act_1679
+    weight: 7
+    confidence: 0.9
+  - name: bill_of_rights_1689
+    weight: 8
+    confidence: 0.93
+  - name: declaracao_direitos_virginia_1776
+    weight: 8
+    confidence: 0.94
+  - name: declaracao_independencia_eua_1776
+    weight: 8
+    confidence: 0.93
+  - name: noao_materialista_homem
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '342.7'
+  cdu_secondary:
+  - '323.4'
+  - 008
+  cdu_description: Direitos humanos. Liberdades civis. História social e cultural.
+---
 https://ead.uva.br/disciplinas/grad/publica/cont/def/edh/re/u1/tema-1.htm
 
   * [Introdução](index.htm)

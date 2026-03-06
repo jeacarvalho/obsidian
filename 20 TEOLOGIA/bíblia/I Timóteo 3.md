@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:53.935681+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: manifestacao_deus_em_corpo
+    weight: 10
+    confidence: 0.98
+  - name: justificacao_deus_no_espirito
+    weight: 9
+    confidence: 0.97
+  - name: vindicacao_de_cristo_pelo_espirito
+    weight: 9
+    confidence: 0.96
+  - name: ressurreicao_de_jesus_como_prova
+    weight: 8
+    confidence: 0.95
+  - name: cristo_declarado_filho_de_deus
+    weight: 8
+    confidence: 0.94
+  - name: papel_do_santo_espirito_na_vindicacao
+    weight: 7
+    confidence: 0.93
+  - name: evidencia_espiritual_de_cristo
+    weight: 7
+    confidence: 0.92
+  - name: milagres_como_prova_divina
+    weight: 6
+    confidence: 0.9
+  - name: interpretacao_biblica_1_timoteo_3_16
+    weight: 6
+    confidence: 0.88
+  - name: teologia_da_justificacao_em_cristo
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '232.1'
+  cdu_secondary:
+  - '234.2'
+  - '236.3'
+  cdu_description: Cristologia (Encarnação, Divindade, Ressurreição), Teologia do Espírito Santo, Escatologia
+---
 Não há dúvida de que é grande o mistério da piedade: Deus foi manifestado em corpo , justificado no Espírito, visto pelos anjos, pregado entre as nações, crido no mundo, recebido na glória. 1 Timóteo 3:16 NVI
 - Deus foi justificado?
 

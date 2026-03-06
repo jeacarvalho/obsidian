@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.176866+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceito_de_cultura
+    weight: 10
+    confidence: 0.98
+  - name: transformacao_da_natureza_pelo_homem
+    weight: 9
+    confidence: 0.97
+  - name: linguagem_simbolica_humana
+    weight: 9
+    confidence: 0.96
+  - name: relacao_entre_cultura_linguagem_e_trabalho
+    weight: 8
+    confidence: 0.95
+  - name: trabalho_como_acao_humana
+    weight: 8
+    confidence: 0.94
+  - name: capacidade_de_abstracao_humana
+    weight: 7
+    confidence: 0.93
+  - name: diversidade_cultural
+    weight: 6
+    confidence: 0.92
+  - name: evolucao_da_tecnica_e_sociedade
+    weight: 7
+    confidence: 0.91
+  - name: historia_da_filosofia_moderna
+    weight: 5
+    confidence: 0.85
+  - name: filosofia_grega_antiga
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '308'
+  cdu_secondary:
+  - '101'
+  - 008
+  - '316.3'
+  - '331.1'
+  cdu_description: Sociologia da cultura, Filosofia da cultura, Antropologia social e cultural, Sociologia do trabalho
+---
 # Bibliografia
 
 ## REFERÊNCIAS BÁSICAS 

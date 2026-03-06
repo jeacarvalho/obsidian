@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:53.477562+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: migracao_tibco_pucomex
+    weight: 10
+    confidence: 0.98
+  - name: gerenciamento_licencas_software_tibco
+    weight: 9
+    confidence: 0.95
+  - name: suporte_contratual_tibco
+    weight: 9
+    confidence: 0.94
+  - name: capacidade_suporte_cd
+    weight: 8
+    confidence: 0.9
+  - name: alternativas_mensageria_activemq
+    weight: 8
+    confidence: 0.88
+  - name: analise_sistemas_utilizando_tibco
+    weight: 7
+    confidence: 0.85
+  - name: monitoramento_projetos_migracao
+    weight: 7
+    confidence: 0.87
+  - name: mensageria_nats_alto_volume
+    weight: 6
+    confidence: 0.8
+  - name: documentacao_migracao_tibco
+    weight: 6
+    confidence: 0.82
+  - name: gestao_contratos_software
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '004.77'
+  cdu_secondary:
+  - '004.42'
+  - '004.62'
+  cdu_description: Redes de computadores. Protocolos de comunicação. Sistemas de mensagens. Gerenciamento de software. Migração de sistemas.
+---
 # Descrição:
 
 Para acompanhar o assunto

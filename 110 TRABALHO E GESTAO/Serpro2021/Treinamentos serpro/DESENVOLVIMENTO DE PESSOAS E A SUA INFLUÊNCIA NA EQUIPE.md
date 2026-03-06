@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:59.675149+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: influencia_comportamental_lideranca
+    weight: 9
+    confidence: 0.9
+  - name: gestao_emocoes_ambiente_trabalho
+    weight: 8
+    confidence: 0.85
+  - name: desenvolvimento_competencias_pessoais
+    weight: 7
+    confidence: 0.8
+  - name: atitudes_proativas_reativas_equipe
+    weight: 7
+    confidence: 0.75
+  - name: persistencia_impeto_motivacao_equipe
+    weight: 8
+    confidence: 0.88
+  - name: desidentificacao_visao_longo_prazo
+    weight: 6
+    confidence: 0.7
+  - name: prudencia_analise_risco_organizacional
+    weight: 6
+    confidence: 0.72
+  - name: curiosidade_criatividade_mudanca_organizacional
+    weight: 7
+    confidence: 0.78
+  - name: introversao_autorrealizacao_vinculo_atividade
+    weight: 7
+    confidence: 0.77
+  - name: tolerancia_adequacao_dinamica_equipe
+    weight: 5
+    confidence: 0.65
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '305.4'
+  - '316.46'
+  - '005.32'
+  cdu_description: Psicologia das emoções e da vontade. Psicologia social. Psicologia do trabalho. Gestão de pessoas.
+---
 ### Objetivo
 
 Conscientizar o aluno das diferentes formas de contribuir e expressar as competências [[serpro]], tornando-o apto a identificar quais são suas 

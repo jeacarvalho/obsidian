@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:13:08.381025+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: paganismo_cristao_primitivo
+    weight: 8
+    confidence: 0.9
+  - name: paganismo_contemporaneo
+    weight: 9
+    confidence: 0.95
+  - name: materialismo_secular
+    weight: 7
+    confidence: 0.85
+  - name: relativismo_moral
+    weight: 7
+    confidence: 0.85
+  - name: cultura_autossuficiencia
+    weight: 6
+    confidence: 0.8
+  - name: idolos_modernos
+    weight: 7
+    confidence: 0.85
+  - name: apostasia_crista
+    weight: 8
+    confidence: 0.9
+  - name: comodidade_espiritual
+    weight: 7
+    confidence: 0.85
+  - name: desafio_cristao_cultura
+    weight: 9
+    confidence: 0.95
+  - name: adaptacao_fe_cultural
+    weight: 6
+    confidence: 0.8
+  cdu_primary: 27-28
+  cdu_secondary:
+  - 23/28
+  - '316.7'
+  cdu_description: História e geografia da igreja cristã; Doutrinas cristãs; Sociologia da religião; Influência da cultura na religião
+---
 O termo "paganismo" na época dos cristãos primitivos tinha uma conotação bem específica: referia-se às religiões politeístas e às práticas espirituais que contrastavam com o monoteísmo cristão. Para os primeiros cristãos, era o sistema religioso predominante da cultura greco-romana, associado a valores, costumes e práticas que se chocavam diretamente com os ensinamentos cristãos.
 
 Atualizando esse conceito para o contexto contemporâneo, o "paganismo" pode ser entendido mais amplamente como **qualquer conjunto de valores, crenças ou estilos de vida que se opõem ou competem com os princípios cristãos**. Em nossa sociedade, isso pode incluir:

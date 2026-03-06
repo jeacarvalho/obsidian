@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:54.475399+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: treinamento_grade_basica_serpro
+    weight: 9
+    confidence: 0.9
+  - name: trilha_renove_treinamento_serpro_2021
+    weight: 8
+    confidence: 0.85
+  - name: gestao_remota_conquer_treinamento_serpro
+    weight: 8
+    confidence: 0.85
+  - name: planejamento_educacional_2021
+    weight: 7
+    confidence: 0.75
+  - name: norma_capacitacao_dp_001
+    weight: 7
+    confidence: 0.7
+  - name: plano_capacitacao_supse_2021
+    weight: 7
+    confidence: 0.75
+  - name: licenca_alura_planejamento
+    weight: 6
+    confidence: 0.65
+  - name: geocursos_serpro
+    weight: 6
+    confidence: 0.6
+  - name: webinar_storytelling_ricardo_vandre
+    weight: 6
+    confidence: 0.6
+  - name: gestao_demandas_internas_alm
+    weight: 5
+    confidence: 0.55
+  cdu_primary: '378.9'
+  cdu_secondary:
+  - '005.32'
+  - '371.3'
+  cdu_description: Educação superior e formação profissional. Gestão de recursos humanos e formação. Métodos de ensino e aprendizagem.
+---
 # Descrição:
 Ações, reuniões, arquivos, etc.. Sobre os treinamentos de 2021.
 - #done  Realizar treinamento grade básica: https://educa.voce.serpro.gov.br/course/view.php?id=71

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:38.192012+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: inveja_prosperidade_maus
+    weight: 7
+    confidence: 0.85
+  - name: reflexao_sobre_fim_maus
+    weight: 8
+    confidence: 0.9
+  - name: busca_recompensa_divina
+    weight: 9
+    confidence: 0.95
+  - name: amargura_coracao_falta_entendimento
+    weight: 7
+    confidence: 0.8
+  - name: presenca_deus_em_dificuldades
+    weight: 10
+    confidence: 0.98
+  - name: guia_conselho_divino
+    weight: 8
+    confidence: 0.92
+  - name: recepcao_na_gloria_divina
+    weight: 7
+    confidence: 0.88
+  - name: deus_permanece_mesmo_pecando
+    weight: 10
+    confidence: 0.99
+  - name: valor_presenca_deus_acima_tudo
+    weight: 9
+    confidence: 0.96
+  - name: sabedoria_real_experiencia_divina
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '224.4'
+  cdu_secondary:
+  - '231.7'
+  - '248.4'
+  cdu_description: 'Salmos 73: Livro dos Salmos, capítulo 73. Teologia da prosperidade dos ímpios e a fé em Deus. Presença e guia de Deus. Sabedoria divina.'
+---
 Quanto a mim, porém, quase me resvalaram os pés; pouco faltou para que se desviassem os meus passos. Pois eu invejava os arrogantes, ao ver a prosperidade dos maus. Salmos 73:2‭-‬3 NAA
 Em só refletir para compreender isso, achei que a tarefa era pesada demais para mim; até que entrei no santuário de Deus e descobri qual seria o fim deles. Salmos 73:16‭-‬17 NAA
 - [[sinceridade]]

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:57.831142+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: automacao_leitura_log_acesso
+    weight: 10
+    confidence: 0.98
+  - name: indicadores_uso_sistema
+    weight: 9
+    confidence: 0.95
+  - name: reengenharia_sistema
+    weight: 8
+    confidence: 0.9
+  - name: processamento_dados_pentaho
+    weight: 7
+    confidence: 0.85
+  - name: visualizacao_dados_datastudio
+    weight: 7
+    confidence: 0.88
+  - name: coleta_informacoes_servlet
+    weight: 8
+    confidence: 0.92
+  - name: monitoramento_prometheus
+    weight: 8
+    confidence: 0.91
+  - name: painel_grafana
+    weight: 9
+    confidence: 0.94
+  - name: geracao_planilha_sheets
+    weight: 6
+    confidence: 0.8
+  - name: otimizacao_performance_sistema
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '004.6'
+  - '004.7'
+  - '004.8'
+  cdu_description: 004.4 - Programação de computadores; 004.6 - Gestão de dados; 004.7 - Processamento de dados; 004.8 - Sistemas de informação
+---
 #### DWBK Isenção
 
 | links | Arquivos |

@@ -1,6 +1,46 @@
 ---
 name: obsidian-bases
 description: Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:36:32.383602+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: arquivos_obsidian_bases
+    weight: 10
+    confidence: 0.98
+  - name: definicao_visualizacoes_dinamicas
+    weight: 9
+    confidence: 0.95
+  - name: sintaxe_filtros_obsidian
+    weight: 8
+    confidence: 0.92
+  - name: operadores_logicos_filtros
+    weight: 7
+    confidence: 0.9
+  - name: propriedades_notas_obsidian
+    weight: 8
+    confidence: 0.93
+  - name: propriedades_arquivos_metadados
+    weight: 8
+    confidence: 0.93
+  - name: sintaxe_formulas_obsidian
+    weight: 9
+    confidence: 0.94
+  - name: funcoes_globais_obsidian
+    weight: 7
+    confidence: 0.9
+  - name: manipulacao_datas_obsidian
+    weight: 7
+    confidence: 0.88
+  - name: tipos_dados_duracao
+    weight: 6
+    confidence: 0.85
+  cdu_primary: 004.416.3
+  cdu_secondary:
+  - '004.77'
+  - '004.65'
+  cdu_description: Programação de computadores, linguagens de programação, sistemas de gerenciamento de dados, sistemas de informação, bases de dados, sistemas de arquivos.
 ---
 
 # Obsidian Bases Skill

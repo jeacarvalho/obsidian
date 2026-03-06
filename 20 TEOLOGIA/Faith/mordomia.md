@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:09.346184+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: avareza_e_amor_ao_dinheiro
+    weight: 10
+    confidence: 0.98
+  - name: riquezas_e_sua_transitoriedade
+    weight: 9
+    confidence: 0.95
+  - name: administracao_de_bens_e_dons
+    weight: 8
+    confidence: 0.92
+  - name: generosidade_e_doacao
+    weight: 7
+    confidence: 0.9
+  - name: trabalho_e_seu_valor
+    weight: 6
+    confidence: 0.88
+  - name: idolatria_de_riquezas
+    weight: 7
+    confidence: 0.85
+  - name: sabedoria_na_gestao_do_tempo
+    weight: 6
+    confidence: 0.82
+  - name: gratidao_pelas_riquezas_divinas
+    weight: 5
+    confidence: 0.8
+  - name: prestacao_de_contas_divina
+    weight: 5
+    confidence: 0.78
+  - name: uso_dos_talentos_para_o_reino
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '241.5'
+  cdu_secondary:
+  - '261.8'
+  - '330.1'
+  cdu_description: Ética cristã, administração de bens, avareza, generosidade, uso de talentos.
+---
 mordomia
 
 [[Eclesiastes 5]]:10 Quem ama o dinheiro jamais dele se farta; e quem ama a abundância nunca se farta da renda; também isto é vaidade.

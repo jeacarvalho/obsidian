@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:50.302017+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: plano_aperfeicoamento_logs_acesso_sistemas
+    weight: 10
+    confidence: 0.98
+  - name: auditoria_cgu_recomendacao
+    weight: 8
+    confidence: 0.95
+  - name: armazenamento_logs_infraestrutura_serpro
+    weight: 7
+    confidence: 0.9
+  - name: retencao_logs_cinco_anos
+    weight: 6
+    confidence: 0.85
+  - name: avaliacao_armazenamento_logs_rfb_aplicacao
+    weight: 7
+    confidence: 0.92
+  - name: mecanismos_logs_sistemas_rfb
+    weight: 8
+    confidence: 0.93
+  - name: implantacao_modulo_analise_logs_gestao_configuracao
+    weight: 9
+    confidence: 0.96
+  - name: plataforma_ingestao_analise_eventos_logs
+    weight: 9
+    confidence: 0.97
+  - name: rastreabilidade_logs_versionamento_publicacao_sistemas
+    weight: 8
+    confidence: 0.94
+  - name: uso_apis_wso2_conecta_gov
+    weight: 7
+    confidence: 0.88
+  cdu_primary: '004.65'
+  cdu_secondary:
+  - '004.77'
+  - '004.62'
+  - '351.74'
+  cdu_description: Gestão de sistemas de informação. Armazenamento e análise de logs. Auditoria e controle governamental. Segurança da informação.
+---
 [10/11 15:39] Maria Amelia Franca de Macedo
  
 

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:34.937702+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_pessoal_disciplinado
+    weight: 9
+    confidence: 0.98
+  - name: resumo_critico_livro
+    weight: 8
+    confidence: 0.97
+  - name: disrupt_yourself_whitney_johnson
+    weight: 10
+    confidence: 0.99
+  - name: jornada_desenvolvimento_pessoal
+    weight: 7
+    confidence: 0.95
+  - name: conhecimento_transformador
+    weight: 6
+    confidence: 0.92
+  - name: descobrindo_vocacao
+    weight: 8
+    confidence: 0.96
+  - name: sucesso_pessoal_profissional
+    weight: 7
+    confidence: 0.94
+  - name: jobs_to_be_done_clayton_christensen
+    weight: 9
+    confidence: 0.98
+  - name: autoconhecimento_carreira
+    weight: 7
+    confidence: 0.93
+  - name: tomada_decisao_corajosa
+    weight: 6
+    confidence: 0.9
+  cdu_primary: 159.947.5
+  cdu_secondary:
+  - '005.32'
+  - '331.104'
+  cdu_description: Psicologia da motivação e da vontade; Psicologia do trabalho e da carreira; Gestão da mudança e inovação
+---
 # Introdução
 
 O presente livro faz parte de uma série de resumos críticos e práticos de livros que se mostraram importantes para uma jornada de desenvolvimento pessoal robusta e disciplinada.

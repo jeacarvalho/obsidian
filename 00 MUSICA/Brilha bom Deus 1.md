@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:08.427128+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: musica_gospel
+    weight: 10
+    confidence: 0.9
+  - name: louvor_adoracao
+    weight: 9
+    confidence: 0.85
+  - name: musica_crista
+    weight: 8
+    confidence: 0.8
+  - name: religiao
+    weight: 7
+    confidence: 0.75
+  - name: espiritualidade
+    weight: 6
+    confidence: 0.7
+  - name: musica_evangelica
+    weight: 5
+    confidence: 0.65
+  - name: fe
+    weight: 5
+    confidence: 0.6
+  - name: deus
+    weight: 5
+    confidence: 0.55
+  - name: musica_sacra
+    weight: 5
+    confidence: 0.5
+  - name: audios_musicais
+    weight: 5
+    confidence: 0.45
+  cdu_primary: '200'
+  cdu_secondary:
+  - '783'
+  cdu_description: Religião. Teologia. Religião e ciência. Religião e outras matérias. Religião e outras matérias. Música sacra. Música religiosa.
+---
 #### Brilha bom Deus
 [2020_05_12_23_31_29.mp3](../00 EVERNOTE_EM_USO/162dfffbfcaf04dcc9b23f4e3df55270.mp2)
 [descanso.mp3](../00 EVERNOTE_EM_USO/12fc6f760b228bf83f730db4be727d17.mp2)

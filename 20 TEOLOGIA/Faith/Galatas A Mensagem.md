@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:21.121989+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mensagem_divina_versus_popularidade
+    weight: 9
+    confidence: 0.98
+  - name: recebimento_direto_da_mensagem_de_deus
+    weight: 8
+    confidence: 0.97
+  - name: liberdade_espiritual_versus_legalismo
+    weight: 10
+    confidence: 0.99
+  - name: abandono_da_lei_para_vida_em_cristo
+    weight: 9
+    confidence: 0.96
+  - name: justificacao_pela_fe_nao_pelas_obras
+    weight: 10
+    confidence: 0.99
+  - name: vida_nova_em_cristo_versus_religiao_antiga
+    weight: 8
+    confidence: 0.95
+  - name: frutos_do_espirito_versus_obras_da_carne
+    weight: 10
+    confidence: 0.99
+  - name: uso_da_liberdade_para_servir_ao_proximo
+    weight: 9
+    confidence: 0.97
+  - name: consequencias_do_mau_uso_da_liberdade
+    weight: 8
+    confidence: 0.96
+  - name: dons_do_espirito_e_vida_em_deus
+    weight: 7
+    confidence: 0.94
+  cdu_primary: 27-29
+  cdu_secondary: []
+  cdu_description: Teologia cristã. Epístola aos Gálatas. Doutrina da justificação pela fé, liberdade cristã, frutos do Espírito.
+---
 Galatas A Mensagem
 
 Gal 1:12

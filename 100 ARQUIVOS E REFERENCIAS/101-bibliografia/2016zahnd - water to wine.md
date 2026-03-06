@@ -2,7 +2,47 @@
 created: 2023-08-02T16:14:58 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:50.786258+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cristianismo_americano_versus_autenticidade
+    weight: 9
+    confidence: 0.95
+  - name: fe_em_jesus_versus_cristianismo_tradicional
+    weight: 8
+    confidence: 0.92
+  - name: sofrimento_e_crescimento_espiritual
+    weight: 10
+    confidence: 0.98
+  - name: busca_por_fe_robusta_e_autentica
+    weight: 7
+    confidence: 0.9
+  - name: influencia_de_dallas_willard_na_transformacao_espiritual
+    weight: 8
+    confidence: 0.93
+  - name: o_papel_da_graca_e_misterio_na_fe
+    weight: 6
+    confidence: 0.85
+  - name: critica_ao_cristianismo_que_evita_sofrimento
+    weight: 7
+    confidence: 0.88
+  - name: transformacao_pessoal_e_ministerio
+    weight: 7
+    confidence: 0.87
+  - name: influencia_literaria_na_jornada_de_fe
+    weight: 6
+    confidence: 0.86
+  - name: questionamento_sobre_a_natureza_de_deus_no_cristianismo
+    weight: 5
+    confidence: 0.8
+  cdu_primary: 27-23
+  cdu_secondary:
+  - '230.1'
+  - '248.4'
+  cdu_description: História do Cristianismo; Teologia Cristã; Vida e Prática Cristã
 ---
 
 

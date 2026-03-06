@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:16.989092+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: vida_crista
+    weight: 10
+    confidence: 0.98
+  - name: desapego_material
+    weight: 9
+    confidence: 0.95
+  - name: perspectiva_celestial
+    weight: 8
+    confidence: 0.92
+  - name: finitude_humana
+    weight: 7
+    confidence: 0.9
+  - name: seguranca_temporal
+    weight: 6
+    confidence: 0.88
+  - name: autonomia_espiritual
+    weight: 5
+    confidence: 0.85
+  - name: anticipacao_do_reino_celestial
+    weight: 7
+    confidence: 0.87
+  - name: seguranca_em_cristo
+    weight: 9
+    confidence: 0.93
+  - name: mudanca_de_atitude_mundana
+    weight: 6
+    confidence: 0.86
+  - name: valor_dos_bens_celestiais
+    weight: 8
+    confidence: 0.89
+  cdu_primary: 27-31
+  cdu_secondary:
+  - '248.4'
+  - '232.9'
+  cdu_description: Vida cristã, desapego material, perspectiva celestial, finitude humana, segurança temporal e espiritual, autonomia espiritual, antecipação do reino celestial, segurança em Cristo, mudança de atitude mundana e valor dos bens celestiais.
+---
 [[Vida cristã]]
 [[Desapego do mundo]]
 

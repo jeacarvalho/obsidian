@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:51.081494+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reconhecimento_divino_jetro
+    weight: 8
+    confidence: 0.9
+  - name: poder_deus_sobre_deuses
+    weight: 9
+    confidence: 0.95
+  - name: livramento_israel_egito
+    weight: 10
+    confidence: 1.0
+  - name: teologia_politeista_antigo_oriente
+    weight: 7
+    confidence: 0.85
+  - name: sacerdote_midianita
+    weight: 6
+    confidence: 0.75
+  - name: principios_lideranca_biblica
+    weight: 9
+    confidence: 0.92
+  - name: delegacao_autoridade
+    weight: 8
+    confidence: 0.88
+  - name: selecao_lideres_capacitados
+    weight: 7
+    confidence: 0.8
+  - name: justica_e_legislacao
+    weight: 6
+    confidence: 0.7
+  - name: servico_ao_proximo
+    weight: 5
+    confidence: 0.65
+  cdu_primary: '222.1'
+  cdu_secondary:
+  - '235.3'
+  - '305.8'
+  - '351.9'
+  cdu_description: O Livro do Êxodo, capítulo 18, descreve o reconhecimento do poder de Deus por Jetro, sacerdote de Midiã, após o livramento de Israel do Egito, e os conselhos de Jetro a Moisés sobre organização e liderança do povo, incluindo a delegação de autoridade e a seleção de juízes.
+---
 Êx 18:9 — Êx 18:11
 
 9 Alegrou-se Jetro de todo o bem que o SENHOR fizera a Israel, livrando-o da mão dos egípcios, 10 e disse: Bendito seja o SENHOR, que vos livrou da mão dos egípcios e da mão de Faraó; 11 agora, sei que o SENHOR é maior que todos os deuses, porque livrou este povo de debaixo da mão dos egípcios, quando agiram arrogantemente contra o povo.

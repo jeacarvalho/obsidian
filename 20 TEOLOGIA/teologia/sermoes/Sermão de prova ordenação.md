@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:04.612198+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: zelo_firmeza_fidelidade_crista
+    weight: 9
+    confidence: 0.98
+  - name: reavivar_dom_espiritual
+    weight: 8
+    confidence: 0.95
+  - name: relacionamento_pastoral_timoteo
+    weight: 7
+    confidence: 0.92
+  - name: proposito_salvador_de_deus
+    weight: 8
+    confidence: 0.96
+  - name: poder_amor_moderacao_esp_santo
+    weight: 7
+    confidence: 0.93
+  - name: nao_se_envergonhar_do_evangelho
+    weight: 9
+    confidence: 0.97
+  - name: participacao_sofrimentos_pelo_evangelho
+    weight: 8
+    confidence: 0.94
+  - name: graca_determinacao_divina
+    weight: 7
+    confidence: 0.91
+  - name: manter_padrao_sas_palavras
+    weight: 10
+    confidence: 0.99
+  - name: guardar_bom_deposito_esp_santo
+    weight: 9
+    confidence: 0.98
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - 27-29
+  - '248.4'
+  cdu_description: Teologia cristã; Doutrina cristã; Novo Testamento; Vida e prática cristãs
+---
 Sermão de prova ordenação
 
 [[II Timóteo 1]]:6-14

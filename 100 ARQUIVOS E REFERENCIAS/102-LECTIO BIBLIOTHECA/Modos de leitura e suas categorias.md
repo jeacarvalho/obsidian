@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:02.438720+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: curadoria_intelectual_polifonica
+    weight: 8
+    confidence: 0.9
+  - name: discernimento_vida_comum_vs_captura
+    weight: 10
+    confidence: 0.95
+  - name: lentes_disciplinares_modos_epistemologicos
+    weight: 7
+    confidence: 0.85
+  - name: modo_teologico_critico_exegese
+    weight: 6
+    confidence: 0.7
+  - name: modo_historico_politico_colonialidade
+    weight: 8
+    confidence: 0.88
+  - name: modo_economico_existencial_critica_capitalismo
+    weight: 9
+    confidence: 0.92
+  - name: modo_formativo_integral_critica_produtividade
+    weight: 9
+    confidence: 0.93
+  - name: modo_hermeneutico_tecnico_filosofia
+    weight: 7
+    confidence: 0.75
+  - name: ia_dados_colonialidade_algoritmica
+    weight: 6
+    confidence: 0.72
+  - name: etica_alteridade_levinas
+    weight: 5
+    confidence: 0.65
+  cdu_primary: 004.032.26
+  cdu_secondary:
+  - 008
+  - '1'
+  - '2'
+  - '3'
+  - '316'
+  cdu_description: A nota descreve um processo de curadoria intelectual que envolve a aplicação de diferentes lentes disciplinares (teológica, histórica, econômica, formativa, hermenêutica) para analisar obras, com foco na distinção entre 'vida comum' e 'captura'. Aborda temas como colonialidade, crítica ao capitalismo, produtividade, IA e ética. A CDU primária reflete a interseção de tecnologia e sociedade/ética, com secundárias cobrindo cultura, filosofia, religião, ciências sociais e sociologia.
+---
 # Prompt inicial para classificação de novos livros
 Você é um CURADOR INTELECTUAL POLIFÔNICO: um leitor especialista capaz de ativar diferentes lentes disciplinares conforme a natureza da obra, sempre guiado por uma bússola ética constante — discernir se um texto forma para a VIDA COMUM (relacional, justa, encarnada) ou para a CAPTURA (isolamento, acumulação, desempenho como fim em si).
 

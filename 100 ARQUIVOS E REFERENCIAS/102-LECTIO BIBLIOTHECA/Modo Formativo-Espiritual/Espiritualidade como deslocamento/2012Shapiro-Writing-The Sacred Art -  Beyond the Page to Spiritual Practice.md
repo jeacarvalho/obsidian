@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:03.151124+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: escrita_espiritual_vs_pratica_espiritual
+    weight: 9
+    confidence: 0.98
+  - name: critica_religiao_capturada_ego
+    weight: 8
+    confidence: 0.95
+  - name: conspiracao_contra_certeza_ilusoria
+    weight: 10
+    confidence: 0.99
+  - name: desconstrucao_identidade_segura
+    weight: 8
+    confidence: 0.92
+  - name: walter_brueggemann_religiao_imperio_profecia
+    weight: 7
+    confidence: 0.88
+  - name: critica_branquitude_teologica_colonialidade
+    weight: 9
+    confidence: 0.93
+  - name: seguranca_psicologica_vs_sociopolitica_religiosa
+    weight: 7
+    confidence: 0.85
+  - name: conversao_vs_captura_religiosa
+    weight: 8
+    confidence: 0.9
+  - name: desafio_cristao_desestabilizacao_ego
+    weight: 6
+    confidence: 0.8
+  - name: espiritualidade_performatica_vs_autentica
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '201'
+  cdu_secondary:
+  - '230'
+  - '305.8'
+  - '316.6'
+  cdu_description: Filosofia e religião; Teologia sistemática; Sociologia da religião; Psicologia social
+---
 # MEditações
 ## 20260226
 ### PASSO 1 — ESCOLHA DO TRECHO

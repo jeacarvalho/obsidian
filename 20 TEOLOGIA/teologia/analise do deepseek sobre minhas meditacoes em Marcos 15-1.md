@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:58.418287+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: hipocrisia_institucional_religiosa
+    weight: 9
+    confidence: 0.98
+  - name: manipulacao_poder_religioso
+    weight: 8
+    confidence: 0.97
+  - name: mecanismos_controle_estruturas_poder
+    weight: 7
+    confidence: 0.95
+  - name: justica_superficial_critica
+    weight: 6
+    confidence: 0.93
+  - name: soberania_divina_plano_redencao
+    weight: 8
+    confidence: 0.96
+  - name: sofrimento_caminho_gloria_cristo
+    weight: 7
+    confidence: 0.94
+  - name: doutrina_reformada_depravacao_total
+    weight: 8
+    confidence: 0.97
+  - name: providencia_divina_governo_mal
+    weight: 9
+    confidence: 0.98
+  - name: colaboracao_poderes_religioso_politico
+    weight: 9
+    confidence: 0.99
+  - name: critica_legalismo_religioso
+    weight: 7
+    confidence: 0.95
+  cdu_primary: 27-23
+  cdu_secondary:
+  - '232.9'
+  - '261.7'
+  - '273.6'
+  cdu_description: Teologia cristã, especialmente a perspectiva reformada, com foco na crucificação de Jesus, a hipocrisia religiosa e a soberania divina. Inclui aspectos de história eclesiástica e ética cristã.
+---
 **Resposta Estruturada conforme Instruções:**
 
 ---

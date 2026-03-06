@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:53.273968+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reducao_moradores_rua_utah
+    weight: 10
+    confidence: 0.98
+  - name: housing_first_utah
+    weight: 9
+    confidence: 0.97
+  - name: lloyd_pendleton_estrategia
+    weight: 9
+    confidence: 0.96
+  - name: custo_moradia_vs_emergencia
+    weight: 8
+    confidence: 0.94
+  - name: habitacao_apoio_permanente
+    weight: 7
+    confidence: 0.93
+  - name: saude_mental_moradores_rua
+    weight: 7
+    confidence: 0.92
+  - name: reintegracao_familiar_desabrigados
+    weight: 6
+    confidence: 0.9
+  - name: politicas_publicas_moradia
+    weight: 6
+    confidence: 0.89
+  - name: comparativo_brasil_eua_moradores_rua
+    weight: 5
+    confidence: 0.85
+  - name: desmistificacao_mito_emprego_moradia
+    weight: 5
+    confidence: 0.88
+  cdu_primary: '364.154'
+  cdu_secondary:
+  - '332.8'
+  - '305.8'
+  cdu_description: Assistência social para desabrigados e sem-teto, com foco em habitação e programas de apoio, comparando custos e eficácia com abordagens anteriores.
+---
 Este homem reduziu o número de moradores de rua de Utah em 91%
 
 # Este homem reduziu o número de moradores de rua de Utah em 91%

@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:09.785807+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_injustica_julgamento_jesus
+    weight: 8
+    confidence: 0.9
+  - name: critica_religiao_institucionalizada_hipocrisia
+    weight: 7
+    confidence: 0.85
+  - name: reflexao_pastoral_silencio_submissao_jesus
+    weight: 6
+    confidence: 0.8
+  - name: introspeccao_uso_fe_interesses_proprios
+    weight: 7
+    confidence: 0.88
+  - name: estudo_contextualizado_historico_legal_sinedrio
+    weight: 6
+    confidence: 0.75
+  - name: analise_teologica_depravacao_total_reformada
+    weight: 9
+    confidence: 0.92
+  - name: critica_calvino_lutero_uso_lei_politica
+    weight: 10
+    confidence: 0.95
+  - name: exegese_silencio_jesus_isaias_53_7
+    weight: 8
+    confidence: 0.9
+  - name: identidade_messianica_divina_jesus_exodo_3_14
+    weight: 9
+    confidence: 0.93
+  - name: contexto_historico_politico_religioso_julgamento_jesus
+    weight: 7
+    confidence: 0.87
+  cdu_primary: 27-32
+  cdu_secondary:
+  - '232.9'
+  - '231.7'
+  - '234.2'
+  - '230.2'
+  - '230.3'
+  cdu_description: Teologia cristã. Doutrinas relativas a Jesus Cristo. Teologia sistemática. Doutrinas relativas à salvação. Doutrinas relativas a Deus. História da igreja cristã. Período primitivo. História eclesiástica.
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Marcos 14]] - 60-64
 ### **1. Análise comportamental:**
 

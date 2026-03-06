@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:50.959512+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: revolucao_social_espiritual_jesus
+    weight: 10
+    confidence: 0.98
+  - name: ministerio_jesus_justica_social
+    weight: 9
+    confidence: 0.97
+  - name: origem_judaica_jesus
+    weight: 8
+    confidence: 0.96
+  - name: lei_moises_ensinamentos_jesus
+    weight: 7
+    confidence: 0.95
+  - name: conceito_jubileu_jesus
+    weight: 9
+    confidence: 0.97
+  - name: inclusao_marginalizados_jesus
+    weight: 8
+    confidence: 0.96
+  - name: critica_status_quo_jesus
+    weight: 7
+    confidence: 0.95
+  - name: responsabilidade_moral_povo_eleito
+    weight: 6
+    confidence: 0.94
+  - name: transformacao_comunitaria_jesus
+    weight: 8
+    confidence: 0.96
+  - name: missao_messianica_justica_etica
+    weight: 9
+    confidence: 0.97
+  cdu_primary: 27-23
+  cdu_secondary:
+  - '232.9'
+  - '261.8'
+  - '305.8'
+  cdu_description: '27-23: História do Cristianismo. 232.9: Jesus Cristo como Messias. 261.8: Ética social cristã. 305.8: Grupos sociais marginalizados.'
+---
 # Cap 1
 
 ##  Análise Crítica do Texto

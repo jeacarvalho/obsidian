@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:38.401593+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceitos_empreendedorismo
+    weight: 10
+    confidence: 0.98
+  - name: teoria_economica_empreendedorismo
+    weight: 9
+    confidence: 0.95
+  - name: teoria_comportamental_empreendedorismo
+    weight: 9
+    confidence: 0.95
+  - name: destruicao_criativa_schumpeter
+    weight: 8
+    confidence: 0.92
+  - name: tipos_empreendedores
+    weight: 8
+    confidence: 0.9
+  - name: empreendedorismo_social
+    weight: 7
+    confidence: 0.88
+  - name: caracteristicas_empreendedores
+    weight: 7
+    confidence: 0.85
+  - name: cultura_empreendedorismo
+    weight: 6
+    confidence: 0.8
+  - name: inovacao_empreendedorismo
+    weight: 6
+    confidence: 0.78
+  - name: riscos_empreendedorismo
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '334.7'
+  cdu_secondary:
+  - '005.3'
+  - '316.4'
+  - '330.1'
+  cdu_description: 334.7 - Empreendedorismo e pequenas e médias empresas. 005.3 - Gestão da inovação. 316.4 - Mudança social. 330.1 - Teorias económicas.
+---
 # [Empreendedorismo: conceitos e definições](https://seer.imed.edu.br/index.php/revistasi/article/viewF%20ile/612/522)
 >[[Drucker]] (1998) não vê os empreendedores causando mudanças, mas vê os empreendedores explorando as oportunidades que as mudanças criam (na tecnologia, na preferência dos consumidores, nas normas sociais etc.). Isso define empreendedor e empreendedorismo: o empreendedor busca a mudança, e responde e explora a mudança como uma oportunidade. p. 26
 

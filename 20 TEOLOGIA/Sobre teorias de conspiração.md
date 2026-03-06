@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:04.391674+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desinformacao_em_redes_sociais
+    weight: 10
+    confidence: 0.98
+  - name: teorias_da_conspiracao_cristaos
+    weight: 9
+    confidence: 0.95
+  - name: manipulacao_de_midia
+    weight: 8
+    confidence: 0.92
+  - name: veracidade_da_informacao
+    weight: 7
+    confidence: 0.9
+  - name: impacto_das_redes_sociais
+    weight: 7
+    confidence: 0.88
+  - name: religiao_e_politica
+    weight: 6
+    confidence: 0.85
+  - name: pandemia_e_desinformacao
+    weight: 6
+    confidence: 0.82
+  - name: etica_pastoral
+    weight: 5
+    confidence: 0.8
+  - name: historia_da_desinformacao
+    weight: 5
+    confidence: 0.78
+  - name: discernimento_espiritual
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '304'
+  cdu_secondary:
+  - '316.77'
+  - 27-23
+  - '004.77'
+  cdu_description: Fatores sociais que afetam o indivíduo e a sociedade; Influência social; Teorias da conspiração; Religião e sociedade; Comunicação social e meios de comunicação social
+---
 Pessoal, tudo bem?
 Eu pensei um pouco antes de mandar essa mensagem. Não quero, de forma nenhuma, gerar nenhum tipo de "flame war", debates acalorados. Muito menos defender posição política.
 

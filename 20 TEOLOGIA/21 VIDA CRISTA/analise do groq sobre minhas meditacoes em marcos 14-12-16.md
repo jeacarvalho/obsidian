@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:07.049405+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_meditacoes_biblicas
+    weight: 9
+    confidence: 0.98
+  - name: interpretacao_marcos_14_12_16
+    weight: 8
+    confidence: 0.97
+  - name: intervencao_divina_teologia
+    weight: 10
+    confidence: 0.99
+  - name: teologia_reformada_cristianismo
+    weight: 9
+    confidence: 0.96
+  - name: analise_comportamental_fe
+    weight: 7
+    confidence: 0.95
+  - name: importancia_tempo_privativo_com_deus
+    weight: 8
+    confidence: 0.97
+  - name: proposta_sermao_cristao
+    weight: 7
+    confidence: 0.94
+  - name: plano_deus_vida_humana
+    weight: 8
+    confidence: 0.96
+  - name: atencao_detalhes_divinos
+    weight: 6
+    confidence: 0.93
+  - name: comentarios_reformados_calvin_edwards
+    weight: 7
+    confidence: 0.95
+  cdu_primary: '230.9'
+  cdu_secondary:
+  - '226.3'
+  - '273.6'
+  cdu_description: Teologia cristã; Teologia sistemática; Teologia reformada; Novo Testamento; Evangelhos; Comentários e estudos bíblicos
+---
 #### analise do groq sobre minhas meditacoes em [[marcos 14]]-12-16
 Obrigado por me conceder a oportunidade de analisar as meditações sobre o texto bíblico de Marcos 14:12-16. Vou seguir as instruções fornecidas e avaliar as anotações de acordo com os critérios estabelecidos.
 

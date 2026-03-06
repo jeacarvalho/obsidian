@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:13.820102+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: paciencia_de_jesus_com_discipulos
+    weight: 10
+    confidence: 0.98
+  - name: interpretacao_escrituras_cristo
+    weight: 9
+    confidence: 0.95
+  - name: duvida_e_fe_discipulos
+    weight: 8
+    confidence: 0.92
+  - name: persistencia_divina_ensinamento
+    weight: 9
+    confidence: 0.96
+  - name: dificuldade_compreensao_ensinamentos_biblicos
+    weight: 7
+    confidence: 0.9
+  - name: divisoes_na_igreja_crista
+    weight: 8
+    confidence: 0.93
+  - name: reflexao_pessoal_fe
+    weight: 7
+    confidence: 0.88
+  - name: alinhar_vida_exemplo_cristo
+    weight: 6
+    confidence: 0.85
+  - name: motivacao_inspiracao_fe
+    weight: 5
+    confidence: 0.8
+  - name: ministerio_de_jesus
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - 27-29
+  - '273.2'
+  - 27-38
+  cdu_description: Cristologia (Jesus Cristo como Messias, Salvador, etc.), Doutrina da Salvação, História do Cristianismo, Teologia Sistemática
+---
 #### Jesus teve paciência com os discípulos em Emaús e graças a Deus tem paciência comigo
 > [[Lucas 24]]: 25Então Jesus lhes disse: “Como vocês são tolos! Como custam a entender o que os profetas registraram nas Escrituras! 26Não percebem que era necessário que o Cristo sofresse essas coisas antes de entrar em sua glória?”. 27Então Jesus os conduziu por todos os escritos de Moisés e dos profetas, explicando o que as Escrituras diziam a respeito dele  
 - Jesus parece um pouco sem paciência com os discípulos. Depois de tudo o que aconteceu, do que Ele fez e disse, do testemunho das mulheres - que disseram que o corpo sumiu, uma inclusive tendo falado com Ele - ainda assim eles não entendiam, não criam. Tomé vai ser como eles.  

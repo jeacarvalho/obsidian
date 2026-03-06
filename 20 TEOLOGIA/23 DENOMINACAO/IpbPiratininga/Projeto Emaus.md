@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:20.427994+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: projeto_discipulado_cristao
+    weight: 10
+    confidence: 0.98
+  - name: igreja_presbiteriana_betania
+    weight: 8
+    confidence: 0.95
+  - name: metodologia_discipulado_em_grupo
+    weight: 9
+    confidence: 0.97
+  - name: estudo_biblico_aplicado
+    weight: 9
+    confidence: 0.96
+  - name: transformacao_vida_discipulo
+    weight: 10
+    confidence: 0.98
+  - name: inspiracao_encontro_jesus_emaus
+    weight: 7
+    confidence: 0.9
+  - name: leitura_panoramica_escrituras
+    weight: 8
+    confidence: 0.94
+  - name: importancia_escrituras_cristianismo
+    weight: 7
+    confidence: 0.92
+  - name: papel_espirito_santo_discipulado
+    weight: 6
+    confidence: 0.88
+  - name: lideranca_comunidade_religiosa
+    weight: 5
+    confidence: 0.85
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '248.2'
+  - '230'
+  cdu_description: Teologia cristã. Vida e prática cristã. Doutrina cristã.
+---
 Projeto Emaus
 
 Introdução

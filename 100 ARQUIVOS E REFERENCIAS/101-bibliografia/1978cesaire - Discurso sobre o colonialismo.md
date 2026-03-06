@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:59.857989+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: relacao_colonizacao_nazismo
+    weight: 10
+    confidence: 0.98
+  - name: critica_europa_colonizadora
+    weight: 9
+    confidence: 0.97
+  - name: impacto_colonizacao_colonizador
+    weight: 8
+    confidence: 0.96
+  - name: origens_hitlerismo
+    weight: 7
+    confidence: 0.95
+  - name: motivacoes_financeiras_colonizacao
+    weight: 8
+    confidence: 0.94
+  - name: desumanizacao_processo_colonial
+    weight: 7
+    confidence: 0.93
+  - name: critica_justificativas_coloniais
+    weight: 6
+    confidence: 0.92
+  - name: consequencias_morais_civilizacao_doente
+    weight: 7
+    confidence: 0.91
+  - name: desenvolvimento_africa_asia_sem_europa
+    weight: 6
+    confidence: 0.9
+  - name: resistencias_indigenas_colonizacao
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '323.1'
+  cdu_secondary:
+  - '325.3'
+  - 94(4)
+  cdu_description: Relações entre colonização e o surgimento de regimes autoritários, com foco na crítica à Europa colonizadora e suas motivações, e o impacto psicológico e moral nos colonizadores e colonizados.
+---
 *Sim, valeria a pena estudar clinicamente, no pormenor, os itinerários de Hitler e o hitlerismo e revelar ao burguês muito distinto, muito humanista, muito cristão o século XX que traz em si um Hitler que se ignora, que Hitler vive nele, que Hitler é o seu demônio, que se o vitupera é por falta de lógica, que, no fundo, o que não perdoa a Hitler não é o crime em si, o crime contra o homem, não é a humilhação do homem em si, é o crime contra o homem branco, a humilhação do homem branco e o ter aplicado à Europa processos colonialistas a que até aqui só os árabes da Argélia, os «coolies» da índia e os negros de África  estavam subordinados. (p. 18)*
 
 *Onde quero eu chegar? A esta ideia: que ninguém coloniza inocentemente, nem ninguém coloniza impunemente; que uma nação que coloniza, que uma civilização que justifica a colonização — portanto, a força — é já uma civilização doente, uma civilização moralmente ferida que, irresistivelmente, de consequência em consequência, de negação em negação, chama o seu Hitler, isto é, o seu castigo. (p.21)*

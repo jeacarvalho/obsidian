@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:53.464416+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: trabalho_subalterno
+    weight: 10
+    confidence: 0.98
+  - name: livro_eletronico
+    weight: 9
+    confidence: 0.95
+  - name: lancamento_de_livro
+    weight: 8
+    confidence: 0.92
+  - name: tribunal_regional_do_trabalho
+    weight: 7
+    confidence: 0.9
+  - name: escola_judicial
+    weight: 6
+    confidence: 0.88
+  - name: justica_do_trabalho
+    weight: 7
+    confidence: 0.85
+  - name: combate_ao_trabalho_infantil
+    weight: 8
+    confidence: 0.8
+  - name: documento_eletronico
+    weight: 5
+    confidence: 0.75
+  - name: correspondencia_eletronica
+    weight: 5
+    confidence: 0.7
+  - name: pesquisa_e_estudo
+    weight: 6
+    confidence: 0.65
+  cdu_primary: '331.5'
+  cdu_secondary:
+  - '347.9'
+  - '004.77'
+  cdu_description: Trabalho subalterno e condições de trabalho, com referências à justiça do trabalho e documentos eletrônicos.
+---
 Fwd: Última versão "Vivendo o trabalho subalterno"
 
 ---------- Forwarded message ---------

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:58.484368+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: codigo_servico_sterna
+    weight: 10
+    confidence: 0.98
+  - name: proposta_documento_absorcao_sterna
+    weight: 9
+    confidence: 0.95
+  - name: analise_uso_efetivo_sterna
+    weight: 8
+    confidence: 0.92
+  - name: infra_nominatim_sterna
+    weight: 7
+    confidence: 0.9
+  - name: modelo_precos_geohub
+    weight: 6
+    confidence: 0.88
+  - name: levantamento_custos_producao_sterna
+    weight: 7
+    confidence: 0.85
+  - name: absorcao_sterna_lobinho_jonas
+    weight: 6
+    confidence: 0.82
+  - name: atualizacao_diagramas_cd_servico
+    weight: 5
+    confidence: 0.8
+  - name: apetite_dides_manter_sterna
+    weight: 5
+    confidence: 0.78
+  - name: sterna_repassado_sedat
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '004.77'
+  cdu_secondary:
+  - '330.5'
+  - '351.8'
+  cdu_description: Sistemas de informação e bases de dados; Gestão de custos; Administração pública e serviços públicos
+---
 # Descrição:
 - Código de serviço Sterna: 08254
 

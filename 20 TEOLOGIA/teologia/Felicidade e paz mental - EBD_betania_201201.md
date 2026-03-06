@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:58.952645+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceito_de_felicidade
+    weight: 10
+    confidence: 0.98
+  - name: felicidade_na_filosofia_grega
+    weight: 9
+    confidence: 0.95
+  - name: eudaimonia
+    weight: 8
+    confidence: 0.92
+  - name: razao_vs_emocao_na_felicidade
+    weight: 10
+    confidence: 0.97
+  - name: iluminismo_e_paradigma_da_felicidade
+    weight: 8
+    confidence: 0.93
+  - name: suposicoes_da_era_iluminista
+    weight: 7
+    confidence: 0.9
+  - name: papel_do_desejo_na_vida
+    weight: 7
+    confidence: 0.88
+  - name: teoria_cognitiva_e_atitudes_erradas
+    weight: 8
+    confidence: 0.91
+  - name: educacao_das_emocoes
+    weight: 9
+    confidence: 0.94
+  - name: jonathan_edwards_e_afeicoes_religiosas
+    weight: 8
+    confidence: 0.9
+  cdu_primary: '159.96'
+  cdu_secondary:
+  - '1'
+  - '100.1'
+  - '20'
+  cdu_description: Psicologia da felicidade e bem-estar; Filosofia da mente e da felicidade; Religião e espiritualidade
+---
 Felicidade e paz mental - EBD_betania_201201
 
 - A definição de [[felicidade]] varia de pessoa para pessoa.

@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:33.067625+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: compreensao_conteudo_aula
+    weight: 7
+    confidence: 0.9
+  - name: resumo_conteudo_para_leigos
+    weight: 6
+    confidence: 0.85
+  - name: identificacao_termos_chave
+    weight: 8
+    confidence: 0.92
+  - name: conexao_conhecimento_preexistente
+    weight: 7
+    confidence: 0.88
+  - name: identificacao_contradicoes_expansao_crencas
+    weight: 7
+    confidence: 0.87
+  - name: criacao_metafora_conceito_central
+    weight: 6
+    confidence: 0.8
+  - name: aplicacao_pratica_conhecimento
+    weight: 9
+    confidence: 0.95
+  - name: exemplo_ilustrativo_conceito
+    weight: 8
+    confidence: 0.93
+  - name: mudanca_comportamento_baseada_aprendizado
+    weight: 9
+    confidence: 0.94
+  - name: identificacao_pontos_confusos_mal_explicados
+    weight: 7
+    confidence: 0.89
+  cdu_primary: null
+  cdu_secondary: []
+  cdu_description: null
+---
 ### 🌱 Perguntas de Compreensão (o que eu absorvi?)
 
 1. Quais são as **3 ideias principais** da aula/texto?

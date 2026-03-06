@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T21:56:29.321358+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_crista
+    weight: 10
+    confidence: 0.98
+  - name: estudo_biblico
+    weight: 9
+    confidence: 0.95
+  - name: doutrina_crista
+    weight: 8
+    confidence: 0.92
+  - name: historia_da_igreja
+    weight: 7
+    confidence: 0.9
+  - name: hermeneutica_biblica
+    weight: 6
+    confidence: 0.88
+  - name: apologetica_crista
+    weight: 5
+    confidence: 0.85
+  - name: teologia_sistemica
+    weight: 9
+    confidence: 0.93
+  - name: teologia_pastoral
+    weight: 7
+    confidence: 0.89
+  - name: etica_crista
+    weight: 6
+    confidence: 0.87
+  - name: missiologia
+    weight: 5
+    confidence: 0.84
+  cdu_primary: '2'
+  cdu_secondary:
+  - '23'
+  - '22'
+  - '27'
+  - '24'
+  - '26'
+  cdu_description: Religião. Teologia. Teologia cristã. Teologia sistemática. Teologia moral. Teologia pastoral. História da igreja. Missões.
+---
 "E Te peço que consumas o mais breve possível o miserável poeta que tenho sido, para que não fique poema sobre poema, pois estou ansioso para me abrigar à luz da Tua imutável, ta Tua definitiva Poesia!" (Murilo Mendes & Jorge de Lima) https://twitter.com/gladir/status/949847482644750337?s=09
 
 Cerca de 2.600 anos atrás, [[Píndaro]], poeta da Grécia Antiga, escreveu: “Torna-te quem és aprendendo quem és.” in [[greene2013]]

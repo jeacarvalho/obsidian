@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:29.704147+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: disciplina_segundo_a_biblia
+    weight: 10
+    confidence: 0.98
+  - name: vidafeliz_e_motivacao
+    weight: 9
+    confidence: 0.95
+  - name: inteligencia_emocional_e_resiliencia
+    weight: 9
+    confidence: 0.94
+  - name: fe_em_jesus_cristo
+    weight: 10
+    confidence: 0.97
+  - name: sabedoria_versus_conhecimento
+    weight: 8
+    confidence: 0.92
+  - name: autocontrole_e_disciplina_mental
+    weight: 8
+    confidence: 0.93
+  - name: proposito_de_vida_e_missao
+    weight: 7
+    confidence: 0.9
+  - name: alimentacao_saudavel_low_carb_sem_gluten
+    weight: 6
+    confidence: 0.85
+  - name: gestao_de_ansiedade_e_medo
+    weight: 7
+    confidence: 0.91
+  - name: relacionamento_com_deus_e_palavra
+    weight: 9
+    confidence: 0.96
+  cdu_primary: '2'
+  cdu_secondary:
+  - '159.9'
+  - '24'
+  - '613.2'
+  cdu_description: Religião, Teologia, Psicologia, Saúde e Higiene
+---
 [[a arte de viver - textos bíblicos]]
 O que a bíblia diz sobre [[Vida ruim x boa - GL_5_19 - A Mensagem]]
 - [[A vida de nossos avos de nossos pais e as nossas. Qual a missao O que e sucesso]] - Nosso modelo de sucesso vem mudando de geração em geração. E mais: o que uma geração pensa, e ensina para a próxima, não é entendida por esta com a correta. Resultado: todo mundo querendo outra coisa

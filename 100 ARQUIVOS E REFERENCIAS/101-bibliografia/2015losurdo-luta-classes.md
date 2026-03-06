@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:57.871704+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: luta_de_classes_marxista
+    weight: 10
+    confidence: 0.98
+  - name: emancipacao_nacional_e_luta_de_classes
+    weight: 9
+    confidence: 0.95
+  - name: opressao_de_genero_e_luta_de_classes
+    weight: 9
+    confidence: 0.94
+  - name: interseccionalidade_das_lutas_sociais
+    weight: 8
+    confidence: 0.92
+  - name: critica_ao_colonialismo_na_perspectiva_marxista
+    weight: 7
+    confidence: 0.9
+  - name: visao_ampliada_da_luta_de_classes
+    weight: 8
+    confidence: 0.93
+  - name: relacao_entre_luta_de_classes_e_luta_nacional
+    weight: 8
+    confidence: 0.91
+  - name: condicao_das_mulheres_na_teoria_marxista
+    weight: 7
+    confidence: 0.89
+  - name: critica_a_visoes_reducionistas_da_luta_de_classes
+    weight: 6
+    confidence: 0.85
+  - name: emancipacao_humana_e_formas_de_luta
+    weight: 7
+    confidence: 0.88
+  cdu_primary: '330.8'
+  cdu_secondary:
+  - '323.1'
+  - '305.4'
+  - '325.1'
+  cdu_description: Economia política. Teoria econômica. Marxismo. Lutas sociais e políticas. Movimentos de libertação nacional. Questões de gênero. Colonialismo.
+---
 # Cap 1
 
 ##  Análise do Conteúdo

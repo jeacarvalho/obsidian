@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:11.061420+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: materialismo_vs_espiritualidade
+    weight: 9
+    confidence: 0.9
+  - name: vida_eterna_presente
+    weight: 10
+    confidence: 0.95
+  - name: teologia_reformada_critica
+    weight: 8
+    confidence: 0.85
+  - name: cristianismo_e_acao_social
+    weight: 9
+    confidence: 0.92
+  - name: evangelho_e_transformacao_material
+    weight: 8
+    confidence: 0.88
+  - name: imitacao_de_cristo
+    weight: 7
+    confidence: 0.75
+  - name: intervencao_de_cristo_no_material
+    weight: 8
+    confidence: 0.8
+  - name: milagres_de_jesus_cotidianos
+    weight: 7
+    confidence: 0.7
+  - name: critica_a_elite_religiosa
+    weight: 6
+    confidence: 0.65
+  - name: desconfianca_teologica
+    weight: 5
+    confidence: 0.55
+  cdu_primary: '2'
+  cdu_secondary:
+  - 27-28
+  - '230.2'
+  - '261.8'
+  cdu_description: Religião. Teologia. Teologia cristã. Teologia sistemática. Teologia social. História e geografia da igreja cristã. Doutrinas cristãs.
+---
 Note | Location: 367
 Materialism is the worldview of those who keep their eyes focused on “getting ahead” in the world at hand.
 

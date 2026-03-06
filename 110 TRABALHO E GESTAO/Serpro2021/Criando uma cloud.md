@@ -1,3 +1,51 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:57.590485+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gerenciamento_infraestrutura_nuvem
+    weight: 10
+    confidence: 0.98
+  - name: virtualizacao_computacional
+    weight: 9
+    confidence: 0.97
+  - name: rede_definida_por_software
+    weight: 8
+    confidence: 0.96
+  - name: armazenamento_definido_por_software
+    weight: 8
+    confidence: 0.95
+  - name: orquestracao_computacional
+    weight: 9
+    confidence: 0.97
+  - name: gerenciamento_automacao_nuvem
+    weight: 7
+    confidence: 0.94
+  - name: portal_autosservico_nuvem
+    weight: 7
+    confidence: 0.93
+  - name: seguranca_computacao_nuvem
+    weight: 8
+    confidence: 0.96
+  - name: monitoramento_log_nuvem
+    weight: 7
+    confidence: 0.94
+  - name: faturamento_servicos_nuvem
+    weight: 6
+    confidence: 0.92
+  cdu_primary: '004.77'
+  cdu_secondary:
+  - '004.772'
+  - '004.773'
+  - '004.774'
+  - '004.775'
+  - '004.776'
+  - '004.777'
+  - '004.778'
+  - '004.779'
+  cdu_description: Sistemas de computação em rede. Redes de computadores. Serviços de rede. Provedores de serviços de rede. Infraestrutura como Serviço (IaaS). Plataforma como Serviço (PaaS). Software como Serviço (SaaS). Gerenciamento de nuvem. Virtualização. Orquestração. Segurança de rede. Armazenamento em rede.
+---
 # Criando um provider de nuvem
 
 Para se tornar um provider de cloud computing desenvolvendo seu próprio software, você precisaria construir vários módulos para cobrir as funções essenciais de uma infraestrutura de nuvem. Aqui estão os principais módulos/produtos que seriam necessários:

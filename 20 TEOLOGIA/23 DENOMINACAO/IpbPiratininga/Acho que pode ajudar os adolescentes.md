@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:16:18.216840+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: busca_por_felicidade_em_relacionamentos
+    weight: 7
+    confidence: 0.85
+  - name: busca_por_felicidade_em_riqueza_material
+    weight: 8
+    confidence: 0.9
+  - name: busca_por_felicidade_em_sucesso_profissional
+    weight: 8
+    confidence: 0.88
+  - name: insatisfacao_com_vida_anterior_a_cristo
+    weight: 9
+    confidence: 0.95
+  - name: transformacao_pessoal_atraves_de_cristo
+    weight: 10
+    confidence: 0.98
+  - name: superacao_de_desejos_antigos_ignorantes
+    weight: 9
+    confidence: 0.92
+  - name: importancia_da_fe_crista_para_contentamento
+    weight: 10
+    confidence: 0.97
+  - name: evitacao_de_retorno_a_velhos_habitos
+    weight: 7
+    confidence: 0.8
+  - name: esperanca_em_cristo_para_lidar_com_infelicidade
+    weight: 9
+    confidence: 0.93
+  - name: desenvolvimento_espiritual_de_adolescentes
+    weight: 6
+    confidence: 0.75
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '234.2'
+  - '248.4'
+  cdu_description: Cristianismo. Teologia cristã. Vida cristã. Moral cristã. Doutrina da salvação. Fé e prática.
+---
 Acho que pode ajudar os adolescentes
 
 # Don’t Look for Contentment Like You Used to

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:38.341366+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceitos_e_evolucao_do_empreendedorismo
+    weight: 10
+    confidence: 0.98
+  - name: relacao_entre_inovacao_e_empreendedorismo
+    weight: 9
+    confidence: 0.97
+  - name: ferramentas_de_pesquisa_de_mercado
+    weight: 8
+    confidence: 0.96
+  - name: modelagem_de_ideias_e_solucoes_empresariais
+    weight: 7
+    confidence: 0.95
+  - name: planejamento_e_controle_empresarial
+    weight: 8
+    confidence: 0.94
+  - name: tomada_de_decisao_e_avaliacao_de_risco
+    weight: 7
+    confidence: 0.93
+  - name: caracteristicas_do_empreendedor_de_sucesso
+    weight: 9
+    confidence: 0.92
+  - name: metodologias_de_resolucao_de_problemas_empresariais
+    weight: 8
+    confidence: 0.91
+  - name: estruturacao_de_processos_de_gestao
+    weight: 6
+    confidence: 0.9
+  - name: planejamento_de_negocios
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '658.11'
+  cdu_secondary:
+  - '005.3'
+  - '334.7'
+  - 330.342.2
+  cdu_description: Gestão empresarial, empreendedorismo, inovação, planejamento de negócios e pesquisa de mercado.
+---
 # Bibliografia
 [[EMPREENDEDORISMO.pdf]]
 [[PlanoEstudosEmpreendedorismoContabilidadeUVA.pdf]]

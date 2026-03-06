@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:05.267644+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: dominacao_racional_legal_weber
+    weight: 10
+    confidence: 0.98
+  - name: burocracia_como_tipo_ideal
+    weight: 9
+    confidence: 0.97
+  - name: critica_traducao_talcott_parsons
+    weight: 8
+    confidence: 0.95
+  - name: disfuncoes_da_burocracia
+    weight: 7
+    confidence: 0.93
+  - name: origem_senso_comum_demonizacao_burocracia
+    weight: 9
+    confidence: 0.96
+  - name: carater_impessoal_funcao_burocratica
+    weight: 8
+    confidence: 0.94
+  - name: poder_x_obediencia_weber
+    weight: 7
+    confidence: 0.92
+  - name: norma_legal_tecnica_organizacoes
+    weight: 6
+    confidence: 0.9
+  - name: manutencao_capitalismo_burocracia
+    weight: 6
+    confidence: 0.88
+  - name: impacto_demonizacao_administracao_publica
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '316.46'
+  cdu_secondary:
+  - '351.1'
+  - '330.14'
+  cdu_description: Sociologia da organização e da administração; Burocracia; Administração pública; Capitalismo
+---
 Forum Semana II - Vídeo 1 - Para Começar: [[Max Weber]]
 
 Segundo Weber, a modernidade consiste na generalização da dominação racional legal, deixando em segundo plano outras formas de dominação, como, por exemplo, a tradicional. A burocracia é o corpo administrativo da dominação racional-legal. É preciso lembrar que a definição de dominação racional-legal expressa um tipo ideal – recurso metodológico, instrumento de pesquisa desenvolvido pelo autor. O tipo ideal é uma construção mental – um tipo pensado, um tipo ideado. No entanto, a tradução feita por Talcott Parsons, sociólogo norte-americano, para o inglês, transformou a ideia de tipo ideado em tipo ideal (*ideal type*) e, mais que isso, um recurso metodológico foi transformado em um modelo de como as coisas deveriam ser (um modelo sistêmico prescritivo). A partir dessa lógica do modelo, seguidores de Parsons desenvolveram uma série de estudos sobre tema das “disfunções da burocracia”.

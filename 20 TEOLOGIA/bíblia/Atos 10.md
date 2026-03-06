@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:44.382145+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_da_purificacao_divina
+    weight: 10
+    confidence: 0.98
+  - name: inclusao_de_gentios_no_cristianismo
+    weight: 9
+    confidence: 0.97
+  - name: papel_do_espirito_santo_na_conversao
+    weight: 9
+    confidence: 0.96
+  - name: mudanca_de_paradigma_religioso_apos_jesus
+    weight: 8
+    confidence: 0.95
+  - name: interpretacao_biblica_de_atos_dos_apostolos
+    weight: 7
+    confidence: 0.94
+  - name: rejeicao_da_acepcao_de_pessoas_por_deus
+    weight: 8
+    confidence: 0.93
+  - name: importancia_da_oracao_e_obras_na_fe
+    weight: 6
+    confidence: 0.92
+  - name: influencia_da_lei_mosaica_na_era_crista
+    weight: 7
+    confidence: 0.91
+  - name: transformacao_cultural_e_espiritual
+    weight: 8
+    confidence: 0.9
+  - name: revelacao_divina_e_compreensao_humana
+    weight: 7
+    confidence: 0.89
+  cdu_primary: 27-23
+  cdu_secondary:
+  - '232.9'
+  - '241.1'
+  - '273.2'
+  cdu_description: Teologia cristã. História da igreja cristã. Doutrinas sobre Jesus Cristo. Ética cristã. História da igreja primitiva.
+---
 Atos 10:15
 15 Segunda vez, a voz lhe falou: Ao que Deus purificou não consideres comum.
 

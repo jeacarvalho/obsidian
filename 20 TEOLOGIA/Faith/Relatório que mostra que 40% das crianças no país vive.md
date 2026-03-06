@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:07.454038+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pobreza_infantil_brasil
+    weight: 10
+    confidence: 0.98
+  - name: desigualdade_social_criancas
+    weight: 9
+    confidence: 0.95
+  - name: fundacao_abrinq_relatorio
+    weight: 8
+    confidence: 0.92
+  - name: indicadores_sociais_infancia
+    weight: 7
+    confidence: 0.9
+  - name: gravidez_na_adolescencia_brasil
+    weight: 8
+    confidence: 0.93
+  - name: mortalidade_infantil_neonatal
+    weight: 7
+    confidence: 0.88
+  - name: acesso_a_creches_educacao_infantil
+    weight: 6
+    confidence: 0.85
+  - name: abandono_ensino_medio_adolescentes
+    weight: 6
+    confidence: 0.87
+  - name: trabalho_infantil_brasil
+    weight: 5
+    confidence: 0.8
+  - name: objetivos_desenvolvimento_sustentavel_onu
+    weight: 7
+    confidence: 0.91
+  cdu_primary: 316.346.3
+  cdu_secondary:
+  - '364.6'
+  - '373.3'
+  - '316.47'
+  - '316.62'
+  - '316.46'
+  cdu_description: Sociologia da pobreza e da desigualdade social, com foco em crianças e adolescentes no Brasil, incluindo aspectos de gravidez precoce, mortalidade infantil, acesso à educação e trabalho infantil, e sua relação com os Objetivos de Desenvolvimento Sustentável.
+---
 Relatório mostra que 40% das crianças no país vivem na pobreza
 
 # Relatório mostra que 40% das crianças no país vivem na pobreza

@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:13.198199+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: importancia_da_amizade
+    weight: 10
+    confidence: 0.98
+  - name: lealdade_entre_amigos
+    weight: 9
+    confidence: 0.95
+  - name: conselho_amigo
+    weight: 8
+    confidence: 0.92
+  - name: apoio_mutuo_amizade
+    weight: 9
+    confidence: 0.96
+  - name: relacionamentos_duradouros
+    weight: 7
+    confidence: 0.9
+  - name: beneficios_companheirismo
+    weight: 8
+    confidence: 0.93
+  - name: superacao_dificuldades_amigos
+    weight: 9
+    confidence: 0.97
+  - name: forca_uniao_amigos
+    weight: 8
+    confidence: 0.94
+  - name: valor_proximidade_amigo
+    weight: 7
+    confidence: 0.88
+  - name: amizade_como_refugio
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '177.6'
+  cdu_secondary: []
+  cdu_description: Ética. Moral. Relações sociais. Amizade
+---
 amizade
 
 [[Provérbios]] 27:6 Leais são as feridas feitas pelo que ama, porém os beijos de quem odeia são enganosos.

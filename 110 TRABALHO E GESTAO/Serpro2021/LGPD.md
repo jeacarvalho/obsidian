@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:54.329986+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lgpd_acompanhamento_acoes
+    weight: 10
+    confidence: 0.98
+  - name: politica_privacidade_protecao_dados
+    weight: 9
+    confidence: 0.95
+  - name: politica_corporativa_governanca_dados
+    weight: 9
+    confidence: 0.94
+  - name: guia_desenvolvimento_confiavel
+    weight: 8
+    confidence: 0.92
+  - name: agentes_tratamento_lgpd
+    weight: 7
+    confidence: 0.88
+  - name: controlador_conjunto_lgpd
+    weight: 7
+    confidence: 0.87
+  - name: tratamento_dados_pessoais
+    weight: 6
+    confidence: 0.85
+  - name: responsabilidade_solidaria_lgpd
+    weight: 6
+    confidence: 0.84
+  - name: fluxos_processos_administrativos
+    weight: 5
+    confidence: 0.75
+  - name: arquitetura_sistemas_informacao
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '347.77'
+  cdu_secondary:
+  - 004.056.5
+  - '351.777'
+  cdu_description: Direito da informação e proteção de dados. Governança de dados e desenvolvimento confiável. Aspectos legais e administrativos da LGPD.
+---
 # Descrição: LGPD - Acompanhamento das ações
 
 | links                                                                                                                                             | Arquivos |

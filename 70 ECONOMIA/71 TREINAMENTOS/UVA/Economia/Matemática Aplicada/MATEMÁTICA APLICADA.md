@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:45.268767+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: modelagem_matematica_processos
+    weight: 8
+    confidence: 0.9
+  - name: conceito_funcao_matematica
+    weight: 9
+    confidence: 0.95
+  - name: funcao_primeiro_grau_linear
+    weight: 9
+    confidence: 0.95
+  - name: funcao_segundo_grau_quadratica
+    weight: 8
+    confidence: 0.9
+  - name: funcao_exponencial_juros_compostos
+    weight: 7
+    confidence: 0.85
+  - name: conjuntos_numericos_fundamentos
+    weight: 7
+    confidence: 0.88
+  - name: aplicacoes_modelo_linear
+    weight: 6
+    confidence: 0.8
+  - name: otimizacao_problemas_matematicos
+    weight: 7
+    confidence: 0.85
+  - name: calculo_diferencial_integral
+    weight: 6
+    confidence: 0.82
+  - name: funcoes_marginais_derivadas
+    weight: 6
+    confidence: 0.8
+  cdu_primary: '517'
+  cdu_secondary:
+  - '510'
+  - '512.1'
+  - '512.2'
+  - '512.3'
+  cdu_description: Cálculo diferencial e integral; Fundamentos da matemática; Álgebra; Funções
+---
 # BIBLIOGRAFIA
 - Livro disciplina: [[MAA_LD_PDF.pdf]]
 - o livro **Cálculo**, de Pedro Alberto Morettin

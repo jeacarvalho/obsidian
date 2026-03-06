@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:53.154194+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mudanca_de_perspectiva_pessoal
+    weight: 10
+    confidence: 0.98
+  - name: construcao_social_da_realidade
+    weight: 9
+    confidence: 0.95
+  - name: poder_das_narrativas_pessoais
+    weight: 9
+    confidence: 0.96
+  - name: superacao_de_limitacoes_percebidas
+    weight: 8
+    confidence: 0.93
+  - name: impacto_das_assuncoes_inconscientes
+    weight: 8
+    confidence: 0.94
+  - name: transformacao_cultural_e_social
+    weight: 7
+    confidence: 0.9
+  - name: escassez_versus_abundancia
+    weight: 7
+    confidence: 0.91
+  - name: desenvolvimento_de_novas_perspectivas
+    weight: 6
+    confidence: 0.88
+  - name: relacao_entre_mente_e_percepcao
+    weight: 6
+    confidence: 0.89
+  - name: importancia_da_generosidade_e_inclusao
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '316.4'
+  - '305.8'
+  cdu_description: Psicologia da vida quotidiana, psicologia social, sociologia da cultura
+---
 Yellow highlight | Location: 114
 
 Note | Location: 114

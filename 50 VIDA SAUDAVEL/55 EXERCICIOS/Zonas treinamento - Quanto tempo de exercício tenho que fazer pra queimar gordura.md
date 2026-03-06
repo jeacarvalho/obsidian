@@ -2,7 +2,47 @@
 created: 2022-07-27T11:16:29 (UTC -03:00)
 tags: []
 source: file:///home/ze-eduardo/noticias/quanto-tempo-de-exercicio-tenho-que-fazer-pra-queimar-gordura.ghtml
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:42.466767+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: queima_de_gordura_durante_exercicio
+    weight: 10
+    confidence: 0.98
+  - name: fontes_de_energia_exercicio
+    weight: 9
+    confidence: 0.95
+  - name: intensidade_do_treino
+    weight: 9
+    confidence: 0.96
+  - name: duracao_do_treino
+    weight: 8
+    confidence: 0.94
+  - name: exercicios_que_recrutam_mais_musculos
+    weight: 8
+    confidence: 0.93
+  - name: ganho_de_massa_magra_metabolismo
+    weight: 7
+    confidence: 0.9
+  - name: zonas_de_treinamento_frequencia_cardiaca
+    weight: 7
+    confidence: 0.92
+  - name: calculo_frequencia_cardiaca_maxima
+    weight: 6
+    confidence: 0.88
+  - name: regularidade_no_exercicio
+    weight: 10
+    confidence: 0.97
+  - name: exercicio_fisico_e_bem_estar
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '613.7'
+  cdu_secondary:
+  - '612.67'
+  - '613.94'
+  cdu_description: 613.7 - Exercício físico, ginástica, desporto; 612.67 - Perda de peso, emagrecimento; 613.94 - Exercício físico para fins terapêuticos
 ---
 
 # Quanto tempo de exercício tenho que fazer pra queimar gordura? | Espiritualidade e Bem-estar | O Globo

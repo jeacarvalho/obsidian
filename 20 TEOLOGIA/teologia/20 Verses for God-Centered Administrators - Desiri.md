@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:57.466439+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: administracao_centrada_em_deus
+    weight: 10
+    confidence: 0.98
+  - name: etica_executiva_crista
+    weight: 9
+    confidence: 0.95
+  - name: papel_deus_no_trabalho
+    weight: 8
+    confidence: 0.92
+  - name: dependencia_humana_de_deus
+    weight: 7
+    confidence: 0.9
+  - name: execucao_divina_ordena
+    weight: 7
+    confidence: 0.88
+  - name: trabalho_em_vao_sem_deus
+    weight: 6
+    confidence: 0.85
+  - name: trabalho_no_senhor_nao_em_vao
+    weight: 6
+    confidence: 0.85
+  - name: humildade_no_lideranca
+    weight: 5
+    confidence: 0.8
+  - name: oracao_na_administracao
+    weight: 5
+    confidence: 0.82
+  - name: selecao_de_lideres_temerosos_de_deus
+    weight: 8
+    confidence: 0.9
+  cdu_primary: '261.8'
+  cdu_secondary:
+  - '248.4'
+  - '305.8'
+  cdu_description: Teologia cristã aplicada à administração e ética executiva, com foco na dependência de Deus e na liderança baseada em princípios bíblicos.
+---
 20 Verses for God-Centered Administrators - Desiring God
 
 God doesn’t need us. We need him.

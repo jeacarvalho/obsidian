@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:12.886016+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sabedoria_pratica_cotidiana
+    weight: 10
+    confidence: 0.98
+  - name: relacao_com_deus
+    weight: 9
+    confidence: 0.97
+  - name: importancia_do_conhecimento
+    weight: 8
+    confidence: 0.96
+  - name: honrar_pais_e_filhos
+    weight: 7
+    confidence: 0.95
+  - name: gestao_financeira
+    weight: 6
+    confidence: 0.94
+  - name: conduta_sexual_saudavel
+    weight: 5
+    confidence: 0.93
+  - name: etica_no_trabalho
+    weight: 7
+    confidence: 0.92
+  - name: lideranca_e_palavras
+    weight: 6
+    confidence: 0.91
+  - name: relacionamentos_interpessoais
+    weight: 8
+    confidence: 0.9
+  - name: disciplina_e_correcao
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '200'
+  cdu_secondary:
+  - '170'
+  - '305.8'
+  cdu_description: Religião, Teologia e Ética. Filosofia Moral. Sociologia. Antropologia. Etnologia.
+---
 Provérbios the message
 #doing
 Contexto: Por volta de 970-687 a.C.

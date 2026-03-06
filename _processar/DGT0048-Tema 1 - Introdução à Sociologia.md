@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:32.993013+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fundamentos_antropologicos_e_sociologicos
+    weight: 9
+    confidence: 0.98
+  - name: introducao_a_sociologia
+    weight: 8
+    confidence: 0.97
+  - name: pensamento_social
+    weight: 7
+    confidence: 0.96
+  - name: senso_comum
+    weight: 10
+    confidence: 0.99
+  - name: conhecimento_cientifico
+    weight: 10
+    confidence: 0.99
+  - name: verificabilidade_cientifica
+    weight: 8
+    confidence: 0.95
+  - name: metodos_sociologicos
+    weight: 7
+    confidence: 0.94
+  - name: analise_fenomenos_sociais
+    weight: 6
+    confidence: 0.93
+  - name: desigualdade_social_perspectiva_sociologica
+    weight: 8
+    confidence: 0.92
+  - name: pensamento_critico_profissional
+    weight: 9
+    confidence: 0.97
+  cdu_primary: '316.2'
+  cdu_secondary:
+  - '304'
+  - '001.8'
+  cdu_description: Teoria da sociologia; Métodos e técnicas de investigação sociológica; Filosofia e teoria social; Métodos gerais de investigação e de informação. Ciência. Conhecimento. Investigação.
+---
 Claro, aqui está o registro completo da nossa conversa anterior em formato markdown, pronto para você salvar em seu Obsidian.
 
 ---

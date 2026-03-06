@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:06.848484+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fotografia_paisagem
+    weight: 9
+    confidence: 0.98
+  - name: por_do_sol
+    weight: 10
+    confidence: 0.99
+  - name: camboinhas
+    weight: 8
+    confidence: 0.97
+  - name: registro_visual
+    weight: 7
+    confidence: 0.9
+  - name: natureza
+    weight: 6
+    confidence: 0.85
+  - name: luz_natural
+    weight: 7
+    confidence: 0.88
+  - name: fotografia_amadora
+    weight: 5
+    confidence: 0.75
+  - name: cenario_costeiro
+    weight: 8
+    confidence: 0.92
+  - name: momento_do_dia
+    weight: 6
+    confidence: 0.8
+  - name: cores_do_ceu
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '778.3'
+  cdu_secondary:
+  - '719.1'
+  - 913.469.1
+  cdu_description: Fotografia de paisagem, com foco em pores do sol na localidade de Camboinhas. CDU 778.3 abrange fotografia, 719.1 paisagens naturais e 913.469.1 geografia regional (Portugal, Costa Atlântica).
+---
 fotos por do sol camboinhas
 
 ![img_20190112_194233.jpg](e28c6613c51324ddc9920ca3435c0cd2.jpg)

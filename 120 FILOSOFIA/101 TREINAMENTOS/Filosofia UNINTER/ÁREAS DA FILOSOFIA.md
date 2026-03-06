@@ -29,6 +29,46 @@ tema:
     - preconceitos no ato de conhecer
     - viés didático e eurocêntrico
     - racionalismo predominante
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:36:32.360698+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: metodos_conhecimento_filosofico
+    weight: 10
+    confidence: 0.98
+  - name: metodo_axiomatico
+    weight: 7
+    confidence: 0.95
+  - name: metodo_dedutivo_hipotetico
+    weight: 8
+    confidence: 0.96
+  - name: metodo_indutivo
+    weight: 8
+    confidence: 0.96
+  - name: metodo_dialetico
+    weight: 9
+    confidence: 0.97
+  - name: metodo_analise_sintese
+    weight: 7
+    confidence: 0.94
+  - name: metodo_experimental
+    weight: 7
+    confidence: 0.95
+  - name: metodo_hermeneutico
+    weight: 8
+    confidence: 0.96
+  - name: definicao_conhecimento
+    weight: 9
+    confidence: 0.98
+  - name: epistemologia_questoes_fundamentais
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '165'
+  cdu_secondary:
+  - '001.1'
+  - '001.8'
+  cdu_description: Teoria do conhecimento. Epistemologia. Lógica e metodologia das ciências.
 ---
 
 - ![[aula 3 int filosofia.pdf]]

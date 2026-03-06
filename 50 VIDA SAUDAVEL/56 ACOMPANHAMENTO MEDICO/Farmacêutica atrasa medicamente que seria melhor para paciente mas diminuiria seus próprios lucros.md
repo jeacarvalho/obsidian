@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:40.395251+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: atraso_lancamento_medicamento_hiv
+    weight: 10
+    confidence: 0.98
+  - name: gilead_sciences_processos_pacientes
+    weight: 9
+    confidence: 0.97
+  - name: maximizacao_lucros_farmaceutica
+    weight: 9
+    confidence: 0.96
+  - name: toxicidade_medicamento_rins_ossos
+    weight: 8
+    confidence: 0.95
+  - name: estrategia_extensao_patente_medicamentos
+    weight: 8
+    confidence: 0.94
+  - name: monopolio_farmaceutico_medicamentos_hiv
+    weight: 7
+    confidence: 0.93
+  - name: medicamentos_genericos_hiv_competicao
+    weight: 7
+    confidence: 0.92
+  - name: documentos_internos_litigio_gilead
+    weight: 6
+    confidence: 0.91
+  - name: custo_tratamento_hiv_descovy
+    weight: 6
+    confidence: 0.9
+  - name: etica_pesquisa_desenvolvimento_farmaceutico
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '615.25'
+  cdu_secondary:
+  - '347.9'
+  - '338.48'
+  cdu_description: Medicamentos para o vírus da imunodeficiência humana (HIV); Processos judiciais contra empresas farmacêuticas; Práticas comerciais e de mercado farmacêutico.
+---
 https://odia.ig.com.br/mundo-e-ciencia/2023/07/6677372-farmaceutica-sofre-processos-por-visar-lucro-e-atrasar-producao-de-remedio-promissor-para-hiv.html
 
 

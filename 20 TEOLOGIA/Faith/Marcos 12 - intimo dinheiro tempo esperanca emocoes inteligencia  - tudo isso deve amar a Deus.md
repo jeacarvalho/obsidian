@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:15.228246+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: amor_a_deus_integral
+    weight: 10
+    confidence: 0.98
+  - name: engajamento_intelectual_na_adoracao
+    weight: 9
+    confidence: 0.95
+  - name: relacionamento_intimo_com_deus
+    weight: 9
+    confidence: 0.96
+  - name: uso_de_dons_para_deus
+    weight: 8
+    confidence: 0.9
+  - name: gestao_financeira_e_tempo_para_deus
+    weight: 8
+    confidence: 0.92
+  - name: esperanca_no_futuro_em_deus
+    weight: 7
+    confidence: 0.88
+  - name: emocoes_e_fe
+    weight: 7
+    confidence: 0.85
+  - name: responsabilidade_familiar_e_financeira
+    weight: 6
+    confidence: 0.8
+  - name: aplicacao_da_inteligencia_em_dilemas
+    weight: 6
+    confidence: 0.82
+  - name: integridade_pessoal_e_espiritual
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '248.2'
+  - '261.8'
+  - '305.8'
+  cdu_description: Teologia cristã; Vida e prática cristã; Relação do homem com Deus; Questões sociais e econômicas
+---
 #### Marcos 12 - íntimo dinheiro tempo dons esperança emoções inteligência  - tudo isso deve amar a Deus
 
 Amarelo destaque | Página: 96 Nota | Página: 96

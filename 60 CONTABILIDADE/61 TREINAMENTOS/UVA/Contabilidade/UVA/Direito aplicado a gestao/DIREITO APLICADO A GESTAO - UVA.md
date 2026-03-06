@@ -1,3 +1,50 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:41.367795+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fontes_do_direito
+    weight: 9
+    confidence: 0.98
+  - name: direito_constitucional
+    weight: 8
+    confidence: 0.97
+  - name: direito_administrativo
+    weight: 8
+    confidence: 0.96
+  - name: direito_tributario
+    weight: 8
+    confidence: 0.95
+  - name: direito_processual
+    weight: 7
+    confidence: 0.94
+  - name: direito_penal
+    weight: 7
+    confidence: 0.93
+  - name: direito_civil
+    weight: 7
+    confidence: 0.92
+  - name: direito_empresarial
+    weight: 8
+    confidence: 0.96
+  - name: poder_constituinte
+    weight: 6
+    confidence: 0.91
+  - name: organizacao_do_estado
+    weight: 6
+    confidence: 0.9
+  cdu_primary: '34'
+  cdu_secondary:
+  - '340.1'
+  - '342'
+  - '35'
+  - '351.72'
+  - '343'
+  - '347'
+  - '341'
+  cdu_description: Direito. Legislação. Regulamentos. Direito comparado. Jurisprudência. Fontes do direito. Direito público. Direito privado. Direito internacional.
+---
 Fshake# BIBLIOGRAFIA 
 ## BÁSICA 
 - BRANCHIER, Alex Sander Hostyn & MOTTA, Fernando Previdi. Direito empresarial. Curitiba: Intersaberes, 2012. https://plataforma.bvirtual.com.br/Acervo/Publicacao/6005

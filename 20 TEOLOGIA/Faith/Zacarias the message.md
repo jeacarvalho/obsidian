@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:10.098978+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: profecia_zacarias
+    weight: 10
+    confidence: 0.98
+  - name: visoes_profeticas
+    weight: 9
+    confidence: 0.95
+  - name: mensagem_divina
+    weight: 8
+    confidence: 0.92
+  - name: reconstrucao_templo
+    weight: 7
+    confidence: 0.9
+  - name: espiritosanto_poder
+    weight: 8
+    confidence: 0.88
+  - name: juizo_divino
+    weight: 7
+    confidence: 0.85
+  - name: etica_religiosa
+    weight: 6
+    confidence: 0.82
+  - name: desobediencia_castigo
+    weight: 6
+    confidence: 0.8
+  - name: simbolismo_livro_voando
+    weight: 5
+    confidence: 0.78
+  - name: renovo_messianico
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '224.5'
+  cdu_secondary: []
+  cdu_description: Profetas menores, Zacarias
+---
 [[Zacarias]] the message
 
 Contemporâneo Ageu

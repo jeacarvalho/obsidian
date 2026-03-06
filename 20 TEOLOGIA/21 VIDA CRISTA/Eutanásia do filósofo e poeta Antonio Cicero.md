@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:12:56.499644+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: filosofia_antonio_cicero
+    weight: 8
+    confidence: 0.98
+  - name: poesia_antonio_cicero
+    weight: 9
+    confidence: 0.99
+  - name: eutanasia_suica
+    weight: 10
+    confidence: 1.0
+  - name: alzheimer_antonio_cicero
+    weight: 9
+    confidence: 0.97
+  - name: literatura_brasileira_contemporanea
+    weight: 7
+    confidence: 0.95
+  - name: composicao_letras_musica
+    weight: 6
+    confidence: 0.9
+  - name: academia_brasileira_letras
+    weight: 5
+    confidence: 0.85
+  - name: morte_assistida
+    weight: 9
+    confidence: 0.98
+  - name: carta_despedida_filosofo
+    weight: 7
+    confidence: 0.96
+  - name: cremacao_cinzas_brasil
+    weight: 5
+    confidence: 0.88
+  cdu_primary: '179.7'
+  cdu_secondary:
+  - 821.134.3-1
+  - '103'
+  - 821.134.3-4
+  cdu_description: 179.7 - Fim da vida. Eutanásia. Suicídio. 821.134.3-1 - Literatura brasileira, poesia. 103 - Filosofia brasileira. 821.134.3-4 - Literatura brasileira, ensaios.
+---
 Eutanásia do filósofo e poeta Antonio Cicero - 23/10/2024
 
 O filósofo e poeta Antonio Cicero 

@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:59.056910+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sistema_de_autenticacao_gov_br
+    weight: 10
+    confidence: 0.98
+  - name: gerenciamento_de_acesso_spu
+    weight: 9
+    confidence: 0.97
+  - name: desenvolvimento_de_microservicos
+    weight: 8
+    confidence: 0.95
+  - name: arquitetura_de_software_spu_gpc
+    weight: 7
+    confidence: 0.93
+  - name: integracao_de_mapas_geonode
+    weight: 6
+    confidence: 0.9
+  - name: subcontratacao_de_servicos_de_ti
+    weight: 5
+    confidence: 0.88
+  - name: otimizacao_de_desempenho_de_mapas
+    weight: 5
+    confidence: 0.85
+  - name: gerenciamento_de_dados_imobiliarios
+    weight: 5
+    confidence: 0.82
+  - name: infraestrutura_de_rede_zdm
+    weight: 5
+    confidence: 0.8
+  - name: planejamento_de_projetos_de_ti
+    weight: 5
+    confidence: 0.78
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '004.77'
+  - '004.65'
+  - '004.8'
+  - '351.85'
+  cdu_description: 004.4 - Desenvolvimento de software; 004.77 - Sistemas de autenticação e segurança; 004.65 - Gerenciamento de dados; 004.8 - Inteligência artificial e sistemas especialistas; 351.85 - Serviços públicos e administração
+---
 # Descrição:
 
 | links | Arquivos |

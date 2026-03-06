@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:36.015569+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: influencia_mente_percepcao_realidade
+    weight: 10
+    confidence: 0.98
+  - name: efeitos_psicologicos_expectativas
+    weight: 9
+    confidence: 0.95
+  - name: mindset_fixo_vs_mindset_crescimento
+    weight: 8
+    confidence: 0.92
+  - name: plasticidade_cerebral_e_comportamento
+    weight: 7
+    confidence: 0.88
+  - name: respostas_hormonais_influenciadas_pela_mente
+    weight: 8
+    confidence: 0.9
+  - name: percepcao_subjetiva_de_prazer_e_saciedade
+    weight: 7
+    confidence: 0.85
+  - name: impacto_da_descricao_na_experiencia_sensorial
+    weight: 9
+    confidence: 0.93
+  - name: controle_percebido_vs_programacao_comportamental
+    weight: 10
+    confidence: 0.97
+  - name: visao_de_mundo_e_saude_longevidade
+    weight: 6
+    confidence: 0.8
+  - name: psicologia_da_alimentacao_e_preferencias
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '159.944'
+  - '159.943'
+  cdu_description: Psicologia. Psicologia geral. Psicologia da personalidade. Psicologia social.
+---
 #### Parece que somos mais programados na vida do que pré programados
 ___
 Amarelo destaque | Local: 994 Nota | Local: 994

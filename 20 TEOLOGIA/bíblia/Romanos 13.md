@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:32.172387+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: autoridade_divina_e_submissao
+    weight: 10
+    confidence: 0.98
+  - name: ordenacao_de_deus_nas_autoridades
+    weight: 9
+    confidence: 0.97
+  - name: resistencia_a_autoridade_e_condenacao
+    weight: 8
+    confidence: 0.96
+  - name: autoridade_como_ministro_de_deus_para_o_bem
+    weight: 7
+    confidence: 0.95
+  - name: pena_de_morte_e_autoridade
+    weight: 6
+    confidence: 0.9
+  - name: pagamento_de_tributos_e_impostos
+    weight: 7
+    confidence: 0.94
+  - name: cumprimento_da_lei_pelo_amor
+    weight: 9
+    confidence: 0.97
+  - name: salvacao_proxima_e_vigilancia
+    weight: 8
+    confidence: 0.93
+  - name: vida_crista_e_estilo_de_vida
+    weight: 8
+    confidence: 0.95
+  - name: revestir_se_de_cristo_e_obras_da_carne
+    weight: 9
+    confidence: 0.96
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '230.2'
+  - '240'
+  - '322.1'
+  cdu_description: Teologia cristã; Doutrina da salvação; Ética cristã; Relação Igreja-Estado
+---
 Que todos estejam sujeitos às autoridades superiores. Porque não há autoridade que não proceda de Deus, e as autoridades que existem foram por ele instituídas. Assim, aquele que se opõe à autoridade resiste à ordenação de Deus, e os que resistem trarão sobre si mesmos condenação.
 Romanos 13:1‭-‬2 NAA
 - Qual o cenário naquele momento?

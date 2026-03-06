@@ -2,7 +2,47 @@
 created: 2021-03-03T11:14:50 (UTC -03:00)
 tags: []
 source: https://neurolinguisticaforense.com.br/teste-do-sistema-representacional/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:22.773419+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sistema_representacional_digital
+    weight: 10
+    confidence: 0.98
+  - name: dialogo_interno
+    weight: 9
+    confidence: 0.95
+  - name: pensamento_logico_racional
+    weight: 8
+    confidence: 0.92
+  - name: processamento_informacao_auditiva_digital
+    weight: 7
+    confidence: 0.88
+  - name: capacidade_analitica
+    weight: 7
+    confidence: 0.85
+  - name: aprendizagem_estruturada
+    weight: 6
+    confidence: 0.8
+  - name: distracao_ruidos_auditivos
+    weight: 6
+    confidence: 0.78
+  - name: estilos_organizacionais_orientados_linguagem
+    weight: 5
+    confidence: 0.75
+  - name: autoanalise_ponderacao_consequencias
+    weight: 5
+    confidence: 0.72
+  - name: neurolinguistica_forense
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '159.943'
+  cdu_secondary:
+  - 159.943.2
+  - 159.943.3
+  cdu_description: Psicologia. Psicologia da personalidade. Processos cognitivos. Processos de pensamento. Sistemas representacionais. Processamento de informação. Estilos de aprendizagem.
 ---
 
 # Resultado do Teste do Sistema Representacional - Instituto MindLaw de Neurolinguística Forense

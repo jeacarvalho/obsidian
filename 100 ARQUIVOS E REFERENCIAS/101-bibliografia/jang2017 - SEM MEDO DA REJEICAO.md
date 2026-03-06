@@ -2,7 +2,48 @@
 created: 2023-07-13T09:06:51 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T23:03:05.728138+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: superacao_medo_rejeicao
+    weight: 10
+    confidence: 0.98
+  - name: autoconfianca_desenvolvimento_pessoal
+    weight: 9
+    confidence: 0.95
+  - name: resiliencia_ante_criticas
+    weight: 8
+    confidence: 0.92
+  - name: mentalidade_positiva_oportunidades
+    weight: 7
+    confidence: 0.9
+  - name: comunicacao_persuasiva
+    weight: 6
+    confidence: 0.88
+  - name: autoestima_e_autoaceitacao
+    weight: 7
+    confidence: 0.85
+  - name: gestao_emocoes_negativas
+    weight: 6
+    confidence: 0.82
+  - name: criatividade_e_expressao_artistica
+    weight: 5
+    confidence: 0.8
+  - name: inteligencia_emocional_aplicada
+    weight: 7
+    confidence: 0.88
+  - name: mudanca_de_perspectiva_vida
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '159.94'
+  cdu_secondary:
+  - '159.943'
+  - '159.947'
+  - '305.8'
+  cdu_description: Psicologia. Psicologia da personalidade. Psicologia social. Psicologia da motivação. Psicologia da emoção. Psicologia da autoimagem. Psicologia da criatividade. Psicologia da comunicação. Psicologia do desenvolvimento pessoal. Psicologia da resiliência. Psicologia da autoconfiança. Psicologia da superação de medos. Psicologia da mudança de vida. Psicologia da autoaceitação. Psicologia da gestão de emoções negativas. Psicologia da inteligência emocional. Psicologia da expressão artística. Psicologia da mentalidade positiva. Psicologia das oportunidades. Psicologia da comunicação persuasiva.
 ---
 
 # SEM MEDO DA REJEIÇÃO - Como superei o medo de ouvir um ?não? e me tornei mais confiante

@@ -1,3 +1,49 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:54.531110+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_projetos_ti
+    weight: 9
+    confidence: 0.9
+  - name: desenvolvimento_sistemas
+    weight: 8
+    confidence: 0.85
+  - name: infraestrutura_ti
+    weight: 7
+    confidence: 0.8
+  - name: arquitetura_software
+    weight: 8
+    confidence: 0.82
+  - name: gestao_mudancas_organizacionais
+    weight: 7
+    confidence: 0.75
+  - name: capacitacao_tecnologica
+    weight: 6
+    confidence: 0.7
+  - name: seguranca_informacao
+    weight: 5
+    confidence: 0.65
+  - name: inovacao_tecnologica
+    weight: 6
+    confidence: 0.72
+  - name: gestao_equipes_ti
+    weight: 8
+    confidence: 0.88
+  - name: automacao_processos
+    weight: 7
+    confidence: 0.78
+  cdu_primary: '004'
+  cdu_secondary:
+  - '005.3'
+  - '004.7'
+  - '005.5'
+  - '005.8'
+  - '004.4'
+  - '005.31'
+  cdu_description: Ciência da computação, tecnologia e organização. Processos de gestão e controle. Sistemas de informação. Segurança.
+---
 - #done Ver documento com [rascunho peti/pdti](https://docs.google.com/document/d/1TDlHi3wlJgzVWR3v7LUYqEuVsAmlaTWcGDysum-Kbyo/edit)[pedido Jonas](https://chat.[[serpro]].gov.br/group/dedat-lideres?msg=frQbLKT4gr47gBHT5): 
 
 ### 20240226 - Papo com time Rodrigo Costa sobre apoio no novo CNPJ

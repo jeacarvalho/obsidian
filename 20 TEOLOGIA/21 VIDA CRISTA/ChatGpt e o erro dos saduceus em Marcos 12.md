@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:10.056231+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: erro_saduceus_compreensao_escrituras
+    weight: 8
+    confidence: 0.98
+  - name: questionamento_ressurreicao_jesus
+    weight: 7
+    confidence: 0.97
+  - name: poder_deus_transformador
+    weight: 9
+    confidence: 0.99
+  - name: limitacoes_humanas_visao_divina
+    weight: 7
+    confidence: 0.96
+  - name: escrituras_revelacao_divina
+    weight: 8
+    confidence: 0.95
+  - name: certezas_humanas_vs_verdade_evangelho
+    weight: 6
+    confidence: 0.94
+  - name: teologia_joao_calvino_conhecimento_deus
+    weight: 5
+    confidence: 0.9
+  - name: teologia_martinho_lutero_vida_eterna
+    weight: 5
+    confidence: 0.91
+  - name: teologia_rc_sproul_transformacao_radical
+    weight: 5
+    confidence: 0.92
+  - name: aplicacao_pratica_estudo_biblico
+    weight: 6
+    confidence: 0.93
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '226.7'
+  - '231.7'
+  cdu_description: Teologia cristã. Doutrinas cristãs. Teologia bíblica. Novo Testamento. Evangelho de Marcos. Doutrina da ressurreição. Poder de Deus.
+---
 #### ChatGpt e o erro dos saduceus em [[ Marcos 12]]
 **Título: "A Resposta de Jesus aos Erros Humanos: Escrituras, Ressurreição e o Poder de Deus"**
 

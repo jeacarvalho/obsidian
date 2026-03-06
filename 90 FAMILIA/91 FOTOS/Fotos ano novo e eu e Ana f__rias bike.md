@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:13.758556+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fotografias_ano_novo
+    weight: 10
+    confidence: 0.98
+  - name: ferias_verao
+    weight: 9
+    confidence: 0.95
+  - name: celebracao_ano_novo
+    weight: 8
+    confidence: 0.9
+  - name: relacionamento_amizade
+    weight: 7
+    confidence: 0.85
+  - name: viagens_pessoais
+    weight: 6
+    confidence: 0.8
+  - name: momentos_felizes
+    weight: 5
+    confidence: 0.75
+  - name: registros_visuais
+    weight: 5
+    confidence: 0.7
+  - name: eventos_sociais
+    weight: 5
+    confidence: 0.65
+  - name: memoria_fotografica
+    weight: 5
+    confidence: 0.6
+  - name: interacao_social
+    weight: 5
+    confidence: 0.55
+  cdu_primary: '77'
+  cdu_secondary:
+  - 394.268.4
+  - '316.3'
+  cdu_description: Fotografia de eventos sociais (Ano Novo) e interações pessoais em férias.
+---
 Fotos ano novo e eu e Ana férias
 
 ![img_20190112_192705.jpg](6c43b3ee6947244a72db1c5238ee4138.jpg)

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:46.413618+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: culto_a_asera_e_idolos_cananeus
+    weight: 9
+    confidence: 0.98
+  - name: confianca_em_deus_vs_confianca_no_homem
+    weight: 10
+    confidence: 0.99
+  - name: pecado_e_consequencias_na_era_da_graca
+    weight: 7
+    confidence: 0.85
+  - name: natureza_enganosa_do_coracao_humano
+    weight: 8
+    confidence: 0.95
+  - name: soberania_de_deus_como_autor_da_vida
+    weight: 9
+    confidence: 0.97
+  - name: interpretacao_de_jeremias_17_na_perspectiva_crista
+    weight: 6
+    confidence: 0.8
+  - name: comparacao_entre_confianca_em_deus_e_arvore_plantada
+    weight: 8
+    confidence: 0.92
+  - name: a_importancia_da_esperanca_em_deus
+    weight: 7
+    confidence: 0.88
+  - name: o_juizo_divino_segundo_as_acoes
+    weight: 7
+    confidence: 0.89
+  - name: analogia_do_oleiro_e_do_barro
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '224.9'
+  cdu_secondary:
+  - '230.2'
+  - '241.1'
+  - '273.2'
+  cdu_description: Teologia bíblica do Antigo Testamento (Jeremias), com ênfase em profecia, ética e doutrina cristã.
+---
 Os seus filhos se lembram dos seus altares e dos postes da deusa Aserá junto às árvores frondosas, sobre as colinas elevadas e nos montes do campo. ***Darei os seus bens e todos os seus tesouros como despojo***, e farei o mesmo com os seus lugares altos por causa do pecado, em todos os seus territórios! Jeremias 17:2‭-‬3 NAA
 - Fiquei pensando no holocausto sob Hitler..
 - Mas estamos na era da graça. Seria possível?

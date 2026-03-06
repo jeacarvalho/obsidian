@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:19.087918+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: organizacao_mocidade_crista
+    weight: 10
+    confidence: 0.98
+  - name: lideranca_juvenil_religiosa
+    weight: 9
+    confidence: 0.95
+  - name: eventos_religiosos_juventude
+    weight: 8
+    confidence: 0.92
+  - name: cultos_quinzenais_semanais
+    weight: 7
+    confidence: 0.9
+  - name: integracao_grupos_jovens
+    weight: 8
+    confidence: 0.93
+  - name: desenvolvimento_identidade_mocidade
+    weight: 7
+    confidence: 0.88
+  - name: desafios_lideranca_ministerial
+    weight: 9
+    confidence: 0.96
+  - name: comunicacao_juventude_igreja
+    weight: 6
+    confidence: 0.85
+  - name: propostas_melhoria_ministerio_jovem
+    weight: 8
+    confidence: 0.91
+  - name: relacionamento_pastoral_juventude
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '267.6'
+  cdu_secondary:
+  - '267.62'
+  - '267.63'
+  - '267.64'
+  cdu_description: Organização e atividades de associações e movimentos de juventude cristã; pastoral juvenil; grupos de jovens; atividades de lazer e recreação para jovens; atividades de evangelização e missões para jovens.
+---
 Mocidade Teo
 
 - Relatorio

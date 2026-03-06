@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:40.144980+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mudanca_sistematica_organizacional
+    weight: 9
+    confidence: 0.98
+  - name: resistencia_a_mudanca
+    weight: 8
+    confidence: 0.95
+  - name: mentalidade_fixa_vs_crescimento
+    weight: 7
+    confidence: 0.92
+  - name: inovacao_radical
+    weight: 10
+    confidence: 0.97
+  - name: barreiras_ao_progresso
+    weight: 8
+    confidence: 0.96
+  - name: lideranca_adaptativa
+    weight: 7
+    confidence: 0.9
+  - name: pensamento_sistemico
+    weight: 9
+    confidence: 0.94
+  - name: incerteza_e_volatilidade
+    weight: 6
+    confidence: 0.88
+  - name: otimizacao_de_processos
+    weight: 5
+    confidence: 0.85
+  - name: transformacao_cultural
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '005.32'
+  cdu_secondary:
+  - 330.342.2
+  - '005.21'
+  cdu_description: Gestão de sistemas operacionais; Inovação e desenvolvimento econômico; Gestão de sistemas de informação
+---
 #### Precisamos de um sistema operacional novo e não atualizações no sistema atual
 Location: 170
 

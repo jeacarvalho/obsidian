@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:59.137693+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceito_e_origem_da_culpa
+    weight: 10
+    confidence: 0.98
+  - name: culpa_na_formacao_da_identidade_infantil
+    weight: 9
+    confidence: 0.97
+  - name: culpa_e_saude_mental_e_emocional
+    weight: 10
+    confidence: 0.99
+  - name: influencia_da_educacao_na_culpa
+    weight: 9
+    confidence: 0.96
+  - name: culpa_e_relacoes_de_poder_familiar
+    weight: 8
+    confidence: 0.95
+  - name: culpa_e_pressao_social
+    weight: 8
+    confidence: 0.94
+  - name: culpa_e_espiritualidade_religiao
+    weight: 7
+    confidence: 0.93
+  - name: consequencias_patogenicas_da_culpa
+    weight: 7
+    confidence: 0.92
+  - name: critica_a_educacao_repressiva
+    weight: 6
+    confidence: 0.91
+  - name: autoestima_e_culpa_infantil
+    weight: 5
+    confidence: 0.9
+  cdu_primary: 159.947.5
+  cdu_secondary:
+  - '316.6'
+  - 37.015.3
+  - 2-19
+  cdu_description: Psicologia da culpa; Influência social e comportamento; Psicologia da educação; Culpa e religião
+---
 # Cap 1
 ## Análise
 

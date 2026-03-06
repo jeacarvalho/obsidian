@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:09.219025+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_meditacoes_jesus
+    weight: 8
+    confidence: 0.9
+  - name: empatia_meditador_sofrimento_cristo
+    weight: 7
+    confidence: 0.85
+  - name: conexao_emocional_intelectual_texto_biblico
+    weight: 6
+    confidence: 0.8
+  - name: percepcao_desumanizacao_sofrimento_cristo
+    weight: 7
+    confidence: 0.88
+  - name: reflexao_soberania_divina_em_meio_escuridao
+    weight: 9
+    confidence: 0.92
+  - name: natureza_amor_cristo_contraste_maldade_humana
+    weight: 9
+    confidence: 0.93
+  - name: implicacoes_sofrimento_cristo_vida_pessoal
+    weight: 8
+    confidence: 0.89
+  - name: teologia_reformada_depravacao_total_pecado
+    weight: 9
+    confidence: 0.94
+  - name: exegese_marcos_14_65_desprezo_humilhacao_jesus
+    weight: 10
+    confidence: 0.95
+  - name: contexto_historico_cultural_social_economico_politico_marcos_14
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '232.97'
+  cdu_secondary:
+  - '273.6'
+  - '226.7'
+  cdu_description: Cristologia (232) - Paixão e Morte de Cristo (232.97); Teologia Reformada (273.6); Evangelho de Marcos (226.7)
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Marcos 14]] - 65
 ### **Análise Comportamental**
 

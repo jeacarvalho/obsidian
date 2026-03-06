@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:17.913212+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: salvacao_pela_fe_e_confissao
+    weight: 10
+    confidence: 0.98
+  - name: crenca_em_jesus_cristo
+    weight: 9
+    confidence: 0.97
+  - name: ressurreicao_de_jesus
+    weight: 8
+    confidence: 0.96
+  - name: declaracao_verbal_de_fe
+    weight: 7
+    confidence: 0.95
+  - name: papel_do_espirito_santo_na_fe
+    weight: 6
+    confidence: 0.94
+  - name: importancia_da_pregacao
+    weight: 8
+    confidence: 0.93
+  - name: transmissao_da_palavra_de_deus
+    weight: 7
+    confidence: 0.92
+  - name: fe_vem_pelo_ouvir
+    weight: 6
+    confidence: 0.91
+  - name: evangelismo_e_discipulado
+    weight: 5
+    confidence: 0.9
+  - name: compreensao_da_justica_divina
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '230'
+  cdu_secondary:
+  - '27'
+  - '24'
+  cdu_description: Teologia cristã. Doutrinas cristãs. Teologia sistemática. História e geografia da igreja cristã. Prática cristã. Vida e costumes cristãos.
+---
 Se com a boca você confessar Jesus como Senhor e em seu coração crer que Deus o ressuscitou dentre os mortos, você será salvo. Porque com o coração se crê para a justiça e com a boca se confessa para a salvação. Romanos 10:9-10 NAA
 
 - Crer e confessar.

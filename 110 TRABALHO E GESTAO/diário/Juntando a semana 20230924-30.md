@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:11.978346+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: silencio_como_resistencia_ao_mundo_acelerado
+    weight: 8
+    confidence: 0.9
+  - name: curiosidade_santa_e_abertura_ao_outro
+    weight: 7
+    confidence: 0.85
+  - name: transmissao_de_valores_de_vida_para_filhos
+    weight: 6
+    confidence: 0.8
+  - name: autoridade_do_ser_humano_como_imagem_de_deus
+    weight: 9
+    confidence: 0.95
+  - name: espiritosanto_escrevendo_biblia_pessoal_na_relacao_conosco
+    weight: 10
+    confidence: 1.0
+  - name: dependencia_da_acao_divina_para_compreensao_da_palavra
+    weight: 9
+    confidence: 0.95
+  - name: mundo_acelerado_privando_profundidade
+    weight: 8
+    confidence: 0.9
+  - name: aguardar_revestimento_do_alto_para_missao
+    weight: 7
+    confidence: 0.85
+  - name: desenvolvimento_da_escrita_e_percepcoes_espirituais
+    weight: 6
+    confidence: 0.8
+  - name: journaling_para_crescimento_espiritual
+    weight: 10
+    confidence: 1.0
+  cdu_primary: '2'
+  cdu_secondary:
+  - '230'
+  - '24'
+  - '27'
+  cdu_description: Religião. Teologia. Cristianismo. Teologia cristã. Vida cristã. Prática religiosa. Meditação cristã. Espiritualidade cristã.
+---
 O livro [[2022Schelske - Journaling for Spiritual Growth]] tem sido muito importante para mim. Diversas coisas têm saído da cachola ao ler o texto. Essa semana bati de frente com o [[Silêncio como resistência]]. Usar o silêncio como uma arma de guerra contra o constante "convite" do mundo acelerado ao nosso redor para estarmos presentes constantemente. Em tudo. Em todos os assuntos. Preciso dizer a isso para manter minha sanidade!
 
 No diário de [[20230925]], lendo Lucas, vi os discípulos de Emaús se abrindo a um estranho, que mudou suas vidas. Como desenvolver essa "curiosidade santa", uma abertura constante ao outro, porque ele pode ser o porta voz de grandes notícias?

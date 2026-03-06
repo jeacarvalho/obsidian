@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:41.652847+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: comprovante_pagamento_tim
+    weight: 10
+    confidence: 0.98
+  - name: sistema_informacoes_banco_brasil
+    weight: 9
+    confidence: 0.95
+  - name: autoatendimento_bancario
+    weight: 8
+    confidence: 0.9
+  - name: dados_cliente_jose_eduardo_carvalho
+    weight: 7
+    confidence: 0.85
+  - name: agencia_conta_bancaria
+    weight: 6
+    confidence: 0.8
+  - name: convenio_tim_s_a
+    weight: 7
+    confidence: 0.88
+  - name: codigo_barras_pagamento
+    weight: 9
+    confidence: 0.92
+  - name: data_pagamento_16_09_2021
+    weight: 8
+    confidence: 0.93
+  - name: valor_total_pagamento_69_99
+    weight: 8
+    confidence: 0.91
+  - name: autenticacao_sisbb
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '336.7'
+  cdu_secondary:
+  - '004.7'
+  - '659.2'
+  cdu_description: 336.7 - Pagamentos e transferências bancárias; 004.7 - Códigos de barras; 659.2 - Publicidade e relações públicas (referente à oferta de seguro)
+---
 Código de barras timnegocia 846000000006699901090117004522154352101224680955 - Contrato: 1.68159426 Telefone: (21) 97972-6131
 
 pagto BB em 16/09/2021

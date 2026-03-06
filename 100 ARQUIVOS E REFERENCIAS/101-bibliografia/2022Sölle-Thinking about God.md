@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:01.660800+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_sistematica_redefinida
+    weight: 10
+    confidence: 0.98
+  - name: praxis_na_teologia
+    weight: 9
+    confidence: 0.97
+  - name: relacao_deus_humanos
+    weight: 8
+    confidence: 0.96
+  - name: fe_buscando_entendimento
+    weight: 8
+    confidence: 0.95
+  - name: dialogo_texto_contexto_povo
+    weight: 7
+    confidence: 0.94
+  - name: critica_teologia_grega
+    weight: 7
+    confidence: 0.93
+  - name: experiencia_de_fe_reflexao
+    weight: 6
+    confidence: 0.92
+  - name: fe_e_duvida
+    weight: 6
+    confidence: 0.91
+  - name: captura_ideologica_da_fe
+    weight: 5
+    confidence: 0.9
+  - name: descentralizacao_poder_teologico
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '230'
+  cdu_secondary:
+  - '201'
+  - '203'
+  - 28-23
+  cdu_description: Teologia Sistemática e Doutrinária; Teologia como Reflexão sobre a Fé; Relação Fé-Razão; Teologia Protestante
+---
 ## 📝 Análise do Capítulo 1: What is Systematic Theology? (Dorothee Sölle)
 
 O Capítulo 1, "What is Systematic Theology?", funciona como uma redefinição radical da teologia sistemática, afastando-a de uma mera 'teoria sobre Deus' (análoga à mineralogia ou osteologia) para ancorá-la na experiência, na relação com o ser humano e na **práxis**11. [[Dorothee Sölle]] convida o leitor a **amar a Deus**, e não apenas a pensar Nele, estabelecendo a teologia como um ato de fé reflexivo e crítico, e não um pressuposto acadêmico neutro2222.

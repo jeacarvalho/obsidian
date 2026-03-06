@@ -3,6 +3,46 @@ created: 2021-03-17T13:24:43 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.42.4/b393d742cdd2/
 author: Kotler, Steven
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:55.488740+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: estado_de_fluxo_em_atletas
+    weight: 10
+    confidence: 0.98
+  - name: desempenho_humano_maximo
+    weight: 9
+    confidence: 0.95
+  - name: motivacao_intrinseca_em_esportes
+    weight: 8
+    confidence: 0.92
+  - name: superacao_de_limites_fisicos
+    weight: 7
+    confidence: 0.9
+  - name: psicologia_do_esporte_radical
+    weight: 8
+    confidence: 0.93
+  - name: experiencias_de_pico_maslow
+    weight: 7
+    confidence: 0.88
+  - name: influencia_do_estado_mental_no_desempenho
+    weight: 9
+    confidence: 0.94
+  - name: risco_e_perigo_em_esportes
+    weight: 6
+    confidence: 0.85
+  - name: autodeterminacao_e_proposito
+    weight: 7
+    confidence: 0.89
+  - name: ciencias_evolutivas_e_comportamento_humano
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '796.01'
+  cdu_secondary:
+  - '159.947'
+  - '159.98'
+  cdu_description: Psicologia do desporto. Estados de fluxo e experiências de pico em atletas de alto rendimento e desportos radicais.
 ---
 
 Kotler, Steven. Super-humanos: Como os atletas radicais redefinem os limites do possível, 2015.

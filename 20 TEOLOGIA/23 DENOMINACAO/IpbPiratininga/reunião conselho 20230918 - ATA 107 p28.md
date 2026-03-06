@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:16:08.229384+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_ministerio_igreja
+    weight: 10
+    confidence: 0.98
+  - name: estrategia_igreja_evangelica
+    weight: 9
+    confidence: 0.95
+  - name: igreja_figital_conectada
+    weight: 8
+    confidence: 0.92
+  - name: discipulado_formacao_crista
+    weight: 8
+    confidence: 0.9
+  - name: missao_transformacao_social
+    weight: 7
+    confidence: 0.88
+  - name: sustentabilidade_financeira_igreja
+    weight: 7
+    confidence: 0.85
+  - name: desafios_lideranca_ministerial
+    weight: 6
+    confidence: 0.82
+  - name: engajamento_comunitario_igreja
+    weight: 6
+    confidence: 0.8
+  - name: comunicacao_igreja_midias_sociais
+    weight: 5
+    confidence: 0.78
+  - name: cuidado_vulneraveis_igreja
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '28'
+  cdu_secondary:
+  - '316.77'
+  - '269.2'
+  - '261.8'
+  cdu_description: 28 Religiões. Cristianismo. Teologia cristã; 316.77 Comunicação social e meios de comunicação social; 269.2 Evangelização. Missões; 261.8 Relações sociais. Organização social. Vida social.
+---
 # Ponto de inflexão - dízimos caíram no último mês de maneira sensível
 - Por isso estou repensando a igreja, sua continuidade e viabilidade
 - Tinha declarado uma nova proposta aqui: https://docs.google.com/document/d/1k_a4GgRZ66SICGL-QLn_g_-NgmdRwq3RVtOYR5rcLH4/edit

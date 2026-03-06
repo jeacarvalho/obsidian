@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:55.633686+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_por_funcoes_organizacionais
+    weight: 8
+    confidence: 0.9
+  - name: alinhamento_habilidades_tarefas
+    weight: 7
+    confidence: 0.85
+  - name: identificacao_recursos_natos
+    weight: 9
+    confidence: 0.92
+  - name: mindset_fixo_vs_crescimento
+    weight: 7
+    confidence: 0.88
+  - name: autorealizacao_profissional
+    weight: 6
+    confidence: 0.8
+  - name: contribuicoes_individuais_organizacao
+    weight: 8
+    confidence: 0.89
+  - name: qualidades_pessoais_persistente_prudente
+    weight: 6
+    confidence: 0.75
+  - name: qualidades_pessoais_curioso_introvertido
+    weight: 6
+    confidence: 0.75
+  - name: desenvolvimento_tolerancia_inclusao
+    weight: 9
+    confidence: 0.93
+  - name: mudanca_mindset_foco_pessoas
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - 159.947.5
+  - '316.47'
+  cdu_description: Gestão e organização do trabalho; Psicologia do trabalho; Sociologia das relações de trabalho; Desenvolvimento pessoal e profissional; Psicologia social.
+---
 ## INTRODUÇÃO
 - O que o [[serpro]] entende ser "trabalhar e gerencias por meio das funções"?
 	- *"Compreende seu papel e a estrutura de funcionamento da empresa, promovendo maior integração funcional e menor estratificação organizacional"*

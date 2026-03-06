@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:39.280265+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: origem_etimologica_cultura_latim
+    weight: 10
+    confidence: 0.98
+  - name: evolucao_historica_conceito_cultura
+    weight: 9
+    confidence: 0.97
+  - name: cultura_antiguidade_romana_virtude
+    weight: 8
+    confidence: 0.96
+  - name: cultura_natureza_oposicao_pensamento_ocidental
+    weight: 10
+    confidence: 0.98
+  - name: john_locke_teoria_conhecimento_cultura
+    weight: 8
+    confidence: 0.94
+  - name: iluminismo_conceito_cultura_filosofia
+    weight: 9
+    confidence: 0.96
+  - name: rousseau_educacao_cultura_natureza
+    weight: 8
+    confidence: 0.93
+  - name: kant_filosofia_cultura
+    weight: 9
+    confidence: 0.95
+  - name: historicidade_conceito_cultura
+    weight: 10
+    confidence: 0.99
+  - name: significados_multiplos_cultura_tempo
+    weight: 7
+    confidence: 0.95
+  cdu_primary: '308'
+  cdu_secondary:
+  - '1'
+  - 008
+  cdu_description: Sociologia e antropologia social. A cultura. Antropologia cultural. História e desenvolvimento da cultura.
+---
 #  Abordagem antropológico-cultural: o que é cultura?
 
   * [Introdução](index.htm)

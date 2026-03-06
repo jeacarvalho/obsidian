@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:56.131478+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desanimo_cristianismo_institucional
+    weight: 9
+    confidence: 0.98
+  - name: critica_cristianismo_historico
+    weight: 8
+    confidence: 0.95
+  - name: movimentos_revolucionarios_brasileiros_apagados
+    weight: 10
+    confidence: 0.99
+  - name: traicao_evangelho_estruturas_religiosas
+    weight: 9
+    confidence: 0.97
+  - name: cristaos_lado_poder_vs_oprimidos
+    weight: 8
+    confidence: 0.96
+  - name: teologia_libertacao_critica
+    weight: 7
+    confidence: 0.92
+  - name: papel_igreja_escravidao_ditadura
+    weight: 7
+    confidence: 0.93
+  - name: essencia_evangelho_vs_moralismo
+    weight: 8
+    confidence: 0.94
+  - name: despertar_espiritual_rompendo_institucional
+    weight: 7
+    confidence: 0.91
+  - name: busca_comunidades_fe_resistentes
+    weight: 6
+    confidence: 0.88
+  cdu_primary: 27(81)
+  cdu_secondary:
+  - '323.28'
+  - 27-29
+  - 28-29
+  cdu_description: História do Cristianismo no Brasil (27(81)), com ênfase em movimentos sociais e revoltas (323.28), e a crítica à institucionalização da religião (27-29, 28-29).
+---
 #### desânimo mortal com o cristianismo que não defendeu os movimentos revolucionários brasileiros que foram apagados pela história oficial
 ---
 

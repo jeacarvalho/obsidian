@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:51.267680+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_administrativa_seat7
+    weight: 9
+    confidence: 0.9
+  - name: planejamento_roadmap_alm
+    weight: 8
+    confidence: 0.85
+  - name: gestao_ferias_adur
+    weight: 7
+    confidence: 0.75
+  - name: gestao_projetos_alm
+    weight: 8
+    confidence: 0.8
+  - name: editais_gdes_2021
+    weight: 6
+    confidence: 0.7
+  - name: comunicacao_gp
+    weight: 5
+    confidence: 0.65
+  - name: trabalho_remoto_licoes_aprendidas
+    weight: 7
+    confidence: 0.8
+  - name: drivers_tokens_certificados
+    weight: 6
+    confidence: 0.7
+  - name: gestao_listas_email
+    weight: 5
+    confidence: 0.6
+  - name: indicadores_mensais_infogp
+    weight: 6
+    confidence: 0.7
+  cdu_primary: '351.1'
+  cdu_secondary:
+  - '005.311'
+  - '331.1'
+  - '378.1'
+  cdu_description: Administração pública; Administração de empresas; Gestão de recursos humanos; Educação e formação profissional
+---
  # Para tratar demandas administrativas do SEAT7
 
 ## Itens gerais

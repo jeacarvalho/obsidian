@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T21:57:03.012549+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_chatgpt_meditacoes
+    weight: 10
+    confidence: 0.98
+  - name: meditacoes_biblicas_marcos
+    weight: 9
+    confidence: 0.97
+  - name: interpretacao_religiosa_chatgpt
+    weight: 8
+    confidence: 0.96
+  - name: teologia_crista_marcos
+    weight: 7
+    confidence: 0.95
+  - name: inteligencia_artificial_teologia
+    weight: 6
+    confidence: 0.94
+  - name: reflexao_espiritual_chatgpt
+    weight: 5
+    confidence: 0.93
+  - name: estudo_biblico_marcos_15
+    weight: 8
+    confidence: 0.92
+  - name: perspectiva_ia_fe
+    weight: 7
+    confidence: 0.91
+  - name: dialogo_teologico_ia
+    weight: 6
+    confidence: 0.9
+  - name: aplicacao_teologica_chatgpt
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '230'
+  cdu_secondary:
+  - '226.7'
+  - 004.032.24
+  cdu_description: Teologia cristã; Evangelho de Marcos; Inteligência artificial
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Marcos 15]]_11-14
 Karl, obrigado por essa profunda proposta de leitura e análise. Vamos por partes, conforme suas instruções, com atenção pastoral, teológica e exegética.
 

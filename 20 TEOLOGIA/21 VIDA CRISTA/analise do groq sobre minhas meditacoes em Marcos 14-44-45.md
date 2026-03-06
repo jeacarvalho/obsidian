@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:06.841746+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reflexao_sobre_traicao_e_amor
+    weight: 9
+    confidence: 0.98
+  - name: analise_comportamental_emocional
+    weight: 8
+    confidence: 0.95
+  - name: autoconhecimento_e_crescimento_pessoal
+    weight: 7
+    confidence: 0.92
+  - name: influencia_de_lutas_internas_em_acoes
+    weight: 8
+    confidence: 0.9
+  - name: cultivo_de_misericordia_e_compaixao
+    weight: 7
+    confidence: 0.93
+  - name: perdao_e_amor_incondicional
+    weight: 8
+    confidence: 0.94
+  - name: dinamica_das_relacoes_humanas
+    weight: 6
+    confidence: 0.88
+  - name: teologia_reformada_pecado_salvacao
+    weight: 9
+    confidence: 0.97
+  - name: interpretacao_biblica_marcos_14
+    weight: 10
+    confidence: 0.99
+  - name: proposta_de_sermao_teologico
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '230.9'
+  cdu_secondary:
+  - 27-29
+  - '226.7'
+  cdu_description: Teologia cristã. Doutrinas da salvação. Teologia reformada. Novo Testamento. Evangelho de Marcos.
+---
 #### analise do groq sobre minhas meditacoes em [[Marcos 14]]-44-45
 **Análise comportamental**
 

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:51.528691+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: honorarios_de_sucumbencia_advogados_publicos
+    weight: 10
+    confidence: 0.98
+  - name: acordos_extrajudiciais_dividas_tributarias
+    weight: 9
+    confidence: 0.95
+  - name: interesses_pessoais_servidores_publicos
+    weight: 8
+    confidence: 0.92
+  - name: mudanca_legislativa_2015_honorarios
+    weight: 7
+    confidence: 0.9
+  - name: estado_inchado_prioridades_burocraticas
+    weight: 8
+    confidence: 0.88
+  - name: relacoes_poder_eficiencia_empresarial
+    weight: 7
+    confidence: 0.85
+  - name: capitalismo_politicamente_orientado
+    weight: 9
+    confidence: 0.93
+  - name: contribuicoes_populacao_servicos_publicos
+    weight: 6
+    confidence: 0.8
+  - name: gestao_dividas_empresariais_fiscais
+    weight: 7
+    confidence: 0.87
+  - name: papel_estado_economia_industria
+    weight: 6
+    confidence: 0.82
+  cdu_primary: '336.2'
+  cdu_secondary:
+  - '321.1'
+  - '330.5'
+  - '347.9'
+  cdu_description: Finanças públicas; Tributação; Dívida pública. Relações entre o Estado e a economia; Capitalismo politicamente orientado. Direito processual civil; Honorários advocatícios.
+---
 Além de defender a cultura, advogados públicos do estado de Minas
 Gerais e procuradores da Fazenda Nacional tinham um interesse pessoal no
 acerto de contas realizado com as empresas de Bernardo Paz. Graças a uma

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:01.755740+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_entrega_jesus_pilatos
+    weight: 8
+    confidence: 0.9
+  - name: reconhecimento_manipulacao_lideranca_sinedrio
+    weight: 7
+    confidence: 0.85
+  - name: violencia_opressao_poder_instituido
+    weight: 7
+    confidence: 0.8
+  - name: visao_alternativa_predestinacao_morte_jesus
+    weight: 6
+    confidence: 0.75
+  - name: compreensao_valores_lideres_religiosos_politicos
+    weight: 6
+    confidence: 0.7
+  - name: reflexao_autenticidade_honestidade_pessoal
+    weight: 7
+    confidence: 0.8
+  - name: promocao_justica_amor_uso_influencia
+    weight: 7
+    confidence: 0.85
+  - name: teologia_reformada_submissao_vontade_deus
+    weight: 9
+    confidence: 0.95
+  - name: analise_contexto_historico_judeia_dominio_romano
+    weight: 6
+    confidence: 0.7
+  - name: proposta_sermao_entrega_jesus_pilatos
+    weight: 8
+    confidence: 0.9
+  cdu_primary: 27-32
+  cdu_secondary:
+  - '232.9'
+  - 27-29
+  - '223.1'
+  cdu_description: Teologia cristã. História da igreja. Novo Testamento. Biografia de Jesus Cristo. Evangelho de Marcos.
+---
 #### analise do groq sobre minhas meditacoes em [[Marcos 15]]-1
 **Análise comportamental:**
 

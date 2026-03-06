@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:19.477432+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: exclusao_membros_igreja
+    weight: 7
+    confidence: 0.85
+  - name: retorno_projeto_igreja
+    weight: 9
+    confidence: 0.9
+  - name: avaliacao_retorno_projeto_covid
+    weight: 8
+    confidence: 0.88
+  - name: orientacoes_prefeitura_retorno
+    weight: 6
+    confidence: 0.75
+  - name: busca_patrocinadores_projeto
+    weight: 7
+    confidence: 0.8
+  - name: retorno_atividades_igreja
+    weight: 9
+    confidence: 0.92
+  - name: transmissao_eventos_igreja
+    weight: 8
+    confidence: 0.87
+  - name: requisitos_vacina_igreja
+    weight: 6
+    confidence: 0.7
+  - name: equipamentos_transmissao_igreja
+    weight: 7
+    confidence: 0.82
+  - name: infraestrutura_rede_igreja
+    weight: 6
+    confidence: 0.78
+  cdu_primary: '280'
+  cdu_secondary:
+  - '316.4'
+  - '338.4'
+  - '004.7'
+  cdu_description: Religião organizada; Sociologia da religião; Economia da religião; Redes de computadores
+---
 - **Exclusão** de Membros
 	- Edson e Neli
 	- Thaisa

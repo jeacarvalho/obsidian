@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:40.289882+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: planejamento_tributario
+    weight: 10
+    confidence: 0.98
+  - name: contabilidade_tributaria
+    weight: 9
+    confidence: 0.95
+  - name: ipi
+    weight: 7
+    confidence: 0.85
+  - name: icms
+    weight: 7
+    confidence: 0.85
+  - name: iss
+    weight: 7
+    confidence: 0.85
+  - name: imposto_de_renda_pessoa_juridica
+    weight: 8
+    confidence: 0.9
+  - name: termos_contabilidade
+    weight: 6
+    confidence: 0.7
+  - name: manuais_contabilidade
+    weight: 6
+    confidence: 0.7
+  - name: referencia_bibliografica
+    weight: 5
+    confidence: 0.6
+  - name: entrega_ava2
+    weight: 5
+    confidence: 0.5
+  cdu_primary: '336.2'
+  cdu_secondary:
+  - '657.1'
+  cdu_description: Finanças públicas. Tributação. Impostos. Contabilidade geral.
+---
 [[Contabilidade]]
 # REFERÊNCIA  
 ## BÁSICA  

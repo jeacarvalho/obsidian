@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:50.092039+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: apoio_comunitario_vendedor_ambulante
+    weight: 10
+    confidence: 0.98
+  - name: fiscalizacao_prefeitura_venda_irregular
+    weight: 9
+    confidence: 0.97
+  - name: solidariedade_consumidores_vendedor
+    weight: 9
+    confidence: 0.96
+  - name: apreensao_mercadoria_ambulante
+    weight: 8
+    confidence: 0.95
+  - name: direitos_trabalhador_informal
+    weight: 8
+    confidence: 0.94
+  - name: viralizacao_redes_sociais_caso_social
+    weight: 7
+    confidence: 0.93
+  - name: relato_emocional_vendedor_ambulante
+    weight: 7
+    confidence: 0.92
+  - name: desemprego_alternativa_renda
+    weight: 6
+    confidence: 0.91
+  - name: venda_ambulante_sem_autorizacao
+    weight: 6
+    confidence: 0.9
+  - name: acao_policial_fiscalizacao_comercio
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '331.5'
+  cdu_secondary:
+  - '364.1'
+  - '305.8'
+  cdu_description: Trabalho e emprego; Condições de trabalho; Emprego informal; Vendedores ambulantes; Fiscalização de atividades econômicas; Solidariedade social; Direitos do consumidor.
+---
 'Parecia que eu era ladrão': clientes se unems e compram mercadoria de ambulante que seria apreendida
 
 # 'Parecia que eu era ladrão': clientes se unem e compram mercadoria de ambulante que seria apreendida

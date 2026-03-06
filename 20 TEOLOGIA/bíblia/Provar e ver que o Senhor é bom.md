@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:27.336876+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: experimentar_vontade_deus
+    weight: 10
+    confidence: 0.98
+  - name: renovacao_mente
+    weight: 9
+    confidence: 0.97
+  - name: nao_amoldar_mundo
+    weight: 8
+    confidence: 0.96
+  - name: provar_senhor_bom
+    weight: 7
+    confidence: 0.95
+  - name: transformacao_pessoal
+    weight: 7
+    confidence: 0.94
+  - name: sabedoria_divina
+    weight: 6
+    confidence: 0.93
+  - name: fe_crista
+    weight: 6
+    confidence: 0.92
+  - name: relacao_deus
+    weight: 5
+    confidence: 0.91
+  - name: compreensao_vontade_deus
+    weight: 5
+    confidence: 0.9
+  - name: transformacao_mentalidade
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '248.4'
+  - '227.1'
+  cdu_description: Teologia cristã; Vida e prática cristãs; Novo Testamento - Romanos
+---
 Provar e ver que o Senhor é bom. Experimentar a vontade de Deus
 
 Efeito dominó - um faz cair outro 50% maior.5 cm - 7,5 - 10,5 - 15 - 22,5 - 33 - 50 - é uma PG

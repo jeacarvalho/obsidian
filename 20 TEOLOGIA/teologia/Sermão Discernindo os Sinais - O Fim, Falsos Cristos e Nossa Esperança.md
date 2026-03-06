@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:00.100289+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: escatologia_crista
+    weight: 9
+    confidence: 0.98
+  - name: discernimento_sinais_tempos
+    weight: 8
+    confidence: 0.95
+  - name: falsos_cristos_enganos
+    weight: 8
+    confidence: 0.96
+  - name: esperanca_crista_eternidade
+    weight: 7
+    confidence: 0.93
+  - name: perseveranca_na_verdade
+    weight: 7
+    confidence: 0.94
+  - name: teologia_joao_calvino
+    weight: 6
+    confidence: 0.85
+  - name: teologia_martinho_lutero
+    weight: 6
+    confidence: 0.85
+  - name: crises_sociais_religiosas
+    weight: 7
+    confidence: 0.9
+  - name: vida_devocional_crista
+    weight: 5
+    confidence: 0.88
+  - name: evangelismo_e_testemunho
+    weight: 5
+    confidence: 0.87
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - 27-32
+  - '232.9'
+  - '248.2'
+  cdu_description: Teologia cristã geral, com ênfase em escatologia, cristologia, e vida espiritual. Inclui referências a reformadores e práticas devocionais.
+---
 Expanda o sermão abaixo, proposto por você. Traga outros textos bíblicos de apoio e aumente a argumentação em cada ponto:
 "**Título do Sermão: “Discernindo os Sinais: O Fim, Falsos Cristos e Nossa Esperança”**
 

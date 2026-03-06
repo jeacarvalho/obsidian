@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:43.868798+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: memorias_da_infancia_em_teresopolis
+    weight: 8
+    confidence: 0.9
+  - name: relacao_com_o_padrinho_heroi
+    weight: 9
+    confidence: 0.95
+  - name: sentimento_de_pretericao_no_fusca
+    weight: 10
+    confidence: 1.0
+  - name: impacto_de_traumas_infantis_na_vida_adulta
+    weight: 9
+    confidence: 0.92
+  - name: busca_por_aprovacao_e_perfeccionismo
+    weight: 9
+    confidence: 0.93
+  - name: medo_de_falhar_e_ser_deixado_para_tras
+    weight: 10
+    confidence: 0.98
+  - name: criacao_de_monstros_mentais_internos
+    weight: 7
+    confidence: 0.85
+  - name: libertacao_espiritual_em_jesus
+    weight: 9
+    confidence: 0.96
+  - name: promessa_de_lugar_garantido_no_reino_de_deus
+    weight: 8
+    confidence: 0.91
+  - name: aprendizado_e_crescimento_pessoal_continuo
+    weight: 7
+    confidence: 0.88
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '230'
+  - '305.8'
+  cdu_description: Psicologia. Psicologia do desenvolvimento. Psicologia da criança e do adolescente. Psicologia da religião. Teologia cristã. Sociologia. Grupos sociais. Família.
+---
 Eu e o fusca
 
 Eu tenho me pegado voltando sempre a um evento na minha vida.

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:49.036884+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: infraestrutura_nuvem_publica_aws
+    weight: 8
+    confidence: 0.9
+  - name: infraestrutura_nuvem_publica_azure
+    weight: 7
+    confidence: 0.85
+  - name: provisionamento_infra_terraform_geohub
+    weight: 9
+    confidence: 0.92
+  - name: criacao_infra_geohub_nominatim_serpro
+    weight: 9
+    confidence: 0.93
+  - name: lideranca_tecnica_geohub
+    weight: 6
+    confidence: 0.75
+  - name: migracao_funcionalidades_sterna_geohub
+    weight: 7
+    confidence: 0.8
+  - name: mvp_infra_centralizada_automatizada_painel_desmatamento
+    weight: 10
+    confidence: 0.95
+  - name: suporte_times_incra_geonode_terceirizado
+    weight: 6
+    confidence: 0.7
+  - name: documentacao_pesquisa_juridica_licencas
+    weight: 5
+    confidence: 0.65
+  - name: poc_geocoding_cnpj_contratacao_coordenadas
+    weight: 8
+    confidence: 0.88
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '004.77'
+  - '347.9'
+  - '333.7'
+  cdu_description: Sistemas de informação, redes de computadores, infraestrutura de TI, geoprocessamento, suporte técnico, documentação jurídica e licenciamento.
+---
 # Adur
 ## Nuvem Pública
 - Building Blocks AWS 

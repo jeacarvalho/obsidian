@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:56.993213+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: dependencia_sexo_maquina_masturbatoria
+    weight: 9
+    confidence: 0.98
+  - name: economia_dopamina_capitalismo_limbico
+    weight: 10
+    confidence: 0.97
+  - name: drogas_digitais_pornografia_online
+    weight: 8
+    confidence: 0.96
+  - name: facil_acesso_fator_risco_dependencia
+    weight: 9
+    confidence: 0.95
+  - name: hiperconsumo_compulsivo_epidemia_global
+    weight: 8
+    confidence: 0.94
+  - name: mortes_por_desespero_overdose_suicidio
+    weight: 7
+    confidence: 0.93
+  - name: contagio_social_internet_normalizacao_comportamento
+    weight: 7
+    confidence: 0.92
+  - name: adiccao_consumo_compulsivo_substancia_comportamento
+    weight: 6
+    confidence: 0.91
+  - name: impacto_ambiental_consumo_desenfreado
+    weight: 5
+    confidence: 0.9
+  - name: falta_significado_proposito_vida_moderna
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '305.4'
+  cdu_secondary:
+  - '159.942'
+  - '316.47'
+  - '613.8'
+  - '330.1'
+  cdu_description: 305.4 - Condições sociais das mulheres (aborda a vulnerabilidade e a experiência feminina no contexto da dependência e do consumo); 159.942 - Emoções e sentimentos (relacionado à compulsão, culpa, solidão); 316.47 - Mudança social e cultural (impacto da tecnologia e da economia de dopamina); 613.8 - Saúde mental e vícios (dependência, compulsão, drogas); 330.1 - Teorias econômicas (capitalismo límbico, economia de dopamina).
+---
 # Capítulo 1 – Nossas máquinas masturbatórias
 
 ## Entendendo o capítulo

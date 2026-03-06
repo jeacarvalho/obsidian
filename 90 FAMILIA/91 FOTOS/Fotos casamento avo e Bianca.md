@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:12.939198+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fotografia_casamento
+    weight: 10
+    confidence: 0.98
+  - name: registro_familiar
+    weight: 9
+    confidence: 0.95
+  - name: cerimonia_casamento
+    weight: 8
+    confidence: 0.9
+  - name: celebracao_familiar
+    weight: 7
+    confidence: 0.88
+  - name: relacionamento_avos
+    weight: 6
+    confidence: 0.85
+  - name: memoria_fotografica
+    weight: 7
+    confidence: 0.8
+  - name: evento_social
+    weight: 5
+    confidence: 0.75
+  - name: documentacao_visual
+    weight: 6
+    confidence: 0.7
+  - name: tradicao_familiar
+    weight: 5
+    confidence: 0.65
+  - name: alegria_casamento
+    weight: 5
+    confidence: 0.6
+  cdu_primary: '778.9'
+  cdu_secondary:
+  - '394.2'
+  - '305.4'
+  cdu_description: Fotografia de eventos sociais, especificamente casamentos, com foco no registro familiar e nas tradições.
+---
 Fotos casamento avo e Bianca
 
 ![img_20181013_200837.jpg](aa0e5fd4097d69d1d5007d839cf8738b.jpg)

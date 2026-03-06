@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:00.545550+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: linguagem_rust_preferida_desenvolvedores
+    weight: 10
+    confidence: 0.98
+  - name: performance_rust
+    weight: 9
+    confidence: 0.95
+  - name: seguranca_rust
+    weight: 9
+    confidence: 0.95
+  - name: confiabilidade_rust
+    weight: 9
+    confidence: 0.95
+  - name: conceitos_ownership_rust
+    weight: 8
+    confidence: 0.9
+  - name: compilador_rust_validador_codigo
+    weight: 8
+    confidence: 0.9
+  - name: rust_vs_pandas_manipulacao_dados
+    weight: 7
+    confidence: 0.85
+  - name: aws_lambdas_com_rust
+    weight: 7
+    confidence: 0.8
+  - name: execucao_codigo_rust_a_partir_binario
+    weight: 6
+    confidence: 0.75
+  - name: desenvolvimento_seguro_rust
+    weight: 7
+    confidence: 0.88
+  cdu_primary: '004.43'
+  cdu_secondary:
+  - '004.6'
+  - '004.7'
+  - '005.3'
+  - '005.8'
+  cdu_description: Programação de computadores; Linguagens de programação; Linguagens de programação de sistemas; Linguagens de programação de alto nível; Linguagens de programação de sistemas de tempo real; Linguagens de programação de sistemas de segurança; Linguagens de programação de sistemas de alto desempenho
+---
 - Linguagem de desenvolvimento mais amada pelos desenvolvedores que responderam pesquisa da stackoverflow
 - Performance, segurança e confiabilidade
 - tem conceitos importantes como ownership, compilador que é quase um validador de teu código

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:19.256891+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: projeto_social_infantil
+    weight: 10
+    confidence: 0.98
+  - name: reuniao_conselho_administrativo
+    weight: 9
+    confidence: 0.95
+  - name: gestao_financeira_projeto
+    weight: 8
+    confidence: 0.92
+  - name: voluntariado_apoio_social
+    weight: 7
+    confidence: 0.9
+  - name: aspectos_espirituais_projeto
+    weight: 6
+    confidence: 0.85
+  - name: regularizacao_legal_projeto
+    weight: 8
+    confidence: 0.93
+  - name: recrutamento_lideranca_projeto
+    weight: 7
+    confidence: 0.88
+  - name: relacionamento_igreja_projeto
+    weight: 7
+    confidence: 0.87
+  - name: contabilidade_projeto_igreja
+    weight: 6
+    confidence: 0.86
+  - name: divulgacao_projeto_comunitario
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '364.4'
+  cdu_secondary:
+  - 27-74
+  - '308'
+  cdu_description: Assistência social a crianças e jovens, com ênfase em projetos comunitários e religiosos, incluindo gestão e regularização.
+---
 reuniao conselho 20150614
 
 Dona Elsa e o proejto

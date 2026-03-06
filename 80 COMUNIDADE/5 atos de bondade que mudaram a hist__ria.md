@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:49.778724+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: atos_de_bondade_historicos
+    weight: 10
+    confidence: 0.98
+  - name: influencia_da_bondade_na_historia
+    weight: 9
+    confidence: 0.97
+  - name: jane_austen_salva_por_carta
+    weight: 8
+    confidence: 0.95
+  - name: anne_frank_ajuda_de_miep_gies
+    weight: 9
+    confidence: 0.96
+  - name: diario_de_anne_frank_publicacao
+    weight: 7
+    confidence: 0.93
+  - name: jesse_owens_ajuda_olimpica
+    weight: 8
+    confidence: 0.94
+  - name: dia_mundial_da_gentileza
+    weight: 6
+    confidence: 0.9
+  - name: resgate_de_criancas_doentes
+    weight: 7
+    confidence: 0.92
+  - name: perseguicao_nazista_e_refugio
+    weight: 8
+    confidence: 0.95
+  - name: impacto_literario_de_jane_austen
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '305.8'
+  cdu_secondary:
+  - '321.1'
+  - '821.111'
+  - 94(430)
+  - 94(492)
+  cdu_description: Este tópico abrange a história social, a influência de atos individuais na sociedade e eventos históricos específicos, incluindo perseguições e resgates. A inclusão de autores literários e eventos de guerra justifica as CDU secundárias.
+---
 5 atos de bondade que mudaram a [[história]]
 
 # 5 atos de bondade que mudaram a história

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:55.434336+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mentoria_versus_coaching
+    weight: 9
+    confidence: 0.9
+  - name: desenvolvimento_profissional_de_ti
+    weight: 8
+    confidence: 0.85
+  - name: preconceitos_inconscientes_em_mentoria
+    weight: 10
+    confidence: 0.95
+  - name: storytelling_para_perfil_profissional
+    weight: 7
+    confidence: 0.75
+  - name: papel_do_mentor_como_facilitador
+    weight: 8
+    confidence: 0.88
+  - name: auto_conhecimento_e_desenvolvimento_pessoal
+    weight: 9
+    confidence: 0.92
+  - name: habilidades_de_comunicacao_e_negociacao
+    weight: 7
+    confidence: 0.7
+  - name: perspectivas_de_carreira_e_transicao
+    weight: 8
+    confidence: 0.8
+  - name: impacto_de_vieses_de_genero_e_raca
+    weight: 10
+    confidence: 0.96
+  - name: aprendizado_experiencial_em_mentoria
+    weight: 9
+    confidence: 0.91
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '305.4'
+  - '305.8'
+  - '37.048'
+  cdu_description: Psicologia. Desenvolvimento pessoal e profissional. Mentoria e coaching. Vieses inconscientes. Gênero e raça na mentoria. Habilidades de comunicação e carreira.
+---
 ## 20251010 2o dia treinamento
 - Coach é o espelho, o mentor é o GPS
 	- Um reflete o outro a partir de perguntas, o outro encurta o caminho

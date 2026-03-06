@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:21.876640+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ateismo_de_c_s_lewis
+    weight: 10
+    confidence: 0.98
+  - name: desencanto_com_ateismo
+    weight: 9
+    confidence: 0.95
+  - name: critica_ao_racionalismo
+    weight: 8
+    confidence: 0.92
+  - name: limites_da_razao
+    weight: 8
+    confidence: 0.9
+  - name: desejo_humano_insatisfeito
+    weight: 7
+    confidence: 0.88
+  - name: busca_por_beleza
+    weight: 6
+    confidence: 0.85
+  - name: intuicao_e_sentimentos
+    weight: 7
+    confidence: 0.87
+  - name: cristianismo_como_sentido_da_vida
+    weight: 9
+    confidence: 0.96
+  - name: anelo_por_outro_mundo
+    weight: 7
+    confidence: 0.89
+  - name: perspectiva_de_c_s_lewis
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '111.1'
+  - '130.1'
+  - '201'
+  cdu_description: Teologia cristã; Filosofia da religião; Teoria do conhecimento; Metafísica
+---
 Lewis e Alexandre
 
 O compromisso contínuo de Lewis com o ateísmo, em 1920, baseava-se em sua crença de que estava certo, de que era uma “severidade saudável”, embora ele admitisse que oferecia uma visão “sombria e sem sentido” da vida. Ele considerava que a retidão intelectual do ateísmo excedia sua [[inadequação]] emocional e existencial. Lewis não considerava o ateísmo libertador ou excitante; parecia simplesmente tê-lo aceitado, sem entusiasmo, como única opção intelectual de um ser pensante – uma posição default, sem quaisquer virtudes ou graças particulares.

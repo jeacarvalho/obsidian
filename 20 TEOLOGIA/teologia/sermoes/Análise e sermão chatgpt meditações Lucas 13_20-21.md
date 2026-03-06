@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:04.708811+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: parabola_fermento_reino_deus
+    weight: 9
+    confidence: 0.98
+  - name: transformacao_dinamica_reino
+    weight: 8
+    confidence: 0.95
+  - name: simbolismo_fermento_biblia
+    weight: 7
+    confidence: 0.92
+  - name: teologia_reformada_soberania_deus
+    weight: 8
+    confidence: 0.9
+  - name: papel_mulheres_reino_deus
+    weight: 9
+    confidence: 0.97
+  - name: exegese_parabolas_jesus
+    weight: 7
+    confidence: 0.93
+  - name: contexto_historico_reino_deus
+    weight: 6
+    confidence: 0.88
+  - name: analise_comportamental_meditador
+    weight: 7
+    confidence: 0.91
+  - name: propostas_acao_discipulado
+    weight: 6
+    confidence: 0.85
+  - name: teologia_graca_eficaz
+    weight: 8
+    confidence: 0.9
+  cdu_primary: '230.9'
+  cdu_secondary:
+  - '226.5'
+  - '261.8'
+  - '305.4'
+  cdu_description: Teologia cristã; Teologia bíblica - Novo Testamento - Evangelho de Lucas; Teologia social - Relações de gênero; Teologia cristã - Doutrinas da salvação
+---
 #### Análise e sermão chatgpt meditações [[Lucas 13]]_20-21
 Muito bem, Karl. Abaixo está a análise detalhada solicitada, seguindo rigorosamente cada parte das instruções.
 

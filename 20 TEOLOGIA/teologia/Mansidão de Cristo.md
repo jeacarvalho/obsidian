@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:02.173438+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: caracteristicas_de_jesus_cristo
+    weight: 10
+    confidence: 0.98
+  - name: mansidao_biblica
+    weight: 9
+    confidence: 0.97
+  - name: humildade_de_cristo
+    weight: 8
+    confidence: 0.96
+  - name: gentileza_no_tratamento_de_outros
+    weight: 7
+    confidence: 0.95
+  - name: coragem_versus_covardia
+    weight: 6
+    confidence: 0.94
+  - name: manifestacoes_da_mansidao_de_cristo
+    weight: 8
+    confidence: 0.93
+  - name: ensinamentos_de_jesus_sobre_mansidao
+    weight: 7
+    confidence: 0.92
+  - name: interpretacao_de_mateus_5_5
+    weight: 6
+    confidence: 0.91
+  - name: relacao_entre_mansidao_e_autoridade
+    weight: 5
+    confidence: 0.9
+  - name: exemplo_de_paulo_apostolo
+    weight: 5
+    confidence: 0.89
+  cdu_primary: 27-23
+  cdu_secondary:
+  - '232.9'
+  - '241.4'
+  cdu_description: Teologia cristã - Jesus Cristo - Vida e obra; Ética cristã - Virtudes
+---
 # The Character of [[Jesus]]: Meekness and Humility
 
 In biblical usage, meekness means gentleness, caring, lack of contentiousness. It is not mere submission to injustice out of fear, weakness or lack of strength of moral character.**

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T21:56:42.848398+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: educacao_crista
+    weight: 10
+    confidence: 0.98
+  - name: principios_educacionais_cristaos
+    weight: 9
+    confidence: 0.95
+  - name: metodologia_ensino_cristao
+    weight: 8
+    confidence: 0.92
+  - name: formacao_carater_cristao
+    weight: 7
+    confidence: 0.9
+  - name: influencia_fe_educacao
+    weight: 6
+    confidence: 0.88
+  - name: papel_familia_educacao_crista
+    weight: 5
+    confidence: 0.85
+  - name: desenvolvimento_espiritual_estudantes
+    weight: 7
+    confidence: 0.87
+  - name: conteudo_curriculo_cristao
+    weight: 6
+    confidence: 0.86
+  - name: evangelizacao_contexto_educacional
+    weight: 5
+    confidence: 0.84
+  - name: eficacia_educacao_religiosa
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '268.6'
+  cdu_secondary:
+  - '268.4'
+  - '268.8'
+  cdu_description: Educação religiosa cristã; Métodos e meios de ensino; Ensino religioso em geral; Ensino religioso em escolas e instituições de ensino
+---
 Educação cristã
 
 **Depender do papel indispensável do Espirito Santo para iluminar nossas mentes e despertar o amor pela [[verdade]] bíblica**

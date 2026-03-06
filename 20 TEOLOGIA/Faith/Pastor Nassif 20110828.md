@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:11.120324+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: evangelizacao_discipulos
+    weight: 10
+    confidence: 0.98
+  - name: poder_autoridade_jesus
+    weight: 9
+    confidence: 0.95
+  - name: missao_pregacao_evangelho
+    weight: 9
+    confidence: 0.97
+  - name: estilo_vida_simples_missionario
+    weight: 8
+    confidence: 0.92
+  - name: cura_expulsao_demonios
+    weight: 8
+    confidence: 0.96
+  - name: obediencia_fe_jesus
+    weight: 7
+    confidence: 0.93
+  - name: amor_testemunho_cristao
+    weight: 7
+    confidence: 0.9
+  - name: reino_deus_chegada
+    weight: 6
+    confidence: 0.88
+  - name: oracao_familia_proximo
+    weight: 6
+    confidence: 0.85
+  - name: disseminacao_semente_evangelica
+    weight: 5
+    confidence: 0.8
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '232.9'
+  - '266'
+  cdu_description: Novo Testamento (Evangelhos e Atos), Cristologia, Missões
+---
 Pastor Nassif 20110828
 
 Lucas 8

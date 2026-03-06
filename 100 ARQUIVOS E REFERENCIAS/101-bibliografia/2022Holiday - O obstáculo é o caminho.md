@@ -2,7 +2,48 @@
 created: 2024-02-13T11:58:34 (UTC -03:00)
 tags: []
 source: https://d3iqo9kw2lsf1n.cloudfront.net/static/kp/2.54.00/6a7dbe98ae2b/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:56.927182+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: resiliencia_emocional
+    weight: 10
+    confidence: 0.98
+  - name: transformacao_de_obstaculos
+    weight: 9
+    confidence: 0.97
+  - name: desenvolvimento_pessoal
+    weight: 8
+    confidence: 0.96
+  - name: percepcao_e_acao
+    weight: 7
+    confidence: 0.95
+  - name: controle_das_emocoes
+    weight: 7
+    confidence: 0.94
+  - name: autodisciplina
+    weight: 8
+    confidence: 0.93
+  - name: mindfulness_e_meditacao
+    weight: 6
+    confidence: 0.92
+  - name: superacao_de_desafios
+    weight: 9
+    confidence: 0.91
+  - name: gestao_de_paixoes
+    weight: 7
+    confidence: 0.9
+  - name: perspectiva_e_objetividade
+    weight: 8
+    confidence: 0.89
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '159.943'
+  - '159.944'
+  - '159.97'
+  cdu_description: Psicologia da vontade e da motivação; Psicologia da emoção; Psicologia da personalidade e do comportamento
 ---
 
 # O obstáculo é o caminho: A arte de transformar provações em triunfo

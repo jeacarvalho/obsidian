@@ -1,4 +1,45 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:22.917493+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: melhores_praticas_agile
+    weight: 10
+    confidence: 0.98
+  - name: resolucao_de_problemas_complexos
+    weight: 9
+    confidence: 0.95
+  - name: analise_de_sistemas
+    weight: 8
+    confidence: 0.92
+  - name: questionamento_de_assuncoes
+    weight: 7
+    confidence: 0.9
+  - name: experimentacao_iterativa
+    weight: 8
+    confidence: 0.93
+  - name: aprendizagem_continua
+    weight: 7
+    confidence: 0.88
+  - name: desenvolvimento_de_solucoes_contextuais
+    weight: 6
+    confidence: 0.85
+  - name: gestao_de_mudancas_incrementais
+    weight: 7
+    confidence: 0.87
+  - name: compreensao_de_beneficios
+    weight: 5
+    confidence: 0.8
+  - name: analise_de_causas_multiplas
+    weight: 6
+    confidence: 0.82
+  cdu_primary: '005.8'
+  cdu_secondary:
+  - 004.416.3
+  - '005.32'
+  cdu_description: Gestão de sistemas de informação; Gestão de projetos; Gestão da qualidade
+---
       Porque não poderíamos adotar isso na análise da situação atual da igreja? Seven Agile Best Practices | esther derby associatesundefined inc.
     
 

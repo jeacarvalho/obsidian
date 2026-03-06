@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.903986+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teoria_dos_jogos
+    weight: 10
+    confidence: 1.0
+  - name: jogos_de_empresa
+    weight: 8
+    confidence: 0.9
+  - name: estrategia_empresarial
+    weight: 9
+    confidence: 0.95
+  - name: tomada_de_decisao
+    weight: 7
+    confidence: 0.85
+  - name: politica_comercial
+    weight: 6
+    confidence: 0.75
+  - name: oligopolio
+    weight: 6
+    confidence: 0.7
+  - name: contratos_estrategicos
+    weight: 5
+    confidence: 0.65
+  - name: leiloes
+    weight: 7
+    confidence: 0.8
+  - name: economia
+    weight: 8
+    confidence: 0.9
+  - name: gestao
+    weight: 7
+    confidence: 0.85
+  cdu_primary: '330.1'
+  cdu_secondary:
+  - '338.5'
+  - '339.1'
+  cdu_description: Economia. Teoria dos jogos aplicada à economia, gestão, estratégia empresarial, oligopólio, contratos e leilões.
+---
 # Bibliografia
 ## BÁSICA
 - Livro disciplina: [[TDJ_ebook.pdf]]

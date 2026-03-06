@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:27.447682+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: obediencia_a_deus
+    weight: 10
+    confidence: 0.98
+  - name: falar_demais_e_pecado
+    weight: 9
+    confidence: 0.97
+  - name: promessas_impensadas
+    weight: 8
+    confidence: 0.96
+  - name: tema_a_deus
+    weight: 10
+    confidence: 0.99
+  - name: injustica_social
+    weight: 9
+    confidence: 0.95
+  - name: corrupcao_e_exploracao
+    weight: 8
+    confidence: 0.94
+  - name: amor_ao_dinheiro
+    weight: 9
+    confidence: 0.96
+  - name: insatisfacao_com_riqueza
+    weight: 8
+    confidence: 0.95
+  - name: aproveitar_o_presente
+    weight: 10
+    confidence: 0.98
+  - name: arte_de_viver
+    weight: 7
+    confidence: 0.93
+  cdu_primary: '226.7'
+  cdu_secondary:
+  - '230'
+  - '316.3'
+  - '330.1'
+  - '364'
+  cdu_description: Teologia bíblica (Eclesiastes), Ética cristã, Sociologia da religião, Economia e sociedade, Justiça social
+---
 Eclesiastes 5:1 (Biblia A Mensagem)
 DEUS ESTÁ NO COMANDO, NÃO VOCÊ!
 

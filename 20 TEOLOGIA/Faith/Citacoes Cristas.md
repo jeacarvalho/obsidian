@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:13.486949+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cristianismo_profundo
+    weight: 10
+    confidence: 0.98
+  - name: humildade_crista
+    weight: 9
+    confidence: 0.95
+  - name: impacto_capitalismo_familia
+    weight: 8
+    confidence: 0.92
+  - name: teologia_cs_lewis
+    weight: 7
+    confidence: 0.9
+  - name: renascimento_espiritual
+    weight: 8
+    confidence: 0.93
+  - name: alegria_em_meio_ao_sofrimento
+    weight: 9
+    confidence: 0.96
+  - name: beleza_e_verdade_apologetica
+    weight: 8
+    confidence: 0.94
+  - name: transformacao_cultural_evangelho
+    weight: 9
+    confidence: 0.97
+  - name: espirit_publico_cristao
+    weight: 7
+    confidence: 0.91
+  - name: natureza_de_deus_trindade
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '2'
+  cdu_secondary:
+  - '27'
+  - '230'
+  - '305.8'
+  - '330.1'
+  - '316.3'
+  cdu_description: Religião. Teologia. Cristianismo. História e geografia da igreja. Doutrina cristã. Sociologia da religião. Economia e sociedade.
+---
 Citacoes Cristas
 
 “Quando  entro num auditório e está lá aquela grande multidão, para me proteger da vaidade que é tipica do homem digo: Senhor, estou em [[união mistica]] contigo desde o batismo, esta é a tua entrada triunfal e eu sou teu jumentinho"  - D. Helder Câmara (https://x.com/omaltrapilho/status/1712313420563767639?s=20)

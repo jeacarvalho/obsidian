@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:20.417563+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lava_jato_danos_construtoras
+    weight: 9
+    confidence: 0.9
+  - name: manipulacao_tecnico_linguistica
+    weight: 8
+    confidence: 0.85
+  - name: impacto_funcionarios_terceirizados
+    weight: 7
+    confidence: 0.75
+  - name: critica_juiz_moro_geracao
+    weight: 6
+    confidence: 0.7
+  - name: romantismo_afirmacao_verdade
+    weight: 5
+    confidence: 0.65
+  - name: conversao_cristo_neuman_behemoth
+    weight: 7
+    confidence: 0.78
+  - name: manipulacao_capital_intelectual_exterior
+    weight: 8
+    confidence: 0.82
+  - name: limpeza_necessaria_custos_empresas
+    weight: 8
+    confidence: 0.83
+  - name: economia_brasileira_espinha_dorsal
+    weight: 9
+    confidence: 0.88
+  - name: cartel_empresas_infraestrutura
+    weight: 9
+    confidence: 0.89
+  cdu_primary: '338.2'
+  cdu_secondary:
+  - '323.2'
+  - '305.4'
+  - '343.1'
+  cdu_description: 338.2 - Intervenção do Estado na economia; 323.2 - Ação política; 305.4 - Mulheres na sociedade; 343.1 - Processo penal
+---
 Descaminhos da [[virtude]]
 
 O próprio texto apresenta um exemplo daquilo que descreve: a possibilidade de manipular através de "dispositivos técnico-linguísticos"

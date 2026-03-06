@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:19.178080+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: agir_silencioso_deus
+    weight: 8
+    confidence: 0.9
+  - name: importancia_oracao
+    weight: 7
+    confidence: 0.85
+  - name: forcas_despercebidas
+    weight: 6
+    confidence: 0.75
+  - name: ira_divina
+    weight: 9
+    confidence: 0.95
+  - name: justica_divina
+    weight: 9
+    confidence: 0.95
+  - name: refugio_em_deus
+    weight: 8
+    confidence: 0.9
+  - name: reconhecimento_divino
+    weight: 7
+    confidence: 0.85
+  - name: conspiracoes_contra_deus
+    weight: 8
+    confidence: 0.9
+  - name: destruicao_de_ninive
+    weight: 9
+    confidence: 0.95
+  - name: mentiras_e_enganos
+    weight: 7
+    confidence: 0.8
+  cdu_primary: '225.4'
+  cdu_secondary: []
+  cdu_description: Comentário sobre o livro de Naum, com foco na ira divina contra a cidade de Nínive e a natureza de Deus como refúgio.
+---
 Naum The Message
 
 A maneira característica de Deus agir é no silêncio e por meio da oração. “Estou falando”, diz o poeta George Meredith, “das forças despercebidas que fendem o coração e fazem o calçamento sacudir — forças que se escondem em pessoas pacíficas e nas plantas”. Se estamos condicionados a reagir apenas a tudo que faz barulho e a coisas grandes, vamos perder a palavra e a ação de Deus.

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:34.541455+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pregacao_paulo_barnabe_iconio
+    weight: 9
+    confidence: 0.98
+  - name: conversao_judeus_gregos
+    weight: 8
+    confidence: 0.95
+  - name: milagres_prodigios_paulo_barnabe
+    weight: 8
+    confidence: 0.96
+  - name: curacao_homem_paralitico
+    weight: 7
+    confidence: 0.97
+  - name: apedrejamento_paulo_iconio
+    weight: 9
+    confidence: 0.98
+  - name: perseucao_cristaos_primitivos
+    weight: 7
+    confidence: 0.94
+  - name: fortalecimento_discipulos
+    weight: 6
+    confidence: 0.93
+  - name: tribulacoes_reino_deus
+    weight: 7
+    confidence: 0.95
+  - name: ordenacao_presbiteros
+    weight: 8
+    confidence: 0.96
+  - name: oracao_jejum_igreja_primitiva
+    weight: 6
+    confidence: 0.92
+  cdu_primary: 27-29
+  cdu_secondary:
+  - 27-30
+  - '235.3'
+  cdu_description: História do cristianismo primitivo, com foco nas viagens missionárias de Paulo e Barnabé, suas pregações, milagres, perseguições e organização das primeiras igrejas.
+---
 Paulo e Barnabé em Icônio
 
 141 Em Icônio, Paulo e Barnabé entraram juntos na sinagoga judaica e falaram de tal modo, que veio a crer grande multidão, tanto de judeus como de gregos.

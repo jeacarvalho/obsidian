@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:06.853798+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: acoes_de_gracas_na_oracao
+    weight: 10
+    confidence: 0.98
+  - name: gratidao_a_deus
+    weight: 9
+    confidence: 0.97
+  - name: confissao_a_deus
+    weight: 8
+    confidence: 0.95
+  - name: generosidade_e_doacao
+    weight: 7
+    confidence: 0.93
+  - name: oracao_intercessoria
+    weight: 7
+    confidence: 0.92
+  - name: santificacao_pela_palavra_e_oracao
+    weight: 6
+    confidence: 0.9
+  - name: recebimento_de_alimentos_com_gratidao
+    weight: 6
+    confidence: 0.88
+  - name: evitar_impudicicia_e_cobica
+    weight: 5
+    confidence: 0.85
+  - name: procissao_religiosa
+    weight: 5
+    confidence: 0.8
+  - name: paz_de_deus_em_cristo
+    weight: 5
+    confidence: 0.78
+  cdu_primary: '242.3'
+  cdu_secondary: []
+  cdu_description: Ações de graças, gratidão, oração, confissão, generosidade, santificação, vida cristã.
+---
 Ações de graças
 
 [[Esdras]] 10:11 (Bíblia Almeida Strong)

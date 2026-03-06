@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:57.639737+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cristianismo_teologia_cs_lewis
+    weight: 10
+    confidence: 0.98
+  - name: lei_moral_natureza_humana
+    weight: 9
+    confidence: 0.97
+  - name: verdade_doutrinaria_crista
+    weight: 8
+    confidence: 0.96
+  - name: conflito_instintos_lei_moral
+    weight: 7
+    confidence: 0.95
+  - name: reconhecimento_pecado_individual_sistemico
+    weight: 7
+    confidence: 0.94
+  - name: dignidade_humana_imortalidade
+    weight: 8
+    confidence: 0.93
+  - name: justica_versus_interesse_pessoal
+    weight: 6
+    confidence: 0.92
+  - name: progresso_moral_mudanca_para_melhor
+    weight: 7
+    confidence: 0.91
+  - name: comparacao_convencoes_verdades_universais
+    weight: 6
+    confidence: 0.9
+  - name: batalha_religiosa_coracao_humano
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '230'
+  cdu_secondary:
+  - '111.85'
+  - 27-29
+  cdu_description: Teologia cristã; Doutrina cristã; Ética; Filosofia da religião; História e geografia da igreja cristã
+---
 ### Cristianismo puro e simples (Clássicos C. S. Lewis)
 
 Nota | Local: 125

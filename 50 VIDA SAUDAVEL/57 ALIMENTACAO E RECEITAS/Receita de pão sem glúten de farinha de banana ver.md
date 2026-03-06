@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:51.423550+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: receita_pao_sem_gluten
+    weight: 10
+    confidence: 0.98
+  - name: farinha_banana_verde
+    weight: 10
+    confidence: 0.97
+  - name: amido_resistente
+    weight: 9
+    confidence: 0.95
+  - name: saude_intestinal
+    weight: 8
+    confidence: 0.93
+  - name: controle_glicose
+    weight: 8
+    confidence: 0.92
+  - name: reducao_carga_glicemica
+    weight: 7
+    confidence: 0.9
+  - name: beneficios_banana_verde
+    weight: 7
+    confidence: 0.88
+  - name: ingredientes_pao_saudavel
+    weight: 6
+    confidence: 0.85
+  - name: culinaria_saudavel
+    weight: 6
+    confidence: 0.8
+  - name: alimentacao_sem_gluten
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '641.5'
+  cdu_secondary:
+  - '613.2'
+  - '616.394'
+  cdu_description: '641.5: Culinária, cozinha, preparação de alimentos. 613.2: Dietética, regimes alimentares. 616.394: Diabetes mellitus.'
+---
 Receita de pão sem glúten de farinha de banana verde | Cura pela Natureza.com.br
 
 # Receita de pão sem glúten de farinha de banana verde

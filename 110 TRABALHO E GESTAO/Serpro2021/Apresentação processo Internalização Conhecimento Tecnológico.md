@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:55.982256+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_conhecimento_tecnologico
+    weight: 10
+    confidence: 0.98
+  - name: internalizacao_novas_tecnologias
+    weight: 9
+    confidence: 0.97
+  - name: compartilhamento_conhecimento
+    weight: 9
+    confidence: 0.96
+  - name: colaboracao_empresarial
+    weight: 8
+    confidence: 0.95
+  - name: reducao_debito_tecnico
+    weight: 7
+    confidence: 0.94
+  - name: agilidade_desenvolvimento
+    weight: 7
+    confidence: 0.93
+  - name: previsibilidade_projetos
+    weight: 6
+    confidence: 0.92
+  - name: documentacao_tecnologica
+    weight: 6
+    confidence: 0.91
+  - name: ferramentas_gestao_conhecimento
+    weight: 5
+    confidence: 0.9
+  - name: anticipacao_tendencias_tecnologicas
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '004.007'
+  cdu_secondary:
+  - '005.3'
+  - '004.7'
+  - '001.8'
+  cdu_description: Gestão do conhecimento tecnológico e sua internalização em organizações, com foco em colaboração, compartilhamento e antecipação de tendências para otimizar o desenvolvimento e reduzir o débito técnico.
+---
 ##### Motivação
 - Velocidade de demandas + Velocidade de novas tecnologias
 - Novos cliente + Novas tecnologias

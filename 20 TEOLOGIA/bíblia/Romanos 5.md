@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:35.658493+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: paz_com_deus
+    weight: 10
+    confidence: 0.98
+  - name: graca_divina
+    weight: 9
+    confidence: 0.97
+  - name: esperanca_na_gloria_de_deus
+    weight: 9
+    confidence: 0.96
+  - name: perseveranca_em_tribulacoes
+    weight: 8
+    confidence: 0.95
+  - name: experiencia_crista
+    weight: 7
+    confidence: 0.94
+  - name: amor_deus_derramado
+    weight: 8
+    confidence: 0.93
+  - name: espirito_santo_consolador
+    weight: 8
+    confidence: 0.92
+  - name: discipulado_transformador
+    weight: 7
+    confidence: 0.91
+  - name: reconciliacao_com_deus
+    weight: 9
+    confidence: 0.9
+  - name: justificacao_pela_fe
+    weight: 9
+    confidence: 0.89
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '232.9'
+  - '234.2'
+  - '248.3'
+  cdu_description: Teologia cristã; Cristologia; Espírito Santo; Vida cristã
+---
 Justificados, pois, mediante a fé, temos **paz** com Deus por meio do nosso Senhor Jesus Cristo, pelo qual obtivemos também acesso, pela fé, a esta **graça** na qual estamos firmes; e nos **gloriamos na esperança da glória de Deus**. E não somente isto, mas também nos gloriamos nas tribulações, sabendo que a tribulação produz [[perseverança]], a perseverança produz [[experiência]] e a experiência produz esperança. Ora, a esperança não nos deixa decepcionados, porque o amor de Deus é derramado em nosso coração pelo [[Espírito Santo]], que nos foi dado. Romanos 5:1‭-‬5 NAA
 - Paz com Deus! Eu não sei como não explodimos com essa afirmação! O que falta é trazer Deus de volta, dar importância a Ele novamente!
 - Tribulação -> [[experiência]] -> [[esperança]] -> amor de Deus

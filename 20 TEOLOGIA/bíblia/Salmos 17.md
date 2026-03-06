@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:22.872525+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: integridade_pessoal_e_exame_de_consciencia
+    weight: 9
+    confidence: 0.9
+  - name: questionamentos_sobre_fidelidade_biblica
+    weight: 8
+    confidence: 0.85
+  - name: providencia_divina_e_protecao
+    weight: 10
+    confidence: 0.95
+  - name: invocacao_e_resposta_divina
+    weight: 7
+    confidence: 0.8
+  - name: comparacao_entre_vida_terrena_e_espiritual
+    weight: 9
+    confidence: 0.92
+  - name: valorizacao_de_tesouros_celestiais
+    weight: 8
+    confidence: 0.88
+  - name: satisfacao_na_presenca_divina
+    weight: 7
+    confidence: 0.75
+  - name: interpretacao_de_textos_sagrados
+    weight: 6
+    confidence: 0.7
+  - name: seguranca_em_deus_simbolizada_nas_asas
+    weight: 8
+    confidence: 0.82
+  - name: distincao_entre_bens_mundanos_e_divinos
+    weight: 9
+    confidence: 0.91
+  cdu_primary: '224.9'
+  cdu_secondary:
+  - '230'
+  - '240'
+  cdu_description: Teologia bíblica; Livros proféticos; Salmos; Doutrina cristã; Vida e prática cristãs
+---
 Sondas o meu coração, de noite me visitas, provas-me no fogo e não encontras em mim nenhuma iniquidade; a minha boca não transgride.
 Salmos 17:3 NAA
 - Davi mentiu? Porque Betseba mostra o coração dele

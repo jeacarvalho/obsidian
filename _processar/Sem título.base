@@ -1,0 +1,21 @@
+properties:
+  note.topic_classification:
+    displayName: topic_classification
+views:
+  - type: table
+    name: Tabela
+  - type: table
+    name: CDU
+    order:
+      - file.name
+      - topic_classification
+      - topic_classification.cdu_primary
+    sort:
+      - property: topic_classification:cdu_primary
+        direction: ASC
+      - property: topic_classification
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.topic_classification: 591

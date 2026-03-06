@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:10.156077+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: adoracao_corporativa_elementos_biblicos
+    weight: 10
+    confidence: 0.98
+  - name: confissao_atributos_de_deus
+    weight: 8
+    confidence: 0.95
+  - name: exaltacao_cristo_redentor_rei
+    weight: 9
+    confidence: 0.96
+  - name: pregacao_plano_redentor_divino
+    weight: 10
+    confidence: 0.97
+  - name: oracao_fervorosa_adoracao
+    weight: 7
+    confidence: 0.94
+  - name: escritura_governo_adoracao_publica
+    weight: 9
+    confidence: 0.96
+  - name: revelacao_divina_conteudo_adoracao
+    weight: 8
+    confidence: 0.95
+  - name: teologia_adoracao_biblica
+    weight: 7
+    confidence: 0.93
+  - name: liturgia_crista_fundamentos
+    weight: 6
+    confidence: 0.92
+  - name: teologia_apocalipse_adoracao
+    weight: 5
+    confidence: 0.9
+  cdu_primary: '264.09'
+  cdu_secondary:
+  - '230'
+  - '220.1'
+  cdu_description: A CDU 264 trata da Liturgia e Culto. O subgrupo 264.09 foca em aspectos históricos e teológicos do culto, o que se alinha com a discussão sobre os elementos bíblicos e a autoridade das Escrituras na adoração corporativa. A CDU 230 refere-se à Teologia Sistemática e a 220.1 à Introdução à Bíblia, que são relevantes para os fundamentos teológicos e bíblicos abordados.
+---
 Obviously Scripture does not provide a detailed liturgy for our corporate worship, but it does indicate various elements that should be included:
 
 - We should corporately*** confess the attributes of God,*** such [[Apocalipse 4]]Rev. 4:10–11).

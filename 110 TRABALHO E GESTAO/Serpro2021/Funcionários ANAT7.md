@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:48.635366+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cadastro_servidores_publicos
+    weight: 10
+    confidence: 0.98
+  - name: identificacao_funcional_servidor
+    weight: 9
+    confidence: 0.97
+  - name: dados_pessoais_servidores
+    weight: 8
+    confidence: 0.96
+  - name: contrato_clt_indeterminado
+    weight: 7
+    confidence: 0.95
+  - name: matricula_sgp
+    weight: 6
+    confidence: 0.94
+  - name: matricula_siape
+    weight: 6
+    confidence: 0.93
+  - name: cpf_servidor
+    weight: 5
+    confidence: 0.92
+  - name: nome_servidor
+    weight: 5
+    confidence: 0.91
+  - name: nivel_servidor
+    weight: 5
+    confidence: 0.9
+  - name: data_entrada_servidor
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '351.1'
+  cdu_secondary: []
+  cdu_description: Administração pública. Administração geral. Serviço público. Funcionários públicos.
+---
 | Matrícula SGP | Matrícula SIAPE | CPF            | Nome                           | Nivel  | Ano entrada |
 | ------------- | --------------- | -------------- | ------------------------------ | ------ | ----------- |
 | 21028290      | 1458310-1       | 015.533.607-02 | JOSE EDUARDO ALVES DE CARVALHO |        |             |

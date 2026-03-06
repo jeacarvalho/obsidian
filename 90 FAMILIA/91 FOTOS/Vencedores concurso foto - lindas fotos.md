@@ -2,7 +2,48 @@
 created: 2021-11-10T10:31:29 (UTC -03:00)
 tags: []
 source: https://www.bbc.com/portuguese/internacional-59232585?at_medium=RSS&at_campaign=KARANGA
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:07.451851+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: aumento_nivel_mar
+    weight: 10
+    confidence: 0.98
+  - name: aquecimento_global
+    weight: 9
+    confidence: 0.97
+  - name: fotografia_ambiental
+    weight: 8
+    confidence: 0.96
+  - name: erosao_costeira
+    weight: 7
+    confidence: 0.95
+  - name: mudancas_climaticas
+    weight: 9
+    confidence: 0.94
+  - name: africa_ocidental
+    weight: 6
+    confidence: 0.93
+  - name: desenvolvimento_sustentavel
+    weight: 7
+    confidence: 0.92
+  - name: fotografia_documental
+    weight: 8
+    confidence: 0.91
+  - name: impacto_ambiental
+    weight: 8
+    confidence: 0.9
+  - name: fotografia_social
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '304.2'
+  cdu_secondary:
+  - '551.583'
+  - '77.04'
+  - '338.47'
+  cdu_description: O tema principal aborda o impacto do aquecimento global e do aumento do nível do mar, evidenciado por uma fotografia premiada. A CDU 304.2 (Meio ambiente e sua conservação) abrange as questões ambientais gerais. A CDU 551.583 (Mudanças climáticas) é relevante para o aquecimento global. A CDU 77.04 (Fotografia artística e documental) se aplica à natureza da obra premiada. A CDU 338.47 (Serviços de transporte e comunicação) pode ser tangencialmente relacionada à erosão costeira e seus impactos em infraestruturas, embora não seja o foco principal. Outras CDUs poderiam ser consideradas dependendo da ênfase dada a aspectos específicos, como a fotografia social ou o desenvolvimento sustentável.
 ---
 
 # Meio ambiente: foto do aumento do nível do mar com aquecimento global vence prêmio Fotógrafo Ambiental do Ano - BBC News Brasil

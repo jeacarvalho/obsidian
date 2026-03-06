@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:59.111718+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: comunicacao_eficaz
+    weight: 10
+    confidence: 0.98
+  - name: desenvolvimento_pessoal
+    weight: 9
+    confidence: 0.95
+  - name: autoconhecimento_comunicacao
+    weight: 9
+    confidence: 0.96
+  - name: lideranca_influente
+    weight: 10
+    confidence: 0.97
+  - name: influencia_positiva
+    weight: 8
+    confidence: 0.92
+  - name: conexao_emocional
+    weight: 8
+    confidence: 0.93
+  - name: identificacao_interpessoal
+    weight: 7
+    confidence: 0.9
+  - name: mapeamento_de_persona
+    weight: 6
+    confidence: 0.85
+  - name: comunicacao_assertiva
+    weight: 9
+    confidence: 0.94
+  - name: empatia_nas_relacoes
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '159.942'
+  cdu_secondary:
+  - '305.8'
+  - '316.46'
+  cdu_description: Psicologia da comunicação e da influência; Psicologia social; Psicologia da liderança
+---
 # Módulo 1: Comunicar para quê? > Aula Expositiva com Q&A
 - pensar bem para comunicar bem.
 	- Boa comunicação vai pra além da eloquência

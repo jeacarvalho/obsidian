@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:14.315153+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sabedoria_divina
+    weight: 10
+    confidence: 0.98
+  - name: integridade_pessoal
+    weight: 9
+    confidence: 0.95
+  - name: busca_por_deus
+    weight: 9
+    confidence: 0.96
+  - name: aplicacao_no_estudo_da_palavra
+    weight: 8
+    confidence: 0.92
+  - name: confianca_em_deus
+    weight: 8
+    confidence: 0.9
+  - name: meditacao_e_reflexao
+    weight: 7
+    confidence: 0.93
+  - name: autanalise_antes_da_comunicacao
+    weight: 7
+    confidence: 0.91
+  - name: controle_da_linguagem
+    weight: 6
+    confidence: 0.88
+  - name: virtudes_cristas
+    weight: 6
+    confidence: 0.85
+  - name: justica_divina
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '2'
+  cdu_secondary:
+  - '24'
+  - '23'
+  - '22'
+  cdu_description: Religião. Teologia. Moral. Vida religiosa. Meditações. Sabedoria. Integridade. Busca espiritual. Comunicação.
+---
 meditacoes
 
 [[Provérbios 7]] - guardar a lei no coracao. Viver por ela. Escrever na tabua do coracao

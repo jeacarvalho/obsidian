@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:30.922003+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_critica_de_capitulo
+    weight: 9
+    confidence: 0.98
+  - name: resumo_detalhado_analitico
+    weight: 8
+    confidence: 0.97
+  - name: sintese_de_conteudo_capitulo
+    weight: 8
+    confidence: 0.96
+  - name: avaliacao_de_argumentacao
+    weight: 7
+    confidence: 0.95
+  - name: identificacao_de_pontos_fortes_fragilidades
+    weight: 7
+    confidence: 0.94
+  - name: dialogo_com_outras_obras_autores
+    weight: 8
+    confidence: 0.95
+  - name: comparacao_de_abordagens_estudiosos
+    weight: 7
+    confidence: 0.94
+  - name: relevancia_contemporanea_temas
+    weight: 9
+    confidence: 0.97
+  - name: influencia_em_debates_profissionais
+    weight: 7
+    confidence: 0.95
+  - name: aplicacao_pratica_sociedade
+    weight: 8
+    confidence: 0.96
+  cdu_primary: '001.8'
+  cdu_secondary:
+  - '001.4'
+  - '005.32'
+  cdu_description: Métodos de estudo e trabalho; Metodologia da pesquisa científica; Gestão de projetos
+---
 <Apresentação>
 Seu Nome: Pascal
 Sua Especialidade: Você é um especialista em projetos de gitops, com larga experiência em criar processos que auxiliam na automação de desenvolvimento de soluções

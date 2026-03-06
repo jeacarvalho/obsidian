@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:04.933815+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: identidade_de_genero_infantil
+    weight: 10
+    confidence: 0.98
+  - name: igreja_anglicana_diretrizes_escolas
+    weight: 9
+    confidence: 0.97
+  - name: exploracao_identidade_genero_criancas
+    weight: 9
+    confidence: 0.96
+  - name: combate_ao_bullying_lgbtfobia
+    weight: 8
+    confidence: 0.95
+  - name: teologia_crista_amor_incondicional
+    weight: 7
+    confidence: 0.93
+  - name: orientacao_sexual_aceitacao_diferenca
+    weight: 7
+    confidence: 0.92
+  - name: brincadeira_exploracao_identidade_infantil
+    weight: 6
+    confidence: 0.9
+  - name: criticas_neutralidade_genero_escolas
+    weight: 6
+    confidence: 0.88
+  - name: sexo_biologico_vs_genero_infantil
+    weight: 5
+    confidence: 0.85
+  - name: liberdade_expressao_professores_escolas
+    weight: 5
+    confidence: 0.83
+  cdu_primary: 37.015.31
+  cdu_secondary:
+  - '283'
+  - '305.8'
+  - '396.1'
+  cdu_description: Educação infantil e primária; desenvolvimento da personalidade e da identidade; educação sexual e de gênero; Igreja Anglicana; sociologia da religião; estudos de gênero.
+---
 fonte: https://oglobo.globo.com/sociedade/religiao/igreja-anglicana-pede-que-escolas-deixem-criancas-explorarem-identidades-de-genero-22062596
 
 # Igreja Anglicana pede que escolas deixem crianças explorarem identidades de gênero - Jornal O Globo

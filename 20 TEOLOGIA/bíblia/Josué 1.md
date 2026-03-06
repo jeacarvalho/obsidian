@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:40:03.301914+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: confianca_em_deus_em_momentos_de_transicao
+    weight: 10
+    confidence: 0.98
+  - name: lideranca_e_sucessao_biblica
+    weight: 9
+    confidence: 0.95
+  - name: obediencia_a_lei_divina
+    weight: 8
+    confidence: 0.92
+  - name: meditacao_na_palavra_de_deus
+    weight: 8
+    confidence: 0.9
+  - name: coragem_e_forca_em_face_de_desafios
+    weight: 7
+    confidence: 0.88
+  - name: contentamento_e_ausencia_de_avareza
+    weight: 7
+    confidence: 0.85
+  - name: transformacao_pessoal_atraves_da_fe
+    weight: 6
+    confidence: 0.8
+  - name: testemunho_cristao_e_influencia
+    weight: 6
+    confidence: 0.78
+  - name: promessas_divinas_de_sustento
+    weight: 5
+    confidence: 0.75
+  - name: sucesso_atraves_da_sabedoria_biblica
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '224.1'
+  cdu_secondary:
+  - '248.1'
+  - '241.5'
+  cdu_description: Livros históricos do Antigo Testamento (Josué), Vida cristã (Prática), Ética cristã (Moral)
+---
 Josué 1:5 (RA Strong's)
 
 5 Ninguém te poderá resistir todos os dias da tua vida; como fui com Moisés, assim serei contigo; não te deixarei, nem te desampararei.

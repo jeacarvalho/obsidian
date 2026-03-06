@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:27.041085+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: filho_da_paz_eleitos
+    weight: 7
+    confidence: 0.85
+  - name: reino_de_deus_proximo
+    weight: 8
+    confidence: 0.9
+  - name: arrependimento_tiro_sidom
+    weight: 6
+    confidence: 0.75
+  - name: responsabilidade_enviados_jesus
+    weight: 9
+    confidence: 0.92
+  - name: alegria_nome_arrolado_ceus
+    weight: 8
+    confidence: 0.88
+  - name: caminho_para_deus_jesus
+    weight: 10
+    confidence: 0.98
+  - name: quem_e_meu_proximo_qualquer_um
+    weight: 9
+    confidence: 0.95
+  - name: samaritano_exemplo_bondade
+    weight: 8
+    confidence: 0.9
+  - name: adoracao_versus_servico
+    weight: 7
+    confidence: 0.8
+  - name: importancia_escolha_maria
+    weight: 6
+    confidence: 0.78
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '226.7'
+  - '273.2'
+  cdu_description: Teologia cristã; Evangelhos; Lucas; Doutrinas sobre o Reino de Deus, a salvação e o amor ao próximo; Ética cristã.
+---
 Lucas 10:6 Se houver ali um filho da paz, repousará sobre ele a vossa paz; se não houver, ela voltará sobre vós.
 
 - Filho da paz = eleitos?

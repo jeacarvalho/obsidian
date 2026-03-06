@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:07.229362+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: administracao_publica_burocratica
+    weight: 10
+    confidence: 0.98
+  - name: administracao_publica_gerencial
+    weight: 9
+    confidence: 0.97
+  - name: reforma_neoliberal_estado
+    weight: 8
+    confidence: 0.95
+  - name: reforma_social_democratica_estado
+    weight: 8
+    confidence: 0.95
+  - name: crise_do_estado_brasil
+    weight: 9
+    confidence: 0.96
+  - name: governabilidade_politica
+    weight: 7
+    confidence: 0.93
+  - name: crise_fiscal_estado
+    weight: 7
+    confidence: 0.92
+  - name: globalizacao_economia
+    weight: 6
+    confidence: 0.9
+  - name: estado_de_bem_estar_social
+    weight: 7
+    confidence: 0.91
+  - name: patrimonialismo_administracao_publica
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '351.0'
+  cdu_secondary:
+  - '321.0'
+  - '330.5'
+  - '308.2'
+  cdu_description: Administração pública; Administração do Estado; Reformas do Estado; Crise do Estado; Governança; Globalização; Estado de Bem-Estar Social; Patrimonialismo.
+---
 BRESSER - DA [[ADMINISTRAÇÃO]] PÚBLICA BUROCRÁTICA À GERENCIAL
 
 A **diferença entre uma proposta de reforma neoliberal e uma social democrática** está no fato de que o objetivo da primeira e retirar o Estado da economia, enquanto que o da segunda é aumentar a governança do Estado, é dar ao Estado meios financeiros e  administrativos para que ele possa intervir efetivamente sempre que o mercado não tiver condições de coordenar adequadamente a economia (pg 1)

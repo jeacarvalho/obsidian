@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:32.139674+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_de_conteudo_textual
+    weight: 9
+    confidence: 0.98
+  - name: identificacao_de_ideias_centrais
+    weight: 8
+    confidence: 0.97
+  - name: argumentacao_e_exemplos
+    weight: 7
+    confidence: 0.96
+  - name: mensagens_subjacentes_do_autor
+    weight: 8
+    confidence: 0.95
+  - name: citacoes_textuais_para_sustentacao
+    weight: 9
+    confidence: 0.94
+  - name: debate_de_ideias_concordantes_e_discordantes
+    weight: 7
+    confidence: 0.93
+  - name: analise_critica_de_relevancia_e_aplicabilidade
+    weight: 8
+    confidence: 0.92
+  - name: identificacao_de_lacunas_e_oportunidades_de_expansao
+    weight: 7
+    confidence: 0.91
+  - name: sugestao_de_acoes_praticas_cotidianas
+    weight: 9
+    confidence: 0.9
+  - name: estrategias_para_lidar_com_resistencia_a_mudancas
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '004.9'
+  cdu_secondary: []
+  cdu_description: Processamento de informações. Tratamento de dados. Análise de conteúdo.
+---
 ok. Vamos ao próximo documento selecionado. Faça uma análise e resumo do texto, da seguinte forma: a) Leia e Analise o Conteúdo fornecido abaixo, compreendendo suas ideias centrais, argumentos e exemplos; b)Identifique a mensagem principal do autor e os temas subjacentes; c) Sempre traga citações do texto analisado para sustentar sua argumentação; d) aponte bibliografias que concordem e que discordem do texto, gerando um "debate" saudável de ideias. 
 
 "principais_pontos": "Com base na análise e no conteúdo Resuma os Pontos Mais Importantes: a) Destaque os principais argumentos, insights ou histórias contidas no text; b) Reduza o conteúdo ao essencial, preservando a clareza e a profundidade do significado; c) Procure trazer outros pontos não tratados nas etapas anteriores.",

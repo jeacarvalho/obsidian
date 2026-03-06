@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:41.425667+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: execucao_vault_indexer
+    weight: 10
+    confidence: 0.98
+  - name: preparacao_ambiente_virtual
+    weight: 8
+    confidence: 0.95
+  - name: instalacao_dependencias_python
+    weight: 7
+    confidence: 0.92
+  - name: configuracao_arquivo_env
+    weight: 9
+    confidence: 0.96
+  - name: definicao_caminho_vault_obsidian
+    weight: 8
+    confidence: 0.94
+  - name: configuracao_diretorio_banco_vetorial
+    weight: 8
+    confidence: 0.94
+  - name: execucao_script_vault_indexer
+    weight: 9
+    confidence: 0.97
+  - name: limpeza_e_reconstrucao_indice
+    weight: 7
+    confidence: 0.9
+  - name: atualizacao_indice_existente
+    weight: 7
+    confidence: 0.9
+  - name: verificacao_quantidade_documentos_chromadb
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '004.7'
+  - '004.8'
+  cdu_description: Processamento de dados; Sistemas de computadores; Gerenciamento de dados
+---
 # Instruções para Executar o Vault Indexer
 
 ## 1. Preparar o Ambiente

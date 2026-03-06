@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:53.415715+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cultivo_de_alho_em_casa
+    weight: 10
+    confidence: 0.98
+  - name: beneficios_nutricionais_do_alho
+    weight: 9
+    confidence: 0.95
+  - name: alho_para_fortalecimento_imunologico
+    weight: 8
+    confidence: 0.92
+  - name: alho_e_saude_cardiovascular
+    weight: 8
+    confidence: 0.91
+  - name: controle_de_colesterol_com_alho
+    weight: 7
+    confidence: 0.88
+  - name: alho_para_pressao_arterial
+    weight: 7
+    confidence: 0.87
+  - name: tecnicas_de_plantio_de_alho
+    weight: 9
+    confidence: 0.93
+  - name: irrigacao_do_alho
+    weight: 6
+    confidence: 0.85
+  - name: colheita_de_alho
+    weight: 6
+    confidence: 0.84
+  - name: alho_como_condimento_culinario
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '635.25'
+  cdu_secondary:
+  - '613.2'
+  - '616.1'
+  cdu_description: Horticultura. Cultivo de plantas. Alho. Nutrição e dietética. Saúde pública. Higiene. Medicina preventiva. Doenças circulatórias.
+---
 Pare de comprar alho imediatamente. Veja como ter um fornecimento inesgotável de alho em casa - Histórias Com Valor
 
 # Pare de comprar alho imediatamente. Veja como ter um fornecimento inesgotável de alho em casa

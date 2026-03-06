@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:44.001697+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: empatia_com_prisioneiros
+    weight: 8
+    confidence: 0.9
+  - name: valorizacao_do_matrimonio
+    weight: 9
+    confidence: 0.95
+  - name: instituicao_matrimonial
+    weight: 7
+    confidence: 0.85
+  - name: ausencia_de_avareza
+    weight: 8
+    confidence: 0.9
+  - name: contentamento_em_deus
+    weight: 10
+    confidence: 0.98
+  - name: critica_a_doutrinas_estranhas
+    weight: 7
+    confidence: 0.88
+  - name: graca_versus_regras_alimentares
+    weight: 6
+    confidence: 0.8
+  - name: vida_de_peregrino
+    weight: 9
+    confidence: 0.92
+  - name: esperanca_na_cidade_celestial
+    weight: 8
+    confidence: 0.91
+  - name: sacrificio_de_louvor
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '241.4'
+  - '248.4'
+  - '264.0'
+  cdu_description: Teologia cristã; Ética cristã; Vida cristã; Culto cristão
+---
 Lembrem-se dos presos, como se estivessem na cadeia com eles; dos que sofrem maus-tratos, como se vocês mesmos fossem os maltratados. Hebreus 13:3 NAA
 - Boa definição de "[[empatia]]"
 

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:09.015067+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ser_luz_no_mundo
+    weight: 9
+    confidence: 0.98
+  - name: trazer_as_cores_de_deus
+    weight: 8
+    confidence: 0.95
+  - name: tornar_deus_publico
+    weight: 7
+    confidence: 0.92
+  - name: cidade_num_plano_elevado
+    weight: 6
+    confidence: 0.88
+  - name: nao_esconder_a_luz
+    weight: 9
+    confidence: 0.97
+  - name: posicionamento_visivel
+    weight: 8
+    confidence: 0.94
+  - name: brilhar_no_alto_do_morro
+    weight: 7
+    confidence: 0.91
+  - name: generosidade_na_vida
+    weight: 10
+    confidence: 0.99
+  - name: acessibilidade_aos_outros
+    weight: 8
+    confidence: 0.96
+  - name: motivar_aproximacao_de_deus
+    weight: 9
+    confidence: 0.97
+  cdu_primary: '226.5'
+  cdu_secondary:
+  - '230.1'
+  - '241.5'
+  cdu_description: Novo Testamento - Evangelho de Mateus, Teologia Cristã - Doutrinas Gerais, Ética Cristã
+---
 Mateus 5 de outro jeito
 
 Mat 5:16

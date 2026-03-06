@@ -1,13 +1,53 @@
 ---
-title: "O reacionário jargão da \"decolonialidade\""
-source: "https://jacobin.com.br/2024/09/o-reacionario-jargao-da-decolonialidade/"
+title: O reacionário jargão da "decolonialidade"
+source: https://jacobin.com.br/2024/09/o-reacionario-jargao-da-decolonialidade/
 author:
-  - "[[Neil Larsen]]"
+- '[[Neil Larsen]]'
 published: 2024-09-18
 created: 2025-04-07
-description: "Embalada numa linguagem impenetrável, a “decolonialidade” des-historiciza e culturaliza o colonialismo. É um beco sem saída político e intelectual para os socialistas."
+description: Embalada numa linguagem impenetrável, a “decolonialidade” des-historiciza e culturaliza o colonialismo. É um beco sem saída político e intelectual para os socialistas.
 tags:
-  - "clippings"
+- clippings
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:34.636601+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: critica_decolonialidade
+    weight: 10
+    confidence: 0.98
+  - name: linguagem_academica_impenetravel
+    weight: 8
+    confidence: 0.95
+  - name: deshistoricizacao_colonialismo
+    weight: 9
+    confidence: 0.97
+  - name: culturalizacao_colonialismo
+    weight: 9
+    confidence: 0.96
+  - name: beco_sem_saida_politico_socialista
+    weight: 8
+    confidence: 0.94
+  - name: historia_descolonizacao
+    weight: 7
+    confidence: 0.9
+  - name: comparacao_pos_colonialismo
+    weight: 7
+    confidence: 0.92
+  - name: movimentos_libertacao_nacional
+    weight: 6
+    confidence: 0.88
+  - name: critica_eurocentrismo
+    weight: 8
+    confidence: 0.93
+  - name: teoria_critica_socialista
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '323.1'
+  cdu_secondary:
+  - '305.8'
+  - '327.3'
+  cdu_description: Obras gerais sobre a teoria e crítica da descolonização, com ênfase em sua relação com o socialismo e a crítica ao eurocentrismo. Inclui aspectos de movimentos sociais e identidades.
 ---
 ![Pintura a óleo da captura do imperador inca Atahualpa e da conquista espanhola do Império Inca em 1532, pelo pintor peruano Juan Lepiani, por volta de 1920–27. (Museu de Arte de Lima via Wikimedia Commons)](https://jacobin.com.br/wp-content/uploads/2024/09/La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png)
 

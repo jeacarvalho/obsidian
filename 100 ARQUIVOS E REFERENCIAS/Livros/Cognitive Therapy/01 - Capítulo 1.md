@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:48.249174+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: terapia_cognitiva
+    weight: 10
+    confidence: 0.98
+  - name: distorcoes_cognitivas
+    weight: 9
+    confidence: 0.95
+  - name: abordagens_tradicionais_saude_mental
+    weight: 8
+    confidence: 0.92
+  - name: neuropsiquiatria_tradicional
+    weight: 7
+    confidence: 0.88
+  - name: psicanalise
+    weight: 7
+    confidence: 0.87
+  - name: terapia_comportamental
+    weight: 7
+    confidence: 0.86
+  - name: influencia_filosofica_terapias
+    weight: 6
+    confidence: 0.85
+  - name: papel_consciencia_saude_mental
+    weight: 9
+    confidence: 0.93
+  - name: tecnicas_racionais_tratamento
+    weight: 8
+    confidence: 0.9
+  - name: premisas_erroneas_disturbios_emocionais
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '159.96'
+  cdu_secondary:
+  - '159.94'
+  - '159.923'
+  cdu_description: 159.96 - Terapia Cognitiva. 159.94 - Psicologia Aplicada. 159.923 - Processos Cognitivos.
+---
 # Capítulo 1
 
 Despite the striking differences among these dominant

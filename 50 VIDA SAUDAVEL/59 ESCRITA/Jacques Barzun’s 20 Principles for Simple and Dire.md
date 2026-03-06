@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:47.217997+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: clareza_na_escrita
+    weight: 10
+    confidence: 0.98
+  - name: simplicidade_linguistica
+    weight: 9
+    confidence: 0.97
+  - name: evitar_jargao
+    weight: 8
+    confidence: 0.96
+  - name: escolha_de_palavras
+    weight: 9
+    confidence: 0.95
+  - name: concisao_textual
+    weight: 8
+    confidence: 0.94
+  - name: estrutura_frasal
+    weight: 7
+    confidence: 0.93
+  - name: revisao_textual
+    weight: 10
+    confidence: 0.92
+  - name: estilo_direto
+    weight: 9
+    confidence: 0.91
+  - name: forca_expressiva
+    weight: 7
+    confidence: 0.9
+  - name: integridade_semantica
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '808.0'
+  cdu_secondary: []
+  cdu_description: A CDU 808.0 refere-se à retórica e à arte da escrita, focando em princípios de clareza, simplicidade e estilo direto, que são os temas centrais da nota sobre os 20 princípios de Jacques Barzun.
+---
 Jacques Barzun’s 20 Principles for Simple and Direct Writing
 
 # Jacques Barzun’s 20 Principles for Simple and Direct Writing

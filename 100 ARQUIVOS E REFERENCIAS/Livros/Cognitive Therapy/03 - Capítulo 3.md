@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:48.153422+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: modelo_cognitivo_emocoes
+    weight: 10
+    confidence: 0.98
+  - name: relacao_pensamento_sentimento
+    weight: 9
+    confidence: 0.95
+  - name: transtornos_emocionais_cognicao
+    weight: 8
+    confidence: 0.92
+  - name: modelo_comportamental_emocoes
+    weight: 7
+    confidence: 0.9
+  - name: modelo_psicanalitico_emocoes
+    weight: 7
+    confidence: 0.9
+  - name: condicionamento_emocional
+    weight: 6
+    confidence: 0.88
+  - name: impulsos_inconscientes_ansiedade
+    weight: 6
+    confidence: 0.85
+  - name: mecanismos_defesa_psicanalise
+    weight: 5
+    confidence: 0.82
+  - name: significado_subjetivo_emocao
+    weight: 9
+    confidence: 0.93
+  - name: introspeccao_observacao_emocional
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '159.946'
+  cdu_secondary:
+  - '159.964'
+  - '159.942'
+  cdu_description: Psicologia das emoções. Psicologia cognitiva das emoções. Psicologia psicanalítica das emoções.
+---
 # Capítulo 3
 
 The thesis that the special meaning of an event

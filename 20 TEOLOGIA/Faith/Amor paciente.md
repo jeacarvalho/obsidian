@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:06.910413+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: amor_paciente_makrothumeo
+    weight: 10
+    confidence: 0.98
+  - name: amor_como_comportamento_nao_sentimento
+    weight: 9
+    confidence: 0.97
+  - name: amor_divino_como_modelo
+    weight: 8
+    confidence: 0.96
+  - name: amor_revela_humanidade_renovada
+    weight: 7
+    confidence: 0.95
+  - name: doacao_de_si_em_jesus
+    weight: 8
+    confidence: 0.94
+  - name: bondade_tolerancia_longanimidade_de_deus
+    weight: 9
+    confidence: 0.93
+  - name: amor_reflete_natureza_de_deus
+    weight: 9
+    confidence: 0.92
+  - name: paciencia_como_atributo_divino
+    weight: 8
+    confidence: 0.91
+  - name: amor_em_obras_e_verdade
+    weight: 10
+    confidence: 0.9
+  - name: esperanca_crista_fundamento_da_paciencia
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '241.4'
+  cdu_secondary:
+  - '231.7'
+  - '248.4'
+  cdu_description: Ética cristã, virtudes cristãs, amor, paciência, esperança
+---
 Nota Sem Título
 
 Amor paciente - makrothumeo, é uma ação e não um sentimento. Makro - distante, esperar; thumeo - [[raiva]], fúria. Na verdade o sentimento pode ser de [[raiva]] mas a atitude é de esperar. Então o amor é um sentimento anti sentimento

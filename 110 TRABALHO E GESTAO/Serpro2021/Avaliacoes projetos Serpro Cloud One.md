@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:53.729825+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: avaliacao_projetos_novos_sistemas_cloud_one
+    weight: 10
+    confidence: 0.95
+  - name: levantamento_gaps_entrada_cloud
+    weight: 9
+    confidence: 0.9
+  - name: analise_viabilidade_tecnica
+    weight: 8
+    confidence: 0.85
+  - name: gestao_demandas_siged
+    weight: 7
+    confidence: 0.8
+  - name: sistemas_integracao_tribunais
+    weight: 6
+    confidence: 0.75
+  - name: sistemas_lowcode_outsystems
+    weight: 6
+    confidence: 0.7
+  - name: sistemas_governo_digital
+    weight: 6
+    confidence: 0.7
+  - name: sistemas_gestao_transito
+    weight: 5
+    confidence: 0.65
+  - name: sistemas_agricultura_pecuaria
+    weight: 5
+    confidence: 0.65
+  - name: sistemas_gestao_pessoal
+    weight: 5
+    confidence: 0.6
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '351.8'
+  - '336.2'
+  - '352.9'
+  cdu_description: 004.4 - Desenvolvimento de software e sistemas de computador; 351.8 - Administração pública em geral; 336.2 - Finanças públicas; 352.9 - Serviços públicos municipais
+---
 # Descrição:
 - Para tratar avaliações dos projetos de novos sistemas que poderiam entrar no Cloud One.
 - Objetivo: levantar os gaps para a não entrada.

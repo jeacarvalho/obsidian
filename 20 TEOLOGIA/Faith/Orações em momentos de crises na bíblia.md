@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:07.509674+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: oracoes_individuais_em_crise
+    weight: 10
+    confidence: 0.98
+  - name: oracao_de_jacob_genesis
+    weight: 7
+    confidence: 0.9
+  - name: oracao_de_davi_salmos
+    weight: 9
+    confidence: 0.95
+  - name: oracao_de_elias_reis
+    weight: 8
+    confidence: 0.92
+  - name: oracao_de_jeremias_profeta
+    weight: 8
+    confidence: 0.93
+  - name: oracao_de_jesus_cristo
+    weight: 9
+    confidence: 0.94
+  - name: oracao_corporativa_protecao
+    weight: 8
+    confidence: 0.91
+  - name: primeiros_cristaos_oracao_conjunta
+    weight: 7
+    confidence: 0.88
+  - name: oracao_em_momentos_decisorios
+    weight: 6
+    confidence: 0.85
+  - name: oracao_em_situacoes_de_ameaca
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '248.3'
+  cdu_secondary:
+  - '230.0'
+  - '270.0'
+  cdu_description: 248.3 - Vida cristã. Práticas religiosas. Oração. Meditação. 230.0 - Teologia cristã. 270.0 - História e geografia do cristianismo.
+---
 Prayers of individuals in time of crisis
 
 Prayers of individuals in time of crisis

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:52.561652+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: consciencia_influenciando_realidade
+    weight: 10
+    confidence: 0.98
+  - name: fisica_quantica_aplicada_autoconhecimento
+    weight: 9
+    confidence: 0.95
+  - name: efeito_observador_na_manifestacao
+    weight: 8
+    confidence: 0.92
+  - name: assinatura_eletromagnetica_pensamento_sentimento
+    weight: 7
+    confidence: 0.9
+  - name: coerencia_mental_emocional
+    weight: 8
+    confidence: 0.93
+  - name: transicao_dualismo_cartesiano_fisica_quantica
+    weight: 7
+    confidence: 0.88
+  - name: universo_campo_energia_maleavel
+    weight: 9
+    confidence: 0.96
+  - name: mudanca_paradigma_vitima_criador_quantico
+    weight: 6
+    confidence: 0.85
+  - name: neuroplasticidade_e_gestao_consciencia
+    weight: 7
+    confidence: 0.89
+  - name: critica_metafisica_interpretacao_fisica_quantica
+    weight: 6
+    confidence: 0.8
+  cdu_primary: '133.8'
+  cdu_secondary:
+  - '530.145'
+  - '159.9'
+  - '001.8'
+  cdu_description: 133.8 - Métodos de adivinhação e clarividência; parapsicologia. 530.145 - Mecânica quântica. 159.9 - Psicologia. 001.8 - Métodos e técnicas de investigação científica.
+---
 ### Análise Multiperspectiva do Capítulo 01: O Eu Quântico
 
 Tags: #livro #neurosciência #física_quântica #autoconhecimento #Joe_Dispenza

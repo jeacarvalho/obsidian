@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:24.291709+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: diagnostico_estrategico_igreja
+    weight: 10
+    confidence: 0.98
+  - name: pontos_fortes_igreja
+    weight: 9
+    confidence: 0.95
+  - name: pontos_fracos_igreja
+    weight: 9
+    confidence: 0.95
+  - name: ameacas_igreja
+    weight: 8
+    confidence: 0.92
+  - name: oportunidades_igreja
+    weight: 8
+    confidence: 0.92
+  - name: compromisso_membros_igreja
+    weight: 7
+    confidence: 0.88
+  - name: lideranca_eclesiastica
+    weight: 7
+    confidence: 0.85
+  - name: pregacao_biblica
+    weight: 6
+    confidence: 0.8
+  - name: discipulado_cristao
+    weight: 6
+    confidence: 0.78
+  - name: projeto_social_igreja
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '27'
+  cdu_secondary:
+  - 27-28
+  - '305.8'
+  cdu_description: História e geografia da igreja cristã; Organização e administração da igreja; Sociologia da religião
+---
 Diagnóstico Estratégico da [[IPB]] Piratininga em RC de 13-10-2015.
 
 **Diagnóstico Estratégico da IPB Piratininga em RC de 13-10-2015.**

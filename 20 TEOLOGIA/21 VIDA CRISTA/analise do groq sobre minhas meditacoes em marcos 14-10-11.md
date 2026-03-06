@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:07.585328+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_judas
+    weight: 7
+    confidence: 0.85
+  - name: reflexao_critica_pobreza
+    weight: 8
+    confidence: 0.9
+  - name: critica_raiva_traicao
+    weight: 6
+    confidence: 0.75
+  - name: auto_introspeccao_compaixao
+    weight: 9
+    confidence: 0.92
+  - name: teologia_reformada_libertacao
+    weight: 8
+    confidence: 0.88
+  - name: espiritosanto_ressurreicao_cristo
+    weight: 7
+    confidence: 0.8
+  - name: proposta_libertacao_transformadora
+    weight: 9
+    confidence: 0.95
+  - name: transformacao_interna_coracoes
+    weight: 10
+    confidence: 0.98
+  - name: comentarios_calvino_edwards
+    weight: 6
+    confidence: 0.7
+  - name: analise_marcos_14
+    weight: 5
+    confidence: 0.65
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - 27-29
+  - '241.6'
+  cdu_description: Teologia cristã. Teologia reformada. Doutrinas da graça, libertação e transformação interior, com base em passagens bíblicas como Marcos 14 e comentários de teólogos reformados.
+---
 analise do groq sobre minhas meditacoes em [[marcos 14]]-10-11
 
 **Análise comportamental:** A partir das anotações, nota-se que você se sensibilizou com a situação de Judas e, subsequentemente, começou a questionar sua própria reação em relação à pobreza e exploração. Isso é um indicativo de uma reflexão crítica e receptiva. No entanto, também nota-se um tom de crítica em relação à raiva e ao ressentimento que podem conduzir à traição. Você desafia a si mesmo a considerar a possibilidade de que sua angústia possa ser semelhante à de Judas, o que é um passo importante para a auto introspecção e compaixão.

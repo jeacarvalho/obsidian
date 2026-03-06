@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:08.159027+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_meditacao_biblica
+    weight: 8
+    confidence: 0.9
+  - name: perspectiva_sinedrio_jesus
+    weight: 7
+    confidence: 0.85
+  - name: entrega_jesus_amor_obediencia
+    weight: 10
+    confidence: 0.98
+  - name: fuga_discipulos_fraqueza_medo
+    weight: 7
+    confidence: 0.88
+  - name: contexto_historico_cultural_biblico
+    weight: 6
+    confidence: 0.75
+  - name: confianca_espirito_santo_palavra_deus
+    weight: 9
+    confidence: 0.95
+  - name: teologia_reformada_salvacao
+    weight: 8
+    confidence: 0.92
+  - name: comentarios_reformados_calvino_luter
+    weight: 7
+    confidence: 0.88
+  - name: proposta_sermao_entrega_jesus
+    weight: 9
+    confidence: 0.96
+  - name: compreensao_profunda_texto_biblico
+    weight: 6
+    confidence: 0.8
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - '270.6'
+  - '226.7'
+  cdu_description: Cristologia (232.9), Teologia Reformada (270.6), Evangelho de Marcos (226.7)
+---
 #### analise do groq sobre minhas meditacoes em [[Marcos 14]]-46-52
 **Análise Comportamental**
 

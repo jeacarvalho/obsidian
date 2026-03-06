@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:54.025204+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: receita_pizza_inhame_sem_gluten
+    weight: 10
+    confidence: 0.98
+  - name: beneficios_inhame_saude
+    weight: 9
+    confidence: 0.95
+  - name: inhame_depurativo_sangue
+    weight: 8
+    confidence: 0.9
+  - name: inhame_prevencao_doencas_mosquitos
+    weight: 7
+    confidence: 0.88
+  - name: inhame_alivio_sintomas_tpm
+    weight: 7
+    confidence: 0.85
+  - name: inhame_nutrientes
+    weight: 6
+    confidence: 0.8
+  - name: controle_peso_inhame
+    weight: 6
+    confidence: 0.75
+  - name: sistema_imunologico_inhame
+    weight: 5
+    confidence: 0.7
+  - name: receita_molho_tomate_caseiro
+    weight: 5
+    confidence: 0.65
+  - name: mucarela_vegetariana_caseira
+    weight: 5
+    confidence: 0.6
+  cdu_primary: '641.5'
+  cdu_secondary:
+  - '613.2'
+  - '615.32'
+  cdu_description: Culinária, receitas de cozinha, alimentação e nutrição, alimentos e bebidas, plantas medicinais
+---
 Pizza de inhame e sem glúten | Cura pela Natureza.com.br
 
 # Pizza de inhame e sem glúten

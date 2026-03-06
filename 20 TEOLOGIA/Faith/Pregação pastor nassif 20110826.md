@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:08.657990+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pregacao_pastoral
+    weight: 10
+    confidence: 0.98
+  - name: interpretacao_biblica_jeremias
+    weight: 9
+    confidence: 0.95
+  - name: promessas_divinas
+    weight: 8
+    confidence: 0.9
+  - name: adversidades_vida
+    weight: 7
+    confidence: 0.85
+  - name: fe_no_proposito_divino
+    weight: 8
+    confidence: 0.92
+  - name: missao_no_lugar_de_atuacao
+    weight: 9
+    confidence: 0.93
+  - name: desenvolvimento_comunitario
+    weight: 7
+    confidence: 0.88
+  - name: construcao_familiar_e_social
+    weight: 6
+    confidence: 0.8
+  - name: busca_pela_paz_urbana
+    weight: 7
+    confidence: 0.87
+  - name: discipulado_pratico
+    weight: 9
+    confidence: 0.94
+  cdu_primary: '242.3'
+  cdu_secondary:
+  - '224.5'
+  - '269.4'
+  cdu_description: Meditação e devoção pessoal; Livros proféticos do Antigo Testamento; Pregação e ensino
+---
 Pregação pastor nasif 20110826
 
 Jer 29:4-14

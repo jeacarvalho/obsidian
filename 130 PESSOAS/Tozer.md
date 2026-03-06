@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:47.005541+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: biografia_a_w_tozer
+    weight: 10
+    confidence: 0.98
+  - name: teologia_crista_evangelica
+    weight: 9
+    confidence: 0.95
+  - name: escritor_cristao_contemporaneo
+    weight: 8
+    confidence: 0.92
+  - name: pastorado_protestante
+    weight: 7
+    confidence: 0.9
+  - name: vida_de_oracao_crista
+    weight: 8
+    confidence: 0.93
+  - name: relacionamento_pessoal_com_deus
+    weight: 7
+    confidence: 0.91
+  - name: simplicidade_vida_crista
+    weight: 6
+    confidence: 0.88
+  - name: pregacao_biblica
+    weight: 7
+    confidence: 0.89
+  - name: literatura_crista_classica
+    weight: 8
+    confidence: 0.94
+  - name: alianca_crista_e_missionaria
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '284.1'
+  cdu_secondary:
+  - '230'
+  - '240'
+  - '260'
+  cdu_description: Teologia cristã evangélica, vida e prática cristã, pregação e ministério
+---
 fonte: https://pt.wikipedia.org/wiki/A._W._Tozer
 Aiden Wilson Tozer (Pensilvânia, 21 de abril de 1897 - Toronto, 12 de maio de 1963) foi um pastor, escritor, e conferencista bíblico estadunidense
 

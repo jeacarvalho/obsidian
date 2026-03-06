@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:00:16.747516+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_crista
+    weight: 9
+    confidence: 0.98
+  - name: novo_testamento
+    weight: 10
+    confidence: 0.99
+  - name: livro_de_atos
+    weight: 10
+    confidence: 0.99
+  - name: capitulo_6_atos
+    weight: 8
+    confidence: 0.97
+  - name: primeira_igreja
+    weight: 7
+    confidence: 0.95
+  - name: diaconato
+    weight: 8
+    confidence: 0.96
+  - name: distribuicao_alimentos
+    weight: 7
+    confidence: 0.94
+  - name: conflitos_na_igreja
+    weight: 6
+    confidence: 0.93
+  - name: testemunho_cristao
+    weight: 5
+    confidence: 0.9
+  - name: martirio_cristao
+    weight: 6
+    confidence: 0.92
+  cdu_primary: 27-21
+  cdu_secondary:
+  - '227.3'
+  cdu_description: História da Igreja Cristã Primitiva; Atos dos Apóstolos
+---
 At 6:2 — At 6:4
 
 2 Então, os doze convocaram a comunidade dos discípulos e disseram: Não é razoável que nós abandonemos a palavra de Deus para servir às mesas. 3 Mas, irmãos, escolhei dentre vós sete homens de boa reputação, cheios do Espírito e de sabedoria, aos quais encarregaremos deste serviço; 4 e, quanto a nós, nos consagraremos à oração e ao ministério da palavra.

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:39.671414+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pericia_contabil_judicial
+    weight: 10
+    confidence: 0.98
+  - name: perito_assistente_tecnico
+    weight: 9
+    confidence: 0.97
+  - name: codigo_de_processo_civil_cpc
+    weight: 8
+    confidence: 0.96
+  - name: normas_brasileiras_de_contabilidade_nbc
+    weight: 8
+    confidence: 0.95
+  - name: laudo_pericial_contabil
+    weight: 7
+    confidence: 0.94
+  - name: parecer_tecnico_contabil
+    weight: 7
+    confidence: 0.93
+  - name: quesitos_tecnicos
+    weight: 6
+    confidence: 0.92
+  - name: imparcialidade_do_perito
+    weight: 6
+    confidence: 0.91
+  - name: auditoria_contabil_vs_pericia_contabil
+    weight: 8
+    confidence: 0.9
+  - name: planejamento_de_trabalho_pericia
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '347.9'
+  cdu_secondary:
+  - '657.6'
+  - '347.94'
+  cdu_description: Direito processual civil; Perícia judicial e auditoria contábil
+---
 # REFERÊNCIA
 ## BÁSICA
 - BRASIL. Lei nº 13.105, de 16 de março de 2015. Código de Processo Civil. Diário Oficial da União, Brasília, DF, 17 mar. 2015. Artigos e respectivos parágrafos: 95 e 98; 145 a 149; 156 a 158; 167; 274; 464 a 480; 513 a 518. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm>.

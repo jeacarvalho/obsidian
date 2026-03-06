@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:04.018716+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: interpretacao_eclesiastes_cristo
+    weight: 10
+    confidence: 0.98
+  - name: sabedoria_divina_vs_humana
+    weight: 9
+    confidence: 0.95
+  - name: significado_vida_vaidade
+    weight: 8
+    confidence: 0.92
+  - name: confianca_temor_deus
+    weight: 7
+    confidence: 0.9
+  - name: obediencia_grata_contentamento
+    weight: 6
+    confidence: 0.88
+  - name: redencao_cristo_futilidade
+    weight: 10
+    confidence: 0.97
+  - name: tese_unificada_eclesiastes
+    weight: 8
+    confidence: 0.93
+  - name: argumentacao_teologica_eclesiastes
+    weight: 7
+    confidence: 0.91
+  - name: legado_mortalidade_esperanca_cristo
+    weight: 6
+    confidence: 0.85
+  - name: dons_deus_vida_significativa
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '223.2'
+  - '248.4'
+  cdu_description: Teologia cristã; Bíblia - Antigo Testamento - Livros Sapienciais (Eclesiastes); Vida cristã - Prática
+---
 Nota Sem Título
 
 Eclesiastes 1:1 (REC)

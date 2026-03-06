@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:47.386671+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pierre_viret_reformador_suico
+    weight: 10
+    confidence: 0.98
+  - name: reforma_protestante_na_suica_e_franca
+    weight: 9
+    confidence: 0.97
+  - name: ministerio_pastoral_e_evangelizacao
+    weight: 8
+    confidence: 0.96
+  - name: teologia_e_etica_crista
+    weight: 7
+    confidence: 0.95
+  - name: relacao_igreja_estado_e_governo
+    weight: 8
+    confidence: 0.94
+  - name: resistencia_civil_contra_tirania
+    weight: 7
+    confidence: 0.93
+  - name: contribuicoes_intelectuais_e_escritos
+    weight: 8
+    confidence: 0.92
+  - name: formacao_pastoral_e_educacao_teologica
+    weight: 9
+    confidence: 0.91
+  - name: legado_do_protestantismo_francofono
+    weight: 7
+    confidence: 0.9
+  - name: dialogo_e_persuasao_na_fe_crista
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '284.3'
+  cdu_secondary:
+  - '270.6'
+  - '322.1'
+  - '378.9'
+  cdu_description: Reforma Protestante na Suíça e França, com ênfase em Pierre Viret, sua teologia, ministério pastoral, contribuições intelectuais e legado na formação e educação teológica.
+---
 - https://chatgpt.com/share/67349b8d-41b4-8007-85a6-840dafc91ac6
 
 Pierre Viret (1511–1571) foi um reformador suíço e contemporâneo de João Calvino e Guilherme Farel, com quem trabalhou em estreita colaboração para promover a Reforma Protestante na Suíça e na França. Conhecido como o “Sorriso da Reforma” por seu temperamento amável e diplomático, Viret é uma figura frequentemente menos destacada em comparação com Calvino, mas ele desempenhou um papel vital na propagação do protestantismo em áreas de fala francesa e teve uma profunda influência teológica e pastoral.

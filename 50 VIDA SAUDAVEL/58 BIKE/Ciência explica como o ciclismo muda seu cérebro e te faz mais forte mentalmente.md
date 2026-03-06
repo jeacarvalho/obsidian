@@ -2,7 +2,48 @@
 created: 2021-12-13T13:04:24 (UTC -03:00)
 tags: []
 source: https://osegredo.com.br/ciencia-explica-como-o-ciclismo-muda-seu-cerebro-e-te-faz-mais-forte-mentalmente/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:50.249126+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: beneficios_ciclismo_cerebro
+    weight: 10
+    confidence: 0.98
+  - name: saude_mental_ciclismo
+    weight: 9
+    confidence: 0.97
+  - name: melhora_cognitiva_ciclismo
+    weight: 8
+    confidence: 0.96
+  - name: ciclismo_combate_depressao
+    weight: 8
+    confidence: 0.95
+  - name: ciclismo_reduz_ansiedade
+    weight: 8
+    confidence: 0.95
+  - name: neurotransmissores_ciclismo
+    weight: 7
+    confidence: 0.94
+  - name: exercicio_fisico_saude_cerebral
+    weight: 7
+    confidence: 0.93
+  - name: ciclismo_bem_estar_mental
+    weight: 7
+    confidence: 0.92
+  - name: ciclismo_reduz_estresse
+    weight: 6
+    confidence: 0.91
+  - name: ciclismo_melhora_autoestima
+    weight: 6
+    confidence: 0.9
+  cdu_primary: '613.7'
+  cdu_secondary:
+  - '616.89'
+  - '159.94'
+  - '612.8'
+  cdu_description: 613.7 - Exercícios físicos, ginástica. 616.89 - Psiquiatria. Doenças mentais. 159.94 - Motivação, emoção, sentimento. 612.8 - Fisiologia do sistema nervoso. O texto aborda os benefícios do ciclismo para a saúde física e mental, incluindo melhorias cognitivas, redução de ansiedade e depressão, e aumento do bem-estar geral.
 ---
 
 # [[Ciência]] explica como a [[Bike]] muda seu cérebro e te faz mais forte mentalmente

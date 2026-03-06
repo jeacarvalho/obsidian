@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:03.375364+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_da_revolucao_munzer
+    weight: 10
+    confidence: 0.98
+  - name: ernst_bloch_utopia_concreta
+    weight: 9
+    confidence: 0.97
+  - name: critica_reforma_luterana
+    weight: 8
+    confidence: 0.95
+  - name: fe_conversao_vs_captura
+    weight: 8
+    confidence: 0.96
+  - name: comunidade_de_bens_cristianismo_primitivo
+    weight: 7
+    confidence: 0.94
+  - name: cristo_contra_o_imperio
+    weight: 7
+    confidence: 0.93
+  - name: apocalipse_como_praxe_revolta_camponesa
+    weight: 6
+    confidence: 0.92
+  - name: silenciamento_racial_na_obra
+    weight: 6
+    confidence: 0.9
+  - name: hermeneutica_critica_principio_esperanca
+    weight: 5
+    confidence: 0.88
+  - name: teologia_politica_mistica_marxismo_heterodoxo
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '270.8'
+  cdu_secondary:
+  - '322.1'
+  - '335.5'
+  - '230.04'
+  cdu_description: 270.8 - História do Cristianismo. 322.1 - Relações entre Igreja e Estado. 335.5 - Socialismo utópico. 230.04 - Teologia da libertação.
+---
 # Análise livro 
 Esta análise ativa a lente de **CURADOR INTELECTUAL POLIFÔNICO** para processar a obra **"Thomas Münzer: O Teólogo da Revolução"**, de **Ernst Bloch**, conectando-a ao ecossistema dos projetos `discernimento_sem_captura.txt`, `providentia.txt` e `ibitu_guata.txt`.
 

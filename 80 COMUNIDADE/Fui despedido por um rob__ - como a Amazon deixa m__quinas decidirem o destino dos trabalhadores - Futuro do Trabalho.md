@@ -3,6 +3,46 @@ created: 2021-06-28T13:52:19 (UTC -03:00)
 tags: []
 source: https://oglobo.globo.com/economia/tecnologia/fui-despedido-por-um-robo-como-amazon-deixa-maquinas-decidirem-destino-dos-trabalhadores-25079925
 author: Bloomberg
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:51.870588+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: demissao_automatizada_amazon
+    weight: 10
+    confidence: 0.98
+  - name: algoritmos_gestao_trabalhadores
+    weight: 9
+    confidence: 0.95
+  - name: impacto_tecnologia_mercado_trabalho
+    weight: 8
+    confidence: 0.92
+  - name: supervisao_humana_reduzida
+    weight: 7
+    confidence: 0.9
+  - name: rastreamento_desempenho_motoristas
+    weight: 8
+    confidence: 0.93
+  - name: criticas_algoritmos_amazon
+    weight: 7
+    confidence: 0.88
+  - name: terceirizacao_operacoes_amazon
+    weight: 6
+    confidence: 0.85
+  - name: automacao_recursos_humanos
+    weight: 9
+    confidence: 0.91
+  - name: desligamento_sem_intermediacao
+    weight: 8
+    confidence: 0.94
+  - name: etica_inteligencia_artificial_trabalho
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '004.77'
+  - '303.446'
+  cdu_description: Trabalho e emprego; Relações de trabalho; Gestão de pessoal; Automação e tecnologia
 ---
 
 # 'Fui despedido por um robô': como a Amazon deixa máquinas decidirem o destino dos trabalhadores - Jornal O Globo

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:04.943481+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: psicologia_geral
+    weight: 8
+    confidence: 0.9
+  - name: introducao_filosofia
+    weight: 9
+    confidence: 0.95
+  - name: historia_filosofia
+    weight: 8
+    confidence: 0.92
+  - name: sociologia_geral
+    weight: 7
+    confidence: 0.88
+  - name: sociologia_religiao
+    weight: 8
+    confidence: 0.9
+  - name: antropologia_missionaria
+    weight: 9
+    confidence: 0.93
+  - name: introducao_antigo_testamento
+    weight: 10
+    confidence: 0.98
+  - name: introducao_novo_testamento
+    weight: 10
+    confidence: 0.98
+  - name: geografia_arqueologia_biblica
+    weight: 9
+    confidence: 0.94
+  - name: hebraico_biblico
+    weight: 9
+    confidence: 0.95
+  cdu_primary: '2'
+  cdu_secondary:
+  - '1'
+  - '3'
+  - '9'
+  cdu_description: Religião. Teologia. Ciências da Religião. Filosofia. Psicologia. Ciências Sociais. História. Geografia. Arqueologia. Línguas Semíticas.
+---
 O Temporaundefined O Mores: Bibliografia Reformada Básica
 
 ### Bibliografia Reformada Básica

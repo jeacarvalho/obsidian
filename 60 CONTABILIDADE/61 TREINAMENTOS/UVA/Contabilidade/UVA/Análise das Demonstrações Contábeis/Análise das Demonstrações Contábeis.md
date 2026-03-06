@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:40.228089+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_demonstracoes_financeiras
+    weight: 10
+    confidence: 0.98
+  - name: indices_liquidez_corrente
+    weight: 9
+    confidence: 0.97
+  - name: indices_liquidez_geral
+    weight: 8
+    confidence: 0.96
+  - name: indices_grau_endividamento
+    weight: 8
+    confidence: 0.96
+  - name: indices_participacao_capital_terceiros
+    weight: 7
+    confidence: 0.95
+  - name: gestao_fluxo_caixa
+    weight: 7
+    confidence: 0.94
+  - name: prevencao_insolvencia
+    weight: 6
+    confidence: 0.93
+  - name: estrutura_capital
+    weight: 6
+    confidence: 0.92
+  - name: saude_financeira_empresarial
+    weight: 5
+    confidence: 0.91
+  - name: contabilidade_gerencial
+    weight: 5
+    confidence: 0.9
+  cdu_primary: '657.3'
+  cdu_secondary:
+  - '658.15'
+  - '336.7'
+  cdu_description: Contabilidade. Análise de contas. Análise de balanços. Análise financeira. Gestão financeira. Financiamento.
+---
 # REFERÊNCIA
 ## BÁSICA
 - CHING, H. Y. et al. Contabilidade & finanças para não especialistas. 3. ed. São Paulo: Pearson, 2010. https://plataforma.bvirtual.com.br/Acervo/Publicacao/1799

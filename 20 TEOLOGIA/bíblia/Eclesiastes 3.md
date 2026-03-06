@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:25.975992+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_deus_soberania
+    weight: 10
+    confidence: 0.98
+  - name: adoracao_a_deus_temor
+    weight: 9
+    confidence: 0.95
+  - name: compreensao_da_obra_divina
+    weight: 8
+    confidence: 0.92
+  - name: questionamento_existencial_humano
+    weight: 7
+    confidence: 0.9
+  - name: comparacao_homem_animal_teologia
+    weight: 8
+    confidence: 0.93
+  - name: visao_crista_pos_morte
+    weight: 9
+    confidence: 0.96
+  - name: valor_da_vida_prazeres_terrenos
+    weight: 6
+    confidence: 0.85
+  - name: limitacoes_do_conhecimento_humano
+    weight: 7
+    confidence: 0.88
+  - name: reflexao_sobre_o_proposito_da_vida
+    weight: 8
+    confidence: 0.91
+  - name: fe_em_jesus_salvacao
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '230'
+  cdu_secondary:
+  - '231.7'
+  - '236'
+  - '203.7'
+  cdu_description: Teologia cristã; Doutrina de Deus; Criação; Escatologia; Vida após a morte; Adoração
+---
 Eclesiastes 3:14 (Biblia A Mensagem)
 
 14 Também concluí que o que Deus fez, feito está, não há o que pôr nem tirar. Deus fez. Ponto final. Então, é melhor parar de questionar e adorar a Deus, em santo temor.

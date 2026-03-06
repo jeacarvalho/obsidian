@@ -1,4 +1,46 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:34.893352+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conversao_de_gregos_e_mulheres_nobres
+    weight: 8
+    confidence: 0.9
+  - name: recepcao_da_palavra_com_avidez
+    weight: 7
+    confidence: 0.85
+  - name: examinacao_das_escrituras_pelos_bereanos
+    weight: 9
+    confidence: 0.92
+  - name: custo_do_evangelho_e_status_quo
+    weight: 10
+    confidence: 0.98
+  - name: indignacao_de_paulo_com_idolatria
+    weight: 8
+    confidence: 0.88
+  - name: sincretismo_religioso_e_perda_de_zelo
+    weight: 7
+    confidence: 0.82
+  - name: aproveitamento_de_oportunidades_no_culto_pagao
+    weight: 9
+    confidence: 0.93
+  - name: conversao_de_dionisio_areopagita
+    weight: 8
+    confidence: 0.87
+  - name: deus_como_fonte_de_vida_e_tudo
+    weight: 10
+    confidence: 0.99
+  - name: filosofia_estoica_e_poesia_grega
+    weight: 6
+    confidence: 0.75
+  cdu_primary: '27'
+  cdu_secondary:
+  - 27-2
+  - '23'
+  - '22.3'
+  cdu_description: História do Cristianismo e da Igreja Cristã; Teologia Cristã; Bíblia. Novo Testamento. Atos dos Apóstolos.
+---
 Atos 17:4 (RA Strong's) Alguns deles foram persuadidos e unidos a Paulo e Silas, bem como numerosa multidão de gregos piedosos e muitas distintas mulheres.
 - Parece que os não religiosos ouviam e entendiam rapidamente e em grande quantidade.
 - Mas não era uma regra: At 17:10 — At 17:12 (RA Strong's)

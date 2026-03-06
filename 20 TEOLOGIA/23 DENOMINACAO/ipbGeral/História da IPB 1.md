@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:26.125227+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_ipb
+    weight: 10
+    confidence: 0.98
+  - name: apostila_curso_presbiteriano
+    weight: 9
+    confidence: 0.95
+  - name: presbiterianismo_no_brasil
+    weight: 8
+    confidence: 0.92
+  - name: primeiras_aulas_curso
+    weight: 7
+    confidence: 0.9
+  - name: participacao_mulher_presbiterianismo
+    weight: 7
+    confidence: 0.88
+  - name: pioneiros_presbiterianismo
+    weight: 8
+    confidence: 0.93
+  - name: vida_simonton
+    weight: 7
+    confidence: 0.85
+  - name: primeiras_igrejas_presbiterianas
+    weight: 6
+    confidence: 0.8
+  - name: pagamento_curso_presbiteriano
+    weight: 5
+    confidence: 0.75
+  - name: avaliacao_curso_presbiteriano
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '285.1'
+  cdu_secondary: []
+  cdu_description: Religião. Teologia. Religião cristã. Protestantismo. Presbiterianismo.
+---
 História da [[IPB]] 1undefined2undefined3undefined4undefined5
 
 ---------- Mensagem encaminhada ----------

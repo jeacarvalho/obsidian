@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:57.386297+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: efetividade_do_desenvolvedor
+    weight: 10
+    confidence: 0.98
+  - name: transformacao_digital
+    weight: 9
+    confidence: 0.95
+  - name: organizacao_de_engenharia_de_software
+    weight: 8
+    confidence: 0.92
+  - name: cultura_organizacional
+    weight: 7
+    confidence: 0.9
+  - name: devops
+    weight: 8
+    confidence: 0.93
+  - name: ciclo_de_feedback
+    weight: 7
+    confidence: 0.88
+  - name: microservicos
+    weight: 6
+    confidence: 0.85
+  - name: agilidade_em_software
+    weight: 7
+    confidence: 0.89
+  - name: complexidade_tecnologica
+    weight: 6
+    confidence: 0.87
+  - name: produtividade_de_desenvolvedores
+    weight: 9
+    confidence: 0.94
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '005.3'
+  - '005.8'
+  - '006.3'
+  - '303.4'
+  cdu_description: Gestão da tecnologia da informação e da comunicação; organização e gestão de empresas; sistemas de informação; desenvolvimento de software; engenharia de software; transformação digital; cultura organizacional; DevOps; agilidade; microserviços; feedback loops; produtividade; complexidade.
+---
 https://martinfowler.com/articles/developer-effectiveness.html#OrganizationalEffectiveness
 
 > To be successful at digital transformation you need to optimize the key feedback loops in your software engineering organization

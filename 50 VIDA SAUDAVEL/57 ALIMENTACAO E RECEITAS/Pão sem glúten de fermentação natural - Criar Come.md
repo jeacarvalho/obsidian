@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:52.366475+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pao_sem_gluten_fermentacao_natural
+    weight: 10
+    confidence: 0.98
+  - name: receita_pao_caseiro
+    weight: 9
+    confidence: 0.95
+  - name: fermento_natural_sem_gluten
+    weight: 9
+    confidence: 0.97
+  - name: ingredientes_pao_sem_gluten
+    weight: 8
+    confidence: 0.9
+  - name: intolerancia_ao_gluten
+    weight: 7
+    confidence: 0.85
+  - name: processo_cozimento_pao
+    weight: 7
+    confidence: 0.92
+  - name: farinha_de_arroz
+    weight: 6
+    confidence: 0.88
+  - name: farinha_de_aveia
+    weight: 6
+    confidence: 0.88
+  - name: psyllium
+    weight: 5
+    confidence: 0.8
+  - name: linhaca
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '641.561'
+  cdu_secondary:
+  - '664.731'
+  - '613.281'
+  cdu_description: 641.561 - Cozinha especial. Dietética. Alimentos para regimes especiais. Alimentos sem glúten. 664.731 - Cereais e seus derivados. Farinhas. Farinhas de cereais sem glúten. 613.281 - Dietética. Regimes alimentares. Regimes sem glúten.
+---
 Pão sem glúten de fermentação natural - Criar Comer Crescer
 
 # Pão sem glúten de fermentação natural

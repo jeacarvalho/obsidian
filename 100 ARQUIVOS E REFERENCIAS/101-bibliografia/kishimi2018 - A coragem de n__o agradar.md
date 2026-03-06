@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:55.556710+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: psicologia_adleriana
+    weight: 10
+    confidence: 0.98
+  - name: teleologia
+    weight: 9
+    confidence: 0.95
+  - name: autodeterminacao
+    weight: 9
+    confidence: 0.96
+  - name: libertacao_opiniao_alheia
+    weight: 8
+    confidence: 0.92
+  - name: superacao_limitacoes
+    weight: 8
+    confidence: 0.93
+  - name: mudanca_pessoal
+    weight: 7
+    confidence: 0.9
+  - name: ansiedade_mudanca
+    weight: 7
+    confidence: 0.88
+  - name: sentido_experiencias
+    weight: 6
+    confidence: 0.85
+  - name: determinismo_vs_livre_arbitrio
+    weight: 6
+    confidence: 0.87
+  - name: autoaceitacao
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '100'
+  - '170'
+  cdu_description: Psicologia Adleriana, Teleologia, Autodeterminação, Superação de Limitações, Mudança Pessoal, Ansiedade, Sentido das Experiências, Livre Arbítrio, Autoaceitação.
+---
 [![](https://m.media-amazon.com/images/I/711jdH7ZawL._SY160.jpg)](https://www.amazon.com.br/dp/B0798S8BNN)
 
 Your Kindle Notes For:

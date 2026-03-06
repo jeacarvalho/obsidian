@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:39.516178+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contabilidade_setor_publico
+    weight: 10
+    confidence: 0.98
+  - name: gestao_publica_municipal
+    weight: 9
+    confidence: 0.95
+  - name: normas_contabilidade_publica_brasil
+    weight: 8
+    confidence: 0.92
+  - name: padroes_contabilidade_publica_internacionais
+    weight: 7
+    confidence: 0.9
+  - name: contabilidade_governamental_administrativa
+    weight: 8
+    confidence: 0.93
+  - name: orcamento_gestao_publica
+    weight: 7
+    confidence: 0.88
+  - name: administracao_publica_instituicoes
+    weight: 6
+    confidence: 0.85
+  - name: relacionamento_poderes_executivo_legislativo_judiciario
+    weight: 5
+    confidence: 0.75
+  - name: administracao_direta_indireta
+    weight: 6
+    confidence: 0.8
+  - name: mcasp_normas_execucao
+    weight: 7
+    confidence: 0.88
+  cdu_primary: '336.1'
+  cdu_secondary:
+  - '351.71'
+  - '352'
+  - '005.32'
+  cdu_description: Finanças públicas. Contabilidade pública. Orçamento público. Administração pública.
+---
 # REFERÊNCIA
 ## BÁSICA
 - Ebook : [[CPP_ebook.pdf]]

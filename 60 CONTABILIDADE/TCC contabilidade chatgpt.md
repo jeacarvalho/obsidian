@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:36.053565+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contabilidade_critica
+    weight: 10
+    confidence: 0.98
+  - name: estudos_decoloniais_contabilidade
+    weight: 9
+    confidence: 0.97
+  - name: dominio_economico_contabilidade
+    weight: 8
+    confidence: 0.96
+  - name: resistencia_social_contabilidade
+    weight: 8
+    confidence: 0.95
+  - name: justica_social_contabilidade
+    weight: 7
+    confidence: 0.94
+  - name: epistemologias_sul_global
+    weight: 7
+    confidence: 0.93
+  - name: desigualdades_estruturais_contabilidade
+    weight: 6
+    confidence: 0.92
+  - name: abordagens_historicas_contabilidade
+    weight: 6
+    confidence: 0.91
+  - name: diversidade_pesquisa_contabil
+    weight: 5
+    confidence: 0.9
+  - name: colonialismo_financeiro
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '657.3'
+  cdu_secondary:
+  - '327.3'
+  - '305.8'
+  cdu_description: Contabilidade. Teoria e crítica da contabilidade. Contabilidade e relações de poder. Estudos decoloniais e contabilidade. Contabilidade e justiça social.
+---
 **PRÉ-PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO**
 
 **1) INTRODUÇÃO**  

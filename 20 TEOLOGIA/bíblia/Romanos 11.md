@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:47.942560+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: eleicao_graca_remanescente_fiel
+    weight: 10
+    confidence: 0.98
+  - name: endurecimento_israel_salvacao_gentios
+    weight: 9
+    confidence: 0.95
+  - name: misterio_endurecimento_parcial_israel
+    weight: 8
+    confidence: 0.92
+  - name: plenitude_gentios_restabelecimento_israel
+    weight: 9
+    confidence: 0.96
+  - name: riqueza_mundo_transgressao_israel
+    weight: 7
+    confidence: 0.9
+  - name: reconciliacao_mundo_rejeicao_israel
+    weight: 7
+    confidence: 0.91
+  - name: enxerto_novo_incredulidade_israel
+    weight: 8
+    confidence: 0.93
+  - name: misericordia_deus_todos_desobediencia
+    weight: 10
+    confidence: 0.99
+  - name: bondade_severidade_deus_caidos
+    weight: 8
+    confidence: 0.94
+  - name: dons_vocacao_deus_irrevogaveis
+    weight: 9
+    confidence: 0.97
+  cdu_primary: '230.2'
+  cdu_secondary: []
+  cdu_description: Teologia cristã. Doutrina da salvação. Predestinação e eleição. Graça divina. Teologia paulina. Escatologia.
+---
 RM_11_16
 
 Assim também nos dias de hoje sobrevive um remanescente segundo a eleição da graça.

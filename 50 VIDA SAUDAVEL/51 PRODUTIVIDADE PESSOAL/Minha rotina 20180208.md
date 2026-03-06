@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:39.983155+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_de_tempo_e_produtividade_no_trabalho
+    weight: 9
+    confidence: 0.9
+  - name: vida_espiritual_e_oracao
+    weight: 10
+    confidence: 0.95
+  - name: atividade_fisica_e_exercicios
+    weight: 7
+    confidence: 0.85
+  - name: relacionamento_conjugal_e_tempo_de_casal
+    weight: 8
+    confidence: 0.9
+  - name: educacao_e_desenvolvimento_infantil
+    weight: 8
+    confidence: 0.9
+  - name: relacionamento_familiar_e_presenca_paterna
+    weight: 9
+    confidence: 0.92
+  - name: preparacao_de_sermoes_e_lideranca_religiosa
+    weight: 7
+    confidence: 0.88
+  - name: amizade_e_relacionamentos_interpessoais_profundos
+    weight: 6
+    confidence: 0.8
+  - name: autocuidado_e_lazer_praia
+    weight: 5
+    confidence: 0.75
+  - name: rotina_diaria_e_organizacao_pessoal
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '305.4'
+  - '262.1'
+  - '37'
+  - '613.7'
+  cdu_description: Psicologia da vida prática e do trabalho; Psicologia da vida familiar; Teologia pastoral; Educação; Higiene. Atividade física.
+---
 #ler
 
 Minha rotina 20180208

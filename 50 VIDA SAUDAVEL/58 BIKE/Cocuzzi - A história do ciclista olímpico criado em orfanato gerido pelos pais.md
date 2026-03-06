@@ -3,6 +3,46 @@ created: 2021-06-22T13:57:33 (UTC -03:00)
 tags: []
 source: https://www.uol.com.br/esporte/olimpiadas/reportagens-especiais/ciclista-luiz-henrique-cocuzzi-mora-em-um-lar-para-menores-e-vai-a-toquio/
 author: Luiz Henrique Cocuzzi, em depoimento a Demétrio Vecchioli
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:49.636841+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ciclismo_mountain_bike
+    weight: 10
+    confidence: 0.98
+  - name: luiz_henrique_cocuzzi
+    weight: 10
+    confidence: 0.99
+  - name: instituto_para_menores
+    weight: 9
+    confidence: 0.97
+  - name: jogos_olimpicos_toquio
+    weight: 9
+    confidence: 0.96
+  - name: historia_de_superacao
+    weight: 8
+    confidence: 0.95
+  - name: acolhimento_infantil
+    weight: 8
+    confidence: 0.94
+  - name: familia_adotiva
+    weight: 7
+    confidence: 0.93
+  - name: esporte_e_educacao
+    weight: 7
+    confidence: 0.92
+  - name: zona_rural_sao_paulo
+    weight: 6
+    confidence: 0.9
+  - name: vulnerabilidade_social
+    weight: 6
+    confidence: 0.91
+  cdu_primary: '796.6'
+  cdu_secondary:
+  - '364.6'
+  - 316.343.6
+  cdu_description: 796.6 Ciclismo; 364.6 Assistência social a menores; 316.343.6 Jovens em situação de vulnerabilidade
 ---
 
 # A [[história]] do ciclista olímpico criado em orfanato gerido pelos pais

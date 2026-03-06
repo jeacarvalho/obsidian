@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:08.429167+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: critica_visao_materialista_universo
+    weight: 9
+    confidence: 0.98
+  - name: comparacao_musicos_sem_maestro
+    weight: 8
+    confidence: 0.95
+  - name: papel_do_observador_fisica_quantica
+    weight: 10
+    confidence: 0.99
+  - name: realidade_como_probabilidade_quantica
+    weight: 9
+    confidence: 0.97
+  - name: convergencia_percepcao_realidade_compartilhada
+    weight: 8
+    confidence: 0.96
+  - name: argumento_existencia_deus_fisica_quantica
+    weight: 7
+    confidence: 0.94
+  - name: insuficiencia_do_homem_sem_transcendencia
+    weight: 6
+    confidence: 0.92
+  - name: interpretacao_religiosa_da_ciencia
+    weight: 7
+    confidence: 0.93
+  - name: providencia_divina_na_organizacao_realidade
+    weight: 8
+    confidence: 0.95
+  - name: limitacoes_da_compreensao_cientifica_sem_fe
+    weight: 6
+    confidence: 0.91
+  cdu_primary: '215'
+  cdu_secondary:
+  - '111.85'
+  - '530.12'
+  cdu_description: Relação entre religião e ciência, com foco na física quântica e na existência de Deus.
+---
 Estou aqui lendo Rovelli e pensando: esse cara só vê a física e a matemática do universo e fica maravilhado. Mas não vê nada Daquele que criou isso tudo.
 Para Rovelli o homem é o ápice de tudo. Sua capacidade de criar coisas espetaculares é a beleza que o escritor vê. Mas, de certa forma, sobe ao céu e não vê mais nada. Apenas a si mesmo. 
 E acho que não se basta. No fim do dia o homem não se basta.

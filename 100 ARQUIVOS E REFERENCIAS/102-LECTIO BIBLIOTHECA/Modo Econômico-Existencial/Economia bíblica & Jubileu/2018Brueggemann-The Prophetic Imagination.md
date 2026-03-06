@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:04.280739+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_sistematica_critica
+    weight: 10
+    confidence: 0.98
+  - name: hermeneutica_critica
+    weight: 9
+    confidence: 0.95
+  - name: profecia_como_critica_existencial
+    weight: 8
+    confidence: 0.92
+  - name: consciencia_real_vs_alternativa
+    weight: 7
+    confidence: 0.9
+  - name: linguagem_do_luto_publico
+    weight: 7
+    confidence: 0.88
+  - name: linguagem_da_esperanca_nao_derivada
+    weight: 7
+    confidence: 0.87
+  - name: critica_ao_totalismo_imperial
+    weight: 6
+    confidence: 0.85
+  - name: teologia_da_libertacao_influencia
+    weight: 6
+    confidence: 0.8
+  - name: critica_a_cegueira_de_genero_na_teologia
+    weight: 5
+    confidence: 0.75
+  - name: critica_a_romantizacao_da_marginalidade
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '230.1'
+  - 27-22
+  - '305.8'
+  cdu_description: Teologia Sistemática (230.0), Teologia Sistemática - Doutrinas sobre Deus (230.1), Protestantismo - Aspectos Sociais e Éticos (27-22), Sociologia da Religião (305.8)
+---
 ### 🔑 PASSO 1: ATIVAÇÃO DA LENTE DISCIPLINAR
 
 **Lente Ativada:** MODO TEOLÓGICO-CRÍTICO → *Teologia Sistemática com inflexão hermenêutica crítica*

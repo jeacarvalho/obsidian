@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:46.562506+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: preparacao_povo_santo_obra_edificar_corpo_cristo
+    weight: 9
+    confidence: 0.98
+  - name: unidade_fe_conhecimento_filho_deus
+    weight: 8
+    confidence: 0.95
+  - name: amadurecimento_medida_completa_estatura_cristo
+    weight: 7
+    confidence: 0.92
+  - name: funcao_especifica_ajuda_crescimento_corpo
+    weight: 6
+    confidence: 0.9
+  - name: controle_ira_antes_por_do_sol
+    weight: 8
+    confidence: 0.96
+  - name: livrar_amargura_raiva_ira_calunia
+    weight: 9
+    confidence: 0.97
+  - name: bondade_compaixao_perdao_em_cristo
+    weight: 9
+    confidence: 0.97
+  - name: imitacao_cristo_santidade
+    weight: 10
+    confidence: 0.99
+  - name: entusiasmo_trabalho_servir_ao_senhor
+    weight: 8
+    confidence: 0.94
+  - name: forca_senhor_poder_armadura_deus
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '230'
+  cdu_secondary:
+  - '248'
+  - '261.8'
+  - '273.2'
+  cdu_description: Teologia cristã; Doutrinas cristãs; Vida e prática cristãs; Ética cristã; Luta contra o mal
+---
 [[EF_4_1_6]]
 [[EF_4_13_16]]
 [[EF_4_25-5_2]]

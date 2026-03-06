@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:58.681047+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: colaboracao_equipe_interdepartamental
+    weight: 9
+    confidence: 0.98
+  - name: atendimento_cliente_interno_externo
+    weight: 8
+    confidence: 0.95
+  - name: ambiente_trabalho_saudavel_respeitoso
+    weight: 7
+    confidence: 0.92
+  - name: compartilhamento_conhecimento_experiencia
+    weight: 9
+    confidence: 0.97
+  - name: adaptacao_mudanca_ambiguidade
+    weight: 8
+    confidence: 0.96
+  - name: resolucao_problemas_situacoes_imprevistas
+    weight: 8
+    confidence: 0.94
+  - name: aperfeicoamento_profissional_desenvolvimento
+    weight: 7
+    confidence: 0.93
+  - name: lideranca_estrategica_resultados_empresariais
+    weight: 10
+    confidence: 0.99
+  - name: alinhamento_estrategico_organizacional
+    weight: 9
+    confidence: 0.97
+  - name: lideranca_inspiradora_mobilizacao_equipe
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '331.3'
+  - '331.4'
+  - '331.5'
+  - '331.8'
+  cdu_description: Gestão de pessoal. Administração de pessoal. Relações de trabalho. Organização do trabalho. Condições de trabalho. Segurança e saúde no trabalho.
+---
 # ATUAÇÃO COLABORATIVA
 COLABORAR COM A EQUIPE, GESTOR E ENVOLVIDOS DAS OUTRAS ÁREAS NO ATENDIMENTO DE DEMANDAS INTERNAS E EXTERNAS, PROPORCIONANDO UM AMBIENTE DE TRABALHO SAUDÁVEL E RESPEITOSO.
 

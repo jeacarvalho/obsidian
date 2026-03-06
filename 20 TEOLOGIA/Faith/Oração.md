@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:12.487321+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: importancia_da_oracao
+    weight: 10
+    confidence: 0.98
+  - name: vigilancia_espiritual
+    weight: 9
+    confidence: 0.95
+  - name: prudencia_contra_pecado
+    weight: 8
+    confidence: 0.92
+  - name: oracao_intercessoria
+    weight: 7
+    confidence: 0.9
+  - name: relacionamento_com_deus
+    weight: 8
+    confidence: 0.93
+  - name: obediencia_a_deus
+    weight: 7
+    confidence: 0.91
+  - name: fe_em_jesus_cristo
+    weight: 6
+    confidence: 0.88
+  - name: amor_fraterno
+    weight: 6
+    confidence: 0.87
+  - name: oracao_em_crises
+    weight: 7
+    confidence: 0.89
+  - name: paz_interior
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '248.3'
+  cdu_secondary: []
+  cdu_description: Prática da vida cristã. Oração
+---
 Oração
 
 O fim de todas as coisas está perto. Sejam prudentes e estejam alertas para poder orar. (1 Pedro 4:7 NTLH)

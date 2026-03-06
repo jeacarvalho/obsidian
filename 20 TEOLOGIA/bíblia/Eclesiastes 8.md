@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:26.033070+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sabedoria_na_autoridade
+    weight: 9
+    confidence: 0.98
+  - name: escolha_de_batalhas
+    weight: 8
+    confidence: 0.95
+  - name: consequencias_da_obediencia
+    weight: 7
+    confidence: 0.92
+  - name: tempo_e_modo_de_agir
+    weight: 8
+    confidence: 0.96
+  - name: temor_a_deus
+    weight: 9
+    confidence: 0.97
+  - name: perspectiva_divina
+    weight: 7
+    confidence: 0.9
+  - name: alegria_terrena
+    weight: 8
+    confidence: 0.94
+  - name: vaidade_existencial
+    weight: 6
+    confidence: 0.88
+  - name: compreensao_da_obra_divina
+    weight: 7
+    confidence: 0.91
+  - name: esforco_em_buscar_conhecimento
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '200'
+  cdu_secondary:
+  - '170'
+  - '230'
+  cdu_description: Religião. Teologia. Ética. Filosofia da religião. Teologia sistemática. Ética religiosa.
+---
 Não se apresse em deixar a presença do rei, nem se levante em favor de uma causa errada, visto que o rei faz o que bem entende. Eclesiastes 8:3 NVI
 - [[Sabedoria]] pra escolher as batalhas diante de quem tem autoridade. Seja rei, presidente. Seja chefe, superintendente..
 - Veja a orientação: seja sábio!

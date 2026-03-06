@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:20.028223+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: importancia_da_oracao_na_vida_crista
+    weight: 10
+    confidence: 0.98
+  - name: poder_do_espirito_na_oracao
+    weight: 9
+    confidence: 0.95
+  - name: oracao_como_sacrificio_agradavel_a_deus
+    weight: 8
+    confidence: 0.92
+  - name: oracao_contemplativa_e_incessante
+    weight: 7
+    confidence: 0.9
+  - name: oracao_pela_cura_dos_enfermos
+    weight: 6
+    confidence: 0.88
+  - name: oracao_pelas_autoridades_e_lideres
+    weight: 5
+    confidence: 0.85
+  - name: oracao_como_alternativa_a_ansiedade
+    weight: 7
+    confidence: 0.87
+  - name: oracao_pela_salvacao_de_todos
+    weight: 6
+    confidence: 0.86
+  - name: oracao_e_gratidao_pelos_dons_recebidos
+    weight: 5
+    confidence: 0.84
+  - name: oracao_conjugal_e_espiritual
+    weight: 5
+    confidence: 0.82
+  cdu_primary: '248.36'
+  cdu_secondary: []
+  cdu_description: Prática da vida cristã. Oração
+---
 Oração pelo NT
 
 - Prayer brings the power of the Spirit in [[Atos 4]]4:24, 

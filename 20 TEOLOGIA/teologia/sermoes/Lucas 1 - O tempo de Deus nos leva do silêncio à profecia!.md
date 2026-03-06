@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:04.494345+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: velocidade_propagacao_informacao
+    weight: 8
+    confidence: 0.9
+  - name: democratizacao_canais_informacao
+    weight: 7
+    confidence: 0.85
+  - name: acostumar_mal_velocidade_informacao
+    weight: 6
+    confidence: 0.8
+  - name: expectativa_resolucao_rapida_problemas
+    weight: 9
+    confidence: 0.92
+  - name: diferenca_realidade_expectativa_velocidade
+    weight: 10
+    confidence: 0.95
+  - name: ciclo_natural_crescimento_colheita
+    weight: 7
+    confidence: 0.88
+  - name: influencia_tecnologia_sociedade
+    weight: 6
+    confidence: 0.75
+  - name: tempo_silencio_profetico
+    weight: 9
+    confidence: 0.93
+  - name: historia_zacarias_profecia
+    weight: 10
+    confidence: 0.98
+  - name: revelacao_divina_tempo_historico
+    weight: 8
+    confidence: 0.91
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '305.8'
+  - '004'
+  cdu_description: Teologia cristã; História eclesiástica; Religião; Sociologia da religião; Tecnologia da informação
+---
 [[Lucas 1]] - **O tempo de Deus nos leva do silêncio à profecia!**
 
 Introdução

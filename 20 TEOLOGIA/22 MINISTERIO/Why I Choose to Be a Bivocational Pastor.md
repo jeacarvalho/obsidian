@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:22.264584+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pastorado_bivocacional
+    weight: 10
+    confidence: 0.98
+  - name: plantacao_de_igrejas
+    weight: 9
+    confidence: 0.95
+  - name: teologia_pratica
+    weight: 8
+    confidence: 0.92
+  - name: evangelismo_pessoal
+    weight: 9
+    confidence: 0.96
+  - name: relacionamentos_interpessoais
+    weight: 7
+    confidence: 0.9
+  - name: etica_de_trabalho_crista
+    weight: 8
+    confidence: 0.93
+  - name: ministerio_de_sustentacao_propria
+    weight: 10
+    confidence: 0.97
+  - name: formacao_profissional_e_ministerio
+    weight: 7
+    confidence: 0.88
+  - name: impacto_social_do_evangelho
+    weight: 8
+    confidence: 0.91
+  - name: ministerio_em_comunidades_indigenas
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '280.1'
+  cdu_secondary:
+  - '269.4'
+  - '331.5'
+  - '305.8'
+  cdu_description: Religião. Teologia. Religião cristã. Outras formas de vida religiosa e de atividade religiosa. Vida religiosa e atividade religiosa. Pastorado. Ministérios. Pastorado bivocacional. Evangelismo. Plantio de igrejas. Trabalho e emprego. Relações sociais. Povos indígenas.
+---
 [[Ministério Fiel]]
 
 Why I Choose to Be a Bivocational Pastor

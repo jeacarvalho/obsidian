@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:58:28.548251+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: transtornos_psicossomaticos
+    weight: 10
+    confidence: 0.98
+  - name: modelo_interacao_mente_corpo
+    weight: 9
+    confidence: 0.95
+  - name: relacao_psicologico_fisico
+    weight: 8
+    confidence: 0.92
+  - name: fatores_psicologicos_disfuncao_fisica
+    weight: 7
+    confidence: 0.9
+  - name: estresse_emocional_doencas
+    weight: 6
+    confidence: 0.88
+  - name: disturbios_fisiologicos_psicossomaticos
+    weight: 7
+    confidence: 0.85
+  - name: ulcera_duodenal_psicossomatica
+    weight: 5
+    confidence: 0.8
+  - name: hipertensao_psicossomatica
+    weight: 5
+    confidence: 0.8
+  - name: histeria_sintomas_somaticos
+    weight: 6
+    confidence: 0.87
+  - name: tratamento_psicologico_doencas_fisicas
+    weight: 7
+    confidence: 0.89
+  cdu_primary: 616.89-008.4
+  cdu_secondary:
+  - '159.942'
+  - '613.88'
+  cdu_description: '616.89-008.4: Doenças psicossomáticas. 159.942: Emoções, sentimentos. 613.88: Relações sexuais e familiares. Saúde sexual.'
+---
 # Capítulo 8
 
 of psychosomatic disorders and hysteria that an “interaction

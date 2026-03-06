@@ -2,7 +2,48 @@
 created: 2021-03-18T09:18:00 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.42.4/b393d742cdd2/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:58:28.523708+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: oracao_celta
+    weight: 9
+    confidence: 0.9
+  - name: espiritualidade_cotidiana
+    weight: 8
+    confidence: 0.85
+  - name: teologia_de_deus
+    weight: 7
+    confidence: 0.75
+  - name: esperanca_crista
+    weight: 8
+    confidence: 0.8
+  - name: segunda_vinda_de_cristo
+    weight: 7
+    confidence: 0.7
+  - name: vida_espiritual_na_igreja
+    weight: 9
+    confidence: 0.88
+  - name: vitalidade_espiritual
+    weight: 8
+    confidence: 0.82
+  - name: compromisso_religioso
+    weight: 7
+    confidence: 0.78
+  - name: recursos_subutilizados_na_igreja
+    weight: 6
+    confidence: 0.65
+  - name: poesia_religiosa
+    weight: 5
+    confidence: 0.55
+  cdu_primary: '280.1'
+  cdu_secondary:
+  - '230'
+  - '260'
+  - '240'
+  cdu_description: Religião. Teologia. Cristianismo. Doutrinas cristãs. Prática cristã. Vida espiritual. Oração. Espiritualidade. Vida e prática cristãs.
 ---
 
 [![](https://m.media-amazon.com/images/I/91etloynLHL._SY160.jpg)](https://www.amazon.com/dp/B008CEVZ3C)

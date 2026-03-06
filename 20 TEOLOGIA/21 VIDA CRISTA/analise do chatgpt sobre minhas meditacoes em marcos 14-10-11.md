@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:13:23.235854+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_reflexiva_motivacoes_judas
+    weight: 8
+    confidence: 0.9
+  - name: angustia_injustica_social_contemporanea
+    weight: 7
+    confidence: 0.85
+  - name: reflexao_redencao_disponibilidade_graca
+    weight: 6
+    confidence: 0.8
+  - name: acao_pratica_transformacao_comunidade
+    weight: 7
+    confidence: 0.88
+  - name: teologia_reformada_soberania_deus_cristo
+    weight: 9
+    confidence: 0.92
+  - name: interpretacao_cegueira_espiritual_sem_espirito
+    weight: 8
+    confidence: 0.89
+  - name: comentario_calvino_ganancia_falta_entendimento
+    weight: 7
+    confidence: 0.85
+  - name: comentario_tim_keller_idolatria_libertacao_prioritaria
+    weight: 7
+    confidence: 0.87
+  - name: proposta_sermao_messias_transformador_coracoes
+    weight: 9
+    confidence: 0.95
+  - name: libertacao_verdadeira_mudanca_social_consequencia
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '273.6'
+  - '261.8'
+  - '232.9'
+  cdu_description: Teologia cristã. Teologia sistemática. Doutrinas sobre Deus, Cristo e a Salvação. Teologia Reformada. Ética cristã e ação social.
+---
 # analise do chatgpt sobre minhas meditacoes em [[marcos 14]]-10-11
 
 

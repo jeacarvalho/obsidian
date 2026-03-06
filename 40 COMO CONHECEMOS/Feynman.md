@@ -1,8 +1,47 @@
 ---
 created: 2021-02-22T14:13:58 (UTC -03:00)
-tags: [estudo]
+tags:
+- estudo
 source: https://fs.blog/2021/02/feynman-learning-technique/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:30.685043+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: tecnica_feynman_aprendizagem
+    weight: 10
+    confidence: 0.98
+  - name: simplificacao_conceitos_complexos
+    weight: 9
+    confidence: 0.95
+  - name: ensinar_para_aprender
+    weight: 9
+    confidence: 0.96
+  - name: compreensao_profunda_conhecimento
+    weight: 9
+    confidence: 0.94
+  - name: superar_dificuldades_aprendizagem
+    weight: 8
+    confidence: 0.9
+  - name: linguagem_simples_explicacao
+    weight: 8
+    confidence: 0.92
+  - name: identificacao_lacunas_conhecimento
+    weight: 7
+    confidence: 0.88
+  - name: evitar_jargao_tecnico
+    weight: 7
+    confidence: 0.89
+  - name: organizacao_conhecimento
+    weight: 7
+    confidence: 0.87
+  - name: revisitar_material_fonte
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '37.0'
+  cdu_secondary: []
+  cdu_description: Educação. Ensino. Pedagogia. Formação profissional. Educação de adultos.
 ---
 
 # The Feynman Learning Technique

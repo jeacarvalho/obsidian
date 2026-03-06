@@ -1,8 +1,50 @@
 ---
 created: 2021-02-19T16:51:45 (UTC -03:00)
-tags: [rust]
+tags:
+- rust
 source: https://medium.com/tenable-techblog/building-a-microservice-with-rust-23a4de6e5e14
 author: Mikhail Medvedev
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:51.863578+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_microsservico_rust
+    weight: 10
+    confidence: 0.98
+  - name: linguagem_programacao_rust
+    weight: 9
+    confidence: 0.97
+  - name: arquitetura_microsservicos
+    weight: 8
+    confidence: 0.95
+  - name: api_rest
+    weight: 7
+    confidence: 0.9
+  - name: gerenciamento_memoria_rust
+    weight: 8
+    confidence: 0.92
+  - name: framework_web_actix_web
+    weight: 7
+    confidence: 0.88
+  - name: orm_diesel
+    weight: 6
+    confidence: 0.85
+  - name: cliente_kafka_rust
+    weight: 6
+    confidence: 0.87
+  - name: serializacao_deserializacao_serde
+    weight: 5
+    confidence: 0.8
+  - name: docker_containerizacao
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '004.41'
+  cdu_secondary:
+  - '004.77'
+  - '004.8'
+  - '004.6'
+  cdu_description: Programação de computadores com Rust para desenvolvimento de microsserviços, incluindo APIs REST, ORM, mensageria (Kafka) e containerização com Docker.
 ---
 
 # Building a microservice with Rust | by Mikhail Medvedev | Tenable TechBlog | Feb, 2021 | Medium

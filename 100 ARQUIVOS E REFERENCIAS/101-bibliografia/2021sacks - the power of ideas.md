@@ -3,6 +3,51 @@ created: 2023-08-08T21:12:04 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
 author: Jonathan Sacks
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:58.887623+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fragilidade_natureza_habitat_humano
+    weight: 7
+    confidence: 0.85
+  - name: celebracao_festivais_religiosos
+    weight: 6
+    confidence: 0.75
+  - name: ciencia_vs_religiao_compreensao_mundo
+    weight: 8
+    confidence: 0.9
+  - name: importancia_rituais_preservacao_memoria_civilizacoes
+    weight: 9
+    confidence: 0.95
+  - name: transmissao_ideais_valores_familia
+    weight: 10
+    confidence: 0.98
+  - name: influencia_duradoura_vs_poder_efemero
+    weight: 7
+    confidence: 0.8
+  - name: tolerancia_uniao_comunidade
+    weight: 6
+    confidence: 0.7
+  - name: superacao_crise_melhoria_pessoal
+    weight: 5
+    confidence: 0.65
+  - name: riscos_fake_news_impacto_suicidio
+    weight: 10
+    confidence: 0.99
+  - name: abrir_mao_controle_incerteza
+    weight: 8
+    confidence: 0.88
+  cdu_primary: '308'
+  cdu_secondary:
+  - '201'
+  - '001'
+  - '316.3'
+  - '394.4'
+  - '177.8'
+  - '323.44'
+  - '303.3'
+  cdu_description: Estudo da vida social, costumes, civilização, religião, ciência, rituais, valores, fake news e a condição humana.
 ---
 
 # The Power of Ideas: Words of Faith and Wisdom (English Edition)

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:02.533931+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: trabalho_hibrido_organizacional
+    weight: 9
+    confidence: 0.98
+  - name: resiliencia_carreira
+    weight: 10
+    confidence: 0.99
+  - name: futuro_do_trabalho
+    weight: 8
+    confidence: 0.97
+  - name: desenvolvimento_competencias_hibridas
+    weight: 9
+    confidence: 0.96
+  - name: transformacao_digital_acelerada
+    weight: 7
+    confidence: 0.95
+  - name: talento_hibrido_mistura_funcionarios_maquinas_gig_economy
+    weight: 8
+    confidence: 0.94
+  - name: gestao_forca_trabalho_hibrida
+    weight: 7
+    confidence: 0.93
+  - name: aprendizagem_continua_longa_vida
+    weight: 8
+    confidence: 0.92
+  - name: competencias_socioemocionais_autogerenciamento
+    weight: 7
+    confidence: 0.91
+  - name: adaptacao_mudancas_carreira
+    weight: 6
+    confidence: 0.9
+  cdu_primary: '331.5'
+  cdu_secondary:
+  - '004'
+  - '305.8'
+  - '37.01'
+  cdu_description: Trabalho e emprego. Condições de trabalho. Gestão de recursos humanos. Futuro do trabalho. Trabalho híbrido. Resiliência de carreira. Desenvolvimento de competências. Aprendizagem contínua. Transformação digital.
+---
 https://www.ibm.com/blogs/ibm-training/hybrid-work-learning-career-resilience/?utm_medium=email&utm_source=other&utm_campaign=partner.348.opencourse.targetedmessages.marketing~partner.348.h8CuEtEWTuyREilz1Jipzw
 
 # Thriving in the Age of Hybrid Work: Build career resilience with Skills - IBM Training and Skills Blog

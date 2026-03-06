@@ -1,4 +1,46 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:23.192173+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: incredulidade_vs_fidelidade_deus
+    weight: 8
+    confidence: 0.9
+  - name: eleicao_divina_sustenta_salvacao
+    weight: 7
+    confidence: 0.85
+  - name: corrupcao_pecador_redencao
+    weight: 9
+    confidence: 0.92
+  - name: linguagem_enganosa_veneno_labios
+    weight: 6
+    confidence: 0.75
+  - name: boca_cheia_maldicao_amargura
+    weight: 6
+    confidence: 0.78
+  - name: ausencia_caminho_paz_justica
+    weight: 7
+    confidence: 0.88
+  - name: ausencia_temor_deus_olhos
+    weight: 7
+    confidence: 0.89
+  - name: lei_revela_pecado_nao_justifica
+    weight: 9
+    confidence: 0.95
+  - name: justificacao_pela_fe_em_jesus
+    weight: 10
+    confidence: 0.98
+  - name: redencao_gratuita_propiciacao_sangue
+    weight: 10
+    confidence: 0.97
+  cdu_primary: '230.9'
+  cdu_secondary:
+  - '232.9'
+  - '234.2'
+  - '227.1'
+  cdu_description: Teologia cristã. Doutrina da salvação. Justificação pela fé. Redenção em Cristo. Pecado e lei. Romanos.
+---
 
 E então? Se alguns não creram, será que a incredulidade deles anulará a [[fidelidade]] de Deus? De modo nenhum! Seja Deus verdadeiro, e todo ser humano, mentiroso, como está escrito: “Para que sejas justificado nas tuas palavras e venhas a vencer quando fores julgado.” Romanos 3:3‭-‬4 NAA
 

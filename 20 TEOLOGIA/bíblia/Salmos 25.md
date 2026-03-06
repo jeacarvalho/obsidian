@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:47.740178+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: confianca_em_deus
+    weight: 10
+    confidence: 0.98
+  - name: protecao_divina
+    weight: 9
+    confidence: 0.95
+  - name: esperanca_no_senhor
+    weight: 8
+    confidence: 0.92
+  - name: orientacao_divina
+    weight: 7
+    confidence: 0.9
+  - name: caminhos_de_deus
+    weight: 6
+    confidence: 0.88
+  - name: ensino_divino
+    weight: 7
+    confidence: 0.87
+  - name: misericordia_e_verdade_divina
+    weight: 6
+    confidence: 0.85
+  - name: alianca_com_deus
+    weight: 5
+    confidence: 0.83
+  - name: alivio_nas_tribulacoes
+    weight: 8
+    confidence: 0.91
+  - name: perdao_dos_pecados
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '231.7'
+  cdu_secondary:
+  - '248.2'
+  - '223.2'
+  cdu_description: Teologia da confiança e esperança em Deus, com ênfase na orientação divina e alívio nas tribulações, referenciando Salmos.
+---
 Deus meu, em ti confio. Não seja eu envergonhado, nem exultem sobre mim os meus inimigos. Salmos 25:2 NAA  
 - quem são meus inimigos hoje?  
 - de quem peço proteção a Deus?  

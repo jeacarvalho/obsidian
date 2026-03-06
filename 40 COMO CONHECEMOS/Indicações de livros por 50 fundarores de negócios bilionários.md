@@ -1,4 +1,47 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:29.343998+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: livros_recomendados_bilionarios
+    weight: 10
+    confidence: 0.98
+  - name: influencia_livros_sucesso
+    weight: 9
+    confidence: 0.97
+  - name: autores_best_sellers
+    weight: 8
+    confidence: 0.96
+  - name: desenvolvimento_pessoal_literatura
+    weight: 7
+    confidence: 0.95
+  - name: psicologia_persuasao_leitura
+    weight: 6
+    confidence: 0.9
+  - name: estrategia_negocios_livros
+    weight: 6
+    confidence: 0.88
+  - name: biografias_empreendedores_literatura
+    weight: 5
+    confidence: 0.85
+  - name: filosofia_incerteza_leitura
+    weight: 5
+    confidence: 0.87
+  - name: produtividade_gestao_livros
+    weight: 5
+    confidence: 0.86
+  - name: narrativas_inspiradoras_literatura
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '028.5'
+  cdu_secondary:
+  - '159.9'
+  - '005.5'
+  - '338.0'
+  - '929'
+  cdu_description: Seleção e recomendação de livros para desenvolvimento pessoal e profissional, com foco em biografias, negócios, psicologia, filosofia e produtividade, baseada nas leituras de pessoas bem-sucedidas.
+---
       The Unusual Books That Shaped 50+ Billionairesundefined Mega-Bestselling Authorsundefined and Other Prodigies | The Blog of Author Tim Ferriss
     
 

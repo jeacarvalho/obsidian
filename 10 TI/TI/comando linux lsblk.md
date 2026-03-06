@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:00.266162+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: dispositivos_de_bloco_so
+    weight: 10
+    confidence: 0.98
+  - name: dispositivos_loop
+    weight: 9
+    confidence: 0.95
+  - name: dispositivos_hd
+    weight: 8
+    confidence: 0.9
+  - name: dispositivos_ssd
+    weight: 8
+    confidence: 0.9
+  - name: sistema_operacional
+    weight: 7
+    confidence: 0.85
+  - name: gerenciamento_armazenamento
+    weight: 7
+    confidence: 0.8
+  - name: particionamento_disco
+    weight: 6
+    confidence: 0.75
+  - name: montagem_sistema_arquivos
+    weight: 6
+    confidence: 0.7
+  - name: dispositivos_rom
+    weight: 5
+    confidence: 0.65
+  - name: snap_pacotes
+    weight: 5
+    confidence: 0.6
+  cdu_primary: '004.77'
+  cdu_secondary:
+  - '004.42'
+  - '004.11'
+  cdu_description: Organização e gestão de dispositivos de armazenamento e sistemas de arquivos em sistemas operacionais, com foco em dispositivos de bloco como HDs, SSDs e dispositivos loop (usados por pacotes Snap).
+---
 - Lista os dispostivos de bloco que o SO enxerga. Interessante que não são somente os HDs ou SSDs. Há também dispositivos de "loop". Exemplo em minha máquina dia 20201117:
 NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
 loop0    7:0    0 240,8M  1 loop /snap/chromium/1399

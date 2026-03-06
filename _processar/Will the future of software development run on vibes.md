@@ -1,13 +1,54 @@
 ---
-title: "Will the future of software development run on vibes?"
-source: "https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/"
+title: Will the future of software development run on vibes?
+source: https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/
 author:
-  - "[[Ars Technica]]"
+- '[[Ars Technica]]'
 published: 2025-03-05
 created: 2025-04-04
-description: "Accepting AI-written code without understanding how it works is growing in popularity."
+description: Accepting AI-written code without understanding how it works is growing in popularity.
 tags:
-  - "clippings"
+- clippings
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:33.166182+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_software_com_ia
+    weight: 10
+    confidence: 0.98
+  - name: programacao_baseada_em_linguagem_natural
+    weight: 9
+    confidence: 0.95
+  - name: codificacao_por_vibes
+    weight: 10
+    confidence: 0.99
+  - name: ferramentas_ia_para_codificacao
+    weight: 8
+    confidence: 0.96
+  - name: modelos_linguagem_grande_llms
+    weight: 7
+    confidence: 0.92
+  - name: prototipagem_rapida_de_software
+    weight: 8
+    confidence: 0.93
+  - name: geracao_automatica_de_codigo
+    weight: 9
+    confidence: 0.97
+  - name: impacto_da_ia_no_desenvolvimento
+    weight: 7
+    confidence: 0.9
+  - name: desenvolvedores_nao_programadores
+    weight: 6
+    confidence: 0.88
+  - name: tendencias_futuras_desenvolvimento_software
+    weight: 7
+    confidence: 0.85
+  cdu_primary: '004.41'
+  cdu_secondary:
+  - '004.412'
+  - '004.415'
+  - '004.416'
+  cdu_description: Programação e desenvolvimento de software com auxílio de inteligência artificial, incluindo o uso de LLMs e técnicas como 'vibe coding', focando na geração automática de código e na acessibilidade para não programadores.
 ---
 To many people, coding is about precision. It's about telling a computer what to do and having the computer perform those actions exactly, precisely, and repeatedly. With the rise of AI tools like [ChatGPT](https://arstechnica.com/information-technology/2023/11/chatgpt-was-the-spark-that-lit-the-fire-under-generative-ai-one-year-ago-today/), it's now possible for someone to describe a program in English and have the AI model translate it into working code without ever understanding how the code works. Former OpenAI researcher Andrej Karpathy recently gave this practice a name—"vibe coding"—and it's gaining traction in tech circles.
 

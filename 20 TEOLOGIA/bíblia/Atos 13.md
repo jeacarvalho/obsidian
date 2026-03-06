@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:41.270722+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: intimidade_com_o_espirito_santo
+    weight: 10
+    confidence: 0.98
+  - name: pratica_do_jejum_no_cristianismo_primitivo
+    weight: 9
+    confidence: 0.95
+  - name: chamado_ministerial_de_paulo_e_barnabe
+    weight: 8
+    confidence: 0.92
+  - name: uso_do_poder_do_espirito_santo_para_autoridade
+    weight: 7
+    confidence: 0.88
+  - name: perseveranca_e_segunda_chance_ministerial
+    weight: 7
+    confidence: 0.85
+  - name: primeira_pregacao_de_paulo
+    weight: 8
+    confidence: 0.9
+  - name: rejeicao_do_evangelho_pelos_judeus
+    weight: 7
+    confidence: 0.87
+  - name: direcionamento_do_ministerio_para_os_gentios
+    weight: 9
+    confidence: 0.93
+  - name: crenca_dos_gentios_e_predestinacao
+    weight: 6
+    confidence: 0.8
+  - name: alegria_e_plenitude_do_espirito_no_servico
+    weight: 8
+    confidence: 0.91
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '232.9'
+  - '248.3'
+  - '265.1'
+  cdu_description: Novo Testamento - Atos dos Apóstolos, com foco em missões, jejum, oração, pregação e a obra do Espírito Santo.
+---
 Atos 13:2
 
 2 E, servindo eles ao Senhor e jejuando, disse o [[Espírito Santo]]: Separai-me, agora, Barnabé e Saulo para a obra a que os tenho chamado.

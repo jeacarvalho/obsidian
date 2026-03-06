@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:52.809778+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cultura_e_comportamento_cristao_primitivo
+    weight: 9
+    confidence: 0.98
+  - name: motivacoes_compartilhamento_generosidade
+    weight: 8
+    confidence: 0.97
+  - name: historia_barnabe_ananias_safira
+    weight: 10
+    confidence: 0.99
+  - name: autenticidade_na_fe
+    weight: 7
+    confidence: 0.95
+  - name: influencia_cultural_propriedade
+    weight: 8
+    confidence: 0.96
+  - name: pecado_e_motivacoes_egoistas
+    weight: 6
+    confidence: 0.93
+  - name: relatos_antigo_egito_compartilhamento
+    weight: 5
+    confidence: 0.9
+  - name: reflexao_generosidade_contemporanea
+    weight: 7
+    confidence: 0.94
+  - name: critica_motivacoes_falsas_generosidade
+    weight: 9
+    confidence: 0.97
+  - name: comparacao_barnabe_ananias_safira
+    weight: 8
+    confidence: 0.96
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '316.3'
+  - '396.3'
+  cdu_description: '27-29: História do Cristianismo. 316.3: Influência da cultura no comportamento social. 396.3: Ética social e moralidade.'
+---
 # Cap 1
 ## analise: 
 

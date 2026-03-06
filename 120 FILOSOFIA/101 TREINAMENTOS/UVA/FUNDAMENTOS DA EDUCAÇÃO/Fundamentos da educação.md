@@ -62,119 +62,108 @@ unidades:
     - Tensõe entre as teorias sempre existirem, dado os atores em cena
     - Toda teoria traz em si o que ela deseja ver como 'sociedade'.
     - 'Exemplo: naturalização da desigualdade social'
-    - A prática docente traz valores e significados. Não devemos apenas reproduzir
-      isso, mas, sempre, quetionar
-    - Tal como um escultor que corta a pedra ou o oleiro que modela a argila, para
-      lhes dar as formas almejadas, a ação pedagógica começou ali [na Grécia antiga]
-      a ser vista como um processo pelo qual se configura o comportamento dos seres
-      humanos.
-    - Emergiram ao longo do tempo inúmeras propostas e até mesmo doutrinas pedagógicas,
-      cada uma relacionada com o contexto e as condições históricas em que foram produzidas,
-      buscando formar o 'homem' e a sociedade de acordo com determinados pressupostos
-      (seja para mudar ou adequar o status quo)
-    - A educação se relaciona a contextos históricos que a engendram e a definem,
-      e ao mesmo tempo, aos quais ela própria ajuda a construir, tecer
-    - Bourdieu, é justamente a aparência institucional equitativa da escola, na qual
-      em tese todos teriam as mesmas oportunidades, que mascara e nos impede de perceber
-      como tais instituições podem ser conservadoras e injustas
-    - Não é possível desenvolver uma adequada formação docente sem compreender os
-      pressupostos que norteiam o nosso ofício
-    - A tendência é que o docente reproduza irrefletidamente um senso comum, um consenso,
-      sobre processo de ensino-aprendizagem
+    - A prática docente traz valores e significados. Não devemos apenas reproduzir isso, mas, sempre, quetionar
+    - Tal como um escultor que corta a pedra ou o oleiro que modela a argila, para lhes dar as formas almejadas, a ação pedagógica começou ali [na Grécia antiga] a ser vista como um processo pelo qual se configura o comportamento dos seres humanos.
+    - Emergiram ao longo do tempo inúmeras propostas e até mesmo doutrinas pedagógicas, cada uma relacionada com o contexto e as condições históricas em que foram produzidas, buscando formar o 'homem' e a sociedade de acordo com determinados pressupostos (seja para mudar ou adequar o status quo)
+    - A educação se relaciona a contextos históricos que a engendram e a definem, e ao mesmo tempo, aos quais ela própria ajuda a construir, tecer
+    - Bourdieu, é justamente a aparência institucional equitativa da escola, na qual em tese todos teriam as mesmas oportunidades, que mascara e nos impede de perceber como tais instituições podem ser conservadoras e injustas
+    - Não é possível desenvolver uma adequada formação docente sem compreender os pressupostos que norteiam o nosso ofício
+    - A tendência é que o docente reproduza irrefletidamente um senso comum, um consenso, sobre processo de ensino-aprendizagem
     titulo: Aula 1 O “senso comum” pedagógico
   - conteudo:
     - O que é pedagogia?
     - Como utopia, como ciência ou como filosofia?
-    - 'Ricardo Antunes de Sá (2008, p.59): Sendo a Pedagogia uma ciência aplicada
-      da e para a prática educativa (SCHMIED-KOWARZIK, 1983), seu objeto de estudo
-      é a educação (escolar e não-escolar).'
-    - 'Conforme indicação de Libâneo (2007, p.17): ''[...] a pedagogia é o campo científico
-      que faz uma reflexão sistemática sobre a prática educativa, a educação, que
-      é o objeto de estudo da pedagogia.'''
+    - 'Ricardo Antunes de Sá (2008, p.59): Sendo a Pedagogia uma ciência aplicada da e para a prática educativa (SCHMIED-KOWARZIK, 1983), seu objeto de estudo é a educação (escolar e não-escolar).'
+    - 'Conforme indicação de Libâneo (2007, p.17): ''[...] a pedagogia é o campo científico que faz uma reflexão sistemática sobre a prática educativa, a educação, que é o objeto de estudo da pedagogia.'''
     - Dois aspectos fundamentais
     - Primeiro, eles a situam no campo do conhecimento científico
-    - Segundo, tais autores chamam a atenção para o fato de que esse conhecimento
-      científico tem, não apenas como objeto uma prática, mas que também implicações
-      práticas, concretas na ação educativa
-    - As diferentes conotações do que vem a ser pedagogia, educação, didática etc.
-      têm a ver com as condições e contextos históricos em que foram produzidas, bem
-      como as filiações e tradições de pensamento a que cada autor estava ligado
-    - A pedagogia ocupa-se das tarefas de formação humana em contextos determinados
-      por marcos espaciais e temporais.
-    - A investigação do seu objeto, a educação, implica considerá-lo como uma realidade
-      em mudança (LIBÂNEO, 2005, p.15)
-    - Ghiraldelli Jr. (2006, p.36) vê limites claros entre filosofia da educação,
-      pedagogia, didática e educação.
-    - A filosofia da educação tem como marca um caráter mais 'questionador, reflexivo
-      e legitimador'
-    - Pedagogia é ser 'valorativa e normativa', ou seja, procura determinar a qualidade
-      ou o valor de algo, estabelecendo regras, normas ou padrões de comportamento.
-    - Já a didática tem como aspecto central a técnica, os instrumentos e procedimentos
-      de viabilização da educação.
+    - Segundo, tais autores chamam a atenção para o fato de que esse conhecimento científico tem, não apenas como objeto uma prática, mas que também implicações práticas, concretas na ação educativa
+    - As diferentes conotações do que vem a ser pedagogia, educação, didática etc. têm a ver com as condições e contextos históricos em que foram produzidas, bem como as filiações e tradições de pensamento a que cada autor estava ligado
+    - A pedagogia ocupa-se das tarefas de formação humana em contextos determinados por marcos espaciais e temporais.
+    - A investigação do seu objeto, a educação, implica considerá-lo como uma realidade em mudança (LIBÂNEO, 2005, p.15)
+    - Ghiraldelli Jr. (2006, p.36) vê limites claros entre filosofia da educação, pedagogia, didática e educação.
+    - A filosofia da educação tem como marca um caráter mais 'questionador, reflexivo e legitimador'
+    - Pedagogia é ser 'valorativa e normativa', ou seja, procura determinar a qualidade ou o valor de algo, estabelecendo regras, normas ou padrões de comportamento.
+    - Já a didática tem como aspecto central a técnica, os instrumentos e procedimentos de viabilização da educação.
     - E a educação seria a prática
-    - Franc Morandi (2008, p.8) percebe que, apesar das distinções, tais termos (como
-      educação, pedagogia e didática) estão não apenas historicamente imbricados,
-      como também funcionalmente; isto é, na prática, eles são indissociáveis.
+    - Franc Morandi (2008, p.8) percebe que, apesar das distinções, tais termos (como educação, pedagogia e didática) estão não apenas historicamente imbricados, como também funcionalmente; isto é, na prática, eles são indissociáveis.
     - 'Central: ''como'' e ''por que'' os professores ensinam'
     - 'Franc Morandi: A pedagogia diz respeito à experiência humana.'
-    - Ela é tanto um plano de ação, a realização de um projeto de sociedade e de suas
-      instituições, como uma relação, uma conduta realizadora, que passa por um encontro,
-      uma experiência em que nem tudo está dado a priori.
-    - Esse engajamento, esse contato direto com a realidade [...] é uma ação vivida
-      na complexidade da presença, mobilizando técnica, saber, organização e condução
-      de um trabalho, cruzamento da missão de ensinar e da necessária mediação humana.
+    - Ela é tanto um plano de ação, a realização de um projeto de sociedade e de suas instituições, como uma relação, uma conduta realizadora, que passa por um encontro, uma experiência em que nem tudo está dado a priori.
+    - Esse engajamento, esse contato direto com a realidade [...] é uma ação vivida na complexidade da presença, mobilizando técnica, saber, organização e condução de um trabalho, cruzamento da missão de ensinar e da necessária mediação humana.
     - A intenção pedagógica liga essas diferentes partes em um contrato de humanidade.
-    - 'A pedagogia não é uma ciência [ou, a nosso ver, não é apenas ciência], mas
-      uma prática consciente de conhecimentos de diversas ordens: conhecimento sobre
-      as condutas em pedagogia (dar aula, ajudar alunos com dificuldades), conhecimentos
-      disciplinares (programas e competências), conhecimentos sobre metodologias (organizadores
-      do trabalho docente), conhecimentos científicos (ciências da educação, do conhecimento,
-      humanas, sociais etc.), conhecimentos pedagógicos de ação, que vinculam o conhecimento
-      dos alunos às condições de exercício da profissão de professor.'
-    - A pedagogia se caracteriza, ainda pela trama original que ela tece entre uma
-      sociedade, seus saberes, suas práticas educativas e o ser humano em seu futuro,
-      no qual ela é um personagem.
-    - O engajamento pedagógico é também o da construção paradoxal de um mundo comum
-      que assegura autonomia a cada um.
+    - 'A pedagogia não é uma ciência [ou, a nosso ver, não é apenas ciência], mas uma prática consciente de conhecimentos de diversas ordens: conhecimento sobre as condutas em pedagogia (dar aula, ajudar alunos com dificuldades), conhecimentos disciplinares (programas e competências), conhecimentos sobre metodologias (organizadores do trabalho docente), conhecimentos científicos (ciências da educação, do conhecimento, humanas, sociais etc.), conhecimentos pedagógicos de ação, que vinculam o conhecimento dos alunos às condições de exercício da profissão de professor.'
+    - A pedagogia se caracteriza, ainda pela trama original que ela tece entre uma sociedade, seus saberes, suas práticas educativas e o ser humano em seu futuro, no qual ela é um personagem.
+    - O engajamento pedagógico é também o da construção paradoxal de um mundo comum que assegura autonomia a cada um.
     titulo: Aula 2 Por que estudar Fundamentos da Educação?
   - conteudo:
     - Pedagogia pode levar até à mudanças de amigos, de relações
-    - Conheça as teorias. Escolha a que mais seja adequada à sua realidade e formação,
-      mas não deixe de conhecer o máximo que puder das outras
+    - Conheça as teorias. Escolha a que mais seja adequada à sua realidade e formação, mas não deixe de conhecer o máximo que puder das outras
     - Priorize os clássicos
-    - John Dewey (1859-1952) chama atenção para a contínua reconstrução da experiência,
-      ao passo que passamos a nos interrogar constantemente sobre as nossas convicções
-      e concepções.
+    - John Dewey (1859-1952) chama atenção para a contínua reconstrução da experiência, ao passo que passamos a nos interrogar constantemente sobre as nossas convicções e concepções.
     - Não estranhe o 'estranhamento'
     - Fundamentos da educação dificilmente podem ser definidos de forma precisa.
     - Qualquer tentativa nesse sentido corre o risco de ser ou ampla ou restrita demais
-    - Interpretação marxista, a educação estaria determinada pelo desenvolvimento
-      das forças produtivas e das relações sociais de produção.
-    - Georg Simmel (1858-1918), a educação poderia ser interpretada como uma forma
-      de sociabilidade, que estrutura as interações entre indivíduos e grupos sociais,
-      mas como uma síntese frágil de forças opostas (distância e aproximação, consenso
-      e conflito, entre outras)
+    - Interpretação marxista, a educação estaria determinada pelo desenvolvimento das forças produtivas e das relações sociais de produção.
+    - Georg Simmel (1858-1918), a educação poderia ser interpretada como uma forma de sociabilidade, que estrutura as interações entre indivíduos e grupos sociais, mas como uma síntese frágil de forças opostas (distância e aproximação, consenso e conflito, entre outras)
     - Durkheim interpreta a educação como um fator de solidariedade.
-    - 'Muitos alunos, por desconhecerem a obra do sociólogo francês, acabam interpretando
-      o conceito durkheiminiano de solidariedade com uma das conotações mais usuais
-      do termo: isto é, sentimento de simpatia, ternura, piedade, caridade etc.'
-    - No entanto, para o autor, solidariedade é somente a construção de laços, de
-      vínculos sociais (sejam eles de que natureza for).
+    - 'Muitos alunos, por desconhecerem a obra do sociólogo francês, acabam interpretando o conceito durkheiminiano de solidariedade com uma das conotações mais usuais do termo: isto é, sentimento de simpatia, ternura, piedade, caridade etc.'
+    - No entanto, para o autor, solidariedade é somente a construção de laços, de vínculos sociais (sejam eles de que natureza for).
     - Esse tipo de engano traz várias confusões.
     - Clássicos ou os fundamentos se mostram tão importantes.
-    - Como uma linguagem ou mesmo uma gramática, essas obras nos ofereceriam uma base
-      comum para que a interlocução seja possível e faça sentido para todos que dela
-      participam.
-    - 'Nos ajuda também a não cairmos em uma armadilha bastante comum entre parte
-      dos alunos, professores e pessoas de um modo geral: a adoção de uma perspectiva
-      puramente ''empiricista'' do ofício docente.'
-    - 'Conhecer as diferentes abordagens sobre como, quando e por que educar, permite:
-      Situar nossa própria prática docente no contexto mais amplo das ações educativas.'
+    - Como uma linguagem ou mesmo uma gramática, essas obras nos ofereceriam uma base comum para que a interlocução seja possível e faça sentido para todos que dela participam.
+    - 'Nos ajuda também a não cairmos em uma armadilha bastante comum entre parte dos alunos, professores e pessoas de um modo geral: a adoção de uma perspectiva puramente ''empiricista'' do ofício docente.'
+    - 'Conhecer as diferentes abordagens sobre como, quando e por que educar, permite: Situar nossa própria prática docente no contexto mais amplo das ações educativas.'
     - Compreender o contexto histórico e social em que o trabalho educativo se dá.
-    - Oferecer 'ferramentas' teórico-metodológicas para adequar seu desempenho às
-      exigências concretas que o ofício docente exige.
+    - Oferecer 'ferramentas' teórico-metodológicas para adequar seu desempenho às exigências concretas que o ofício docente exige.
     titulo: Aula 3 A descoberta de “bússolas” pedagógicas
   titulo: Unidade 1 - Por que estudar Fundamentos da Educação?
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:54:09.710938+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fundamentos_da_educacao
+    weight: 10
+    confidence: 0.98
+  - name: teorias_pedagogicas
+    weight: 9
+    confidence: 0.95
+  - name: historia_das_ideias_pedagogicas
+    weight: 8
+    confidence: 0.92
+  - name: sociologia_da_educacao
+    weight: 7
+    confidence: 0.9
+  - name: filosofia_da_educacao
+    weight: 8
+    confidence: 0.93
+  - name: etica_na_educacao
+    weight: 6
+    confidence: 0.88
+  - name: critica_educacional
+    weight: 7
+    confidence: 0.91
+  - name: pratica_docente
+    weight: 7
+    confidence: 0.9
+  - name: senso_comum_pedagogico
+    weight: 6
+    confidence: 0.85
+  - name: didatica
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '37.01'
+  cdu_secondary:
+  - '37.011'
+  - '37.013'
+  - '37.014'
+  - '37.018'
+  - '37.017'
+  - '37.015'
+  - '37.016'
+  - '37.012'
+  cdu_description: Fundamentos da educação. Teorias pedagógicas. História das ideias pedagógicas. Filosofia da educação. Sociologia da educação. Ética na educação. Crítica educacional. Prática docente. Senso comum pedagógico. Didática.
 ---
 
 # Bibliografia

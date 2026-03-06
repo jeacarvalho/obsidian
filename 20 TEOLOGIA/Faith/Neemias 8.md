@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:17.715153+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: esdras_lendo_lei_mosaico
+    weight: 10
+    confidence: 0.98
+  - name: povo_reunido_porta_aguas
+    weight: 9
+    confidence: 0.97
+  - name: esdras_sacerdote_escriba
+    weight: 8
+    confidence: 0.96
+  - name: leitura_lei_publico_adulto_infantil
+    weight: 7
+    confidence: 0.95
+  - name: levitas_ensinando_povo
+    weight: 8
+    confidence: 0.94
+  - name: explicacao_lei_entendida_pelo_povo
+    weight: 9
+    confidence: 0.93
+  - name: alegria_do_senhor_forca_do_povo
+    weight: 7
+    confidence: 0.92
+  - name: celebracao_dia_consagrado_senhor
+    weight: 6
+    confidence: 0.91
+  - name: adoracao_senhor_rosto_em_terra
+    weight: 5
+    confidence: 0.9
+  - name: neemias_governador_orientando_povo
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '224.5'
+  cdu_secondary:
+  - '22.04'
+  - '271.1'
+  cdu_description: Livros históricos da Bíblia - Neemias. Leitura e interpretação da Lei. Papel dos levitas e sacerdotes. Celebração e alegria do povo.
+---
 Neemias 8
 
 Em chegando o sétimo mês, e estando os filhos de Israel nas suas cidades,

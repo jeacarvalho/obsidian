@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:18.874553+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fragilidade_da_riqueza_material
+    weight: 9
+    confidence: 0.98
+  - name: perda_de_status_e_fama
+    weight: 8
+    confidence: 0.95
+  - name: resiliencia_humana_em_adversidade
+    weight: 7
+    confidence: 0.92
+  - name: desapego_material_e_espiritualidade
+    weight: 10
+    confidence: 0.99
+  - name: busca_por_sentido_e_proposito
+    weight: 8
+    confidence: 0.93
+  - name: ansiedade_perante_a_incerteza_da_vida
+    weight: 7
+    confidence: 0.9
+  - name: ensinamentos_de_jesus_sobre_tesouros
+    weight: 9
+    confidence: 0.97
+  - name: altruismo_e_caridade
+    weight: 8
+    confidence: 0.94
+  - name: experiencias_em_campos_de_concentracao
+    weight: 6
+    confidence: 0.85
+  - name: vulnerabilidade_humana
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '241.5'
+  cdu_secondary:
+  - '171.7'
+  - '235.3'
+  cdu_description: Moral cristã. Ética cristã. Doutrina social cristã. Ensino de Jesus sobre bens e tesouros.
+---
 #### A [[riqueza]] não pode nos proteger sempre
  > Ela ficou especialmente triste por aqueles que antes eram ricos e famosos: “Suas armaduras de status, respeito e propriedade caíram e agora usam os últimos farrapos de sua humanidade. [[brooks2019 - A segunda montanha]] p. 86 [[David Brooks]]
 

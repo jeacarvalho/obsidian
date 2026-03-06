@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:48.089765+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: terapia_cognitivo_comportamental_para_depressao
+    weight: 10
+    confidence: 0.98
+  - name: reestruturacao_cognitiva
+    weight: 9
+    confidence: 0.95
+  - name: identificacao_de_pensamentos_disfuncionais
+    weight: 8
+    confidence: 0.92
+  - name: modificacao_de_cognicoes_depressivas
+    weight: 8
+    confidence: 0.91
+  - name: terapia_de_mestria_e_prazer
+    weight: 7
+    confidence: 0.88
+  - name: atribuicao_de_atividades_graduais
+    weight: 7
+    confidence: 0.87
+  - name: analise_de_explicacoes_alternativas
+    weight: 6
+    confidence: 0.85
+  - name: resolucao_de_problemas_comportamentais
+    weight: 6
+    confidence: 0.84
+  - name: ensaio_cognitivo_para_superar_obstaculos
+    weight: 6
+    confidence: 0.83
+  - name: tarefas_de_casa_em_terapia
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '616.89'
+  cdu_secondary:
+  - '159.942'
+  - '159.97'
+  cdu_description: Psicologia médica. Psiquiatria. Psicoterapia. Depressão. Terapia cognitivo-comportamental. Técnicas terapêuticas.
+---
 # Capítulo 11
 
 well within the patient’s capability. Working together,

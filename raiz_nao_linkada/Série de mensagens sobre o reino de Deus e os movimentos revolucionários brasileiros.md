@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:56.225064+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reino_deus_projeto_total
+    weight: 10
+    confidence: 0.98
+  - name: evangelho_libertador_encarnado
+    weight: 9
+    confidence: 0.97
+  - name: discipulado_lucido_transformador
+    weight: 8
+    confidence: 0.96
+  - name: historia_silenciada_resistencia
+    weight: 7
+    confidence: 0.95
+  - name: cristianismo_marginal_encarnacao
+    weight: 8
+    confidence: 0.94
+  - name: espiritualidade_pratica_politica
+    weight: 7
+    confidence: 0.93
+  - name: igreja_corpo_missional
+    weight: 8
+    confidence: 0.92
+  - name: esperanca_ativa_escatologia
+    weight: 9
+    confidence: 0.91
+  - name: justica_social_bem_comum
+    weight: 7
+    confidence: 0.9
+  - name: teologia_pastoral_formativa
+    weight: 8
+    confidence: 0.89
+  cdu_primary: 27-41
+  cdu_secondary:
+  - '261.8'
+  - '273.2'
+  - '284.3'
+  cdu_description: Teologia cristã aplicada à realidade social e política, com ênfase na libertação e transformação, abordando história, resistência, espiritualidade e a prática da igreja.
+---
 #### Série de mensagens sobre o reino de Deus e os movimentos revolucionários brasileiros
 ---
 

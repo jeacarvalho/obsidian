@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T23:06:58.858422+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: construcao_comunitaria
+    weight: 10
+    confidence: 0.98
+  - name: narrativa_comunitaria
+    weight: 9
+    confidence: 0.95
+  - name: poder_de_acao_cidada
+    weight: 8
+    confidence: 0.92
+  - name: abordagem_sistemica_comunidade
+    weight: 8
+    confidence: 0.9
+  - name: etica_colaborativa_comunidade
+    weight: 7
+    confidence: 0.88
+  - name: instituicoes_densas
+    weight: 7
+    confidence: 0.85
+  - name: comunicacao_transparente_comunidade
+    weight: 6
+    confidence: 0.82
+  - name: auto_apelo_vs_apelo_externo
+    weight: 6
+    confidence: 0.8
+  - name: escutar_a_vida
+    weight: 5
+    confidence: 0.78
+  - name: conversas_sobre_possibilidades
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '305.8'
+  cdu_secondary:
+  - '316.4'
+  - '303.3'
+  cdu_description: Sociologia das comunidades. Sociologia da vida social. Sociologia da comunicação e da informação. Sociologia da organização social.
+---
 BROOKS, David. A Segunda Montanha.Editora Alta Books, 2019. 9788550811635. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788550811635/. Acesso em: 07 jul. 2022. [[David Brooks]]
 
  [[O que é uma vida bem vivida]]

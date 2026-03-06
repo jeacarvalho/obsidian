@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:03.248346+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desnaturalizacao_historica_do_inevitavel
+    weight: 10
+    confidence: 0.98
+  - name: violencia_estrutural_silenciada
+    weight: 9
+    confidence: 0.95
+  - name: conexao_colonialidade_presente
+    weight: 9
+    confidence: 0.96
+  - name: leitura_lenta_desconstrucao_historica
+    weight: 8
+    confidence: 0.97
+  - name: reflexao_sobre_mercado_estado_nacao
+    weight: 7
+    confidence: 0.94
+  - name: dialogo_com_bourdieu_mignolo
+    weight: 7
+    confidence: 0.93
+  - name: formacao_racial_brasil_schwarcz
+    weight: 6
+    confidence: 0.92
+  - name: historia_economica_nao_neoclassica
+    weight: 6
+    confidence: 0.91
+  - name: questionamento_narrativas_oficiais
+    weight: 8
+    confidence: 0.95
+  - name: aplicacao_minima_vida_cotidiana
+    weight: 5
+    confidence: 0.9
+  cdu_primary: '321.02'
+  cdu_secondary:
+  - '305.8'
+  - '330.1'
+  - '323.1'
+  cdu_description: O foco principal está na desnaturalização de estruturas sociais e políticas (Estado-nação, mercado) e na compreensão de sua historicidade, com ênfase na colonialidade e na formação racial. A abordagem dialoga com autores que analisam a violência simbólica e a história econômica não-neoclássica, conectando o passado colonial ao presente. A classificação abrange história política, sociologia da raça e teorias econômicas críticas.
+---
 #### 🌿 PROMPT MEDITATIVO DIÁRIO — MODO HISTÓRICO-POLÍTICO
 *(Compacto para NotebookLM — 480 palavras)*
 

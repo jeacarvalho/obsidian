@@ -3,6 +3,47 @@ created: 2021-05-14T18:34:50 (UTC -03:00)
 tags: []
 source: https://hbr.org/2020/09/research-why-breathing-is-so-effective-at-reducing-stress?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit
 author: by Emma Seppälä, hristina Bradley, and Michael R. Goldstein
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:29.543867+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reducao_estresse_respiracao
+    weight: 10
+    confidence: 0.98
+  - name: tecnicas_mindfulness
+    weight: 8
+    confidence: 0.9
+  - name: inteligencia_emocional_regulacao
+    weight: 7
+    confidence: 0.85
+  - name: ansiedade_no_ambiente_de_trabalho
+    weight: 9
+    confidence: 0.92
+  - name: impacto_covid19_estresse
+    weight: 6
+    confidence: 0.75
+  - name: resiliencia_emocional
+    weight: 8
+    confidence: 0.88
+  - name: meditacao_sky_breath
+    weight: 9
+    confidence: 0.95
+  - name: efeitos_longo_prazo_reducao_estresse
+    weight: 7
+    confidence: 0.8
+  - name: gerenciamento_emocoes_negativas
+    weight: 6
+    confidence: 0.78
+  - name: trauma_veteranos_guerra
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '159.944'
+  - '159.98'
+  - '613.884'
+  cdu_description: Psicologia. Psicologia da emoção e da motivação. Psicologia da saúde. Técnicas de relaxamento e meditação.
 ---
 
 # Research: Why Breathing Is So Effective at Reducing Stress

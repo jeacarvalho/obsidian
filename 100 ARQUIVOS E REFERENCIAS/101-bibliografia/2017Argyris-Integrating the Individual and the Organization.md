@@ -1,4 +1,45 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:00.366892+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: relacao_individuo_organizacao
+    weight: 10
+    confidence: 0.98
+  - name: conflito_necessidades_individuais_organizacionais
+    weight: 9
+    confidence: 0.97
+  - name: critica_estruturas_piramidais
+    weight: 8
+    confidence: 0.96
+  - name: modelo_i_aprendizagem_organizacional
+    weight: 8
+    confidence: 0.95
+  - name: incompetencia_qualificada
+    weight: 7
+    confidence: 0.94
+  - name: necessidades_psicologicas_individuais
+    weight: 7
+    confidence: 0.93
+  - name: atividades_informais_organizacionais
+    weight: 6
+    confidence: 0.92
+  - name: modelos_organicos_vs_mecanicos
+    weight: 6
+    confidence: 0.91
+  - name: papel_lideranca_organizacional
+    weight: 5
+    confidence: 0.9
+  - name: redefinicao_controles_incentivos
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '303.7'
+  - '005.32'
+  cdu_description: Gestão de pessoal. Relações de trabalho. Organização do trabalho. Psicologia do trabalho. Comportamento organizacional.
+---
 
 
 ## Documento de resumo

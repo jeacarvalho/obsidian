@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:04.298250+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fim_dos_tempos
+    weight: 10
+    confidence: 0.98
+  - name: nova_jerusalem
+    weight: 9
+    confidence: 0.95
+  - name: vida_apos_morte
+    weight: 8
+    confidence: 0.9
+  - name: esperanca_divina
+    weight: 7
+    confidence: 0.85
+  - name: consolo_em_deus
+    weight: 7
+    confidence: 0.88
+  - name: superacao_da_morte
+    weight: 9
+    confidence: 0.92
+  - name: tabernaculo_de_deus
+    weight: 8
+    confidence: 0.87
+  - name: refugio_em_deus
+    weight: 6
+    confidence: 0.8
+  - name: libertacao_divina
+    weight: 6
+    confidence: 0.78
+  - name: coracao_quebrantado
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '236.2'
+  cdu_secondary:
+  - '228.1'
+  - '242.3'
+  cdu_description: Escatologia cristã, vida futura, esperança e consolo
+---
 Sepultamento
 
 [[Apocalipse]] 21:1 — Ap 21:4 (Bíblia Almeida Strong)

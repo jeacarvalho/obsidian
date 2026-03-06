@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:45.018725+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: econometria_basica
+    weight: 10
+    confidence: 1.0
+  - name: introducao_a_econometria
+    weight: 9
+    confidence: 0.95
+  - name: metodos_econometricos
+    weight: 8
+    confidence: 0.9
+  - name: econometria_de_series_temporais
+    weight: 7
+    confidence: 0.85
+  - name: estatistica_aplicada_a_econometria
+    weight: 6
+    confidence: 0.8
+  - name: livros_didaticos_econometria
+    weight: 5
+    confidence: 0.75
+  - name: recursos_bibliograficos_econometria
+    weight: 5
+    confidence: 0.7
+  - name: ebooks_econometria
+    weight: 5
+    confidence: 0.65
+  - name: referencia_bibliografica
+    weight: 5
+    confidence: 0.6
+  - name: avaliacao_econometria
+    weight: 5
+    confidence: 0.55
+  cdu_primary: '330.4'
+  cdu_secondary: []
+  cdu_description: Economia. Econometria
+---
 # REFERÊNCIA
 ## BÁSICA 
 - Ebook : [[EconometriaUVA_ebook.pdf]]

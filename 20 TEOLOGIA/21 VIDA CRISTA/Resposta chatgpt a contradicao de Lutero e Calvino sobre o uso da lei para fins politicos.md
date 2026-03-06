@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:06.412623+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: execucao_miguel_serveto_joao_calvino
+    weight: 9
+    confidence: 0.98
+  - name: revolta_camponeses_alemaes_martinho_lutero
+    weight: 9
+    confidence: 0.97
+  - name: teologia_reformada_heresia
+    weight: 8
+    confidence: 0.95
+  - name: uniao_religiao_estado_contexto_historico
+    weight: 7
+    confidence: 0.93
+  - name: doutrina_dois_reinos_lutero
+    weight: 7
+    confidence: 0.92
+  - name: critica_lei_julgamento_jesus
+    weight: 6
+    confidence: 0.9
+  - name: depravacao_humana_teologia
+    weight: 6
+    confidence: 0.88
+  - name: autocritica_lideres_religiosos
+    weight: 5
+    confidence: 0.85
+  - name: separacao_igreja_estado_etica
+    weight: 5
+    confidence: 0.87
+  - name: justica_divina_misericordia_cristianismo
+    weight: 5
+    confidence: 0.86
+  cdu_primary: '27'
+  cdu_secondary:
+  - 27-11
+  - 27-18
+  - '32'
+  - '34'
+  cdu_description: História da Igreja Cristã; Reforma Protestante; Relações entre Igreja e Estado; Direito e Religião
+---
 Sim, Karl, essa observação é muito pertinente e reflete as complexidades e contradições de figuras históricas, mesmo quando alinhadas a pensamentos teológicos profundos. Vamos examinar isso mais de perto:
 
 ### **João Calvino e a execução de Miguel Serveto**

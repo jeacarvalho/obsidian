@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:11.518749+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: furor_espiritual
+    weight: 8
+    confidence: 0.9
+  - name: avivamento_cristao
+    weight: 7
+    confidence: 0.85
+  - name: paixao_por_jesus
+    weight: 9
+    confidence: 0.95
+  - name: paixao_pela_igreja
+    weight: 9
+    confidence: 0.95
+  - name: teofanias_pessoais
+    weight: 7
+    confidence: 0.8
+  - name: ansiedade_espiritual
+    weight: 6
+    confidence: 0.75
+  - name: mudanca_pessoal_espiritual
+    weight: 8
+    confidence: 0.9
+  - name: oracao_pelo_espirito_santo
+    weight: 10
+    confidence: 1.0
+  - name: influencia_do_cotidiano_na_fe
+    weight: 7
+    confidence: 0.85
+  - name: desejo_por_deus
+    weight: 8
+    confidence: 0.9
+  cdu_primary: 27-29
+  cdu_secondary: []
+  cdu_description: Religião. Teologia. Cristianismo. História e geografia da igreja cristã. Vida e prática cristã.
+---
 Meditações domingo 20130505
 
 Sobre o livro Deep & wide

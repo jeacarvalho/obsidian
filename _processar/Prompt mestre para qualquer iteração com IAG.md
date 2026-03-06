@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:34.230976+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: negocios_digitais_com_ia
+    weight: 10
+    confidence: 0.98
+  - name: criacao_de_novos_negocios
+    weight: 9
+    confidence: 0.97
+  - name: velocidade_implementacao_ia
+    weight: 8
+    confidence: 0.96
+  - name: geracao_de_renda_digital
+    weight: 9
+    confidence: 0.95
+  - name: transicao_mundial_tecnologica
+    weight: 7
+    confidence: 0.94
+  - name: cenarios_geopoliticos_economicos
+    weight: 6
+    confidence: 0.93
+  - name: necessidades_mercado_digital_nao_satisfeitas
+    weight: 8
+    confidence: 0.92
+  - name: ia_para_otimizacao_leitura
+    weight: 5
+    confidence: 0.9
+  - name: decolonizacao_teologica_brasil
+    weight: 5
+    confidence: 0.85
+  - name: discernimento_politico_eleicoes
+    weight: 5
+    confidence: 0.88
+  cdu_primary: '004.7'
+  cdu_secondary:
+  - '338.45'
+  - '330.1'
+  - '324'
+  cdu_description: 004.7 - Redes de computadores e comunicações. Internet. 338.45 - Serviços. 330.1 - Teorias econômicas. 324 - Processos eleitorais.
+---
 # PROMPT MESTRE - Template Personalizado
 
 ## [PERSONA]

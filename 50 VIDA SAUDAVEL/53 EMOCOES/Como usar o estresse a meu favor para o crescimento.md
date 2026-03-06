@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:42.701513+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gerenciamento_estresse_motivador
+    weight: 10
+    confidence: 0.98
+  - name: percepcao_estresse_facilitador
+    weight: 9
+    confidence: 0.95
+  - name: estresse_e_crescimento_pessoal
+    weight: 9
+    confidence: 0.96
+  - name: hormonios_estresse_cortisol
+    weight: 8
+    confidence: 0.92
+  - name: hormonios_estresse_dhea
+    weight: 8
+    confidence: 0.93
+  - name: mindset_de_crescimento
+    weight: 7
+    confidence: 0.9
+  - name: resposta_desafio_ao_estresse
+    weight: 7
+    confidence: 0.91
+  - name: impacto_percepcao_estresse_saude
+    weight: 6
+    confidence: 0.88
+  - name: estresse_e_desempenho
+    weight: 6
+    confidence: 0.85
+  - name: neuroesteroides_e_cerebro
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '159.946'
+  cdu_secondary:
+  - '616.89'
+  - '159.947'
+  cdu_description: Psicologia do estresse e da tensão. Psicologia da motivação. Psicologia da saúde. Psicopatologia.
+---
 #### Como usar o [[estresse]] a meu favor para o [[crescimento]]
 
 > em vez de tentar me acalmar, usar o sentimento do [[estresse]] como motivador para fazer o que tem que ser feito da melhor maneira possível

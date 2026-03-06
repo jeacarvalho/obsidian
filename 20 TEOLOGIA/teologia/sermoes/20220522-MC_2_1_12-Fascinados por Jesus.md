@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:04.931922+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cura_paralitico_jesus
+    weight: 10
+    confidence: 0.98
+  - name: perdao_pecados_jesus
+    weight: 9
+    confidence: 0.97
+  - name: fe_milagre_paralitico
+    weight: 8
+    confidence: 0.96
+  - name: autoridade_jesus_perdoar
+    weight: 7
+    confidence: 0.95
+  - name: memoria_eventos_marcantes
+    weight: 8
+    confidence: 0.94
+  - name: emocao_memoria_eventos
+    weight: 7
+    confidence: 0.93
+  - name: comparacao_memoria_pessoal_historica
+    weight: 6
+    confidence: 0.92
+  - name: testemunho_milagres_jesus
+    weight: 7
+    confidence: 0.91
+  - name: admiracao_multidao_milagres
+    weight: 6
+    confidence: 0.9
+  - name: comparacao_evangelhos_marcos_lucas_mateus
+    weight: 5
+    confidence: 0.89
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '232.9'
+  - '231.7'
+  - '159.94'
+  cdu_description: Religião cristã; Jesus Cristo; Teologia cristã; Psicologia da memória
+---
 [[Marcos 2]]:1-12 Dias depois, [[Jesus]] entrou de novo em Cafarnaum, e logo se ouviu dizer que ele estava em casa. 2 Muitos se reuniram ali, a ponto de não haver lugar nem mesmo junto à porta. E Jesus anunciava-lhes a palavra. 3 Trouxeram-lhe, então, um paralítico, carregado por quatro homens. 4 E, não podendo aproximar-se de Jesus, por causa da multidão, removeram o telhado no ponto correspondente ao lugar onde Jesus se encontrava e, pela abertura, desceram o leito em que o paralítico estava deitado. 5 Vendo-lhes a fé, Jesus disse ao paralítico: — Filho, os seus pecados estão perdoados. 6 Alguns escribas estavam sentados ali e pensavam em seu coração: 7— Como ele se atreve a falar assim? Isto é blasfêmia! Quem pode perdoar pecados, a não ser um, que é Deus?
 8 E Jesus, percebendo imediatamente em seu espírito que eles assim pensavam, disse-lhes:
 — Por que vocês estão pensando essas coisas em seu coração? 9 O que é mais fácil? Dizer ao paralítico: “Os seus pecados estão perdoados”, ou dizer: “Levante-se, tome o seu leito e ande”? 10 Mas isto é para que vocês saibam que o Filho do Homem tem autoridade sobre a terra para perdoar pecados. E disse ao paralítico: 11 — Eu digo a você: Levante-se, pegue o seu leito e vá para casa. 12 Ele se levantou e, no mesmo instante, pegando o leito, retirou-se à vista de todos, a ponto de todos se admirarem e darem glória a Deus, dizendo: — Jamais vimos coisa assim!

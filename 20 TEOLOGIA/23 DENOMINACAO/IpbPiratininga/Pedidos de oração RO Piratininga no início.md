@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:20:30.234688+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: saude_cancer
+    weight: 10
+    confidence: 0.98
+  - name: saude_doencas_cronicas
+    weight: 9
+    confidence: 0.95
+  - name: saude_recuperacao_pos_cirurgica
+    weight: 8
+    confidence: 0.92
+  - name: saude_mental_depressao
+    weight: 7
+    confidence: 0.9
+  - name: dependencia_quimica_drogas
+    weight: 8
+    confidence: 0.93
+  - name: relacionamentos_familiares_conflitos
+    weight: 6
+    confidence: 0.88
+  - name: situacoes_juridicas_prisao
+    weight: 5
+    confidence: 0.85
+  - name: situacoes_sociais_desemprego
+    weight: 6
+    confidence: 0.87
+  - name: espiritualidade_conversao
+    weight: 7
+    confidence: 0.91
+  - name: saude_doencas_neurologicas
+    weight: 9
+    confidence: 0.94
+  cdu_primary: '28'
+  cdu_secondary:
+  - '316.3'
+  - '364'
+  - '616.994'
+  - '616.8'
+  - '613.8'
+  cdu_description: Religião e teologia (28), Sociologia (316.3), Criminologia e direito penal (364), Oncologia (616.994), Neurologia (616.8), Dependência química (613.8)
+---
 Pedidos de oracao
 
 1. Romário pai do JP - orar úlcera e biópsia

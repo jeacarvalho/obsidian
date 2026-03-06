@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:50.772273+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gerenciamento_maquinas_jenkins
+    weight: 10
+    confidence: 0.9
+  - name: desligamento_maquinas_windows_teste
+    weight: 9
+    confidence: 0.95
+  - name: exclusao_slaves_jenkins
+    weight: 8
+    confidence: 0.92
+  - name: migracao_infraestrutura_devops
+    weight: 7
+    confidence: 0.85
+  - name: automacao_processos_build
+    weight: 6
+    confidence: 0.8
+  - name: monitoramento_jobs_jenkins
+    weight: 7
+    confidence: 0.88
+  - name: gerenciamento_servidores_linux
+    weight: 8
+    confidence: 0.91
+  - name: infraestrutura_nuvem_openstack
+    weight: 5
+    confidence: 0.75
+  - name: comunicacao_equipes_desenvolvimento
+    weight: 6
+    confidence: 0.82
+  - name: controle_versao_demandas_git
+    weight: 5
+    confidence: 0.78
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '004.7'
+  - '004.8'
+  cdu_description: Gestão de sistemas de computadores e redes. Administração de sistemas. Redes de computadores. Sistemas de computadores distribuídos.
+---
 #### Descrição:
 Há máquinas do pucomex, slaves jenkins e máquinas windows de testes
 

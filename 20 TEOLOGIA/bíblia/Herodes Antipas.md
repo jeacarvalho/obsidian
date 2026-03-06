@@ -3,6 +3,46 @@ created: 2023-08-04T08:55:31 (UTC -03:00)
 tags: []
 source: https://pt.wikipedia.org/wiki/Herodes_Antipas
 author: Contribuidores dos projetos da Wikimedia
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:52.325163+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: herodes_antipas
+    weight: 10
+    confidence: 1.0
+  - name: historia_antiga_oriental
+    weight: 8
+    confidence: 0.9
+  - name: novo_testamento
+    weight: 9
+    confidence: 0.95
+  - name: joao_batista
+    weight: 8
+    confidence: 0.92
+  - name: jesus_de_nazare
+    weight: 9
+    confidence: 0.93
+  - name: tetrarquia_herodes
+    weight: 7
+    confidence: 0.85
+  - name: galileia
+    weight: 6
+    confidence: 0.8
+  - name: pereia
+    weight: 6
+    confidence: 0.8
+  - name: religiao_judaica
+    weight: 7
+    confidence: 0.88
+  - name: imperio_romano_provincia_siria
+    weight: 5
+    confidence: 0.75
+  cdu_primary: 94(33)
+  cdu_secondary:
+  - 27-22
+  - '22.1'
+  cdu_description: 94(33) História da Palestina e regiões adjacentes. 27-22 História do Novo Testamento. 22.1 Biografias de figuras bíblicas.
 ---
 
 # Herodes Antipas – Wikipédia, a enciclopédia livre

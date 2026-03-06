@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:50.321312+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: evitar_escandalos_e_provocacoes
+    weight: 8
+    confidence: 0.9
+  - name: importancia_do_perdao
+    weight: 9
+    confidence: 0.95
+  - name: necessidade_de_fe_para_perdoar
+    weight: 7
+    confidence: 0.85
+  - name: humildade_e_servico_inutil
+    weight: 8
+    confidence: 0.9
+  - name: gratidao_e_reconhecimento_a_deus
+    weight: 10
+    confidence: 0.98
+  - name: critica_ao_orgulho_e_religiosidade
+    weight: 7
+    confidence: 0.88
+  - name: natureza_do_reino_de_deus
+    weight: 9
+    confidence: 0.92
+  - name: presenca_interna_do_reino
+    weight: 6
+    confidence: 0.8
+  - name: doutrina_da_segunda_vinda
+    weight: 8
+    confidence: 0.85
+  - name: ensinamentos_de_jesus_aos_discipulos
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '226.4'
+  - '273.2'
+  cdu_description: Teologia cristã; Doutrinas gerais; Teologia bíblica; Evangelho de Lucas; Escatologia cristã
+---
 Lc 17:1 — Lc 17:2
 Os tropeços
 

@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.817193+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: matematica_financeira_conceitos_fundamentais
+    weight: 10
+    confidence: 0.98
+  - name: regime_capitalizacao_simples
+    weight: 9
+    confidence: 0.97
+  - name: historia_bancos_e_banqueiros
+    weight: 8
+    confidence: 0.9
+  - name: sistema_financeiro_mundial
+    weight: 7
+    confidence: 0.92
+  - name: sistema_financeiro_brasileiro
+    weight: 8
+    confidence: 0.93
+  - name: juros_capital_taxa_prazo_montante
+    weight: 9
+    confidence: 0.96
+  - name: calculadoras_financeiras_hp12c
+    weight: 7
+    confidence: 0.91
+  - name: planilhas_eletronicas_excel_matematica_financeira
+    weight: 7
+    confidence: 0.91
+  - name: periodos_nao_inteiros_capitalizacao
+    weight: 6
+    confidence: 0.85
+  - name: descontos_matematica_financeira
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '336.7'
+  cdu_secondary:
+  - '004.45'
+  - '330.1'
+  - '336.1'
+  - '336.74'
+  cdu_description: 336.7 Finanças. Crédito. Moeda. Bancos. Seguros. Finanças públicas. Finanças privadas. 336.74 Juros. Descontos. 004.45 Software de aplicação. 330.1 Economia política. 336.1 Finanças públicas.
+---
 # BIBLIOGRAFIA 
 ## BÁSICA 
 - 1 SILVA, Vicente Eudes Veras da. Matemática financeira [livro eletrônico] / Vicente Eudes Veras da Silva – Rio de Janeiro: UVA, 2016. ISBN 978-85-69287-23-0. --> [[MAF_ebook.pdf]]

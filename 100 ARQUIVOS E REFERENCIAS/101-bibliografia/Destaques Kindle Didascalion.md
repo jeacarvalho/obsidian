@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:40:03.400434+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: arte_de_aprender
+    weight: 10
+    confidence: 0.98
+  - name: busca_pela_sabedoria
+    weight: 9
+    confidence: 0.97
+  - name: especulacao_da_verdade
+    weight: 8
+    confidence: 0.96
+  - name: exercicio_da_virtude
+    weight: 8
+    confidence: 0.96
+  - name: divisao_da_filosofia
+    weight: 7
+    confidence: 0.95
+  - name: metodo_de_ensino_pitagorico
+    weight: 7
+    confidence: 0.94
+  - name: capacidade_natural_para_estudo
+    weight: 6
+    confidence: 0.93
+  - name: disciplina_estudantil
+    weight: 6
+    confidence: 0.93
+  - name: meditacao_no_aprendizado
+    weight: 9
+    confidence: 0.95
+  - name: memorizacao_e_recapitulacao
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '165.1'
+  cdu_secondary:
+  - '101.1'
+  - '001.8'
+  - '21'
+  cdu_description: Epistemologia, Teoria do Conhecimento, Filosofia da Educação, Teologia Natural
+---
 # Kindle: Your Notes and Highlights
 [Link para o livro](https://www.amazon.com/dp/B08883FJ86)
 

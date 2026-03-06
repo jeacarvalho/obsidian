@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:47.862200+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: terapia_cognitivo_comportamental_depressao
+    weight: 10
+    confidence: 0.98
+  - name: visualizacao_futuro_reduzir_ansiedade
+    weight: 8
+    confidence: 0.92
+  - name: exageracao_demandas_externas_depressao
+    weight: 9
+    confidence: 0.95
+  - name: pensamentos_autodestrutivos_terapia
+    weight: 7
+    confidence: 0.88
+  - name: reestruturacao_cognitiva_problemas_cotidianos
+    weight: 8
+    confidence: 0.9
+  - name: tecnicas_fantasia_induzida_depressao
+    weight: 6
+    confidence: 0.85
+  - name: imagina_evento_traumatico_aliviar_angustia
+    weight: 7
+    confidence: 0.87
+  - name: terapia_comportamental_esquemas_atividade
+    weight: 7
+    confidence: 0.89
+  - name: distorcoes_cognitivas_atividades_depressao
+    weight: 6
+    confidence: 0.86
+  - name: estudos_resultados_terapia_cognitiva_comportamental
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '616.89'
+  cdu_secondary:
+  - '159.942'
+  - '159.975'
+  cdu_description: Psiquiatria. Psicopatologia. Psiquiatria clínica. Psicologia médica. Psicologia clínica. Psicologia da depressão e suas terapias.
+---
 # Capítulo 12
 
 When the problem is visualized from the perspective of the

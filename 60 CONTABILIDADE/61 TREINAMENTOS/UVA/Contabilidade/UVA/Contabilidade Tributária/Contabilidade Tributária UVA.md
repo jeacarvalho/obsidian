@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:41.937141+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: principio_legalidade_tributaria
+    weight: 9
+    confidence: 0.98
+  - name: principio_anterioridade_tributaria
+    weight: 9
+    confidence: 0.98
+  - name: principio_irretroatividade_tributaria
+    weight: 8
+    confidence: 0.97
+  - name: principio_isonomia_tributaria
+    weight: 8
+    confidence: 0.96
+  - name: tributos_diretos_lucro_presumido
+    weight: 8
+    confidence: 0.96
+  - name: tributos_indiretos_icms_ipi
+    weight: 8
+    confidence: 0.95
+  - name: principio_competencia_tributaria
+    weight: 7
+    confidence: 0.95
+  - name: principio_capacidade_contributiva
+    weight: 7
+    confidence: 0.94
+  - name: conceito_especies_tributos
+    weight: 7
+    confidence: 0.92
+  - name: reserva_lei_complementar_tributaria
+    weight: 6
+    confidence: 0.93
+  cdu_primary: '336.2'
+  cdu_secondary: []
+  cdu_description: Finanças públicas. Finanças fiscais. Tributação. Impostos.
+---
 # Unidade 1 INTRODUÇÃO À CONTABILIDADE TRIBUTÁRIA
 ## CONTEÚDO 1 Conceitos e princípios constitucionais tributários
 

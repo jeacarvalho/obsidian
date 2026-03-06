@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:17.682180+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: discipulado_cristao
+    weight: 10
+    confidence: 0.98
+  - name: disciplinas_espirituais
+    weight: 9
+    confidence: 0.95
+  - name: leitura_biblica
+    weight: 8
+    confidence: 0.97
+  - name: oracao
+    weight: 7
+    confidence: 0.9
+  - name: servico_ao_proximo
+    weight: 6
+    confidence: 0.85
+  - name: adoracao
+    weight: 5
+    confidence: 0.8
+  - name: planejamento_eclesiastico
+    weight: 7
+    confidence: 0.92
+  - name: feedback_em_grupos
+    weight: 6
+    confidence: 0.88
+  - name: educacao_infantil_crista
+    weight: 5
+    confidence: 0.82
+  - name: autoridade_espiritual
+    weight: 8
+    confidence: 0.93
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '248.2'
+  - '268.1'
+  - '273.2'
+  cdu_description: '27-29: Cristianismo. História, geografia, biografias. 248.2: Experiência religiosa. Vida espiritual. 268.1: Ensino religioso. 273.2: Heresias e seitas.'
+---
 Discipulado
 
 Perguntas por livro

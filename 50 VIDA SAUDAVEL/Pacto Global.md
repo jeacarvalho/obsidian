@@ -1,3 +1,51 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:32.962367+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: direitos_humanos_empresariais
+    weight: 10
+    confidence: 0.98
+  - name: trabalho_forcado_empresas
+    weight: 9
+    confidence: 0.97
+  - name: trabalho_infantil_empresas
+    weight: 9
+    confidence: 0.97
+  - name: discriminacao_emprego_empresas
+    weight: 8
+    confidence: 0.96
+  - name: liberdade_associacao_empresas
+    weight: 8
+    confidence: 0.96
+  - name: responsabilidade_ambiental_empresarial
+    weight: 9
+    confidence: 0.95
+  - name: tecnologias_ambientais_empresas
+    weight: 7
+    confidence: 0.94
+  - name: anticorrupcao_empresarial
+    weight: 10
+    confidence: 0.98
+  - name: esg_principios
+    weight: 10
+    confidence: 0.99
+  - name: negociacao_coletiva_empresas
+    weight: 7
+    confidence: 0.93
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '342.7'
+  - '331.5'
+  - '331.4'
+  - '331.1'
+  - '331.2'
+  - '304.2'
+  - '341.2'
+  - '343.32'
+  cdu_description: Princípios de ESG (Ambiental, Social e Governança) aplicados a empresas, abrangendo direitos humanos, condições de trabalho, responsabilidade ambiental e combate à corrupção.
+---
 [[ESG]]
 # Direitos Humanos
 - 01 As empresas devem apoiar e respeitar a proteção de direitos humanos reconhecidos internacionalmente.

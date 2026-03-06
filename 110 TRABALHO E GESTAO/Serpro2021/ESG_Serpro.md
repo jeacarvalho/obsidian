@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:50.861066+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: praticas_ambientais_sociais_governanca_esg
+    weight: 10
+    confidence: 1.0
+  - name: integracao_esg_desenvolvimento_software
+    weight: 9
+    confidence: 0.9
+  - name: acessibilidade_frontend
+    weight: 7
+    confidence: 0.85
+  - name: referencia_esg_empresas_tecnologia
+    weight: 8
+    confidence: 0.88
+  - name: investimento_sustentavel_esg
+    weight: 7
+    confidence: 0.75
+  - name: pacto_global_onu
+    weight: 6
+    confidence: 0.7
+  - name: esg_setor_publico
+    weight: 8
+    confidence: 0.82
+  - name: indicadores_financeiros_esg
+    weight: 7
+    confidence: 0.78
+  - name: impacto_esg_servicos_publicos
+    weight: 9
+    confidence: 0.92
+  - name: cultura_organizacional_esg
+    weight: 6
+    confidence: 0.72
+  cdu_primary: '305.8'
+  cdu_secondary:
+  - '004.77'
+  - '330.5'
+  - '336.7'
+  cdu_description: 305.8 - ESG (Ambiental, Social e Governança) e sua aplicação em organizações, com foco em desenvolvimento de software, setor público e finanças sustentáveis. Inclui acessibilidade e pacto global.
+---
 [[ESG]]
 ## 20220921 - Sergio apresentando o que o ESG tem a ver com DIDES
 - [[Acessibilidade]] no frontend

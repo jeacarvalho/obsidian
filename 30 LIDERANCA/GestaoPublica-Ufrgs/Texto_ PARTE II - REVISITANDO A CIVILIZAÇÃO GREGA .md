@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:05.070328+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: origem_do_estado_grecia
+    weight: 9
+    confidence: 0.98
+  - name: tensoes_sociais_na_grecia_antiga
+    weight: 8
+    confidence: 0.95
+  - name: evolucao_do_sistema_gentilico
+    weight: 7
+    confidence: 0.92
+  - name: democracia_ateniense
+    weight: 8
+    confidence: 0.96
+  - name: conceito_de_cidadania_grega
+    weight: 7
+    confidence: 0.93
+  - name: filosofia_politica_aristotelica
+    weight: 6
+    confidence: 0.9
+  - name: isonomia_na_grecia_antiga
+    weight: 5
+    confidence: 0.85
+  - name: organizacao_social_romana
+    weight: 7
+    confidence: 0.94
+  - name: virtudes_civicas_em_roma
+    weight: 6
+    confidence: 0.91
+  - name: sistema_politico_romano
+    weight: 8
+    confidence: 0.97
+  cdu_primary: '937'
+  cdu_secondary:
+  - '938'
+  - '321.1'
+  - '323.3'
+  - '305.8'
+  cdu_description: História da Grécia e Roma antigas, com foco na evolução do Estado, cidadania e sistemas políticos.
+---
 Texto: PARTE II - REVISITANDO A CIVILIZAÇÃO GREGA E ROMANA
 
 **Revisitando a grécia**

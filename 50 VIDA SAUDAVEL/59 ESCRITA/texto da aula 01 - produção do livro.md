@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:47.631579+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_impressao_brasil
+    weight: 8
+    confidence: 0.9
+  - name: fundacao_imprensa_regia
+    weight: 7
+    confidence: 0.85
+  - name: desenvolvimento_setor_editorial
+    weight: 9
+    confidence: 0.95
+  - name: monteiro_lobato_editora
+    weight: 6
+    confidence: 0.8
+  - name: funcoes_departamento_editorial
+    weight: 10
+    confidence: 0.98
+  - name: processo_trabalho_editorial
+    weight: 10
+    confidence: 0.99
+  - name: traducao_literaria
+    weight: 7
+    confidence: 0.9
+  - name: preparacao_texto_editorial
+    weight: 9
+    confidence: 0.97
+  - name: projeto_grafico_livro
+    weight: 8
+    confidence: 0.92
+  - name: revisao_provas_editorial
+    weight: 7
+    confidence: 0.88
+  cdu_primary: '002'
+  cdu_secondary:
+  - '004.77'
+  - '338.47'
+  - '338.48'
+  - '338.49'
+  cdu_description: 002 - Documentação. Livro. Livraria. Biblioteconomia. Arquivística. Ciência da informação. Livro como objeto. História do livro. Produção do livro. Edição. Artes gráficas. Impressão. Tipografia. Livraria. Biblioteconomia. Arquivística. Ciência da informação.
+---
 http://eadunil.editoraunesp.com.br/mod/page/view.php?id=20865
 
 # PR-T2101A: Texto da aula

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:27.189785+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fidelidade_de_deus
+    weight: 8
+    confidence: 0.9
+  - name: exortacao_a_unidade_crista
+    weight: 9
+    confidence: 0.95
+  - name: contendas_na_igreja
+    weight: 7
+    confidence: 0.85
+  - name: mensagem_da_cruz
+    weight: 10
+    confidence: 0.98
+  - name: loucura_da_cruz_para_o_mundo
+    weight: 9
+    confidence: 0.92
+  - name: poder_de_deus_na_cruz
+    weight: 9
+    confidence: 0.93
+  - name: sabedoria_de_deus_vs_sabedoria_humana
+    weight: 8
+    confidence: 0.9
+  - name: escolhas_de_deus_humildes_e_fortes
+    weight: 7
+    confidence: 0.88
+  - name: cristo_como_sabedoria_e_justica
+    weight: 10
+    confidence: 0.97
+  - name: gloria_no_senhor
+    weight: 6
+    confidence: 0.8
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '230.2'
+  - '232.3'
+  cdu_description: Teologia cristã. Doutrinas cristãs. Cristologia. A mensagem da cruz e a sabedoria divina em contraste com a sabedoria humana, a unidade na igreja e a fidelidade de Deus.
+---
 1Co 1:8 — 1Co 1:9 (Bíblia Almeida Strong)
 
 8 o qual também vos confirmará até ao fim, para serdes irrepreensíveis no Dia de nosso Senhor Jesus Cristo. 9 Fiel é Deus, pelo qual fostes chamados à comunhão de seu Filho Jesus Cristo, nosso Senhor.

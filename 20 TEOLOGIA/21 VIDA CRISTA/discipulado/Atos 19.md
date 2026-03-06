@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:14.818688+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: espirito_santo_recepcao
+    weight: 8
+    confidence: 0.9
+  - name: conversao_crista
+    weight: 9
+    confidence: 0.95
+  - name: exorcismo_judeu
+    weight: 7
+    confidence: 0.85
+  - name: autoridade_jesus
+    weight: 9
+    confidence: 0.92
+  - name: confissao_obras_pecaminosas
+    weight: 8
+    confidence: 0.88
+  - name: abandono_artes_magicas
+    weight: 9
+    confidence: 0.93
+  - name: valor_livros_magicos
+    weight: 6
+    confidence: 0.75
+  - name: crescimento_palavra_senhor
+    weight: 10
+    confidence: 0.98
+  - name: reacao_mundana_pregacao
+    weight: 10
+    confidence: 0.97
+  - name: culto_deusa_diana
+    weight: 7
+    confidence: 0.8
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '231.3'
+  - '265.1'
+  - '133.4'
+  - '273.2'
+  - '398.3'
+  cdu_description: 'Atos 19: O Espírito Santo, a conversão, o abandono das práticas mágicas e a reação contra a pregação do Evangelho em Éfeso, com menção ao culto a Diana.'
+---
 Atos 19:2 (RA Strong's)
 
 2 perguntou-lhes: Recebestes, porventura, o [[Espírito Santo]] quando crestes? Ao que lhe responderam: Pelo contrário, nem mesmo ouvimos que existe o Espírito Santo.

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:09.159973+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: angustia_e_tristeza_de_jesus_no_getsmani
+    weight: 9
+    confidence: 0.9
+  - name: reflexao_sobre_a_natureza_humana_e_obediencia_a_deus
+    weight: 8
+    confidence: 0.85
+  - name: analise_comportamental_de_meditacoes_biblicas
+    weight: 7
+    confidence: 0.8
+  - name: teologia_reformada_e_intervencao_divina
+    weight: 9
+    confidence: 0.95
+  - name: importancia_da_vigilancia_e_oracao_crista
+    weight: 8
+    confidence: 0.88
+  - name: sofrimento_de_jesus_para_salvacao_da_humanidade
+    weight: 9
+    confidence: 0.92
+  - name: incapacidade_humana_para_santidade
+    weight: 7
+    confidence: 0.75
+  - name: influencia_de_joao_calvino_na_teologia_reformada
+    weight: 6
+    confidence: 0.7
+  - name: proposta_de_sermao_baseado_em_meditacoes_biblicas
+    weight: 7
+    confidence: 0.78
+  - name: evolucao_pessoal_na_fe_crista
+    weight: 6
+    confidence: 0.72
+  cdu_primary: '230.9'
+  cdu_secondary:
+  - '226.3'
+  - '273.6'
+  cdu_description: Teologia cristã; Teologia sistemática; Teologia reformada; Teologia bíblica; Novo Testamento; Evangelhos; Atos dos Apóstolos
+---
 #### analise do groq sobre minhas meditacoes em [[Marcos 14]]-32-36
 **Leitura das anotações e Análise comportamental**
 

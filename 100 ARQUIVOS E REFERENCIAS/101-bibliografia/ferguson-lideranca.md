@@ -3,6 +3,46 @@ created: 2021-07-14T10:08:19 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.42.4/b393d742cdd2/
 author: Alex Ferguson and Michael Moritz
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:52.637528+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: importancia_da_determinacao_no_esporte
+    weight: 10
+    confidence: 0.95
+  - name: desenvolvimento_de_lideranca_em_equipes
+    weight: 9
+    confidence: 0.92
+  - name: construcao_de_confianca_entre_lideres_e_equipes
+    weight: 8
+    confidence: 0.9
+  - name: superacao_de_preconceitos_na_percepcao_de_fatos
+    weight: 7
+    confidence: 0.88
+  - name: papel_do_mentor_no_desenvolvimento_de_atletas
+    weight: 7
+    confidence: 0.85
+  - name: importancia_da_perspectiva_na_resolucao_de_problemas
+    weight: 6
+    confidence: 0.82
+  - name: adaptabilidade_e_flexibilidade_em_lideres
+    weight: 6
+    confidence: 0.8
+  - name: etica_profissional_e_disciplina_no_esporte
+    weight: 5
+    confidence: 0.78
+  - name: gestao_de_talentos_criativos_e_desafiadores
+    weight: 5
+    confidence: 0.75
+  - name: valorizacao_da_conviccao_e_reducao_da_duvida
+    weight: 5
+    confidence: 0.72
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '305.4'
+  - '796.01'
+  cdu_description: Psicologia da liderança e da motivação, com ênfase na determinação, confiança, superação de preconceitos e desenvolvimento de equipes no contexto esportivo e organizacional.
 ---
 
 ## Liderança (Portuguese Edition)

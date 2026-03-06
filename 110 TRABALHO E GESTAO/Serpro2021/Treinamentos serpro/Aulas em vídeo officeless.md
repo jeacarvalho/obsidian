@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:59.376275+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cultura_remote_first
+    weight: 10
+    confidence: 0.98
+  - name: tipos_de_relacionamento_trabalho
+    weight: 8
+    confidence: 0.95
+  - name: futuro_do_trabalho
+    weight: 9
+    confidence: 0.96
+  - name: modelos_de_escritorio_remoto
+    weight: 7
+    confidence: 0.92
+  - name: leis_trabalhistas_remoto
+    weight: 6
+    confidence: 0.85
+  - name: equipes_hibridas_vs_distribuidas
+    weight: 8
+    confidence: 0.94
+  - name: escritorio_na_nuvem
+    weight: 9
+    confidence: 0.97
+  - name: dependencias_trabalho_remoto
+    weight: 7
+    confidence: 0.93
+  - name: ferramentas_colaboracao_remota
+    weight: 10
+    confidence: 0.99
+  - name: gestao_projetos_remotos
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '005.32'
+  cdu_secondary:
+  - '331.1'
+  - '331.5'
+  - '658.3'
+  cdu_description: Gestão da informação e da comunicação. Organização do trabalho. Gestão de projetos. Relações de trabalho. Trabalho remoto e equipes distribuídas.
+---
 # Módulo 01: Cultura Remote First
 ## Possibilidades de Conexão
 [link aula](https://membros.officeless.cc/21273-lideranca-officeless/440368-possibilidades-de-conexao)

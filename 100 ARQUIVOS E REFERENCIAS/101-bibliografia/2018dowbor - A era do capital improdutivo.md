@@ -3,6 +3,47 @@ created: 2023-09-04T15:15:16 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
 author: Ladislau Dowbor
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:52.018206+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: capital_improdutivo_financeiro
+    weight: 10
+    confidence: 0.98
+  - name: concentracao_de_riqueza
+    weight: 9
+    confidence: 0.95
+  - name: desigualdade_social_economica
+    weight: 9
+    confidence: 0.96
+  - name: sistema_financeiro_especulativo
+    weight: 8
+    confidence: 0.97
+  - name: critica_ao_liberalismo_economico
+    weight: 7
+    confidence: 0.9
+  - name: acumulacao_de_fortuna_hereditaria
+    weight: 7
+    confidence: 0.92
+  - name: impacto_social_da_financeirizacao
+    weight: 8
+    confidence: 0.94
+  - name: governanca_corporativa_critica
+    weight: 6
+    confidence: 0.88
+  - name: drenagem_de_recursos_pelo_sistema_financeiro
+    weight: 9
+    confidence: 0.95
+  - name: diferenca_entre_investimento_produtivo_e_financeiro
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '336.7'
+  - '330.8'
+  - '316.4'
+  cdu_description: Economia. Finanças. Economia social. Sociologia econômica. Relações econômicas. Sociologia da pobreza.
 ---
 
 #  A era do capital improdutivo

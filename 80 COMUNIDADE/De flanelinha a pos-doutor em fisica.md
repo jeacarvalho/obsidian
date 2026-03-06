@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:52.127489+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: trajetoria_academica_fisica
+    weight: 10
+    confidence: 0.98
+  - name: superacao_pessoal_desafios
+    weight: 9
+    confidence: 0.97
+  - name: historia_vida_marcelo_ferreira_silva
+    weight: 9
+    confidence: 0.96
+  - name: influencia_educacao_mudanca_vida
+    weight: 8
+    confidence: 0.95
+  - name: direcao_utfpr_apuracana
+    weight: 7
+    confidence: 0.94
+  - name: experiencia_flanelinha
+    weight: 7
+    confidence: 0.93
+  - name: incentivo_estudos_palavras_positivas
+    weight: 6
+    confidence: 0.92
+  - name: superacao_alcoolismo_familiar
+    weight: 6
+    confidence: 0.91
+  - name: importancia_valores_familiares
+    weight: 5
+    confidence: 0.9
+  - name: perspectiva_humildade_realizacao
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '378.4'
+  cdu_secondary:
+  - '305.8'
+  - '170'
+  cdu_description: Ensino superior, Universidades. Educação superior. Ensino universitário. Carreira acadêmica. Biografias de acadêmicos. Ética e moral.
+---
 De flanelinha a pós-doutor em física - TNOnline.com.br
 
 # De flanelinha a pós-doutor em física

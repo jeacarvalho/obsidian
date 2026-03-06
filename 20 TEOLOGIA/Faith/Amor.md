@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:14.224691+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: caracteristicas_do_amor
+    weight: 10
+    confidence: 0.98
+  - name: amor_paciente
+    weight: 9
+    confidence: 0.95
+  - name: amor_benigno
+    weight: 9
+    confidence: 0.95
+  - name: amor_nao_ciumento
+    weight: 8
+    confidence: 0.92
+  - name: amor_nao_se_ufana
+    weight: 8
+    confidence: 0.92
+  - name: amor_nao_se_ensoberbece
+    weight: 8
+    confidence: 0.92
+  - name: amor_nao_procura_interesses
+    weight: 8
+    confidence: 0.92
+  - name: amor_nao_se_ressente
+    weight: 8
+    confidence: 0.92
+  - name: amor_regozija_com_verdade
+    weight: 8
+    confidence: 0.92
+  - name: amor_tudo_suporta
+    weight: 7
+    confidence: 0.9
+  cdu_primary: '241.5'
+  cdu_secondary: []
+  cdu_description: Moral cristã. Virtudes e vícios. Amor
+---
 O amor
 
 [[I Coríntios]] 13:4-10

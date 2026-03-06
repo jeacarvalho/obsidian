@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:52.887339+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: equilibrio_estresse_recuperacao_crescimento
+    weight: 10
+    confidence: 0.98
+  - name: periodizacao_esporte_desempenho
+    weight: 9
+    confidence: 0.95
+  - name: aplicacao_estresse_descanso_vida
+    weight: 8
+    confidence: 0.92
+  - name: autocuidado_bem_estar_sustentavel
+    weight: 7
+    confidence: 0.9
+  - name: desenvolvimento_intelectual_criativo_descanso
+    weight: 8
+    confidence: 0.93
+  - name: tecnica_pomodoro_produtividade
+    weight: 6
+    confidence: 0.85
+  - name: gestao_estresse_mental_produtividade
+    weight: 7
+    confidence: 0.88
+  - name: historia_deena_kastor_atleta_elite
+    weight: 5
+    confidence: 0.8
+  - name: pesquisa_stephen_seiler_treino
+    weight: 5
+    confidence: 0.82
+  - name: processo_criativo_imersao_incubacao_insight
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '796.01'
+  - '004.9'
+  - '159.95'
+  cdu_description: A CDU primária 159.947 abrange a psicologia da motivação e da emoção, que se alinha com a discussão sobre estresse, recuperação e crescimento. As CDU secundárias incluem 796.01 (Psicologia do esporte), 004.9 (Processamento de informações, incluindo criatividade e intelecto) e 159.95 (Processos mentais superiores, como criatividade e intelecto).
+---
 # Cap 1 
 
 ## Análise do Conteúdo

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:48.782802+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: geoprocessamento_conceitos_e_definicoes
+    weight: 10
+    confidence: 0.98
+  - name: sistemas_de_informacao_geografica_sig
+    weight: 9
+    confidence: 0.97
+  - name: geotecnologias_visao_geral
+    weight: 8
+    confidence: 0.96
+  - name: fotogrametria_e_aerofotogrametria
+    weight: 7
+    confidence: 0.95
+  - name: banco_de_dados_geograficos_ferramentas
+    weight: 7
+    confidence: 0.94
+  - name: webgis_e_web_mapping
+    weight: 8
+    confidence: 0.93
+  - name: software_livre_em_geotecnologia
+    weight: 9
+    confidence: 0.92
+  - name: produtos_cartograficos_mapa_carta_planta
+    weight: 8
+    confidence: 0.91
+  - name: escala_cartografica_numerica_e_precisao
+    weight: 9
+    confidence: 0.9
+  - name: sistemas_de_referencia_datum_coordenadas
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '528.9'
+  cdu_secondary:
+  - 004.451.6
+  - '911.2'
+  cdu_description: Geomática, Cartografia, Sistemas de Informação Geográfica, Software Livre, Escalas, Sistemas de Referência
+---
 # Dados para acesso ao curso
 >Oi José Eduardo Alves de Carvalho, tudo bem?
 Por favor, confirme o recebimento deste email.

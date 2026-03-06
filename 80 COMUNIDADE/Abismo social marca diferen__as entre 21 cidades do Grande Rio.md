@@ -3,6 +3,47 @@ created: 2021-03-08T20:23:53 (UTC -03:00)
 tags: []
 source: https://odia.ig.com.br/noticia/rio-de-janeiro/2015-08-21/abismo-social-marca-diferencas-entre-21-cidades-do-grande-rio.html
 author: paloma.savedra
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:54.078148+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desigualdade_social_grande_rio
+    weight: 10
+    confidence: 0.98
+  - name: renda_per_capita_municipios
+    weight: 9
+    confidence: 0.97
+  - name: expectativa_vida_regiao_metropolitana
+    weight: 9
+    confidence: 0.96
+  - name: diferencas_socioeconomicas_niteroi_japeri
+    weight: 8
+    confidence: 0.95
+  - name: periferia_metropolitana_indicadores_ruins
+    weight: 8
+    confidence: 0.94
+  - name: infraestrutura_urbana_precarias
+    weight: 7
+    confidence: 0.92
+  - name: politicas_publicas_ausencia_historica
+    weight: 7
+    confidence: 0.91
+  - name: pesquisa_ong_casa_fluminense
+    weight: 6
+    confidence: 0.9
+  - name: relacao_renda_saude
+    weight: 6
+    confidence: 0.89
+  - name: propostas_reducao_pobreza
+    weight: 5
+    confidence: 0.88
+  cdu_primary: '316.4'
+  cdu_secondary:
+  - '330.5'
+  - '308.2'
+  - '305.8'
+  cdu_description: Sociologia da desigualdade social e econômica, com foco em aspectos regionais e urbanos no Brasil.
 ---
 
 # Abismo social marca diferenças entre 21 cidades do Grande Rio | Rio de Janeiro | O Dia

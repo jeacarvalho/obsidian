@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T20:46:17.420786+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ministerio_pastoral
+    weight: 10
+    confidence: 0.98
+  - name: lideranca_eclesiastica
+    weight: 9
+    confidence: 0.95
+  - name: discipulado_cristao
+    weight: 8
+    confidence: 0.92
+  - name: aconselhamento_pastoral
+    weight: 7
+    confidence: 0.9
+  - name: gestao_financeira_igreja
+    weight: 8
+    confidence: 0.93
+  - name: administracao_eclesiastica
+    weight: 9
+    confidence: 0.94
+  - name: planejamento_pastoral
+    weight: 7
+    confidence: 0.88
+  - name: prestacao_de_contas_projetos
+    weight: 6
+    confidence: 0.85
+  - name: evangelismo_e_missoes
+    weight: 7
+    confidence: 0.87
+  - name: estatisticas_religiosas
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '27'
+  cdu_secondary:
+  - 27-71
+  - '262'
+  - '268'
+  - '253'
+  - '263'
+  cdu_description: Religião. Teologia. Religião cristã. Organização e administração da igreja. Vida e prática cristãs. Ministério pastoral. Liderança eclesiástica. Discipulado. Aconselhamento. Finanças eclesiásticas. Missões.
+---
 ## Ministério
 [[Ovelha depende do Pastor para vencer o lobo]]
 [[IPB]]

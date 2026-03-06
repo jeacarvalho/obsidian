@@ -1,3 +1,49 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:02.081077+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: autoridade_de_jesus_no_novo_testamento
+    weight: 10
+    confidence: 0.98
+  - name: confronto_jesus_lideres_religiosos
+    weight: 9
+    confidence: 0.97
+  - name: interpretacao_reformada_autoridade_crista
+    weight: 8
+    confidence: 0.95
+  - name: autoridade_divina_vs_humana
+    weight: 8
+    confidence: 0.96
+  - name: sabedoria_no_silencio_e_perguntas
+    weight: 7
+    confidence: 0.94
+  - name: reino_de_deus_autoridade_de_cristo
+    weight: 7
+    confidence: 0.93
+  - name: obediencia_a_cristo
+    weight: 6
+    confidence: 0.92
+  - name: teologia_de_n_t_wright
+    weight: 6
+    confidence: 0.9
+  - name: meditacao_biblica_marcos_11
+    weight: 5
+    confidence: 0.91
+  - name: critica_a_hipocrisia_religiosa
+    weight: 5
+    confidence: 0.93
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - 27-28
+  - '226.7'
+  - '226.4'
+  - '226.5'
+  - '226.9'
+  - '230.1'
+  cdu_description: Teologia cristã; Cristologia; Jesus Cristo como Filho de Deus e sua autoridade; Novo Testamento; Evangelhos Sinópticos; Evangelho de João; Epístola aos Hebreus; Teologia reformada; Comentários bíblicos; Aplicações práticas da fé cristã.
+---
 # chatGpt [[Marcos 11]] - 27-28
 
 ## Parte 1

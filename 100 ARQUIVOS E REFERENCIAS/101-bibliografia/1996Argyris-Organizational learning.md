@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:59.603606+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: aprendizagem_organizacional
+    weight: 10
+    confidence: 0.98
+  - name: teorias_em_uso
+    weight: 9
+    confidence: 0.95
+  - name: modelo_i_organizacional
+    weight: 8
+    confidence: 0.92
+  - name: modelo_ii_organizacional
+    weight: 8
+    confidence: 0.92
+  - name: rotinas_defensivas
+    weight: 7
+    confidence: 0.88
+  - name: tomada_de_decisao_organizacional
+    weight: 7
+    confidence: 0.85
+  - name: gestao_do_conhecimento
+    weight: 6
+    confidence: 0.8
+  - name: desenvolvimento_organizacional
+    weight: 6
+    confidence: 0.78
+  - name: comportamento_organizacional
+    weight: 5
+    confidence: 0.75
+  - name: teoria_da_acao
+    weight: 9
+    confidence: 0.93
+  cdu_primary: '316.46'
+  cdu_secondary:
+  - '005.32'
+  - '005.21'
+  cdu_description: 316.46 - Mudança social e desenvolvimento social. 005.32 - Gestão do conhecimento. 005.21 - Teoria da organização e gestão.
+---
 |   |   |
 |---|---|
 |Título:|Organizational learning|

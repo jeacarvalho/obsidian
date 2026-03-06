@@ -2,7 +2,50 @@
 created: 2023-10-16T17:15:24 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
-author: Isabella M. Weber 
+author: Isabella M. Weber
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:54.437058+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: china_abertura_economica_comparativo_russia
+    weight: 8
+    confidence: 0.9
+  - name: prioridade_china_povo_pobre
+    weight: 7
+    confidence: 0.85
+  - name: estabilizacao_precos_conciencia_governo_chines
+    weight: 9
+    confidence: 0.92
+  - name: regulacao_precos_atividade_comercial_estatal_interacao_agentes
+    weight: 8
+    confidence: 0.88
+  - name: guanzi_epoca_colapso_dinastia_zhou
+    weight: 6
+    confidence: 0.75
+  - name: selecao_funcionarios_merito_experiencia_comercio
+    weight: 9
+    confidence: 0.93
+  - name: conceito_mercadorias_pesadas_leves_dinamica_mercado
+    weight: 10
+    confidence: 0.95
+  - name: principio_qingzhong_equilibrio_economia
+    weight: 9
+    confidence: 0.91
+  - name: papel_governante_interesses_lucros_povo
+    weight: 8
+    confidence: 0.87
+  - name: estado_dar_emprego_desastres_naturais_incentivo_ricos
+    weight: 7
+    confidence: 0.8
+  cdu_primary: '330.1'
+  cdu_secondary:
+  - '338.5'
+  - '339.1'
+  - '339.3'
+  - '330.5'
+  - 008
+  cdu_description: Economia. Economia e finanças. Teoria econômica. História econômica. Política econômica. Gestão econômica. Economia da China. História da China. Cultura chinesa.
 ---
 
 # Como a China escapou da terapia de choque

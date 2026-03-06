@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:49.874416+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: dissertacoes_teses_bicicleta_brasil
+    weight: 10
+    confidence: 0.98
+  - name: mobilidade_urbana_bicicleta
+    weight: 9
+    confidence: 0.95
+  - name: infraestrutura_cicloviaria
+    weight: 8
+    confidence: 0.92
+  - name: planejamento_cicloviario
+    weight: 8
+    confidence: 0.9
+  - name: ciclabilidade_cidades
+    weight: 7
+    confidence: 0.88
+  - name: genero_bicicleta_mulheres
+    weight: 7
+    confidence: 0.85
+  - name: seguranca_ciclistas
+    weight: 6
+    confidence: 0.8
+  - name: politicas_publicas_bicicleta
+    weight: 6
+    confidence: 0.78
+  - name: observatorio_bicicleta
+    weight: 5
+    confidence: 0.75
+  - name: estudos_caso_bicicleta_brasil
+    weight: 5
+    confidence: 0.7
+  cdu_primary: 351.778.1
+  cdu_secondary:
+  - '308'
+  - '338.47'
+  cdu_description: 351.778.1 - Tráfego e transporte de bicicletas. 308 - Sociologia urbana e regional. 338.47 - Transportes. Serviços de transporte.
+---
 Fwd: [UCB-ASS] Dissertações e teses sobre bici SOBRE e DO BRASIL
 
 ---------- Forwarded message ---------

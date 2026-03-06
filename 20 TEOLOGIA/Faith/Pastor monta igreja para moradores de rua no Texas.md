@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:18.334903+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: missao_urbana_para_moradores_de_rua
+    weight: 10
+    confidence: 0.98
+  - name: evangelizacao_de_populacao_em_situacao_de_rua
+    weight: 9
+    confidence: 0.97
+  - name: fundacao_de_igreja_social
+    weight: 8
+    confidence: 0.96
+  - name: reabilitacao_de_dependentes_quimicos
+    weight: 7
+    confidence: 0.9
+  - name: ministerio_pastoral_com_jovens
+    weight: 6
+    confidence: 0.85
+  - name: projetos_sociais_em_comunidades_carentes
+    weight: 7
+    confidence: 0.92
+  - name: igreja_como_centro_de_apoio_social
+    weight: 8
+    confidence: 0.95
+  - name: historia_de_ministerio_pastoral
+    weight: 5
+    confidence: 0.8
+  - name: impacto_social_do_evangelho
+    weight: 9
+    confidence: 0.94
+  - name: superacao_de_desafios_ministeriais
+    weight: 6
+    confidence: 0.88
+  cdu_primary: 27-41
+  cdu_secondary:
+  - '364.6'
+  - '305.8'
+  cdu_description: '27-41: História e geografia da Igreja Cristã. 364.6: Assistência social a pessoas em situação de rua. 305.8: Grupos étnicos e sociais específicos.'
+---
 Pastor monta igreja para moradores de rua no Texas (EUA) - Púlpito Cristão
 
 # Pastor monta igreja para moradores de rua no Texas (EUA)

@@ -3,6 +3,46 @@ created: 2021-07-14T09:15:09 (UTC -03:00)
 tags: []
 source: https://churchanswers.com/blog/the-difference-between-curious-and-caring-pastors-and-why-its-better-to-be-caring/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+thomrainer%2Frss+%28thomrainer.com%29
 author: by  Sam Rainer
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:22.153716+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lideranca_pastoral_cuidosa
+    weight: 10
+    confidence: 0.98
+  - name: diferenca_curiosidade_cuidado_lideranca
+    weight: 9
+    confidence: 0.97
+  - name: motivacoes_lider_curioso
+    weight: 8
+    confidence: 0.95
+  - name: motivacoes_lider_cuidadoso
+    weight: 8
+    confidence: 0.95
+  - name: servico_ao_seguidor
+    weight: 7
+    confidence: 0.93
+  - name: gestao_de_pessoas_igreja
+    weight: 7
+    confidence: 0.92
+  - name: importancia_curiosidade_lideranca
+    weight: 6
+    confidence: 0.9
+  - name: desempenho_seguidor_perspectiva_lider
+    weight: 6
+    confidence: 0.88
+  - name: relacionamento_pastor_membro
+    weight: 5
+    confidence: 0.85
+  - name: tom_postura_lideranca
+    weight: 5
+    confidence: 0.83
+  cdu_primary: '280.1'
+  cdu_secondary:
+  - '305.4'
+  - '316.4'
+  cdu_description: Religião e Teologia - Cristianismo - Liderança eclesiástica e pastoral; Sociologia - Grupos sociais - Grupos religiosos; Psicologia - Psicologia social
 ---
 
 # The Difference Between Curious and Caring Pastors (And Why It’s Better to Be Caring) | Church Answers

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:20.270055+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: planejamento_liturgia_culto_escola
+    weight: 9
+    confidence: 0.98
+  - name: organizacao_espaco_fisico_igreja
+    weight: 8
+    confidence: 0.95
+  - name: definicao_horario_culto_matinal
+    weight: 7
+    confidence: 0.9
+  - name: gestao_contrato_imovel_igreja
+    weight: 8
+    confidence: 0.96
+  - name: selecao_convite_seminarista
+    weight: 7
+    confidence: 0.92
+  - name: logistica_mudanca_bens_igreja
+    weight: 6
+    confidence: 0.88
+  - name: atualizacao_documentacao_legal_igreja
+    weight: 8
+    confidence: 0.97
+  - name: desenvolvimento_presenca_online_igreja
+    weight: 9
+    confidence: 0.99
+  - name: planejamento_comunicacao_trimestral_igreja
+    weight: 7
+    confidence: 0.93
+  - name: estrategias_ensino_religioso_online
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '2'
+  cdu_secondary:
+  - '28'
+  - '004.77'
+  - '366.1'
+  cdu_description: Religião. Teologia. Religião cristã. Organizações religiosas. Internet e redes sociais. Comunicação social.
+---
 - Realizar reunião com a igreja para explicar a mudança e colher sua opinião. Definir o melhor horário matinal para o culto: 9hs ou 10hs?
 - Resolver com diretor da ecobaby o contrato
 - Decidir sobre alugar uma sala e encontrá-la

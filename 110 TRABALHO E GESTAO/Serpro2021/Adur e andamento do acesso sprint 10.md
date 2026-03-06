@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:52.790741+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: acesso_aws_serpro
+    weight: 10
+    confidence: 0.98
+  - name: criacao_gateway_privado
+    weight: 9
+    confidence: 0.95
+  - name: configuracao_infra_vpn
+    weight: 8
+    confidence: 0.92
+  - name: automatizacao_config_microsservicos
+    weight: 8
+    confidence: 0.9
+  - name: testes_microsservicos_rnf
+    weight: 7
+    confidence: 0.88
+  - name: integracao_ldap_rhssso
+    weight: 7
+    confidence: 0.85
+  - name: auditoria_kafka
+    weight: 6
+    confidence: 0.8
+  - name: configuracao_dashboards_grafana
+    weight: 6
+    confidence: 0.78
+  - name: gerenciamento_politicas_aws
+    weight: 5
+    confidence: 0.75
+  - name: migracao_acesso_aws
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '004.7'
+  - '004.8'
+  - '351.8'
+  cdu_description: Sistemas de computadores; Redes de computadores; Segurança de redes; Administração pública
+---
 [[Acessogov AWS SERPRO]]
 # Consulta no kanban:
 - https://kanban.serpro.gov.br/?controller=BoardViewController&action=show&plugin=&project_id=4382&search=status%3Aopen+assignee%3ALeandro

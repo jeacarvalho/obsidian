@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:13.540303+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fotografia_pessoal
+    weight: 8
+    confidence: 0.9
+  - name: animais_de_estimacao
+    weight: 9
+    confidence: 0.95
+  - name: cachorros
+    weight: 10
+    confidence: 0.98
+  - name: interacao_humano_animal
+    weight: 7
+    confidence: 0.85
+  - name: momentos_familiares
+    weight: 6
+    confidence: 0.7
+  - name: registros_visuais
+    weight: 5
+    confidence: 0.6
+  - name: cotidiano
+    weight: 7
+    confidence: 0.75
+  - name: afeto_animal
+    weight: 8
+    confidence: 0.88
+  - name: convivencia_domestica
+    weight: 9
+    confidence: 0.92
+  - name: carol_e_cachorros
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '77'
+  cdu_secondary:
+  - '636.7'
+  cdu_description: Fotografia e fotografia artística; Cães
+---
 Fotos Carol com cachorros da casa
 
 ![img-20181203-wa0032.jpg](c0f7e4ada6664ac1c50f2cbbb3acc285.jpg)

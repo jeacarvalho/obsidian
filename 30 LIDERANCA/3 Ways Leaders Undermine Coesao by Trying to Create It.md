@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:02.623817+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: coesao_organizacional
+    weight: 10
+    confidence: 0.98
+  - name: lideranca_organizacional
+    weight: 9
+    confidence: 0.95
+  - name: estrategia_empresarial
+    weight: 8
+    confidence: 0.92
+  - name: cultura_empresarial
+    weight: 8
+    confidence: 0.9
+  - name: falsidade_unidade_organizacional
+    weight: 7
+    confidence: 0.88
+  - name: metas_organizacionais
+    weight: 7
+    confidence: 0.85
+  - name: valores_empresariais
+    weight: 6
+    confidence: 0.82
+  - name: desenvolvimento_organizacional
+    weight: 6
+    confidence: 0.8
+  - name: gestao_de_pessoas
+    weight: 5
+    confidence: 0.78
+  - name: comunicacao_lideranca
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '658.3'
+  cdu_secondary:
+  - '658.4'
+  - '305.8'
+  cdu_description: Gestão de pessoal. Administração de pessoal. Relações de trabalho. Organização do trabalho. Gestão empresarial. Liderança. Cultura organizacional. Coesão social.
+---
 3 Ways Leaders Undermine Cohesion by Trying to Create It
 
 # 3 Ways Leaders Undermine [[Coesão]] by Trying to Create It

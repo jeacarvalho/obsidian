@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:20.047978+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: projeto_social_infantil
+    weight: 10
+    confidence: 0.98
+  - name: atividades_presenciais_igreja
+    weight: 9
+    confidence: 0.95
+  - name: alimentacao_infantil_projeto
+    weight: 10
+    confidence: 0.97
+  - name: custos_alimentacao_semanal
+    weight: 8
+    confidence: 0.92
+  - name: impacto_pandemia_ofertas_igreja
+    weight: 9
+    confidence: 0.96
+  - name: despesas_fixas_projeto
+    weight: 8
+    confidence: 0.93
+  - name: complementacao_financeira_igreja
+    weight: 9
+    confidence: 0.94
+  - name: distribuicao_cestas_basicas_pandemia
+    weight: 7
+    confidence: 0.9
+  - name: seguranca_alimentar_comunidade
+    weight: 7
+    confidence: 0.88
+  - name: arrecadacao_ofertas_projeto_social
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '27'
+  cdu_secondary:
+  - '364.1'
+  - '366.1'
+  cdu_description: Religião cristã; Organizações religiosas e suas atividades; Assistência social e serviços sociais; Serviços de assistência social e comunitária
+---
 Gente querida, como estão? Espero que estejam todos bem, debaixo do cuidado amoroso do Pai. 
 
 Essa semana o Projeto Crescer, braço evangelístico e social de nossa igreja retomou as atividades presenciais. Estamos novamente juntos com nossas crianças, algumas pela manhã, outras no período da tarde. E como foi bom ver o ânimo, o carinho, o sorriso de cada uma delas. Alegrou nosso coração e mostrou que estamos no caminho certo como comunidade que quer servir ao Senhor a partir do serviço missional que desempenha em sua vizinhança.

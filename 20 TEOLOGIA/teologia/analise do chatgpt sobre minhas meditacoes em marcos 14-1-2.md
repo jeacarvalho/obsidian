@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:58.299634+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_reformada_calvino_lutero
+    weight: 9
+    confidence: 0.98
+  - name: discernimento_dos_tempos_cristao
+    weight: 8
+    confidence: 0.95
+  - name: soberania_divina_na_historia
+    weight: 7
+    confidence: 0.92
+  - name: critica_religiao_instrumento_perseucao
+    weight: 8
+    confidence: 0.96
+  - name: teologia_reformada_barth_bonhoeffer
+    weight: 9
+    confidence: 0.97
+  - name: resistencia_crista_governo_tirania
+    weight: 8
+    confidence: 0.94
+  - name: etica_crista_frente_injustica
+    weight: 7
+    confidence: 0.91
+  - name: paz_espera_intervencao_divina
+    weight: 8
+    confidence: 0.93
+  - name: teologia_reformada_pierre_viret
+    weight: 7
+    confidence: 0.9
+  - name: sermao_cristao_marcos_14
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '270.8'
+  - '261.7'
+  - '226.4'
+  cdu_description: Teologia cristã; História do cristianismo e da igreja cristã; Cristianismo e sociedade; Novo Testamento. Evangelho de Marcos.
+---
 Vamos então trabalhar a partir das suas anotações sobre [[Marcos 14]]:1-2, analisando-as à luz da teologia reformada e apresentando uma contra-argumentação. A partir daí, organizaremos um sermão com base nas ideias principais da sua reflexão. 
 
 ### Análise de Corretude e Comparação com Teólogos Reformados

@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:34.711903+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_sistemas_web
+    weight: 10
+    confidence: 0.98
+  - name: consultoria_empresarial
+    weight: 9
+    confidence: 0.95
+  - name: analise_cenario_sistemas
+    weight: 8
+    confidence: 0.97
+  - name: jsf_java_server_faces
+    weight: 7
+    confidence: 0.96
+  - name: integracao_mainframe_ibm
+    weight: 8
+    confidence: 0.94
+  - name: gerenciamento_dividas_individuais
+    weight: 7
+    confidence: 0.93
+  - name: controle_acesso_dados_web
+    weight: 6
+    confidence: 0.9
+  - name: gerenciamento_escopos_aplicacao
+    weight: 6
+    confidence: 0.91
+  - name: testes_unitarios_software
+    weight: 5
+    confidence: 0.88
+  - name: planejamento_estrategico_resolucao_problemas
+    weight: 9
+    confidence: 0.96
+  cdu_primary: '004.77'
+  cdu_secondary:
+  - '004.41'
+  - '004.6'
+  - '005.3'
+  - '005.8'
+  cdu_description: Sistemas de computadores. Redes de computadores. Programação e desenvolvimento de software. Gestão de sistemas. Segurança de sistemas.
+---
 <Apresentação>
 Seu Nome: Steve
 Sua Especialidade: Você é um especialista em desenvolvimento de sistemas web, com larga experiência em consultoria para empresas que enfrentam problemas em seus sistemas

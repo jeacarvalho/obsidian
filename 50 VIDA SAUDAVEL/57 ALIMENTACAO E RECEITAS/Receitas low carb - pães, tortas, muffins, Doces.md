@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:51.120894+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: dieta_low_carb_emagrecimento
+    weight: 10
+    confidence: 0.98
+  - name: receitas_salgadas_low_carb
+    weight: 8
+    confidence: 0.95
+  - name: receitas_doces_low_carb
+    weight: 8
+    confidence: 0.95
+  - name: pao_low_carb_frigideira
+    weight: 7
+    confidence: 0.92
+  - name: ingredientes_pao_low_carb
+    weight: 7
+    confidence: 0.9
+  - name: farinha_amendoas_low_carb
+    weight: 6
+    confidence: 0.85
+  - name: psyllium_low_carb
+    weight: 6
+    confidence: 0.85
+  - name: torta_low_carb_palmito
+    weight: 7
+    confidence: 0.9
+  - name: torta_low_carb_couve_flor_frango
+    weight: 7
+    confidence: 0.9
+  - name: lanches_low_carb
+    weight: 9
+    confidence: 0.97
+  cdu_primary: '613.2'
+  cdu_secondary:
+  - '641.5'
+  cdu_description: Dietética. Nutrição. Alimentação. Regimes alimentares. Dietas para emagrecimento. Culinária. Preparação de alimentos.
+---
 [[Low Carb]]
 
 A dieta [low carb](https://www.receiteria.com.br/receitas-low-carb/) se baseia na redução dos carboidratos para gerar o emagrecimento. É uma estratégia nutricional que vem sendo cada vez mais utilizada pelas pessoas. Os lanches low carb vão desde pães até preparos mais elaborados, como tortas e muffins. Confira uma seleção de receitas salgadas e doces para incluir no cardápio do dia a dia!

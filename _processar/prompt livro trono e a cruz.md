@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:32.929264+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: religiao_como_ferramenta_de_poder_imperial
+    weight: 10
+    confidence: 0.98
+  - name: comparacao_imperio_romano_e_imperio_americano
+    weight: 9
+    confidence: 0.97
+  - name: excepcionalismo_americano_e_romano
+    weight: 8
+    confidence: 0.96
+  - name: liturgia_do_estado_e_simbolismo_politico
+    weight: 7
+    confidence: 0.95
+  - name: justificacao_religiosa_da_violencia_imperial
+    weight: 8
+    confidence: 0.94
+  - name: cristianismo_primitivo_como_contracultura
+    weight: 7
+    confidence: 0.93
+  - name: cooptacao_da_igreja_pelo_estado
+    weight: 9
+    confidence: 0.92
+  - name: teologia_da_prosperidade_e_critica_social
+    weight: 8
+    confidence: 0.91
+  - name: resistencia_comunitaria_e_fe_profetica
+    weight: 7
+    confidence: 0.9
+  - name: colapso_do_imperio_e_crise_religiosa
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '321.1'
+  cdu_secondary:
+  - 27-29
+  - '305.8'
+  - '323.3'
+  cdu_description: Relações entre Estado e Religião, História e Sociologia dos Impérios, Movimentos Sociais e Religiosos.
+---
 # Prompt Mestre: Projeto "O Trono e a Cruz"
 
 ## Contexto e Persona:

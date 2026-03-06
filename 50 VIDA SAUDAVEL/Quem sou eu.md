@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:19.381127+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: traumas_infantis_e_formacao_da_identidade
+    weight: 10
+    confidence: 0.98
+  - name: bullying_e_reacao_violenta
+    weight: 9
+    confidence: 0.95
+  - name: abandono_emocional_e_sentimento_de_inferioridade
+    weight: 9
+    confidence: 0.96
+  - name: busca_por_perfeicao_como_compensacao
+    weight: 8
+    confidence: 0.94
+  - name: impacto_da_familia_na_autoestima
+    weight: 7
+    confidence: 0.92
+  - name: desenvolvimento_de_habilidades_de_autodefesa
+    weight: 6
+    confidence: 0.88
+  - name: relacao_entre_trauma_e_desempenho_emocional
+    weight: 7
+    confidence: 0.9
+  - name: recuperacao_ansiosa_e_criatividade
+    weight: 5
+    confidence: 0.85
+  - name: influencia_da_classe_social_e_pais_em_desenvolvimento
+    weight: 6
+    confidence: 0.87
+  - name: aplicacao_de_conhecimento_em_narrativa_pessoal
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '305.8'
+  - '316.4'
+  cdu_description: Psicologia. Psicologia do desenvolvimento. Psicologia social. Psicologia da personalidade. Psicologia da vida adulta. Psicologia do trauma. Psicologia da família. Psicologia da infância. Psicologia da adolescência. Psicologia da recuperação. Psicologia da criatividade. Psicologia da autoajuda. Psicologia da autoimagem. Psicologia da motivação. Psicologia da perfeição. Psicologia da inferioridade. Psicologia da rejeição. Psicologia da procrastinação. Psicologia da determinação. Psicologia da vida. Psicologia da liderança. Psicologia das competências emocionais. Psicologia da autoavaliação. Psicologia da mudança. Psicologia da agência. Psicologia da ameaça. Psicologia da comunicação. Psicologia da ordenação. Psicologia da missão. Psicologia da gestão. Psicologia da vocação. Psicologia da música. Psicologia do ministério. Psicologia da contabilidade. Psicologia da economia. Psicologia da tecnologia da informação. Psicologia da escrita. Psicologia da saúde. Psicologia da família.
+    Psicologia do esporte. Psicologia da medicina. Psicologia da quimioterapia. Psicologia da história. Psicologia da inteligência artificial.
+---
 # História dos traumas a ser usada na IA]
 Vamos colocar o livro em prática mas a partir de uma personagem específica. Se coloque no lugar de um homem de 52 anos, branco, classe média em um país em desenvolvimento. Esse homem reconhece dois traumas em sua vida: a) Apanhava de meninos violentos em um prédio que morou e ao chegar em casa pensando encontrar apoio de sua mãe, ouvia ela dizer que se ele não voltasse lá e batesse no menino ela mesmo iria bater mais nele. Esse homem, então, aprende judô e quase mata o menino que mais fazia bullying com ele. b) Um tio muito importante na formação do homem o chamou para passear de carro com alguns amigos quando o homem também era um menino. Mas na hora do passeio outra pessoa chegou o tio o "trocou" por essa pessoa. O homem se lembra até hoje do carro saindo com as pessoas e ele ficando para trás. 
 

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:04.218601+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: profetas_do_capitalismo
+    weight: 10
+    confidence: 0.98
+  - name: otimizacao_de_stakeholders
+    weight: 9
+    confidence: 0.95
+  - name: captura_da_critica
+    weight: 9
+    confidence: 0.96
+  - name: economia_critica
+    weight: 8
+    confidence: 0.92
+  - name: capitalismo_formativo
+    weight: 8
+    confidence: 0.93
+  - name: violencia_existencial_capitalista
+    weight: 7
+    confidence: 0.88
+  - name: espiritos_do_capitalismo
+    weight: 7
+    confidence: 0.9
+  - name: felicidade_como_obrigacao
+    weight: 6
+    confidence: 0.85
+  - name: mercantilizacao_da_saude_e_educacao
+    weight: 6
+    confidence: 0.87
+  - name: critica_ao_neoliberalismo
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '330.8'
+  cdu_secondary:
+  - '305.8'
+  - '316.4'
+  - '323.3'
+  cdu_description: Economia política. História das doutrinas econômicas. Crítica ao capitalismo e suas manifestações contemporâneas, incluindo a absorção de críticas e a mercantilização de esferas sociais.
+---
 ## 🔍 ANÁLISE CURATORIAL: *The New Prophets of Capital* — Nicole Aschoff
 
 ### 1. CLASSIFICAÇÃO ARQUETÍPICA

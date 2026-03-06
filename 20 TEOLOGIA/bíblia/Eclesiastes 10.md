@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:56.784120+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: impacto_pequenos_erros_sabedoria
+    weight: 8
+    confidence: 0.9
+  - name: gerenciamento_indignacao_governo
+    weight: 7
+    confidence: 0.85
+  - name: critica_tolos_postos_elevados
+    weight: 9
+    confidence: 0.92
+  - name: exemplo_brasil_2020_governo
+    weight: 6
+    confidence: 0.75
+  - name: sucesso_trabalho_projetos_vida
+    weight: 7
+    confidence: 0.8
+  - name: importancia_pensamento_meditacao_livros
+    weight: 9
+    confidence: 0.95
+  - name: consequencias_preguica_desleixo
+    weight: 8
+    confidence: 0.88
+  - name: resolucao_problemas_domesticos
+    weight: 5
+    confidence: 0.7
+  - name: reflexao_festas_dinheiro_vida
+    weight: 6
+    confidence: 0.78
+  - name: cautela_critica_autoridades
+    weight: 7
+    confidence: 0.82
+  cdu_primary: '223.9'
+  cdu_secondary:
+  - '321.1'
+  - '305.8'
+  cdu_description: Eclesiástico (Livro) - Sabedoria e governo; Crítica social e política; Ética no trabalho e na vida.
+---
 Assim como a mosca morta faz o óleo do perfumador exalar mau cheiro, assim também uma pequena tolice pode ter mais peso do que a sabedoria e a honra. Eclesiastes 10:1 NAA
 - Talvez seja um dos motivos de odiar tanto errar. Um erro pequeno estraga todos os acertos que foram construídos que afinco
 - Mas, se errar no trabalho, fique sereno:

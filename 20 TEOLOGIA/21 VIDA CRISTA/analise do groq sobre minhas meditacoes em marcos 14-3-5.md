@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:07.109235+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_passagem_biblica
+    weight: 8
+    confidence: 0.9
+  - name: reflexao_empatia_compaixao
+    weight: 9
+    confidence: 0.95
+  - name: critica_social_inveja_julgamento
+    weight: 7
+    confidence: 0.85
+  - name: teologia_reformada_relacao_deus_proximos
+    weight: 8
+    confidence: 0.9
+  - name: interpretacao_biblica_marcos_14_3_9
+    weight: 10
+    confidence: 0.98
+  - name: proposta_sermao_cristao
+    weight: 9
+    confidence: 0.92
+  - name: exegese_biblica_comportamento_humano
+    weight: 7
+    confidence: 0.88
+  - name: teologia_pastoral_conselho
+    weight: 6
+    confidence: 0.8
+  - name: etica_crista_empatia_misericordia
+    weight: 8
+    confidence: 0.91
+  - name: hermeneutica_biblica_aplicada
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '226.7'
+  cdu_secondary:
+  - '230.04'
+  - '241.4'
+  - '265.1'
+  cdu_description: Evangelho de Marcos (226.7), Teologia Reformada (230.04), Ética Cristã (241.4), Sermões (265.1)
+---
 Agradeço a oportunidade de analisar as meditações sobre o texto bíblico de Marcos 14:3. Como pastor, conselheiro e teólogo protestante, farei uma análise comportamental, teológica e proponho um sermão a partir das anotações.
 
 **Análise comportamental:**

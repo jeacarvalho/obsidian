@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:57.615588+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: simbolismo_observacao_templo_jesus
+    weight: 9
+    confidence: 0.98
+  - name: atitude_juizo_inspecao_jesus
+    weight: 8
+    confidence: 0.95
+  - name: paciencia_controle_jesus
+    weight: 7
+    confidence: 0.92
+  - name: simbolismo_profetico_juizo_divino
+    weight: 8
+    confidence: 0.96
+  - name: separacao_expectativa_acao_reino_jesus
+    weight: 7
+    confidence: 0.93
+  - name: importancia_templo_adoracao_jesus
+    weight: 8
+    confidence: 0.97
+  - name: antecipacao_acao_transformadora_templo
+    weight: 7
+    confidence: 0.94
+  - name: interpretacao_simbolica_marcos_11_11
+    weight: 9
+    confidence: 0.99
+  - name: reflexao_pessoal_impulsividade_jesus
+    weight: 6
+    confidence: 0.85
+  - name: destruicao_templo_70_dc_juizo
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - 27-29
+  - '223.2'
+  cdu_description: Cristologia (Jesus Cristo) - Vida e Ministério; Período do Novo Testamento; Evangelho de Marcos
+---
 #### [[Marcos 11]]:11 e chatgpt
 
 Em **Marcos 11:11**, o texto diz: "E entrou Jesus em Jerusalém, no templo; e, tendo visto ao redor todas as coisas, como fosse já tarde, saiu para Betânia com os doze." Esse versículo é denso em simbolismo e preparação, com diferentes comentaristas sugerindo várias interpretações significativas. Aqui estão alguns dos pontos mais importantes que podem ser destacados:

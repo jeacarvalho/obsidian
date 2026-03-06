@@ -3,6 +3,47 @@ created: 2023-08-11T12:02:04 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
 author: Dallas Willard
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:58.200612+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gentileza_na_defesa_da_fe
+    weight: 10
+    confidence: 0.98
+  - name: apologetica_crista
+    weight: 9
+    confidence: 0.95
+  - name: carater_de_jesus
+    weight: 8
+    confidence: 0.92
+  - name: influencia_da_gentileza
+    weight: 7
+    confidence: 0.9
+  - name: metodos_de_ensinamento
+    weight: 6
+    confidence: 0.88
+  - name: sabedoria_e_astucia
+    weight: 7
+    confidence: 0.85
+  - name: discipulado_cristao
+    weight: 8
+    confidence: 0.87
+  - name: conhecimento_e_experiencia
+    weight: 6
+    confidence: 0.8
+  - name: fe_e_confianca
+    weight: 5
+    confidence: 0.75
+  - name: busca_por_entendimento
+    weight: 5
+    confidence: 0.78
+  cdu_primary: '230'
+  cdu_secondary:
+  - '232.9'
+  - '234.2'
+  - '239'
+  cdu_description: Teologia Cristã; Cristologia; Apologética Cristã
 ---
 
 # A gentileza que cativa: Defendendo a fé como Jesus faria

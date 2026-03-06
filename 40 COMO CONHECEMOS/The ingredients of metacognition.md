@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:29.910526+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: metacognicao_componentes
+    weight: 10
+    confidence: 0.98
+  - name: planejamento_aprendizagem
+    weight: 9
+    confidence: 0.95
+  - name: conhecimento_declarativo
+    weight: 7
+    confidence: 0.85
+  - name: conhecimento_procedural
+    weight: 7
+    confidence: 0.85
+  - name: conhecimento_condicional
+    weight: 7
+    confidence: 0.85
+  - name: monitoramento_progresso
+    weight: 9
+    confidence: 0.95
+  - name: autoavaliacao_estrategias
+    weight: 9
+    confidence: 0.95
+  - name: reavaliacao_desempenho
+    weight: 8
+    confidence: 0.9
+  - name: otimizacao_desempenho
+    weight: 8
+    confidence: 0.9
+  - name: habilidades_metacognitivas
+    weight: 10
+    confidence: 0.98
+  cdu_primary: '159.953'
+  cdu_secondary: []
+  cdu_description: Psicologia da inteligência e do pensamento. Processos cognitivos. Metacognição
+---
 ## The ingredients of metacognition
 fonte: https://nesslabs.com/metacognition
 

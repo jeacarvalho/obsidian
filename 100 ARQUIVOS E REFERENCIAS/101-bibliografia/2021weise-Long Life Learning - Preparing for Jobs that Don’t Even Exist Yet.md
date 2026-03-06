@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:51.825243+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: futuro_do_trabalho_e_automacao
+    weight: 10
+    confidence: 0.98
+  - name: aprendizado_ao_longo_da_vida
+    weight: 9
+    confidence: 0.97
+  - name: habilidades_humanas_vs_maquinas
+    weight: 9
+    confidence: 0.96
+  - name: inteligencia_emocional_e_social
+    weight: 8
+    confidence: 0.95
+  - name: transformacao_digital_no_trabalho
+    weight: 8
+    confidence: 0.94
+  - name: vida_profissional_de_100_anos
+    weight: 7
+    confidence: 0.93
+  - name: adaptacao_as_mudancas_de_carreira
+    weight: 7
+    confidence: 0.92
+  - name: critica_a_educacao_tradicional
+    weight: 6
+    confidence: 0.91
+  - name: impacto_da_ia_nas_profissoes
+    weight: 6
+    confidence: 0.9
+  - name: requalificacao_profissional_continua
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '331.5'
+  cdu_secondary:
+  - '37.01'
+  - '004.77'
+  - '159.947'
+  cdu_description: 331.5 - Emprego e desemprego. Mercado de trabalho. Condições de trabalho. 37.01 - Filosofia e teoria da educação. 004.77 - Inteligência artificial. 159.947 - Emoções e sentimentos.
+---
 # Minhas notas
 “This is not a race against the machines. If we race against them, we lose. This is a race with the machines. You'll be paid in the future based on how well you work with robots. Ninety percent of your coworkers will be unseen machines. Most of  that you do will not be possible without them. And there will be a blurry line between what you do and what they do"
 p. 20 ^3b6981

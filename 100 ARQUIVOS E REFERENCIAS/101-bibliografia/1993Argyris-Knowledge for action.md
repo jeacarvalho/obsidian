@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:01.492083+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mudanca_organizacional
+    weight: 10
+    confidence: 0.98
+  - name: rotinas_defensivas
+    weight: 9
+    confidence: 0.97
+  - name: aprendizagem_organizacional
+    weight: 9
+    confidence: 0.96
+  - name: conhecimento_acionavel
+    weight: 8
+    confidence: 0.95
+  - name: teorias_de_acao
+    weight: 8
+    confidence: 0.94
+  - name: teoria_em_uso_modelo_i
+    weight: 7
+    confidence: 0.93
+  - name: teoria_em_uso_modelo_ii
+    weight: 7
+    confidence: 0.92
+  - name: aprendizagem_ciclo_duplo
+    weight: 7
+    confidence: 0.91
+  - name: intervencao_pesquisa
+    weight: 6
+    confidence: 0.9
+  - name: causalidade_de_padrao
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '658.3'
+  cdu_secondary:
+  - '005.32'
+  - '159.942'
+  cdu_description: Gestão de pessoal. Administração de pessoal. Relações humanas no trabalho. Organização do trabalho. Mudança organizacional. Aprendizagem organizacional. Rotinas defensivas. Teorias de ação. Conhecimento acionável.
+---
 |   |   |
 |---|---|
 |Título:|Knowledge for action : a guide to overcoming barriers to organizational change|

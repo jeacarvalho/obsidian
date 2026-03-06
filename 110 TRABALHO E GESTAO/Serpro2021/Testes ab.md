@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:53.588317+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: testes_ab_em_aplicativos_moveis
+    weight: 10
+    confidence: 0.95
+  - name: estrategias_de_clusters_descartaveis
+    weight: 8
+    confidence: 0.85
+  - name: licenciamento_google_optimize
+    weight: 7
+    confidence: 0.8
+  - name: integracao_bigquery_google_analytics
+    weight: 9
+    confidence: 0.9
+  - name: desenvolvimento_low_code_mobile
+    weight: 7
+    confidence: 0.75
+  - name: arquitetura_ionic_para_testes_ab
+    weight: 6
+    confidence: 0.7
+  - name: uso_firebase_em_testes_mobile
+    weight: 8
+    confidence: 0.88
+  - name: modelos_de_uso_e_orientacao_para_testes
+    weight: 6
+    confidence: 0.72
+  - name: migracao_entre_clusters_de_aplicacao
+    weight: 7
+    confidence: 0.78
+  - name: analise_de_dados_com_google_analytics_360
+    weight: 9
+    confidence: 0.92
+  cdu_primary: '004.89'
+  cdu_secondary:
+  - '004.77'
+  - '004.8'
+  - '658.83'
+  cdu_description: Testes A/B em sistemas de informação, com foco em aplicações móveis e integração com ferramentas de análise de dados e licenciamento. Inclui estratégias de infraestrutura e desenvolvimento.
+---
 ### Descrição: Para ter apenas um lugar tudo sobre Testes a/b
 
 | links                                                                                                                                                          | Arquivos |

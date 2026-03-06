@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:06.901316+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_judas_jesus
+    weight: 8
+    confidence: 0.9
+  - name: fragilidade_humana_necessidade_graca
+    weight: 7
+    confidence: 0.85
+  - name: missao_redentora_amor_jesus
+    weight: 7
+    confidence: 0.85
+  - name: evolucao_pessoal_oracao_intercessao
+    weight: 6
+    confidence: 0.8
+  - name: perdao_limites_saudaveis
+    weight: 6
+    confidence: 0.8
+  - name: estudo_casos_traicao_biblia
+    weight: 5
+    confidence: 0.75
+  - name: teologia_reformada_depravacao_total
+    weight: 9
+    confidence: 0.95
+  - name: soberania_divina_plano_redencao
+    weight: 9
+    confidence: 0.95
+  - name: comentaristas_reformados_judas_jesus
+    weight: 7
+    confidence: 0.9
+  - name: proposta_sermao_traicao_redencao
+    weight: 8
+    confidence: 0.9
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - 27-29
+  - '241.6'
+  cdu_description: Cristologia (Jesus Cristo) e Teologia Sistemática (Doutrina da Salvação, Teologia Reformada, Comentário Bíblico de Marcos)
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Marcos 14]]:44-45
 
 ### **Análise Comportamental**

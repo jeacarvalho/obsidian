@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:10.528876+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: concentracao_de_riqueza_extrema
+    weight: 10
+    confidence: 0.98
+  - name: desigualdade_social_global
+    weight: 9
+    confidence: 0.97
+  - name: fome_mundial_e_pobreza
+    weight: 8
+    confidence: 0.96
+  - name: critica_ao_sistema_economico
+    weight: 9
+    confidence: 0.95
+  - name: apropriacao_de_riqueza_financeira
+    weight: 8
+    confidence: 0.94
+  - name: papel_da_classe_media
+    weight: 7
+    confidence: 0.93
+  - name: manutencao_do_status_quo
+    weight: 7
+    confidence: 0.92
+  - name: reflexao_etica_sobre_consumo
+    weight: 6
+    confidence: 0.91
+  - name: alienacao_social_e_individual
+    weight: 6
+    confidence: 0.9
+  - name: responsabilidade_individual_no_problema_social
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '316.4'
+  - '305.8'
+  cdu_description: Economia. Riqueza. Desigualdade. Sociologia. Problemas sociais. Classe média.
+---
 #### Faço do parte do problema social ou da solução dele
 Azul destaque | Local: 188
 

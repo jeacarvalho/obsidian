@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:35.502818+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: etica_dos_meios_e_fins
+    weight: 10
+    confidence: 0.98
+  - name: relativismo_moral_politico
+    weight: 9
+    confidence: 0.95
+  - name: justificacao_de_medidas_em_guerra
+    weight: 8
+    confidence: 0.92
+  - name: contextualizacao_historica_de_acoes
+    weight: 7
+    confidence: 0.9
+  - name: influencia_do_sucesso_na_moralidade
+    weight: 8
+    confidence: 0.93
+  - name: perspectiva_do_vencedor_e_vencido
+    weight: 7
+    confidence: 0.91
+  - name: critica_a_dupla_moralidade_internacional
+    weight: 8
+    confidence: 0.94
+  - name: analise_de_regras_de_conflito
+    weight: 6
+    confidence: 0.88
+  - name: relacao_entre_meios_disponiveis_e_etica
+    weight: 6
+    confidence: 0.87
+  - name: determinacao_da_moralidade_pela_vitoria_ou_derrota
+    weight: 9
+    confidence: 0.96
+  cdu_primary: '172.4'
+  cdu_secondary:
+  - '323.2'
+  - '327.3'
+  - '341.6'
+  cdu_description: Ética aplicada à política e às relações internacionais; moralidade dos meios e fins em conflitos e guerras; relativismo moral baseado em posições políticas e resultados.
+---
 Rules for Radicals
 
 Alinsky, Saul

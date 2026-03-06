@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T20:46:17.437861+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: capacitacao_de_equipe
+    weight: 9
+    confidence: 0.98
+  - name: feedback_continuo
+    weight: 10
+    confidence: 0.99
+  - name: desenvolvimento_profissional
+    weight: 8
+    confidence: 0.97
+  - name: lideranca_transformacional
+    weight: 7
+    confidence: 0.95
+  - name: gestao_de_desempenho
+    weight: 8
+    confidence: 0.96
+  - name: desenvolvimento_de_carreira
+    weight: 7
+    confidence: 0.94
+  - name: ambiente_de_trabalho_bani
+    weight: 6
+    confidence: 0.9
+  - name: comunicacao_eficaz_feedback
+    weight: 9
+    confidence: 0.98
+  - name: ferramenta_scid_feedback
+    weight: 8
+    confidence: 0.97
+  - name: inteligencia_emocional_lideranca
+    weight: 7
+    confidence: 0.93
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '159.947'
+  - '005.32'
+  cdu_description: Gestão de pessoal. Relações de trabalho. Liderança. Comunicação e feedback no ambiente de trabalho. Psicologia aplicada à gestão.
+---
 ## Capacitar [[talento]]s
 
 Feedback - 2a guerra, navio lançavam mísseis e criaram sistema para acompanhar o míssil e se a meta seria atingida. Origem: correção de rumos

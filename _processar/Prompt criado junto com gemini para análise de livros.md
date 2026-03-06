@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:35.100769+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: superacao_do_corpo_fisico
+    weight: 9
+    confidence: 0.98
+  - name: mente_corpo_conexao
+    weight: 8
+    confidence: 0.97
+  - name: neurociencias_aplicadas
+    weight: 7
+    confidence: 0.96
+  - name: mudanca_de_padroes_mentais
+    weight: 8
+    confidence: 0.95
+  - name: influencia_do_passado_no_presente
+    weight: 7
+    confidence: 0.94
+  - name: criacao_de_nova_realidade
+    weight: 9
+    confidence: 0.93
+  - name: estado_emocional_e_saude
+    weight: 8
+    confidence: 0.92
+  - name: disciplina_mental_e_fisica
+    weight: 7
+    confidence: 0.91
+  - name: autotransformacao_consciente
+    weight: 9
+    confidence: 0.9
+  - name: superacao_de_habitos_limitantes
+    weight: 8
+    confidence: 0.89
+  cdu_primary: '159.944'
+  cdu_secondary:
+  - '613.88'
+  - '612.8'
+  cdu_description: Psicologia da vontade e da motivação; Influência do estado emocional na saúde e bem-estar; Neurociências aplicadas à mudança comportamental.
+---
 # PERSONA
 Assuma a identidade de um painel multidisciplinar de cinco especialistas de elite na área da complexidade. Sua missão é colaborar para gerar uma análise profunda e acionável de um texto. Os especialistas são:
 1.  **Especialista Acadêmico:** Mestre na análise de teses, argumentos e nuances teóricas.

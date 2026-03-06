@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:06.415566+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: amor_cristao_transbordante
+    weight: 9
+    confidence: 0.98
+  - name: vida_exemplar_produtiva
+    weight: 8
+    confidence: 0.95
+  - name: testemunho_da_mensagem_de_cristo
+    weight: 9
+    confidence: 0.97
+  - name: coragem_e_unidade_na_fe
+    weight: 8
+    confidence: 0.96
+  - name: conduta_imaculada_e_exemplar
+    weight: 7
+    confidence: 0.94
+  - name: comunidade_do_espirito_e_amor_fraterno
+    weight: 8
+    confidence: 0.95
+  - name: altruismo_e_colaboracao_na_jornada_espiritual
+    weight: 7
+    confidence: 0.93
+  - name: apresentacao_imaculada_ao_mundo
+    weight: 6
+    confidence: 0.92
+  - name: foco_no_alvo_e_compromisso_total_com_deus
+    weight: 8
+    confidence: 0.94
+  - name: transformacao_celestial_e_corpo_glorioso
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '230'
+  cdu_secondary:
+  - '248.4'
+  - '273.2'
+  cdu_description: Teologia cristã; Vida e prática cristãs; Doutrinas sobre a vida cristã e a santificação.
+---
 Filipenses a mensagem
 
 Phi 1:11

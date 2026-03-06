@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:56.846752+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: comparacao_linguagens_backend_rust_go
+    weight: 10
+    confidence: 0.98
+  - name: desenvolvimento_web_backend
+    weight: 9
+    confidence: 0.95
+  - name: linguagem_programacao_rust
+    weight: 8
+    confidence: 0.97
+  - name: linguagem_programacao_go
+    weight: 8
+    confidence: 0.97
+  - name: performance_linguagens_programacao
+    weight: 7
+    confidence: 0.92
+  - name: gerenciamento_memoria_rust
+    weight: 7
+    confidence: 0.9
+  - name: gerenciamento_memoria_go
+    weight: 7
+    confidence: 0.9
+  - name: concorrencia_backend
+    weight: 6
+    confidence: 0.88
+  - name: velocidade_desenvolvimento_software
+    weight: 6
+    confidence: 0.85
+  - name: arquitetura_microsservicos
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '004.43'
+  cdu_secondary:
+  - 004.432.4
+  - 004.432.41
+  - 004.432.42
+  cdu_description: Linguagens de programação (Rust, Go) para desenvolvimento web backend, comparando performance, gerenciamento de memória e concorrência.
+---
 Rust vs Go in Backend Web Development - Qvault
 
 .![f98a847cc2002dddffd38aebdcdc9f4d.jpg](../00 EVERNOTE_EM_USO/44fd3bdcaf63f90a8d706e1422340055.jpg).

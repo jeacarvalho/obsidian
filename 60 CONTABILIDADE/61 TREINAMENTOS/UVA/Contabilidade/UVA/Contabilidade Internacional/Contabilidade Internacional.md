@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:41.466473+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contabilidade_internacional
+    weight: 10
+    confidence: 0.98
+  - name: normas_ifrs
+    weight: 9
+    confidence: 0.97
+  - name: estrutura_conceitual_contabilidade
+    weight: 8
+    confidence: 0.9
+  - name: demonstracoes_financeiras
+    weight: 8
+    confidence: 0.93
+  - name: normas_internacionais_contabilidade
+    weight: 9
+    confidence: 0.96
+  - name: globalizacao_economica
+    weight: 7
+    confidence: 0.85
+  - name: comparabilidade_relatorios_financeiros
+    weight: 7
+    confidence: 0.88
+  - name: legislacao_contabil_brasil
+    weight: 7
+    confidence: 0.92
+  - name: mercado_de_capitais
+    weight: 6
+    confidence: 0.8
+  - name: ferramentas_gestao_executivos
+    weight: 6
+    confidence: 0.75
+  cdu_primary: '657.3'
+  cdu_secondary: []
+  cdu_description: Contabilidade internacional. Normas internacionais de contabilidade. Harmonização e uniformização contábil.
+---
 # REFERÊNCIA 
 ## BÁSICA 
 - COSTA, Fábio Moraes da; CARVALHO, L. Nelson; LEMES, Sirlei. Contabilidade Internacional: aplicação das IFRS 2005. 3. TIR. São Paulo: Atlas, 2006. 

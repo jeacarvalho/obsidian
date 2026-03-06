@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:50.584767+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: competicao_entre_pessoas
+    weight: 10
+    confidence: 0.98
+  - name: inveja_no_trabalho
+    weight: 9
+    confidence: 0.97
+  - name: vaidade_e_ilusao
+    weight: 8
+    confidence: 0.96
+  - name: corrida_atras_do_vento
+    weight: 7
+    confidence: 0.95
+  - name: motivacao_para_o_sucesso
+    weight: 6
+    confidence: 0.94
+  - name: realizacao_profissional
+    weight: 5
+    confidence: 0.93
+  - name: transformacao_do_mundo
+    weight: 5
+    confidence: 0.92
+  - name: reflexao_biblica
+    weight: 6
+    confidence: 0.91
+  - name: textos_religiosos
+    weight: 5
+    confidence: 0.9
+  - name: sentido_da_vida
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '223.9'
+  cdu_secondary: []
+  cdu_description: Livros de Salmos e outros livros poéticos e didáticos. Eclesiastes é um livro sapiencial.
+---
 competicao
 
 EC_4_4 Então, vi que todo trabalho e toda destreza em obras provêm da inveja do homem contra o seu próximo. Também isto é vaidade e correr atrás do vento. RA

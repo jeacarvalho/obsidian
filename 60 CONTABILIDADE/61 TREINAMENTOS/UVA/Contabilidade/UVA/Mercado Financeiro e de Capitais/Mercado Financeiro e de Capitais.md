@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:40.350590+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sistema_financeiro_nacional
+    weight: 10
+    confidence: 0.98
+  - name: intermediacao_financeira
+    weight: 9
+    confidence: 0.95
+  - name: mercado_monetario
+    weight: 8
+    confidence: 0.92
+  - name: politicas_economicas
+    weight: 7
+    confidence: 0.9
+  - name: crescimento_economico
+    weight: 6
+    confidence: 0.88
+  - name: instrumentos_politica_monetaria
+    weight: 8
+    confidence: 0.93
+  - name: open_market
+    weight: 7
+    confidence: 0.91
+  - name: depositos_compulsorios
+    weight: 7
+    confidence: 0.91
+  - name: redesconto
+    weight: 7
+    confidence: 0.91
+  - name: gestao_liquidez_mercado
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '336.7'
+  cdu_secondary:
+  - '330.5'
+  - '336.1'
+  - '336.4'
+  cdu_description: 336.7 - Sistema monetário e financeiro. Bancos. Crédito. Moeda. Finanças. Mercado financeiro. Mercado de capitais.
+---
 # REFERÊNCIA 
 ## Básica 
 - NOGUEIRA, Helio Darwich. Mercado Financeiro e de Capitais. Rio de Janeiro: Universidade Veiga de Almeida, 2015. [[MFC_LD_PDF.pdf]]

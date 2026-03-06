@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:32.926460+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: alianca_de_moises
+    weight: 10
+    confidence: 0.98
+  - name: sangue_da_alianca
+    weight: 9
+    confidence: 0.97
+  - name: revelacao_divina
+    weight: 8
+    confidence: 0.96
+  - name: visao_de_deus
+    weight: 7
+    confidence: 0.95
+  - name: obediencia_a_deus
+    weight: 6
+    confidence: 0.94
+  - name: sacrificios_israelitas
+    weight: 5
+    confidence: 0.93
+  - name: profetas_e_deus
+    weight: 7
+    confidence: 0.92
+  - name: lideranca_espiritual
+    weight: 6
+    confidence: 0.91
+  - name: simbolismo_biblico
+    weight: 5
+    confidence: 0.9
+  - name: comparacao_antigo_novo_testamento
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '222.1'
+  cdu_secondary:
+  - '232.9'
+  - '264.3'
+  - '231.7'
+  cdu_description: O Livro do Êxodo descreve a aliança feita por Deus com Israel, mediada por Moisés, incluindo leis, sacrifícios e a revelação divina. A passagem também é interpretada em relação à nova aliança em Cristo e à natureza da visão de Deus.
+---
 Êxodo 24:3 Veio, pois, Moisés e referiu ao povo todas as palavras do SENHOR e todos os estatutos; então, todo o povo respondeu a uma voz e disse: Tudo o que falou o SENHOR faremos.
 Êxodo 24:7  E tomou o Livro da Aliança e o leu ao povo; e eles disseram: Tudo o que falou o SENHOR faremos e obedeceremos.
 - sob o impacto do momento e todos os sinais?

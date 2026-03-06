@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:35.887459+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: autoavaliacao_valor_proposta
+    weight: 8
+    confidence: 0.9
+  - name: medo_pensar_diferente
+    weight: 7
+    confidence: 0.85
+  - name: curadoria_etica_vida_sentido
+    weight: 9
+    confidence: 0.95
+  - name: analise_ia_ideias_negocio
+    weight: 6
+    confidence: 0.7
+  - name: negocio_tecnico_vs_exposicao_pessoal
+    weight: 10
+    confidence: 0.98
+  - name: medo_rejeicao_emocional
+    weight: 8
+    confidence: 0.92
+  - name: descolamento_rejeicao_mercado
+    weight: 7
+    confidence: 0.88
+  - name: percepcao_inovadora_assumir_lugar
+    weight: 6
+    confidence: 0.75
+  - name: etica_negocios_perspectiva_situada
+    weight: 9
+    confidence: 0.93
+  - name: autenticidade_negocios_pessoais
+    weight: 10
+    confidence: 0.97
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '330.13'
+  - '004.9'
+  cdu_description: Psicologia da motivação e do comportamento; Psicologia do valor; Psicologia da decisão; Psicologia da autoavaliação; Psicologia da inovação; Ética nos negócios; Inteligência artificial aplicada a negócios.
+---
 Se isso NÃO fosse meu — se eu tivesse lido isso de outra pessoa — o que eu diria sobre o valor dessa proposta?
 
 - Até a pergunta é difícil. Eu não sei se não vejo realmente valor ou se não quero ver valor. Não sei se faço um julgamento pelo que sei que existe, que conheço, e, não existindo, não tenhdo com o qo que comparar não consigfo ver o valor.

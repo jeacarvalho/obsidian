@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:37.880381+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: auditoria_contabil
+    weight: 10
+    confidence: 0.98
+  - name: fundamentos_auditoria
+    weight: 9
+    confidence: 0.9
+  - name: pratica_auditoria
+    weight: 9
+    confidence: 0.92
+  - name: contabilidade_societaria
+    weight: 8
+    confidence: 0.85
+  - name: teoria_auditoria
+    weight: 8
+    confidence: 0.88
+  - name: auditoria_tributaria
+    weight: 7
+    confidence: 0.8
+  - name: pericia_contabil
+    weight: 7
+    confidence: 0.75
+  - name: auditoria_recursos_humanos
+    weight: 6
+    confidence: 0.7
+  - name: auditoria_ambiental
+    weight: 6
+    confidence: 0.65
+  - name: livros_contabilidade
+    weight: 5
+    confidence: 0.6
+  cdu_primary: '657.6'
+  cdu_secondary: []
+  cdu_description: Auditoria e controle contábil
+---
 [[Contabilidade]]
 # Bibliografia 
 ## Básica

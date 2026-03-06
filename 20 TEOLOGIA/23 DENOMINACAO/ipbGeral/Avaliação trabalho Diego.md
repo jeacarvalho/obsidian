@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:26.222248+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: verificacao_referencias_bibliograficas
+    weight: 10
+    confidence: 0.98
+  - name: citacoes_apostolo_paulo
+    weight: 8
+    confidence: 0.9
+  - name: edicao_igrejas_lugares_dificeis
+    weight: 7
+    confidence: 0.85
+  - name: sentimento_moradores_carentes
+    weight: 6
+    confidence: 0.75
+  - name: doutrina_crista_calvino
+    weight: 9
+    confidence: 0.92
+  - name: confissoes_fe_westminster
+    weight: 7
+    confidence: 0.88
+  - name: referencia_erikson_1992
+    weight: 5
+    confidence: 0.7
+  - name: referencia_westminster_2001
+    weight: 5
+    confidence: 0.72
+  - name: citacao_phuteuo
+    weight: 6
+    confidence: 0.8
+  - name: identificacao_referencia_faltante
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '001.4'
+  cdu_secondary:
+  - '27'
+  - '28'
+  cdu_description: Metodologia de pesquisa e verificação de referências bibliográficas em estudos teológicos e sociais, com foco em citações bíblicas e obras de referência cristã.
+---
 - As referências não estão ordenadas
 - p. 15 --> Igualmente, percebemos este modus operandi na visão paulina da missão cristã, o Apóstolo Paulo usa expressões como phuteuo, plantar (1Co.3:69)
 	- Referência errada. Deve ser 3:6-9?

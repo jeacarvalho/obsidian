@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:00.139186+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: acessibilidade_web
+    weight: 10
+    confidence: 0.98
+  - name: diretrizes_wcag
+    weight: 9
+    confidence: 0.97
+  - name: pessoas_com_deficiencia
+    weight: 8
+    confidence: 0.96
+  - name: autismo_e_acessibilidade
+    weight: 7
+    confidence: 0.94
+  - name: tecnologia_assistiva_educacional
+    weight: 7
+    confidence: 0.93
+  - name: design_inclusivo
+    weight: 8
+    confidence: 0.92
+  - name: leitura_digital_estruturada
+    weight: 6
+    confidence: 0.9
+  - name: figuras_de_linguagem_em_textos
+    weight: 5
+    confidence: 0.85
+  - name: contraste_visual_em_design
+    weight: 6
+    confidence: 0.88
+  - name: ferramentas_de_cor_para_acessibilidade
+    weight: 5
+    confidence: 0.87
+  cdu_primary: '004.9'
+  cdu_secondary:
+  - 316.346.2
+  - '371.6'
+  - '616.89'
+  cdu_description: 004.9 - Tratamento da informação. Processamento de dados. Organização do conhecimento. Documentação. Ciência da informação. Computação gráfica. Interação homem-máquina. Acessibilidade digital. 316.346.2 - Grupos sociais. Minorias. Pessoas com deficiência. 371.6 - Meios e métodos de ensino. Tecnologia educacional. 616.89 - Psiquiatria. Psicopatologia. Transtornos do desenvolvimento.
+---
 # 03 - Por que pensar em [[acessibilidade]]?
 - PCD é o termo usado. Pessoa com deficiência
 - 25% da população brasileira tem algum tipo de deficiência física

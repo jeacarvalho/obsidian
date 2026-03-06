@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:08.771842+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: musica_vocal
+    weight: 10
+    confidence: 0.95
+  - name: composicao_musical
+    weight: 9
+    confidence: 0.9
+  - name: gravacao_de_audio
+    weight: 8
+    confidence: 0.85
+  - name: producao_musical
+    weight: 7
+    confidence: 0.8
+  - name: melodia
+    weight: 6
+    confidence: 0.75
+  - name: instrumentacao_guitarra
+    weight: 5
+    confidence: 0.7
+  - name: processamento_de_audio
+    weight: 5
+    confidence: 0.65
+  - name: arquivos_de_audio_mp3
+    weight: 5
+    confidence: 0.6
+  - name: data_de_gravacao_2020
+    weight: 5
+    confidence: 0.55
+  - name: organizacao_de_arquivos_digitais
+    weight: 5
+    confidence: 0.5
+  cdu_primary: '782.1'
+  cdu_secondary: []
+  cdu_description: Música vocal; composição musical; gravação de áudio; produção musical; melodia; guitarra; processamento de áudio; arquivos MP3; datas de gravação; organização de arquivos.
+---
 #### Canta alma
 [Canta Alma linha melódica começando](../00 EVERNOTE_EM_USO/d3a796e628d331c443f97d9c55cf400a.mp2)
 [2020_05_25_16_32_30.mp3](../00 EVERNOTE_EM_USO/68c5a8b7fe3264f3622fa5fd6999485a.mp2)

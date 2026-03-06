@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:34.973385+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cristianismo_autentico
+    weight: 9
+    confidence: 0.98
+  - name: afetos_religiosos
+    weight: 8
+    confidence: 0.95
+  - name: era_digital
+    weight: 7
+    confidence: 0.9
+  - name: interpretacao_escrituras
+    weight: 8
+    confidence: 0.96
+  - name: promessas_divinas
+    weight: 7
+    confidence: 0.92
+  - name: iluminacao_espiritual
+    weight: 6
+    confidence: 0.88
+  - name: iluminismo
+    weight: 7
+    confidence: 0.91
+  - name: busca_felicidade
+    weight: 6
+    confidence: 0.85
+  - name: apreciacao_estetica_divina
+    weight: 9
+    confidence: 0.97
+  - name: diferenca_santo_hipocrita
+    weight: 8
+    confidence: 0.94
+  cdu_primary: 27-28
+  cdu_secondary:
+  - '230.14'
+  - '159.947'
+  - '305.8'
+  cdu_description: Teologia cristã; Doutrinas cristãs; Psicologia religiosa; Filosofia da tecnologia; Sociologia da tecnologia
+---
 Edwards Against the Technopoly
 
 # Edwards Against the Technopoly

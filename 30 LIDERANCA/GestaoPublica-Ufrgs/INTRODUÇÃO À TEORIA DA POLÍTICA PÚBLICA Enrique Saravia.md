@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:07.032563+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teoria_politica_publica
+    weight: 10
+    confidence: 0.98
+  - name: visao_juridica_estado
+    weight: 8
+    confidence: 0.9
+  - name: visao_administrativa_estado
+    weight: 9
+    confidence: 0.92
+  - name: woodrow_wilson_administracao_publica
+    weight: 7
+    confidence: 0.85
+  - name: clientelismo_administracao_publica
+    weight: 6
+    confidence: 0.8
+  - name: globalizacao_governo
+    weight: 7
+    confidence: 0.88
+  - name: tecnologias_comunicacao_informacao_governo
+    weight: 6
+    confidence: 0.82
+  - name: planejamento_estrategico_governo
+    weight: 8
+    confidence: 0.89
+  - name: transparencia_controle_social_estado
+    weight: 7
+    confidence: 0.87
+  - name: governo_por_politicas_vs_governo_por_leis
+    weight: 9
+    confidence: 0.91
+  cdu_primary: '32'
+  cdu_secondary:
+  - '35'
+  - '303.4'
+  cdu_description: 32 Política. Ciência política; 35 Administração pública. Administração pública; 303.4 Métodos e técnicas de investigação social
+---
 INTRODUÇÃO À TEORIA DA POLÍTICA PÚBLICA Enrique Saravia
 
 INTRODUÇÃO À TEORIA DA POLÍTICA PÚBLICA Enrique Saravia

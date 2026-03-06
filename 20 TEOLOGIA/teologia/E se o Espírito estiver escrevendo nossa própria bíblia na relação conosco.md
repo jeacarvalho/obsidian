@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:02.789353+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: relacionamento_com_deus_experiencial
+    weight: 9
+    confidence: 0.98
+  - name: compreensao_transacional_vs_experiencial_religiosa
+    weight: 8
+    confidence: 0.95
+  - name: interpretacao_personalizada_da_palavra_divina
+    weight: 10
+    confidence: 0.97
+  - name: papel_do_espirito_santo_na_escrita_biblica_individual
+    weight: 10
+    confidence: 0.96
+  - name: singularidade_da_experiencia_humana_na_fe
+    weight: 9
+    confidence: 0.94
+  - name: aplicacao_contextualizada_dos_ensinamentos_divinos
+    weight: 8
+    confidence: 0.93
+  - name: pecado_de_padronizacao_no_amor_ao_proximo
+    weight: 7
+    confidence: 0.92
+  - name: diferencas_individuais_na_vivencia_do_amor
+    weight: 7
+    confidence: 0.91
+  - name: critica_a_religiosidade_meramente_legalista
+    weight: 6
+    confidence: 0.9
+  - name: verdades_universais_e_traducao_pessoal
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '231.3'
+  - '248.1'
+  - '201.6'
+  cdu_description: Teologia cristã; Teologia do Espírito Santo; Vida e prática cristãs; Interpretação da Bíblia
+---
 #### E se o Espírito estiver escrevendo nossa própria bíblia na relação conosco
 Amarelo destaque | Local: 872
 

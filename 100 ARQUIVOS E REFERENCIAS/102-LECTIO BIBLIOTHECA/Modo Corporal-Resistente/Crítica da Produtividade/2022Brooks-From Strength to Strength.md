@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:04.731774+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: critica_mercantilizacao_vida_humana
+    weight: 10
+    confidence: 0.98
+  - name: otimizacao_existencial_mercado
+    weight: 9
+    confidence: 0.97
+  - name: declino_cognitivo_profissional_oportunidade
+    weight: 8
+    confidence: 0.95
+  - name: segunda_curva_carreira
+    weight: 8
+    confidence: 0.96
+  - name: captura_subjetividade_capitalismo
+    weight: 9
+    confidence: 0.94
+  - name: desapego_quatro_idolatrias
+    weight: 7
+    confidence: 0.93
+  - name: auto_objetificacao_logica_capitalista
+    weight: 8
+    confidence: 0.92
+  - name: critica_meritocracia_silencio_racial
+    weight: 10
+    confidence: 0.99
+  - name: individualismo_residual_solucoes
+    weight: 7
+    confidence: 0.91
+  - name: privilegio_segunda_curva_classe
+    weight: 7
+    confidence: 0.9
+  cdu_primary: '316.3'
+  cdu_secondary:
+  - '159.9'
+  - '330.5'
+  - '305.8'
+  cdu_description: Sociologia da vida social e econômica, psicologia do desenvolvimento e da inteligência, economia e sociologia da raça e etnia.
+---
 # 📚 ANÁLISE CRÍTICA: *From Strength to Strength* — Arthur C. Brooks
 
 ## 🔑 PASSO 1: ATIVAÇÃO DA LENTE

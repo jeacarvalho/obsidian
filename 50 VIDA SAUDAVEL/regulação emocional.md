@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T23:04:47.282712+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: terapia_cognitivo_comportamental_ansiedade
+    weight: 9
+    confidence: 0.9
+  - name: gerenciamento_sintomas_tourette
+    weight: 8
+    confidence: 0.85
+  - name: funcoes_executivas_estrategias_compensatorias
+    weight: 7
+    confidence: 0.8
+  - name: autocontrole_mindfulness_exercicios_respiratorios
+    weight: 6
+    confidence: 0.75
+  - name: desenvolvimento_criativo_escrita_musica
+    weight: 9
+    confidence: 0.9
+  - name: necessidade_novidade_projetos_variados
+    weight: 7
+    confidence: 0.8
+  - name: desenvolvimento_carreira_assessment
+    weight: 8
+    confidence: 0.85
+  - name: job_crafting_alinhamento_interesses
+    weight: 7
+    confidence: 0.8
+  - name: arranjos_trabalho_flexiveis
+    weight: 6
+    confidence: 0.75
+  - name: autocompaixao_autocuidado_bem_estar
+    weight: 8
+    confidence: 0.85
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '316.6'
+  - '37.04'
+  - '65.02'
+  cdu_description: 159.9 Psicologia; 316.6 Psicologia social; 37.04 Orientação profissional e vocacional; 65.02 Gestão de pessoal
+---
 ## groq
 
 What a fascinating case! As a psychologist and career coach, I'd love to help this individual navigate his unique challenges and unlock his full potential. Here are some strategies I'd propose:

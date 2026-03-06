@@ -124,6 +124,46 @@ revistas_filosofia:
 - conceito: Não avaliada
   link: http://www.fflch.usp.br/df/site/publicacoes/primeirosescritos/index.php
   nome: Primeiros Escritos (USP)
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:54:09.689078+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: revistas_filosofia_qualificadas
+    weight: 10
+    confidence: 0.98
+  - name: sistema_qualis_capes
+    weight: 9
+    confidence: 0.95
+  - name: classificacao_conceitos_qualis
+    weight: 8
+    confidence: 0.92
+  - name: revistas_filosofia_impressas
+    weight: 7
+    confidence: 0.88
+  - name: revistas_filosofia_online
+    weight: 7
+    confidence: 0.88
+  - name: manuscrito_unicamp
+    weight: 6
+    confidence: 0.85
+  - name: analytica_filosofia
+    weight: 6
+    confidence: 0.85
+  - name: kriterion_filosofia
+    weight: 6
+    confidence: 0.85
+  - name: principia_filosofia
+    weight: 6
+    confidence: 0.85
+  - name: scientia_studiae
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '050'
+  cdu_secondary:
+  - '1'
+  - '001.8'
+  cdu_description: Periódicos (revistas) em geral (050), com foco em Filosofia (1) e metodologia de pesquisa/avaliação científica (001.8).
 ---
 
 # Revistas sobre filosofia

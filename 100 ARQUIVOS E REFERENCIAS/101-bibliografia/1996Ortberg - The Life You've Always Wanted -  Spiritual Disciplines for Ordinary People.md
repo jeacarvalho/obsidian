@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:00.095210+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: insatisfacao_pessoal_e_autocritica
+    weight: 9
+    confidence: 0.98
+  - name: necessidade_de_transformacao_espiritual
+    weight: 10
+    confidence: 0.99
+  - name: perspectiva_teologica_da_vida
+    weight: 8
+    confidence: 0.95
+  - name: papel_divino_no_desenvolvimento_humano
+    weight: 7
+    confidence: 0.92
+  - name: integracao_da_vida_espiritual_cotidiana
+    weight: 8
+    confidence: 0.96
+  - name: evolucao_moral_e_espiritual
+    weight: 7
+    confidence: 0.93
+  - name: esperanca_na_transformacao_pessoal
+    weight: 9
+    confidence: 0.97
+  - name: reflexao_sobre_falhas_familiares
+    weight: 6
+    confidence: 0.9
+  - name: exemplo_de_mabel_como_inspiracao
+    weight: 7
+    confidence: 0.94
+  - name: chamado_a_comunidade_de_fe
+    weight: 5
+    confidence: 0.88
+  cdu_primary: '230'
+  cdu_secondary:
+  - '159.9'
+  - '248'
+  cdu_description: Teologia cristã; Psicologia; Vida e práticas cristãs
+---
 # Cap 
 
 ##  Análise do Conteúdo

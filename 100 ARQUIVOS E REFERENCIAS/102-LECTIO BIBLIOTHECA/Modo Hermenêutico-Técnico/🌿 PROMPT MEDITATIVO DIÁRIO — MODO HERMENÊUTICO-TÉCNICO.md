@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:03.025043+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: hermeneutica_tecnica_duvida
+    weight: 9
+    confidence: 0.98
+  - name: habitar_duvida_vs_eliminar_incerteza
+    weight: 8
+    confidence: 0.97
+  - name: razao_instrumental_mediacao_humana
+    weight: 7
+    confidence: 0.96
+  - name: dimensao_existencial_etica_tecnica
+    weight: 6
+    confidence: 0.95
+  - name: humildade_epistemologica_resistencia_certeza
+    weight: 7
+    confidence: 0.94
+  - name: sabedoria_vs_fetichismo_tecnico
+    weight: 8
+    confidence: 0.93
+  - name: colonialidade_algoritmica_dados
+    weight: 7
+    confidence: 0.92
+  - name: filosofia_de_paul_ricoeur
+    weight: 6
+    confidence: 0.91
+  - name: etica_como_primeira_filosofia_levinas
+    weight: 6
+    confidence: 0.9
+  - name: politica_da_inteligencia_artificial_crawford
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '101.83'
+  cdu_secondary:
+  - 004.032.26
+  - '111.85'
+  - '167.7'
+  cdu_description: Filosofia da técnica; Relação entre homem e máquina; Hermenêutica; Ética; Inteligência Artificial
+---
 #### 🌿 PROMPT MEDITATIVO DIÁRIO — MODO HERMENÊUTICO-TÉCNICO
 *(Compacto para NotebookLM — 480 palavras)*
 

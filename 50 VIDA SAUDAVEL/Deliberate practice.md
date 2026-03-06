@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:36.301891+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pratica_deliberada
+    weight: 10
+    confidence: 1.0
+  - name: desenvolvimento_de_habilidades
+    weight: 9
+    confidence: 0.95
+  - name: superacao_de_limites
+    weight: 8
+    confidence: 0.9
+  - name: estado_de_fluxo
+    weight: 7
+    confidence: 0.85
+  - name: feedback_e_avaliacao
+    weight: 7
+    confidence: 0.8
+  - name: zona_de_conforto
+    weight: 6
+    confidence: 0.75
+  - name: motivacao_intrinseca
+    weight: 6
+    confidence: 0.7
+  - name: foco_intenso
+    weight: 5
+    confidence: 0.65
+  - name: estrategias_de_aprendizagem
+    weight: 5
+    confidence: 0.6
+  - name: desempenho_alto
+    weight: 5
+    confidence: 0.55
+  cdu_primary: '159.94'
+  cdu_secondary:
+  - '005.8'
+  - '37.01'
+  cdu_description: Psicologia da performance e do desempenho. Gestão do conhecimento e da informação. Pedagogia e educação.
+---
 [[Prática deliberada]]
 
 O Conceito é atribuído a Karl Anders Ericsson, autor de "Peak" - no português: Direto ao ponto.

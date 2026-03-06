@@ -3,6 +3,46 @@ created: 2021-04-06T09:50:23 (UTC -03:00)
 tags: []
 source: file:///home/ze-eduardo/noticias/seis-casas-na-arvore-no-brasil-para-quem-quer-isolamento-contato-com-natureza-24957028
 author: O Globo
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T23:05:26.379078+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: turismo_de_natureza
+    weight: 9
+    confidence: 0.98
+  - name: hospedagem_alternativa
+    weight: 8
+    confidence: 0.97
+  - name: casas_na_arvore
+    weight: 10
+    confidence: 1.0
+  - name: turismo_isolamento_social
+    weight: 7
+    confidence: 0.95
+  - name: arquitetura_sustentavel
+    weight: 6
+    confidence: 0.85
+  - name: turismo_brasil
+    weight: 8
+    confidence: 0.96
+  - name: ecoturismo
+    weight: 7
+    confidence: 0.92
+  - name: turismo_pandemia
+    weight: 7
+    confidence: 0.94
+  - name: turismo_experiencial
+    weight: 6
+    confidence: 0.88
+  - name: turismo_rural
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '338.48'
+  cdu_secondary:
+  - '728.8'
+  - '502.1'
+  cdu_description: 338.48 Turismo; 728.8 Habitações em árvores; 502.1 Proteção da natureza
 ---
 
 # Seis casas na árvore no Brasil para quem quer isolamento e contato com a natureza - Jornal O Globo

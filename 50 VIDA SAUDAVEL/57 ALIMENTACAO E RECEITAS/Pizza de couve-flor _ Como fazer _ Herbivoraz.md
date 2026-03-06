@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:53.174492+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pizza_couve_flor_vegana
+    weight: 10
+    confidence: 0.98
+  - name: receita_low_carb
+    weight: 9
+    confidence: 0.95
+  - name: massa_pizza_vegetal
+    weight: 8
+    confidence: 0.92
+  - name: substitutos_ovo_queijo
+    weight: 7
+    confidence: 0.88
+  - name: ovo_linhaca
+    weight: 6
+    confidence: 0.85
+  - name: farelo_aveia
+    weight: 6
+    confidence: 0.83
+  - name: culinaria_funcional
+    weight: 7
+    confidence: 0.8
+  - name: molho_tomate_caseiro
+    weight: 5
+    confidence: 0.75
+  - name: beneficios_couve_flor
+    weight: 6
+    confidence: 0.78
+  - name: preparo_massa_pizza
+    weight: 8
+    confidence: 0.9
+  cdu_primary: '641.5'
+  cdu_secondary:
+  - 641.563.8
+  - 641.568.1
+  - 641.551.2
+  cdu_description: 641.5 - Arte culinária, cozinha, culinária. 641.563.8 - Cozinha vegetariana. 641.568.1 - Cozinha dietética, de regime (low-carb). 641.551.2 - Preparação de massas para pães, bolos, etc.
+---
 Pizza de couve-flor | Como fazer | Herbivoraz
 
 # Pizza de couve-flor

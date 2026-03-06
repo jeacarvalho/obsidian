@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:51.937748+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reinvencao_organizacional
+    weight: 10
+    confidence: 0.98
+  - name: cultura_de_liberdade_e_responsabilidade
+    weight: 9
+    confidence: 0.95
+  - name: mindset_agil_vs_metodologias_ageis
+    weight: 10
+    confidence: 0.99
+  - name: gestao_de_equipes_descentralizadas
+    weight: 8
+    confidence: 0.92
+  - name: transparencia_nas_organizacoes
+    weight: 7
+    confidence: 0.9
+  - name: proposito_organizacional
+    weight: 8
+    confidence: 0.91
+  - name: consciencia_da_complexidade_organizacional
+    weight: 9
+    confidence: 0.96
+  - name: etnografia_organizacional
+    weight: 7
+    confidence: 0.88
+  - name: mudanca_cultural_nas_empresas
+    weight: 10
+    confidence: 0.97
+  - name: produtividade_em_ambiente_complexo
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '658.3'
+  cdu_secondary:
+  - '005.32'
+  - 303.446.4
+  cdu_description: Gestão de pessoal. Administração de pessoal. Organização do trabalho. Gestão de empresas. Gestão da mudança. Métodos de investigação social.
+---
 Brave New Work: Are You Ready to Reinvent Your Organization?
 
 Location: 67

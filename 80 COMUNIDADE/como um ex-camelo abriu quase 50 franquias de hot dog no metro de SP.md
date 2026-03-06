@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:51.126893+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: empreendedorismo_de_sucesso
+    weight: 10
+    confidence: 0.98
+  - name: historia_de_camelo_para_franquia
+    weight: 9
+    confidence: 0.97
+  - name: rede_de_hot_dog_monster_dog
+    weight: 9
+    confidence: 0.96
+  - name: franquias_em_transporte_publico
+    weight: 8
+    confidence: 0.95
+  - name: negocios_alimenticios
+    weight: 8
+    confidence: 0.94
+  - name: estrategia_de_expansao_de_negocios
+    weight: 7
+    confidence: 0.93
+  - name: adaptacao_de_cardapio
+    weight: 7
+    confidence: 0.92
+  - name: gestao_de_quiosques
+    weight: 6
+    confidence: 0.91
+  - name: planejamento_de_negocios
+    weight: 6
+    confidence: 0.9
+  - name: comida_de_rua_formalizada
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '334.7'
+  cdu_secondary:
+  - '664.7'
+  - '338.45'
+  cdu_description: Empreendedorismo e gestão de pequenas e médias empresas, com foco em franquias no setor de alimentação e comércio em locais de grande circulação.
+---
 Monster Dog: como um ex-camelô abriu quase 50 franquias de hot dog no metrô de SP
 
 # Monster Dog: como um ex-camelô abriu quase 50 franquias de hot dog no metrô de SP

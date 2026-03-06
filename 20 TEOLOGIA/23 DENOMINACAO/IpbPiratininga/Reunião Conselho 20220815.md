@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:23.222145+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lideranca_e_conselho_na_tomada_de_decisao
+    weight: 9
+    confidence: 0.98
+  - name: organizacao_e_sustentabilidade_de_igreja
+    weight: 10
+    confidence: 0.97
+  - name: planejamento_estrategico_comunitario
+    weight: 8
+    confidence: 0.96
+  - name: desafios_de_renovacao_geracional_em_comunidades
+    weight: 7
+    confidence: 0.95
+  - name: importancia_da_comunhao_e_carinho_mutuo
+    weight: 6
+    confidence: 0.94
+  - name: identificacao_de_sinais_para_prever_futuro
+    weight: 7
+    confidence: 0.93
+  - name: missao_e_continuacao_de_projetos
+    weight: 9
+    confidence: 0.92
+  - name: saude_preventiva_e_profilaxia
+    weight: 5
+    confidence: 0.91
+  - name: chamado_divino_e_cansaco_pessoal
+    weight: 8
+    confidence: 0.9
+  - name: impacto_de_mudancas_externas_em_instituicoes
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '28'
+  cdu_secondary:
+  - '308'
+  - '316'
+  - '261'
+  cdu_description: Religião. Teologia. Organização e administração de igrejas. Sociologia da religião. Missões.
+---
 - 21:07
 - Pv 11:14 Não havendo direção sábia, o povo fracassa; com muitos conselheiros, há segurança.
 - Pv 15:22 Sem conselhos os projetos fracassam, mas com muitos conselheiros há sucesso.

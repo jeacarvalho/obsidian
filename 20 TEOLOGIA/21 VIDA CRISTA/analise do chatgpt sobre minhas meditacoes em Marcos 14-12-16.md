@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:07.375277+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: soberania_divina_na_vida_cotidiana
+    weight: 9
+    confidence: 0.98
+  - name: proposito_divino_em_detalhes_comuns
+    weight: 8
+    confidence: 0.95
+  - name: intimidade_espiritual_com_cristo
+    weight: 7
+    confidence: 0.92
+  - name: confianca_em_caminhos_misteriosos_de_deus
+    weight: 8
+    confidence: 0.96
+  - name: discernimento_orientacao_divina
+    weight: 7
+    confidence: 0.9
+  - name: teologia_reformada_e_providencia
+    weight: 9
+    confidence: 0.97
+  - name: analise_teologica_de_marcos_14
+    weight: 8
+    confidence: 0.94
+  - name: comunhao_privativa_com_deus
+    weight: 7
+    confidence: 0.91
+  - name: planejamento_divino_e_humano
+    weight: 6
+    confidence: 0.88
+  - name: fe_em_circunstancias_incertas
+    weight: 7
+    confidence: 0.93
+  cdu_primary: '231.7'
+  cdu_secondary:
+  - '232.9'
+  - '273.6'
+  cdu_description: Teologia da Providência Divina; Teologia de Jesus Cristo; Protestantismo Reformado
+---
 ## analise do chatgpt sobre minhas meditacoes em [[Marcos 14]]-12-16
 
 ### **Análise Comportamental**

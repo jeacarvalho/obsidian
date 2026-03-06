@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:25.500570+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: treinamento_muscular_inspiratorio
+    weight: 10
+    confidence: 0.98
+  - name: saude_cardiovascular
+    weight: 9
+    confidence: 0.95
+  - name: saude_cerebral
+    weight: 9
+    confidence: 0.93
+  - name: pressao_arterial
+    weight: 8
+    confidence: 0.9
+  - name: desempenho_cognitivo
+    weight: 8
+    confidence: 0.88
+  - name: desempenho_fisico
+    weight: 7
+    confidence: 0.85
+  - name: exercicios_respiratorios
+    weight: 7
+    confidence: 0.82
+  - name: prevencao_doencas_cardiacas
+    weight: 6
+    confidence: 0.78
+  - name: tecnicas_de_relaxamento
+    weight: 6
+    confidence: 0.75
+  - name: saude_pulmonar
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '613.8'
+  cdu_secondary:
+  - '616.12'
+  - '616.8'
+  - '612.1'
+  cdu_description: Higiene. Medicina preventiva. Bem-estar. Fisiologia. Saúde. Exercícios físicos e ginástica. Exercícios respiratórios para saúde cardiovascular e cerebral.
+---
 5-minute breathing 'workout' may benefit heart and brain health
 
 advertisement

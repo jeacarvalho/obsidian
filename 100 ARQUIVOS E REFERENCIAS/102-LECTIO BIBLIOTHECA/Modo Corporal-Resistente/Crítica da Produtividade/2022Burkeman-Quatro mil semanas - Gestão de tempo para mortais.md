@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:04.800281+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: paradoxo_da_limitacao
+    weight: 10
+    confidence: 0.98
+  - name: gestao_de_tempo_eficaz
+    weight: 9
+    confidence: 0.95
+  - name: aceitacao_da_finitude
+    weight: 9
+    confidence: 0.96
+  - name: busca_por_controle_total
+    weight: 8
+    confidence: 0.97
+  - name: ansiedade_e_estresse
+    weight: 7
+    confidence: 0.94
+  - name: vida_produtiva_e_significativa
+    weight: 8
+    confidence: 0.93
+  - name: liberdade_na_renuncia
+    weight: 7
+    confidence: 0.92
+  - name: sabedoria_pratica
+    weight: 6
+    confidence: 0.9
+  - name: renuncia_consciente
+    weight: 6
+    confidence: 0.91
+  - name: limites_humanos
+    weight: 8
+    confidence: 0.95
+  cdu_primary: 159.947.2
+  cdu_secondary:
+  - 159.942.3
+  - 159.947.5
+  cdu_description: Psicologia da motivação e da vontade. Gestão do tempo. Estresse e ansiedade. Aceitação da finitude e limites humanos.
+---
 ## 20260130
 
 ### Passo 1 — O Trecho

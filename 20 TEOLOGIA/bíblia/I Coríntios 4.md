@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:54.871491+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: julgamento_divino_vs_humano
+    weight: 8
+    confidence: 0.9
+  - name: paciencia_no_julgamento
+    weight: 7
+    confidence: 0.85
+  - name: qualidades_e_atitudes_de_um_servo
+    weight: 9
+    confidence: 0.95
+  - name: sofrimento_dos_apostolos
+    weight: 8
+    confidence: 0.92
+  - name: perseveranca_na_adversidade
+    weight: 7
+    confidence: 0.88
+  - name: imitacao_de_cristo
+    weight: 6
+    confidence: 0.8
+  - name: coragem_na_vida_com_deus
+    weight: 6
+    confidence: 0.75
+  - name: cultura_crista
+    weight: 5
+    confidence: 0.7
+  - name: poder_do_reino_de_deus
+    weight: 8
+    confidence: 0.9
+  - name: humildade_e_autoavaliacao
+    weight: 7
+    confidence: 0.82
+  cdu_primary: '227.1'
+  cdu_secondary:
+  - '230.1'
+  - '241.1'
+  cdu_description: Teologia cristã - Epístolas de Paulo - 1 Coríntios. Doutrina cristã - Teologia sistemática - Escatologia. Ética cristã - Comportamento cristão.
+---
 1 Coríntios 4:5 (Bíblia Almeida Strong)
 5 Portanto, nada julgueis antes do tempo, até que venha o Senhor, o qual não somente trará à plena luz as coisas ocultas das trevas, mas também manifestará os desígnios dos corações; e, então, cada um receberá o seu louvor da parte de Deus.
 - [[Paciência]]. Julgamento é de Deus que é o único que conhece tudo e todos

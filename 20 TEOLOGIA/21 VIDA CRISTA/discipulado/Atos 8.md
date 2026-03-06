@@ -1,3 +1,43 @@
+---
+topic_classification:
+  cdu_description: História do Cristianismo Primitivo, Atos dos Apóstolos, Evangelismo
+    e Missões
+  cdu_primary: '27'
+  cdu_secondary:
+  - 23/28
+  - '264.1'
+  topics:
+  - confidence: 0.98
+    name: perseguicao_a_igreja_em_jerusalem
+    weight: 10
+  - confidence: 0.97
+    name: dispersao_de_cristaos_pela_judeia_e_samaria
+    weight: 9
+  - confidence: 0.96
+    name: evangelizacao_por_cristaos_dispersos
+    weight: 9
+  - confidence: 0.95
+    name: ministerio_de_filipe_em_samaria
+    weight: 8
+  - confidence: 0.94
+    name: cura_e_libertacao_em_samaria
+    weight: 7
+  - confidence: 0.93
+    name: alegria_resultante_da_pregacao_em_samaria
+    weight: 6
+  - confidence: 0.92
+    name: crescimento_da_palavra_de_deus
+    weight: 7
+  - confidence: 0.91
+    name: conversao_de_sacerdotes
+    weight: 6
+  - confidence: 0.9
+    name: desejo_de_poder_religioso
+    weight: 5
+  - confidence: 0.92
+    name: direcao_do_espirito_santo_a_filipe
+    weight: 7
+---
 Atos 8:1
 
 A primeira perseguição à igreja

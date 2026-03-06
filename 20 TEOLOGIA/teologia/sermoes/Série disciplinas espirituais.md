@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:03.742088+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: formacao_de_habitos
+    weight: 8
+    confidence: 0.9
+  - name: disciplulado
+    weight: 7
+    confidence: 0.85
+  - name: vitalidade_espiritual
+    weight: 9
+    confidence: 0.92
+  - name: semelhanca_a_cristo
+    weight: 10
+    confidence: 0.98
+  - name: conformidade_com_principios
+    weight: 6
+    confidence: 0.75
+  - name: imitacao_de_exemplo
+    weight: 7
+    confidence: 0.88
+  - name: interpretacao_biblica
+    weight: 8
+    confidence: 0.91
+  - name: ensinamentos_de_jesus
+    weight: 9
+    confidence: 0.93
+  - name: relacionamento_conjugal
+    weight: 5
+    confidence: 0.7
+  - name: autoridade_religiosa
+    weight: 6
+    confidence: 0.78
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '230'
+  - '240'
+  cdu_description: Teologia cristã. Doutrina cristã. Vida e prática cristãs.
+---
 # Topic Bible
 5873 hABITS
 8114 Discipleship

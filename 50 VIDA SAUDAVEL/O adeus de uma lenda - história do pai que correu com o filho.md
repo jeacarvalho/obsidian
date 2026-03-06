@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:26.416771+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_inspiradora_pai_e_filho
+    weight: 10
+    confidence: 0.98
+  - name: dick_hoyt_legado
+    weight: 9
+    confidence: 0.97
+  - name: rick_hoyt_paralisia_cerebral
+    weight: 9
+    confidence: 0.96
+  - name: team_hoyt_atletismo
+    weight: 8
+    confidence: 0.95
+  - name: superacao_deficiencia_fisica
+    weight: 8
+    confidence: 0.94
+  - name: maratona_de_boston_participacao
+    weight: 7
+    confidence: 0.93
+  - name: ironman_competicao
+    weight: 7
+    confidence: 0.92
+  - name: fundacao_hoyt_apoio_jovens_deficiencia
+    weight: 6
+    confidence: 0.91
+  - name: relacao_pai_filho_esporte
+    weight: 6
+    confidence: 0.9
+  - name: inspiracao_atletas_mundiais
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '929.5'
+  cdu_secondary:
+  - '362.4'
+  - '796.42'
+  cdu_description: 929.5 Biografias de pessoas notáveis; 362.4 Assistência e serviços sociais para pessoas com deficiência; 796.42 Corridas de atletismo, maratonas
+---
 https://twitter.com/Ricamconsult/status/1372535616311791618?s=20
 
 ![[PaiCorrendoComFilho.jpeg]]

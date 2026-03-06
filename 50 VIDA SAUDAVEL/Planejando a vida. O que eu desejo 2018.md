@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:28.811346+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: planejamento_pessoal_e_profissional
+    weight: 10
+    confidence: 0.98
+  - name: desenvolvimento_espiritual_e_fe
+    weight: 9
+    confidence: 0.97
+  - name: gestao_de_tempo_e_produtividade
+    weight: 9
+    confidence: 0.96
+  - name: saude_fisica_e_bem_estar
+    weight: 8
+    confidence: 0.95
+  - name: relacionamentos_familiares_e_pessoais
+    weight: 7
+    confidence: 0.94
+  - name: lideranca_e_gestao_de_equipes
+    weight: 8
+    confidence: 0.93
+  - name: organizacao_e_manutencao_domiciliar
+    weight: 6
+    confidence: 0.92
+  - name: gestao_financeira_pessoal
+    weight: 7
+    confidence: 0.91
+  - name: engajamento_e_efetividade_ministerial
+    weight: 8
+    confidence: 0.9
+  - name: superacao_de_desesperanca_e_motivacao
+    weight: 9
+    confidence: 0.89
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '2'
+  - '316.4'
+  - '658.3'
+  - '305.8'
+  cdu_description: Psicologia da vida prática e do trabalho; religião; sociologia; administração de pessoal; vida familiar.
+---
 -   Realizar mais e melhor o que é importante - entregar valor
 -   Terminar o dia sentindo que trabalhei bem
 -   Terminar a semana sentindo evolução no que fiz

@@ -1,4 +1,45 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:42.072760+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mercado_de_credito_brasil
+    weight: 10
+    confidence: 0.98
+  - name: financiamento_desenvolvimento_economico
+    weight: 9
+    confidence: 0.97
+  - name: estabilidade_macroeconomica
+    weight: 8
+    confidence: 0.96
+  - name: plano_real
+    weight: 7
+    confidence: 0.95
+  - name: controle_inflacao
+    weight: 7
+    confidence: 0.94
+  - name: acesso_capital_empresas
+    weight: 8
+    confidence: 0.93
+  - name: investimento_produtivo
+    weight: 9
+    confidence: 0.92
+  - name: crescimento_economico_brasil
+    weight: 8
+    confidence: 0.91
+  - name: sistema_financeiro_nacional
+    weight: 6
+    confidence: 0.9
+  - name: emprestimos_pib_brasil
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '336.7'
+  cdu_secondary:
+  - '330.5'
+  - '338.1'
+  cdu_description: 336.7 - Crédito, Bancos, Moeda; 330.5 - Economia Geral; 338.1 - Desenvolvimento Econômico
+---
 A partir da leitura de FEIJÓ, considerando a estabilidade macroeconômica alcançada com a implantação do Plano Real e o controle da inflação, o mercado de crédito é a opção de investimento que pode ter o maior impacto no financiamento do desenvolvimento econômico no Brasil.
 
 Isso porque ele desempenha um papel fundamental ao fornecer recursos financeiros para empresas e indivíduos investirem em projetos, expansão de negócios e consumo. Com a estabilidade econômica e financeira, o acesso ao crédito torna-se mais favorável, incentivando o investimento produtivo e o crescimento econômico.

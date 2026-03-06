@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:56.589612+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: action_science
+    weight: 10
+    confidence: 1.0
+  - name: analise_critica_documento
+    weight: 9
+    confidence: 0.95
+  - name: escada_de_inferencia
+    weight: 8
+    confidence: 0.9
+  - name: teorias_em_uso
+    weight: 8
+    confidence: 0.9
+  - name: modelo_ii
+    weight: 7
+    confidence: 0.85
+  - name: reflexao_aprendizagem
+    weight: 7
+    confidence: 0.85
+  - name: dinamicas_emocionais_equipe
+    weight: 6
+    confidence: 0.75
+  - name: poder_politica_organizacional
+    weight: 6
+    confidence: 0.75
+  - name: facilitacao_reflexao
+    weight: 5
+    confidence: 0.7
+  - name: inteligencia_emocional
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '005.32'
+  cdu_secondary:
+  - '159.947'
+  - '316.46'
+  cdu_description: 005.32 - Gestão da qualidade e produtividade. 159.947 - Emoções. 316.46 - Mudança social e desenvolvimento.
+---
 |   |   |
 |---|---|
 |Título:|Action science|

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:31.916853+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: relacionamento_conjugal_e_sexo
+    weight: 10
+    confidence: 0.98
+  - name: abstinencia_sexual_consentida
+    weight: 8
+    confidence: 0.95
+  - name: oracao_no_casamento
+    weight: 7
+    confidence: 0.9
+  - name: tentacao_e_incontinencia
+    weight: 8
+    confidence: 0.92
+  - name: casamento_como_alternativa
+    weight: 9
+    confidence: 0.96
+  - name: obediencia_a_deus
+    weight: 7
+    confidence: 0.85
+  - name: desapego_material_e_mundano
+    weight: 9
+    confidence: 0.97
+  - name: perspectiva_escatologica
+    weight: 8
+    confidence: 0.93
+  - name: vida_crista_e_circunstancias
+    weight: 6
+    confidence: 0.88
+  - name: busca_das_coisas_celestiais
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '241.5'
+  cdu_secondary:
+  - '248.4'
+  - '230.3'
+  cdu_description: Ética cristã, vida cristã, vida familiar e conjugal, desapego do mundo, escatologia.
+---
 1 Coríntios 7:5 (Bíblia Almeida Strong)
 
 5 Não vos priveis um ao outro, salvo talvez por mútuo consentimento, por algum tempo, para vos dedicardes à oração e, novamente, vos ajuntardes, para que Satanás não vos tente por causa da incontinência.

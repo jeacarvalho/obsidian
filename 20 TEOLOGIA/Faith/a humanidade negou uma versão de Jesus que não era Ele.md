@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:20.375882+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: negacao_deus_modernidade
+    weight: 10
+    confidence: 0.98
+  - name: empoderamento_individual_modernidade
+    weight: 8
+    confidence: 0.95
+  - name: seres_coletivos_comunitarios
+    weight: 9
+    confidence: 0.96
+  - name: coletividade_criativa_livre
+    weight: 7
+    confidence: 0.92
+  - name: critica_apresentacao_deus_igreja
+    weight: 9
+    confidence: 0.97
+  - name: comparacao_artista_fundamentalista
+    weight: 10
+    confidence: 0.99
+  - name: fundamentalista_aversao_mudanca
+    weight: 8
+    confidence: 0.94
+  - name: visao_mundo_criado_imagem_deus
+    weight: 7
+    confidence: 0.93
+  - name: todo_ato_criativo_reflexo_vida_deus
+    weight: 8
+    confidence: 0.95
+  - name: progresso_caminho_para_deus
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '201'
+  cdu_secondary:
+  - '305.8'
+  - '141.3'
+  cdu_description: Filosofia da religião. Relação entre religião e sociedade. Individualismo e coletivismo. Arte e criatividade como reflexo divino.
+---
 #### Que deus foi negado pela modernidade
 Amarelo destaque | Página: 33 Nota | Página: 33
 

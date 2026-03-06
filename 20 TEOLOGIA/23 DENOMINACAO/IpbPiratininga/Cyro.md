@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:21.107476+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: apoio_a_cyro_neto
+    weight: 10
+    confidence: 0.98
+  - name: preocupacao_com_cyro_neto
+    weight: 9
+    confidence: 0.95
+  - name: vida_social_de_cyro_neto
+    weight: 7
+    confidence: 0.85
+  - name: comunidade_e_relacionamento
+    weight: 8
+    confidence: 0.9
+  - name: alegria_por_casal_glayce_e_cyro
+    weight: 6
+    confidence: 0.8
+  - name: problemas_financeiros_da_igreja
+    weight: 9
+    confidence: 0.92
+  - name: gestao_financeira_igreja
+    weight: 8
+    confidence: 0.88
+  - name: recursos_reservados_para_sede
+    weight: 7
+    confidence: 0.85
+  - name: etica_em_ajuda_financeira
+    weight: 10
+    confidence: 0.97
+  - name: retorno_a_comunhao_religiosa
+    weight: 8
+    confidence: 0.9
+  cdu_primary: '28'
+  cdu_secondary:
+  - '364'
+  - '336.1'
+  - '305.8'
+  cdu_description: Religião e Teologia; Assistência Social; Finanças Públicas; Grupos Sociais
+---
 Cyro
 
 Ok Cyro.

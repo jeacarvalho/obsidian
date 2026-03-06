@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T20:46:17.440937+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: engenharia_biomedica_reabilitacao_pos_avc
+    weight: 9
+    confidence: 0.9
+  - name: desenvolvimento_radar_exercito
+    weight: 8
+    confidence: 0.85
+  - name: programacao_python_django
+    weight: 7
+    confidence: 0.95
+  - name: processamento_imagens_geologia_oleo_gas
+    weight: 6
+    confidence: 0.7
+  - name: ensino_programacao_ufrj
+    weight: 5
+    confidence: 0.8
+  - name: framework_openstack_storage
+    weight: 6
+    confidence: 0.75
+  - name: comunicacao_profissional_atualizacao_tarefas
+    weight: 7
+    confidence: 0.9
+  - name: produtividade_superacao_procrastinacao
+    weight: 8
+    confidence: 0.85
+  - name: motivacao_desenvolvimento_codigo_refatoracao
+    weight: 9
+    confidence: 0.92
+  - name: integracao_equipe_colaboracao_aprendizado
+    weight: 7
+    confidence: 0.88
+  cdu_primary: '004.9'
+  cdu_secondary:
+  - '616.8'
+  - '621.396'
+  - '665.5'
+  - '378.9'
+  cdu_description: Ciência da computação, organização do conhecimento, engenharia biomédica, telecomunicações, petróleo e gás, ensino superior.
+---
 - Cern - projeto com 1 ano na Suíça
 	- Django, Python, Apache, NGINX
 - 2013 Formada poderia ter ficado mas quis voltar por saudade da família

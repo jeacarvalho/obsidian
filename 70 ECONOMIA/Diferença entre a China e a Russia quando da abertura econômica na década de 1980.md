@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:43.396644+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: abertura_economica_china_decada_1980
+    weight: 10
+    confidence: 0.98
+  - name: abertura_economica_russia_decada_1980
+    weight: 10
+    confidence: 0.98
+  - name: comparacao_reformas_economicas_china_russia
+    weight: 9
+    confidence: 0.95
+  - name: terapia_de_choque_economia
+    weight: 8
+    confidence: 0.9
+  - name: redistribuicao_regressiva_riqueza
+    weight: 7
+    confidence: 0.85
+  - name: liberalizacao_radical_precos
+    weight: 8
+    confidence: 0.92
+  - name: transicao_economia_mercado_pos_sovietica
+    weight: 9
+    confidence: 0.93
+  - name: inflacao_alta_russia_pos_colapso_sovietico
+    weight: 7
+    confidence: 0.88
+  - name: queda_producao_russia_pos_colapso_sovietico
+    weight: 6
+    confidence: 0.8
+  - name: planejamento_industrial_estado
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '338.1'
+  - '338.2'
+  - '338.5'
+  - '330.342'
+  cdu_description: Economia. Economia e sociedade. Economia política. Economia de mercado. Reformas econômicas. Transição econômica. China. Rússia. Década de 1980.
+---
 #### Diferença entre a China e a Russia quando da abertura econômica na década de 1980
 Amarelo destaque | Local: 360 Nota | Local: 360
 

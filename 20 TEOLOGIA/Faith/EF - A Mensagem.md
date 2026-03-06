@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:18.446141+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cristo_como_centro_da_igreja
+    weight: 10
+    confidence: 0.98
+  - name: igreja_como_corpo_de_cristo
+    weight: 9
+    confidence: 0.97
+  - name: salvacao_pela_fe_em_cristo
+    weight: 9
+    confidence: 0.96
+  - name: humildade_na_salvacao
+    weight: 8
+    confidence: 0.95
+  - name: reconciliacao_e_paz_em_cristo
+    weight: 8
+    confidence: 0.94
+  - name: pertencimento_ao_reino_de_deus
+    weight: 7
+    confidence: 0.93
+  - name: edificacao_da_igreja_como_templo
+    weight: 7
+    confidence: 0.92
+  - name: amor_cristao_e_plenitude_divina
+    weight: 6
+    confidence: 0.91
+  - name: abandono_do_velho_estilo_de_vida
+    weight: 6
+    confidence: 0.9
+  - name: comunicacao_edificante_entre_cristaos
+    weight: 5
+    confidence: 0.89
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '232.9'
+  - '262.1'
+  - '241.5'
+  cdu_description: Teologia cristã, com foco na eclesiologia (igreja como corpo de Cristo, templo), soteriologia (salvação pela fé), ética cristã (comportamento, fala, amor conjugal) e escatologia (reino de Deus).
+---
 Efesios A Mensagem
 
 No centro de tudo, Cristo governa a igreja. A igreja não é periférica em relação ao mundo, o mundo é que é periférico em relação à igreja. (Biblia A Mensagem)

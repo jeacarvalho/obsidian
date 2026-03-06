@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:27.919411+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: saude_mental_no_brasil
+    weight: 10
+    confidence: 0.98
+  - name: prevalencia_ansiedade_brasil
+    weight: 9
+    confidence: 0.95
+  - name: prevalencia_depressao_brasil
+    weight: 9
+    confidence: 0.94
+  - name: acesso_psicoterapia_brasil
+    weight: 8
+    confidence: 0.97
+  - name: uso_medicamentos_saude_mental_brasil
+    weight: 8
+    confidence: 0.96
+  - name: tratamentos_alternativos_saude_mental_brasil
+    weight: 7
+    confidence: 0.92
+  - name: perfil_usuarios_terapia_brasil
+    weight: 7
+    confidence: 0.9
+  - name: relacao_medicamentos_bullying_dor_cronica
+    weight: 6
+    confidence: 0.88
+  - name: indicadores_saude_mental_brasil_icasm
+    weight: 6
+    confidence: 0.85
+  - name: desigualdades_saude_mental_brasil
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '613.8'
+  cdu_secondary:
+  - '316.3'
+  - '305.8'
+  cdu_description: Saúde mental e seu acesso no Brasil, com foco na prevalência de transtornos, uso de terapias e medicamentos, e fatores associados.
+---
 # # Apenas 5% dos brasileiros fazem terapia, mas 1 a cada 6 usam medicamentos, mostra pesquisa inédita sobre saúde mental
 
 O Brasil é o país com maior proporção de pessoas ansiosas no mundo: 9,3% da população, segundo a última estimativa global de transtornos mentais feita pela Organização Mundial da Saúde (OMS). Além disso, é o segundo das Américas com maior prevalência de depressão.

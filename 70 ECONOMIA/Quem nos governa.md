@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:42.642559+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lavagem_dinheiro_bancos
+    weight: 10
+    confidence: 0.98
+  - name: historia_hsbc
+    weight: 9
+    confidence: 0.95
+  - name: trafico_drogas_financiamento
+    weight: 9
+    confidence: 0.97
+  - name: capitalismo_financeiro_criminalidade
+    weight: 8
+    confidence: 0.92
+  - name: guerra_opio_colonialismo
+    weight: 7
+    confidence: 0.9
+  - name: fraude_fiscal_evasao_divisas
+    weight: 8
+    confidence: 0.93
+  - name: regulamentacao_bancaria
+    weight: 7
+    confidence: 0.88
+  - name: poder_instituicoes_financeiras
+    weight: 8
+    confidence: 0.91
+  - name: corrupcao_politica_bancos
+    weight: 9
+    confidence: 0.94
+  - name: historia_imperialismo_britanico
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '336.7'
+  cdu_secondary:
+  - '339.9'
+  - '327.3'
+  - '343.34'
+  cdu_description: Finanças. Bancos. Crédito. Moeda. (336.7 - Bancos em geral)
+---
 [[Economia]]
 
 **Por Vladimir Safatle —na revista  Carta capital**

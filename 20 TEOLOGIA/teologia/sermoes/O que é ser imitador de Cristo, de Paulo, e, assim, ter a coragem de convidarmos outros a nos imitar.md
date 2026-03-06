@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:04.769506+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: imitacao_de_cristo
+    weight: 10
+    confidence: 0.98
+  - name: mudanca_de_paladar_espiritual
+    weight: 8
+    confidence: 0.92
+  - name: seguir_ensinamentos_cristaos
+    weight: 9
+    confidence: 0.95
+  - name: crescimento_espiritual
+    weight: 7
+    confidence: 0.88
+  - name: sacrificio_por_amor
+    weight: 6
+    confidence: 0.85
+  - name: compartilhamento_de_fe
+    weight: 9
+    confidence: 0.93
+  - name: evangelismo_comunitario
+    weight: 7
+    confidence: 0.89
+  - name: amor_e_servico_ao_proximo
+    weight: 10
+    confidence: 0.97
+  - name: transformacao_de_coracao
+    weight: 8
+    confidence: 0.91
+  - name: vida_de_obediencia_a_deus
+    weight: 8
+    confidence: 0.9
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '232.9'
+  - '248.4'
+  - '269.2'
+  cdu_description: '27-29: Cristianismo. 232.9: Vida e ensinamentos de Jesus Cristo. 248.4: Vida cristã, prática. 269.2: Evangelismo.'
+---
 #### **O que é** ser imitador de Cristo, de Paulo, e, assim, ter a coragem de convidarmos outros a nos imitar?
 
 - Mudar nosso paladar - assim como preciso parar de comer pão e passar a gostar de maçã, precisamos deixar de lado toda uma vida sendo ensinados sobre o que deve ser nossas prioridade para que nossa prioridade seja a mudança de vida na direção de Jesus. Nossa e daqueles que estão ao nosso redor

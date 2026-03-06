@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T23:05:46.180397+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: caminhada_urbana_prazer
+    weight: 8
+    confidence: 0.9
+  - name: flaneurismo_desejo_urbano
+    weight: 9
+    confidence: 0.95
+  - name: exploracao_caminhando_cidade
+    weight: 7
+    confidence: 0.85
+  - name: historia_lugares_caminhada
+    weight: 6
+    confidence: 0.75
+  - name: observacao_vida_urbana
+    weight: 8
+    confidence: 0.9
+  - name: reflexao_existencial_caminhada
+    weight: 7
+    confidence: 0.8
+  - name: memoria_urbana_andarai
+    weight: 5
+    confidence: 0.7
+  - name: trajetos_historicos_rio_janeiro
+    weight: 6
+    confidence: 0.75
+  - name: simbolismo_ruas_nobres
+    weight: 5
+    confidence: 0.7
+  - name: respirar_cair_vida_urbana
+    weight: 9
+    confidence: 0.92
+  cdu_primary: '305.4'
+  cdu_secondary:
+  - '910.4'
+  - '796.5'
+  cdu_description: Estudos sobre a mulher e o gênero (305.4), Viagens e exploração (910.4), Atividades recreativas e desportivas (796.5)
+---
 Andar para mim sempre foi um prazer. Na verdade, mais do que um prazer: quase uma obrigação. 
 
 Um dia almoçava em um restaurante perto do trabalho e capturei a conversa na mesa ao lado: "o pessoal disse que tem um maluco lá que foi andando daqui até a praça XV". "Daqui" era o bairro onde trabalhava naquele momento: Andaraí. Depois do Maracanã, depois da Tijuca. O mapa dizia a distância - quase 10km andando até a praça XV. 

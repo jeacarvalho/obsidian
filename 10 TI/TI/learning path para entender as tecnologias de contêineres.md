@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:00.430063+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fundamentos_linux_sistemas_operacionais
+    weight: 8
+    confidence: 0.95
+  - name: conceitos_conteineres_virtualizacao
+    weight: 9
+    confidence: 0.98
+  - name: docker_plataforma_conteineres
+    weight: 10
+    confidence: 1.0
+  - name: docker_redes_armazenamento
+    weight: 8
+    confidence: 0.92
+  - name: sistemas_arquivos_overlayfs
+    weight: 7
+    confidence: 0.9
+  - name: kubernetes_orquestracao_conteineres
+    weight: 10
+    confidence: 1.0
+  - name: seguranca_conteineres_docker_kubernetes
+    weight: 9
+    confidence: 0.97
+  - name: estudo_casos_implementacao_conteineres
+    weight: 7
+    confidence: 0.88
+  - name: monitoramento_logging_conteineres
+    weight: 6
+    confidence: 0.85
+  - name: ciclo_vida_aplicacoes_conteinerizadas
+    weight: 7
+    confidence: 0.9
+  cdu_primary: '004.7'
+  cdu_secondary:
+  - '004.4'
+  - '004.77'
+  - 004.772.6
+  cdu_description: Sistemas de computadores. Redes de computadores. Virtualização. Contêineres. Orquestração. Segurança.
+---
 Aqui está um **learning path** para entender as tecnologias de contêineres, cobrindo os conceitos essenciais e incluindo referências com materiais de livre acesso, além de vídeos.
 
 ### **1. Fundamentos do Linux**

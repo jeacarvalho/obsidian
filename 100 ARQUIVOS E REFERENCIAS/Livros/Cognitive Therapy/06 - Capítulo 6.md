@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:47.689764+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ansiedade_como_sinal_de_perigo
+    weight: 9
+    confidence: 0.98
+  - name: teoria_freudiana_da_ansiedade
+    weight: 8
+    confidence: 0.95
+  - name: ansiedade_e_reflexo_de_fuga
+    weight: 7
+    confidence: 0.9
+  - name: mobilizacao_organismo_acao_perigo
+    weight: 8
+    confidence: 0.92
+  - name: ansiedade_vs_desempenho_atletico
+    weight: 7
+    confidence: 0.88
+  - name: ansiedade_interferindo_lidar_com_perigo
+    weight: 8
+    confidence: 0.93
+  - name: fenomeno_de_congelamento_ansiedade
+    weight: 6
+    confidence: 0.85
+  - name: paradigma_resposta_paralela_leventhal
+    weight: 7
+    confidence: 0.89
+  - name: ansiedade_concomitante_comportamento_adaptativo
+    weight: 7
+    confidence: 0.87
+  - name: efeito_disruptivo_da_ansiedade
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '159.942'
+  cdu_secondary: []
+  cdu_description: Psicologia da ansiedade e do medo
+---
 # Capítulo 6
 
 for mobilizing the organism for action in response to danger.

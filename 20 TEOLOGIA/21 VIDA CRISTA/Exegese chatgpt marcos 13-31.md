@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:05.550168+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: discurso_apocaliptico_jesus
+    weight: 9
+    confidence: 0.98
+  - name: fim_dos_tempos_teologia
+    weight: 8
+    confidence: 0.97
+  - name: permanencia_palavra_jesus
+    weight: 10
+    confidence: 0.99
+  - name: transitoriedade_mundo_material
+    weight: 8
+    confidence: 0.96
+  - name: exegese_marcos_13_31
+    weight: 7
+    confidence: 0.95
+  - name: destruicao_jerusalem_profecia
+    weight: 7
+    confidence: 0.94
+  - name: vinha_filho_homem
+    weight: 6
+    confidence: 0.93
+  - name: interpretacao_teologica_escatologica
+    weight: 7
+    confidence: 0.92
+  - name: confianca_palavra_deus
+    weight: 8
+    confidence: 0.91
+  - name: esperanca_crista_futuro
+    weight: 7
+    confidence: 0.9
+  cdu_primary: '226.7'
+  cdu_secondary:
+  - '230.1'
+  - '261.8'
+  cdu_description: 226.7 - Evangelho de Marcos; 230.1 - Teologia cristã; 261.8 - Escatologia
+---
 l[[Marcos 13]]:31 faz parte do discurso apocalíptico de Jesus, registrado no evangelho de Marcos, capítulo 13, que aborda temas relacionados ao fim dos tempos, a destruição de Jerusalém e a vinda do Filho do Homem. O versículo 31, especificamente, diz:
 
 > "O céu e a terra passarão, mas as minhas palavras não passarão."

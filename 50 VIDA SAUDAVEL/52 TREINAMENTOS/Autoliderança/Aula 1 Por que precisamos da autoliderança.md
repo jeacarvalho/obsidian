@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:47.882091+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: autolideranca_pastores
+    weight: 10
+    confidence: 0.98
+  - name: saude_mental_pastores
+    weight: 9
+    confidence: 0.95
+  - name: riscos_ministerio_pastoral
+    weight: 8
+    confidence: 0.92
+  - name: sindrome_de_burnout_pastores
+    weight: 9
+    confidence: 0.96
+  - name: estresse_ministerial
+    weight: 7
+    confidence: 0.9
+  - name: mudanca_contexto_ministerial
+    weight: 6
+    confidence: 0.85
+  - name: teoria_da_santificacao
+    weight: 5
+    confidence: 0.7
+  - name: jornada_trabalho_pastores
+    weight: 7
+    confidence: 0.88
+  - name: autolideranca_conceito
+    weight: 8
+    confidence: 0.93
+  - name: sustentabilidade_ministerial
+    weight: 6
+    confidence: 0.8
+  cdu_primary: 27-74
+  cdu_secondary:
+  - 159.947.5
+  - 316.334.2
+  cdu_description: '27-74: Vida e atividade dos clérigos. 159.947.5: Autocontrole, autodisciplina. 316.334.2: Mudança social e profissional.'
+---
 #### [Aula 1 Por que precisamos da autoliderança?](https://aartedaautoliderancamod-okbyyx.club.hotmart.com/lesson/y4PrLKGj7x/1.-por-que-precisamos-da-autolideranca)
 
 ##### Pastores em perigo?

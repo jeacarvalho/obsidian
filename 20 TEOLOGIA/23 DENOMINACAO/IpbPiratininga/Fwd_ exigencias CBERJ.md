@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:19.604944+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: exigencias_cberj
+    weight: 10
+    confidence: 0.98
+  - name: alteracao_portas_blindex
+    weight: 8
+    confidence: 0.95
+  - name: mudanca_localizacao_botao_gas
+    weight: 7
+    confidence: 0.92
+  - name: instalacao_porta_corta_fogo
+    weight: 8
+    confidence: 0.94
+  - name: luz_emergencia_rotas_saida
+    weight: 7
+    confidence: 0.93
+  - name: sentido_abertura_portoes
+    weight: 6
+    confidence: 0.9
+  - name: localizacao_extintores
+    weight: 7
+    confidence: 0.91
+  - name: tipos_extintores
+    weight: 6
+    confidence: 0.89
+  - name: placas_identificacao_saida
+    weight: 5
+    confidence: 0.85
+  - name: documentacao_alvara
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '69.009'
+  cdu_secondary:
+  - '614.84'
+  - '621.64'
+  cdu_description: 69.009 - Obras de construção em geral; 614.84 - Prevenção e combate a incêndios; 621.64 - Instalações de fluidos
+---
 Fwd: exigencias CBERJ
 
 ---------- Mensagem encaminhada ----------

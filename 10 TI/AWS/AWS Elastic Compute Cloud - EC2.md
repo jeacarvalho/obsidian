@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:58.474728+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: computacao_em_nuvem_aws
+    weight: 10
+    confidence: 0.98
+  - name: instancias_computacionais
+    weight: 9
+    confidence: 0.95
+  - name: amazon_machine_image
+    weight: 8
+    confidence: 0.92
+  - name: regioes_aws
+    weight: 7
+    confidence: 0.88
+  - name: console_aws
+    weight: 7
+    confidence: 0.85
+  - name: camada_gratuita_aws
+    weight: 6
+    confidence: 0.8
+  - name: rede_virtual_privada_vpc
+    weight: 6
+    confidence: 0.78
+  - name: grupos_de_seguranca_firewall
+    weight: 5
+    confidence: 0.75
+  - name: acesso_ssh
+    weight: 5
+    confidence: 0.7
+  - name: armazenamento_em_nuvem
+    weight: 5
+    confidence: 0.65
+  cdu_primary: '004.7'
+  cdu_secondary:
+  - '004.4'
+  - '004.6'
+  cdu_description: Sistemas de computação em nuvem, redes e infraestrutura de TI
+---
 - Elástico - se configurado corretamente, a infra pode crescer ou diminuir conforme necessidade
 - Compute - São máquinas linux (por exemplo) onde vc pode colocar qualquer software servidor que desejar, claro, cuidando da aplicação de patches e todos os aspectos de segurança
 - Cloud - são recursos hospedados em uma nuvem. No caso do EC2, nuvem AWS

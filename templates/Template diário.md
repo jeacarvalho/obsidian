@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:10.447021+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lista_de_oracao_pessoal
+    weight: 8
+    confidence: 0.9
+  - name: reflexao_biblica_marcos_12
+    weight: 9
+    confidence: 0.95
+  - name: analise_meditacao_ia
+    weight: 7
+    confidence: 0.85
+  - name: questionamentos_existenciais_dia
+    weight: 8
+    confidence: 0.9
+  - name: atividade_fisica_motivacional
+    weight: 6
+    confidence: 0.7
+  - name: documentos_atualizados_pessoais
+    weight: 5
+    confidence: 0.6
+  - name: tarefas_pessoais_pendentes
+    weight: 7
+    confidence: 0.8
+  - name: trabalho_serpro_documentos
+    weight: 8
+    confidence: 0.9
+  - name: tarefas_serpro_pendentes
+    weight: 8
+    confidence: 0.9
+  - name: reflexao_sobre_proximo
+    weight: 9
+    confidence: 0.92
+  cdu_primary: '200'
+  cdu_secondary:
+  - '230'
+  - '248'
+  - '370'
+  cdu_description: Religião, Teologia, Ética, Educação
+---
 # Pessoal
 ## Orar [[Lista de oração]]
 - Spartaco e salvação

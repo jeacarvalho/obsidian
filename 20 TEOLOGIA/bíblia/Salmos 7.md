@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:29.768237+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: invocacao_a_deus_por_justica
+    weight: 9
+    confidence: 0.98
+  - name: oracao_de_davi_contra_adversarios
+    weight: 8
+    confidence: 0.97
+  - name: integridade_pessoal_perante_deus
+    weight: 7
+    confidence: 0.96
+  - name: juizo_divino_sobre_povos
+    weight: 8
+    confidence: 0.95
+  - name: indignacao_divina_contra_pecado
+    weight: 9
+    confidence: 0.94
+  - name: conversao_do_pecador
+    weight: 7
+    confidence: 0.93
+  - name: condenacao_eterna_versus_amor_divino
+    weight: 6
+    confidence: 0.92
+  - name: majestade_de_deus_na_terra
+    weight: 8
+    confidence: 0.91
+  - name: coragem_para_ser_sondado_por_deus
+    weight: 7
+    confidence: 0.9
+  - name: comparacao_com_ensinamentos_de_paulo
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '224.2'
+  cdu_secondary: []
+  cdu_description: Livros proféticos e poéticos. Salmos.
+---
 Salmos 7:3‭-‬5 NAA
 https://bible.com/bible/1840/psa.7.3-5.NAA
 

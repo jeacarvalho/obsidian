@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.608398+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: educacao_em_direitos_humanos
+    weight: 10
+    confidence: 0.98
+  - name: politica_e_cidadania
+    weight: 8
+    confidence: 0.9
+  - name: diversidade_na_educacao
+    weight: 9
+    confidence: 0.95
+  - name: trabalho_infantil
+    weight: 10
+    confidence: 0.99
+  - name: insercao_social_da_crianca
+    weight: 7
+    confidence: 0.85
+  - name: declaracao_universal_dos_direitos_humanos
+    weight: 8
+    confidence: 0.92
+  - name: convencao_182_oit
+    weight: 9
+    confidence: 0.96
+  - name: recomendacao_190_oit
+    weight: 9
+    confidence: 0.96
+  - name: educacao_ambiental
+    weight: 6
+    confidence: 0.75
+  - name: cultura_asiatica_na_educacao
+    weight: 7
+    confidence: 0.88
+  cdu_primary: '37'
+  cdu_secondary:
+  - '342.7'
+  - '316.3'
+  - '331.5'
+  cdu_description: Educação em Direitos Humanos, Cidadania, Diversidade, Trabalho Infantil e sua relação com a Inserção Social e a Educação. Inclui referências a convenções internacionais e abordagens culturais.
+---
 [[Contabilidade]] [[Economia]]
 # REFERÊNCIA 
 ## BÁSICA 

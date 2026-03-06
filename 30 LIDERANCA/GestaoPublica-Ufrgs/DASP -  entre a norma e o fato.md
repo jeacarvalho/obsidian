@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:06.095912+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: administracao_publica_brasil
+    weight: 10
+    confidence: 0.98
+  - name: historia_dasp
+    weight: 9
+    confidence: 0.97
+  - name: meritocracia_servico_publico
+    weight: 8
+    confidence: 0.95
+  - name: patrimonialismo_clientelismo
+    weight: 7
+    confidence: 0.93
+  - name: reforma_administrativa_brasil
+    weight: 8
+    confidence: 0.94
+  - name: burocracia_estado_brasileiro
+    weight: 7
+    confidence: 0.92
+  - name: influencia_william_f_willoughby
+    weight: 6
+    confidence: 0.85
+  - name: industrializacao_planejada_vargas
+    weight: 7
+    confidence: 0.9
+  - name: concursos_publicos_acesso_social
+    weight: 8
+    confidence: 0.96
+  - name: americanismo_estado_brasileiro
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '351.4'
+  cdu_secondary:
+  - '323.3'
+  - '338.9'
+  - '005.32'
+  cdu_description: Administração pública. Administração geral. Administração do Estado. Administração pública no Brasil. História do DASP. Reformas administrativas. Burocracia. Meritocracia. Patrimonialismo. Clientelismo. Planejamento industrial. Concursos públicos.
+---
 DASP: entre a norma e o fato - [[Administração pública]] no Brasil: breve história política. São Paulo: UNIFESPundefined 2010. p. 39-62
     
 

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T21:59:44.034708+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reuniao_conselho_diaconos
+    weight: 10
+    confidence: 0.98
+  - name: teologia_crista
+    weight: 9
+    confidence: 0.95
+  - name: organizacao_eclesiastica
+    weight: 8
+    confidence: 0.92
+  - name: administracao_igreja
+    weight: 7
+    confidence: 0.9
+  - name: fe_crista
+    weight: 6
+    confidence: 0.88
+  - name: ministerio_diaconal
+    weight: 10
+    confidence: 0.97
+  - name: tomada_decisao_comunitaria
+    weight: 7
+    confidence: 0.85
+  - name: gestao_recursos_igreja
+    weight: 6
+    confidence: 0.8
+  - name: vida_comunitaria_religiosa
+    weight: 5
+    confidence: 0.75
+  - name: documentacao_ata_reuniao
+    weight: 5
+    confidence: 0.7
+  cdu_primary: 27-73
+  cdu_secondary:
+  - '28'
+  - '351.71'
+  cdu_description: Organização e administração de igrejas cristãs, especialmente no contexto de conselhos diaconais e reuniões administrativas.
+---
 Reunião conselho diaconos 20150503
 
 Provérbios 27:17

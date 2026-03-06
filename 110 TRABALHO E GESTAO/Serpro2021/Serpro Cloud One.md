@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:51.918212+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_custos_nuvem
+    weight: 10
+    confidence: 0.98
+  - name: planejamento_estrategico_ti
+    weight: 9
+    confidence: 0.95
+  - name: arquitetura_nuvem_governo
+    weight: 8
+    confidence: 0.92
+  - name: finops
+    weight: 9
+    confidence: 0.96
+  - name: gerenciamento_faturamento_nuvem
+    weight: 10
+    confidence: 0.97
+  - name: migracao_nuvem
+    weight: 7
+    confidence: 0.88
+  - name: modelo_custos_ti
+    weight: 9
+    confidence: 0.94
+  - name: gestao_contratos_ti
+    weight: 6
+    confidence: 0.85
+  - name: processos_ti_corporativos
+    weight: 7
+    confidence: 0.89
+  - name: fluxo_informacao_nuvem
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '004.7'
+  cdu_secondary:
+  - '330.1'
+  - '658.15'
+  cdu_description: Gestão de custos e faturamento em ambientes de nuvem, com foco em planejamento estratégico, FinOps, arquitetura de nuvem governamental e modelos de precificação e migração.
+---
 ## Trabalhos associados
 - [[Multicloud DIDES x DIOPE#20230214 - Apresentação do roadmap do Serpro Cloud One]]
 - [[Avaliacoes projetos Serpro Cloud One]]

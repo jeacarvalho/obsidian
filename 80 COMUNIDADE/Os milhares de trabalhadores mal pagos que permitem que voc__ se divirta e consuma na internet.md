@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:52.364261+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: microtrabalho_digital
+    weight: 10
+    confidence: 0.98
+  - name: trabalhadores_mal_pagos
+    weight: 9
+    confidence: 0.97
+  - name: inteligencia_artificial_e_dados
+    weight: 8
+    confidence: 0.96
+  - name: aprendizagem_automatica
+    weight: 8
+    confidence: 0.95
+  - name: plataformas_de_microtrabalho
+    weight: 7
+    confidence: 0.94
+  - name: amazon_mechanical_turk
+    weight: 7
+    confidence: 0.93
+  - name: economia_digital
+    weight: 6
+    confidence: 0.92
+  - name: trabalhadores_globais
+    weight: 6
+    confidence: 0.91
+  - name: condicoes_de_trabalho
+    weight: 5
+    confidence: 0.9
+  - name: impacto_economico_paises_desenvolvimento
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '331.5'
+  cdu_secondary:
+  - '004.8'
+  - '331.1'
+  cdu_description: Trabalho e emprego; Condições de trabalho; Trabalho em plataformas digitais; Inteligência artificial
+---
 Os milhares de trabalhadores mal pagos que permitem que você se divirta e consuma na internet
 
 # Os milhares de trabalhadores mal pagos que permitem que você se divirta e consuma na internet

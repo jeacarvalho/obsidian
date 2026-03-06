@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T23:02:26.936407+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: qualidade_elites_mundiais
+    weight: 10
+    confidence: 0.98
+  - name: ranking_brasil_elites
+    weight: 9
+    confidence: 0.97
+  - name: indice_qualidade_elites
+    weight: 8
+    confidence: 0.96
+  - name: definicao_elites_economicas
+    weight: 7
+    confidence: 0.95
+  - name: instituicoes_inclusivas_extrativas
+    weight: 8
+    confidence: 0.94
+  - name: elites_rentistas_competitivas
+    weight: 7
+    confidence: 0.93
+  - name: rentismo_producao_competicao
+    weight: 6
+    confidence: 0.92
+  - name: rentismo_trabalho_jovens
+    weight: 6
+    confidence: 0.91
+  - name: reforma_tributaria_privilegios
+    weight: 7
+    confidence: 0.9
+  - name: agenda_abertura_comercial_desburocratizacao
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '330.8'
+  - '323.32'
+  - '338.2'
+  cdu_description: Economia. Economia política. Relações econômicas. Economia do desenvolvimento. Teoria econômica. Economia do bem-estar. Economia social. Economia do trabalho. Economia da produção. Economia do comércio. Economia do setor público. Economia do Brasil.
+---
 # Piores elites do mundo
 fonte: https://www.estadao.com.br/economia/pedro-fernando-nery/piores-elites-do-mundo/
 

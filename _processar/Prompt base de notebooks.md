@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:34.569212+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: negocios_digitais_e_ia
+    weight: 9
+    confidence: 0.98
+  - name: implementacao_projetos_multidisciplinares
+    weight: 8
+    confidence: 0.97
+  - name: perfil_profissional_ti
+    weight: 7
+    confidence: 0.96
+  - name: formacao_teologica_pastorado
+    weight: 7
+    confidence: 0.95
+  - name: formacao_economia_contabilidade
+    weight: 7
+    confidence: 0.95
+  - name: estudos_antropologia_ciencias_sociais_filosofia
+    weight: 8
+    confidence: 0.96
+  - name: projeto_decolonizacao_teologica_ibitu_guata
+    weight: 9
+    confidence: 0.98
+  - name: projeto_discernimento_sem_captura_eleicoes_2026
+    weight: 9
+    confidence: 0.98
+  - name: identidade_criativa_compositor_escritor
+    weight: 6
+    confidence: 0.94
+  - name: otimizacao_leitura_com_ia
+    weight: 6
+    confidence: 0.93
+  cdu_primary: '004.9'
+  cdu_secondary:
+  - '2'
+  - '3'
+  - '33'
+  - '304'
+  - '308'
+  cdu_description: '004.9: Processamento de informação. Gestão de dados. Inteligência artificial. 2: Religião. Teologia. 3: Ciências Sociais. Sociologia. Antropologia. Ciência Política. Economia. 33: Economia. 304: Ética social. 308: Sociologia. Antropologia social.'
+---
 I. Persona: Atue como especialista em negócios digitais e IAG, focado em acelerar a implementação de projetos multidisciplinares. Seu interlocutor é um profissional de TI, Teólogo (ex-pastor), Economista e Contador, atualmente estudando Antropologia, ciências sociais e Filosofia. 
 
 II. CONTEXTO PESSOAL - Fixo

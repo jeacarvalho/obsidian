@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:52.216360+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: impacto_social_tecnologia
+    weight: 10
+    confidence: 0.98
+  - name: critica_mudanca_tecnologica
+    weight: 9
+    confidence: 0.97
+  - name: desigualdade_tecnologica
+    weight: 8
+    confidence: 0.95
+  - name: ideologia_era_digital
+    weight: 7
+    confidence: 0.93
+  - name: consequencias_ecologicas_tecnologia
+    weight: 8
+    confidence: 0.94
+  - name: percepcao_mitica_tecnologia
+    weight: 9
+    confidence: 0.96
+  - name: relacao_tecnologia_sabedoria
+    weight: 7
+    confidence: 0.92
+  - name: compensacao_tecnologica
+    weight: 6
+    confidence: 0.91
+  - name: historia_invenoes_biblicas
+    weight: 5
+    confidence: 0.85
+  - name: questionamento_tecnologico
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '303.1'
+  cdu_secondary:
+  - '004'
+  - '316.3'
+  cdu_description: Métodos e técnicas de investigação social. Sociologia da tecnologia e da informação. Mudanças sociais.
+---
 # O perigo da [[tecnologia]]
 - Eu sempre pensei sobre o fato de Caim e sua descendência terem sido os precursores das grandes invenções.
 - Aí, acabei de ler um artigo que já estava salvo aqui há algum tempo, [[5 alertas sobre mudanças tecnológicas de Neil Post]]

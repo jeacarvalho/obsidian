@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:07.514139+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_tematico_musical
+    weight: 10
+    confidence: 0.9
+  - name: variacoes_tematicas_em_mi
+    weight: 8
+    confidence: 0.85
+  - name: temas_salmodicos
+    weight: 7
+    confidence: 0.8
+  - name: composicao_musical_parte_a
+    weight: 6
+    confidence: 0.75
+  - name: melodia_tema_em_re
+    weight: 7
+    confidence: 0.8
+  - name: linha_de_baixo_musical
+    weight: 6
+    confidence: 0.7
+  - name: introducao_tematica
+    weight: 5
+    confidence: 0.65
+  - name: origens_musicais_prontas
+    weight: 5
+    confidence: 0.7
+  - name: repertorio_musical_cristao
+    weight: 8
+    confidence: 0.85
+  - name: arranjo_vocal_coral
+    weight: 7
+    confidence: 0.75
+  cdu_primary: '781.6'
+  cdu_secondary: []
+  cdu_description: Teoria musical, formas e temas musicais; desenvolvimento e variação de temas; temas em diferentes tonalidades; temas salmodicos; arranjos vocais e corais; repertório musical cristão.
+---
 Temas e linhas musicais
 
 # Mesmo tema

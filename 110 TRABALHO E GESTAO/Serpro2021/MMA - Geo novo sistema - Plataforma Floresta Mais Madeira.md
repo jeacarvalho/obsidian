@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:53.390176+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: arquitetura_geo_analitica_florestal
+    weight: 9
+    confidence: 0.98
+  - name: controle_florestal_brasileiro
+    weight: 8
+    confidence: 0.95
+  - name: combate_desmatamento_ibama
+    weight: 8
+    confidence: 0.95
+  - name: processamento_imagem_satelite
+    weight: 7
+    confidence: 0.9
+  - name: formalizacao_oportunidade_negocio_mma
+    weight: 6
+    confidence: 0.85
+  - name: custos_arquitetura_madeira
+    weight: 7
+    confidence: 0.88
+  - name: requisitos_projeto_arquitetura
+    weight: 6
+    confidence: 0.8
+  - name: evolucao_arquitetura_solucao
+    weight: 7
+    confidence: 0.92
+  - name: dados_inventario_florestal
+    weight: 7
+    confidence: 0.87
+  - name: integracao_sistemas_ambientais
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '330.1'
+  cdu_secondary:
+  - '502.17'
+  - '630.3'
+  - '351.777'
+  cdu_description: Economia e gestão ambiental, com foco em políticas públicas e controle florestal, incluindo análise de dados geoespaciais e sistemas de informação.
+---
 # Descrição:
 
 | links                                                                                                                                                                                                                                                 | Arquivos                                       |

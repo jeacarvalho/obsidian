@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:59.799645+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_do_trabalho
+    weight: 10
+    confidence: 0.98
+  - name: etica_do_trabalho
+    weight: 9
+    confidence: 0.95
+  - name: valorizacao_do_trabalho
+    weight: 8
+    confidence: 0.92
+  - name: consequencias_da_preguica
+    weight: 7
+    confidence: 0.9
+  - name: disciplina_laboral
+    weight: 6
+    confidence: 0.88
+  - name: proverbios_sobre_trabalho
+    weight: 7
+    confidence: 0.93
+  - name: relacao_trabalho_pobreza
+    weight: 8
+    confidence: 0.91
+  - name: motivacao_para_o_trabalho
+    weight: 6
+    confidence: 0.85
+  - name: sabedoria_biblica_trabalho
+    weight: 9
+    confidence: 0.94
+  - name: perigo_da_ociosidade
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '281.6'
+  cdu_secondary:
+  - '241.4'
+  - '331.5'
+  cdu_description: Teologia do trabalho e ética laboral, com base em provérbios bíblicos.
+---
 teologia do trabalho
 
 [[Provérbios 18]]:9 Quem é negligente na sua obra já é irmão do desperdiçador.

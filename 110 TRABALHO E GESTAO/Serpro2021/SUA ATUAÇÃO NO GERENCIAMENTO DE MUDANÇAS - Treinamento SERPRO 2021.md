@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:55.722642+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_mudanca_organizacional
+    weight: 10
+    confidence: 0.98
+  - name: estrategias_lidar_resistencia_mudanca
+    weight: 9
+    confidence: 0.95
+  - name: potenciais_individuais_habilidades
+    weight: 8
+    confidence: 0.92
+  - name: desenvolvimento_talentos
+    weight: 7
+    confidence: 0.88
+  - name: estrategias_informar_mudanca
+    weight: 6
+    confidence: 0.85
+  - name: estrategias_estimular_mudanca
+    weight: 6
+    confidence: 0.85
+  - name: estrategias_participar_mudanca
+    weight: 6
+    confidence: 0.85
+  - name: estrategias_transformar_percepcao
+    weight: 6
+    confidence: 0.85
+  - name: recursos_natos_lideranca
+    weight: 7
+    confidence: 0.9
+  - name: caracteristicas_personalidade_mudanca
+    weight: 8
+    confidence: 0.93
+  cdu_primary: 658.312.4
+  cdu_secondary:
+  - 159.947.5
+  - '316.46'
+  cdu_description: Gestão da mudança organizacional, com foco em estratégias de comunicação, participação e transformação, e a aplicação de potenciais individuais e características de personalidade no processo.
+---
 # Descrição:
 
 Anotações do curso a partir dos vídeos

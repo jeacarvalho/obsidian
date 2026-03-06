@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:58:28.566548+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: timoteo_discipulo_de_paulo
+    weight: 8
+    confidence: 0.9
+  - name: missoes_de_paulo_e_silas
+    weight: 9
+    confidence: 0.95
+  - name: obediencia_e_honra_a_deus
+    weight: 7
+    confidence: 0.85
+  - name: fortalecimento_das_igrejas_na_fe
+    weight: 6
+    confidence: 0.8
+  - name: unidade_eclesiastica_e_decisoes_apostolicas
+    weight: 7
+    confidence: 0.88
+  - name: evangelismo_junto_a_mulheres
+    weight: 7
+    confidence: 0.82
+  - name: oracao_e_louvor_em_prisao
+    weight: 9
+    confidence: 0.92
+  - name: alegria_crista_em_meio_ao_sofrimento
+    weight: 8
+    confidence: 0.89
+  - name: cumprimento_do_dever_cristao
+    weight: 7
+    confidence: 0.87
+  - name: cidadania_romana_e_direitos
+    weight: 6
+    confidence: 0.75
+  cdu_primary: '27'
+  cdu_secondary:
+  - '226.4'
+  - '248.3'
+  - '273.2'
+  cdu_description: Religião. Teologia. Religião cristã. História eclesiástica. Biografias de missionários. Atos dos Apóstolos. Vida e ministério de Paulo. Timóteo. Oração e louvor. Direitos civis.
+---
 Atos 16:1 (RA Strong's)
 Paulo leva consigo a Timóteo
 Chegou também a Derbe e a Listra. Havia ali um discípulo chamado Timóteo, filho de uma judia crente, mas de pai grego;

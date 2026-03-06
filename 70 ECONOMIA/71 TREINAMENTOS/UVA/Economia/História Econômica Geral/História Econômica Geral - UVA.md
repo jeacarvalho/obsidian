@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:45.412296+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_social_e_economica_moderna
+    weight: 9
+    confidence: 0.98
+  - name: macroeconomia_do_emprego_e_da_renda
+    weight: 8
+    confidence: 0.95
+  - name: historia_do_pensamento_economico
+    weight: 9
+    confidence: 0.97
+  - name: genesis_do_capitalismo_moderno
+    weight: 10
+    confidence: 1.0
+  - name: revolucao_industrial
+    weight: 10
+    confidence: 1.0
+  - name: sociedade_e_economia_no_novo_milenio
+    weight: 7
+    confidence: 0.9
+  - name: relacoes_internacionais_na_idade_moderna
+    weight: 6
+    confidence: 0.85
+  - name: historia_economica_geral
+    weight: 9
+    confidence: 0.96
+  - name: grande_depressao
+    weight: 8
+    confidence: 0.94
+  - name: new_deal
+    weight: 7
+    confidence: 0.92
+  cdu_primary: '330.1'
+  cdu_secondary:
+  - '330.5'
+  - '338.1'
+  - '330.8'
+  - '331.1'
+  - '338.5'
+  cdu_description: Economia. História econômica. Pensamento econômico. Revolução Industrial. Capitalismo. Grande Depressão. New Deal.
+---
 [[Economia]]
 # Bibliografia
 ## BÁSICA  

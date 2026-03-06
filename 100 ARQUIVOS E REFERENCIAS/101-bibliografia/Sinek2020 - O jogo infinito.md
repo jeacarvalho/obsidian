@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:58.408986+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mentalidade_infinita_lideranca
+    weight: 10
+    confidence: 0.98
+  - name: jogo_infinito_negocios
+    weight: 9
+    confidence: 0.97
+  - name: lideranca_foco_geracional
+    weight: 8
+    confidence: 0.95
+  - name: impacto_mentalidade_finita_organizacao
+    weight: 7
+    confidence: 0.93
+  - name: valor_empresa_longo_prazo
+    weight: 7
+    confidence: 0.92
+  - name: inovacao_mentalidade_infinita
+    weight: 6
+    confidence: 0.9
+  - name: foco_cliente_vs_empresa
+    weight: 6
+    confidence: 0.89
+  - name: transformacao_organizacional_lideranca
+    weight: 5
+    confidence: 0.88
+  - name: lealdade_engajamento_organizacional
+    weight: 5
+    confidence: 0.87
+  - name: estrategias_empresariais_jogo_infinito
+    weight: 5
+    confidence: 0.86
+  cdu_primary: '65.01'
+  cdu_secondary:
+  - '159.942'
+  - '334.7'
+  cdu_description: Gestão e organização de empresas; Psicologia da gestão; Estratégia empresarial
+---
 ### O jogo infinito
 
 Simon Sinek e Paulo Geiger

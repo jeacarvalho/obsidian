@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:04.564522+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: comunidade_como_encontro_vulneravel
+    weight: 8
+    confidence: 0.9
+  - name: performance_de_pertencimento
+    weight: 7
+    confidence: 0.85
+  - name: branquitude_como_estrutura_de_poder
+    weight: 9
+    confidence: 0.92
+  - name: insubordinacao_principiada
+    weight: 10
+    confidence: 0.98
+  - name: dissidencia_generativa
+    weight: 8
+    confidence: 0.88
+  - name: rebel_discontent
+    weight: 7
+    confidence: 0.8
+  - name: sinalizacao_de_coragem
+    weight: 6
+    confidence: 0.75
+  - name: psicologizacao_da_politica
+    weight: 9
+    confidence: 0.9
+  - name: individualismo_metodologico
+    weight: 8
+    confidence: 0.85
+  - name: colonialidade_do_saber
+    weight: 10
+    confidence: 0.95
+  cdu_primary: '305.8'
+  cdu_secondary:
+  - '316.4'
+  - '323.1'
+  - '304.2'
+  cdu_description: Sociologia das relações sociais e raciais, com ênfase em movimentos sociais, poder e identidade cultural.
+---
 ## 🔑 PASSO 1: ATIVAÇÃO DA LENTE
 
 **MODO COMUNITÁRIO-ENCONTRADO ATIVADO**  

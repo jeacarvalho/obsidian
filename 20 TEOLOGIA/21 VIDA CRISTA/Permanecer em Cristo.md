@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:07.258900+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: permanecer_em_cristo
+    weight: 10
+    confidence: 0.98
+  - name: videira_verdadeira_cristo
+    weight: 9
+    confidence: 0.97
+  - name: comunhao_intima_com_deus
+    weight: 8
+    confidence: 0.96
+  - name: fruto_espiritual
+    weight: 7
+    confidence: 0.95
+  - name: amor_de_cristo
+    weight: 8
+    confidence: 0.94
+  - name: palavras_de_cristo
+    weight: 7
+    confidence: 0.93
+  - name: sustento_divino
+    weight: 6
+    confidence: 0.92
+  - name: disciplulado_por_cristo
+    weight: 7
+    confidence: 0.91
+  - name: obediencia_aos_mandamentos
+    weight: 6
+    confidence: 0.9
+  - name: imitacao_de_cristo
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '248.3'
+  - '273.2'
+  cdu_description: Teologia cristã; Vida e prática cristãs; Doutrinas sobre a Trindade
+---
 *João 15:1-9 1 Eu sou a videira verdadeira, e meu Pai é o agricultor. 2 Todo ramo que, estando em mim, não der fruto, ele o corta; e todo o que dá fruto limpa, para que produza mais fruto ainda. 3 Vós já estais limpos pela palavra que vos tenho falado; 4 permanecei em mim, e eu permanecerei em vós. Como não pode o ramo produzir fruto de si mesmo, se não permanecer na videira, assim, nem vós o podeis dar, se não permanecerdes em mim. 5 Eu sou a videira, vós, os ramos. Quem permanece em mim, e eu, nele, esse dá muito fruto; porque sem mim nada podeis fazer. 6 Se alguém não permanecer em mim, será lançado fora, à semelhança do ramo, e secará; e o apanham, lançam no fogo e o queimam. 7 Se permanecerdes em mim, e as minhas palavras permanecerem em vós, pedireis o que quiserdes, e vos será feito. 8 Nisto é glorificado meu Pai, em que deis muito fruto; e assim vos tornareis meus discípulos. 9 Como o Pai me amou, também eu vos amei; permanecei no meu amor* 
 
 Permanecer: μενω meno palavra raiz; TDNT - 4:574,581; v 1) permanecer, ficar 1a) em referência a lugar 1a1) permanecer ou residir por pouco tempo, esperar 1a2) não partir 1a2a) continuar a estar presente 1a2b) ser **sustentado**, mantido, continuamente 1b) em referência ao tempo 1b1) continuar a ser, não perecer, durar, aturar 1b1a) de pessoas, sobreviver, viver 1c) em referência a estado ou condição 1c1) permanecer o mesmo, não tornar-se outro ou diferente 2) esperar por, estar a espera de alguém

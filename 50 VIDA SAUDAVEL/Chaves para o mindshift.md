@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:27.379658+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pratica_deliberada_aprendizado
+    weight: 10
+    confidence: 0.98
+  - name: desenvolvimento_neural_aprendizado
+    weight: 9
+    confidence: 0.95
+  - name: especializacao_dupla_carreira
+    weight: 8
+    confidence: 0.92
+  - name: ignorancia_seletiva_cognitiva
+    weight: 7
+    confidence: 0.9
+  - name: reserva_sinaptica_envelhecimento
+    weight: 8
+    confidence: 0.93
+  - name: exercicios_fisicos_mudanca_mental
+    weight: 7
+    confidence: 0.91
+  - name: aprendizado_imersivo_novos_conceitos
+    weight: 6
+    confidence: 0.88
+  - name: mentoria_desenvolvimento_pessoal
+    weight: 7
+    confidence: 0.9
+  - name: moocs_autodirigidos_aprendizado
+    weight: 8
+    confidence: 0.94
+  - name: perspectivas_inovadoras_trabalho
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '159.942'
+  cdu_secondary:
+  - '374.7'
+  - '004.451'
+  cdu_description: Psicologia do aprendizado e do desempenho; Educação de adultos e educação continuada; Sistemas de aprendizagem online (MOOCs)
+---
 fonte:[[Mindshift - Mude seu padrão mental e descubra do que você é capaz]]
 
 ## [[Exercícios físicos]]

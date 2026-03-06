@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:10.301058+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mixagem_vocal_pop_limpo
+    weight: 10
+    confidence: 0.98
+  - name: correcao_de_afinacao_vocal
+    weight: 9
+    confidence: 0.97
+  - name: plugins_waves_tune
+    weight: 8
+    confidence: 0.95
+  - name: efeito_vocal_suave
+    weight: 7
+    confidence: 0.93
+  - name: automacao_de_ganho_vocal
+    weight: 8
+    confidence: 0.96
+  - name: plugin_vocal_rider
+    weight: 7
+    confidence: 0.94
+  - name: controle_de_sibilancia_vocal
+    weight: 9
+    confidence: 0.97
+  - name: plugins_de_mixagem_de_audio
+    weight: 8
+    confidence: 0.95
+  - name: tecnicas_de_processamento_vocal
+    weight: 8
+    confidence: 0.96
+  - name: producao_musical_pop
+    weight: 7
+    confidence: 0.92
+  cdu_primary: '781.6'
+  cdu_secondary:
+  - '621.381'
+  cdu_description: Técnicas de mixagem e processamento de áudio para vocais em música pop, incluindo correção de afinação, automação de ganho e controle de sibilância, com foco em plugins específicos.
+---
 7 Tips for Mixing Clean Pop Vocals | Waves
 
 # 7 Tips for Mixing Clean Pop Vocals

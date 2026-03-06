@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:51.695351+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_de_habilidades_profissionais
+    weight: 10
+    confidence: 0.98
+  - name: mentalidade_artesanal_vs_paixao_no_trabalho
+    weight: 9
+    confidence: 0.95
+  - name: satisfacao_no_trabalho_baseada_em_competencia
+    weight: 9
+    confidence: 0.93
+  - name: critica_a_hipotese_da_paixao_na_carreira
+    weight: 8
+    confidence: 0.92
+  - name: construcao_de_carreira_valorizando_habilidades
+    weight: 8
+    confidence: 0.9
+  - name: importancia_da_competencia_para_empregos_desejados
+    weight: 7
+    confidence: 0.88
+  - name: superacao_de_desafios_no_inicio_da_carreira
+    weight: 7
+    confidence: 0.85
+  - name: autenticidade_e_identidade_profissional
+    weight: 6
+    confidence: 0.8
+  - name: evitar_duvida_e_mudanca_constante_de_emprego
+    weight: 6
+    confidence: 0.78
+  - name: mentalidade_focada_no_oferecer_ao_mundo
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '159.96'
+  cdu_secondary:
+  - '331.1'
+  - '37.01'
+  cdu_description: Psicologia do trabalho e da profissão; Motivação e satisfação no trabalho; Desenvolvimento de competências e mentalidades para o sucesso profissional.
+---
 ### So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love (English Edition)
 
 Cal Newport

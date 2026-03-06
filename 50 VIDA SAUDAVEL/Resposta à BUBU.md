@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:35.256975+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: saude_mental_ansiedade
+    weight: 9
+    confidence: 0.98
+  - name: sentimentos_fracasso
+    weight: 10
+    confidence: 0.99
+  - name: relacionamento_familiar_enteada
+    weight: 8
+    confidence: 0.95
+  - name: medo_morte_sindrome_panico
+    weight: 7
+    confidence: 0.92
+  - name: religiosidade_crista_jesus
+    weight: 8
+    confidence: 0.96
+  - name: apoio_emocional_escuta
+    weight: 9
+    confidence: 0.97
+  - name: superacao_pessoal_medo_ordenacao
+    weight: 7
+    confidence: 0.9
+  - name: autopercepcao_farsa_vocacional
+    weight: 6
+    confidence: 0.88
+  - name: terapia_cura_igreja
+    weight: 7
+    confidence: 0.91
+  - name: relacionamento_conjugal_filha
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - 27-29
+  - '316.3'
+  cdu_description: 159.9 Psicologia. 27-29 Religião Cristã. 316.3 Sociologia da religião e da moral. O texto aborda a saúde mental, ansiedade, síndrome do pânico, sentimentos de fracasso, superação pessoal através da fé cristã e apoio familiar.
+---
 Resposta à BUBU
 
 Bubu

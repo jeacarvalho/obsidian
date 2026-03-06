@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T20:12:39.216879+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gravacao_violao_e_voz
+    weight: 10
+    confidence: 0.98
+  - name: tecnicas_de_mixagem_musical
+    weight: 9
+    confidence: 0.95
+  - name: microfones_dinamicos_para_vocais
+    weight: 8
+    confidence: 0.92
+  - name: configuracao_de_equipamentos_audio
+    weight: 7
+    confidence: 0.9
+  - name: processamento_de_sinal_vocal
+    weight: 8
+    confidence: 0.93
+  - name: equalizacao_em_mixagem
+    weight: 7
+    confidence: 0.88
+  - name: compressao_em_mixagem
+    weight: 7
+    confidence: 0.89
+  - name: plugins_de_audio_uad
+    weight: 6
+    confidence: 0.85
+  - name: estilos_de_musica_folk_acustica
+    weight: 6
+    confidence: 0.8
+  - name: guia_de_gravacao_passo_a_passo
+    weight: 9
+    confidence: 0.96
+  cdu_primary: '781.6'
+  cdu_secondary:
+  - '781.63'
+  - '781.65'
+  cdu_description: Técnicas de gravação e mixagem para violão e voz, com foco em estilos folk e cantor-compositor, utilizando equipamentos e plugins específicos.
+---
 Mixing Acoustic Guitar & Vocals - A Step-by-Step Recording Guide
 
 # Mixing Acoustic Guitar & Vocals – A Step-by-Step Recording Guide

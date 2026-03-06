@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:28.146921+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desobediencia_israelita_a_deus
+    weight: 9
+    confidence: 0.98
+  - name: decreto_divino_e_livre_arbitrio
+    weight: 8
+    confidence: 0.95
+  - name: providencia_divina_em_todas_as_coisas
+    weight: 7
+    confidence: 0.92
+  - name: importancia_da_adoracao_verdadeira
+    weight: 10
+    confidence: 0.99
+  - name: consequencias_da_idolatria_e_apostasia
+    weight: 9
+    confidence: 0.97
+  - name: ciclos_de_cativeiro_e_libertacao
+    weight: 8
+    confidence: 0.94
+  - name: espiritosanto_como_capacitador_divino
+    weight: 7
+    confidence: 0.9
+  - name: capacitacao_universal_do_espiritosanto_em_crentes
+    weight: 6
+    confidence: 0.88
+  - name: uso_de_habilidades_individuais_por_deus
+    weight: 7
+    confidence: 0.93
+  - name: livramento_divino_por_meio_de_juizes
+    weight: 8
+    confidence: 0.96
+  cdu_primary: '222.9'
+  cdu_secondary: []
+  cdu_description: Livros históricos do Antigo Testamento - Juízes
+---
 Juízes 3:4 (RA Strong's)
 
 4 Estes ficaram para, por eles, o SENHOR pôr Israel à prova, para saber se dariam ouvidos aos mandamentos que havia ordenado a seus pais por intermédio de Moisés.

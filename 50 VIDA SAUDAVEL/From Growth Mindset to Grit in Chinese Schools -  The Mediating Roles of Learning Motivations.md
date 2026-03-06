@@ -3,6 +3,46 @@ created: 2021-10-29T14:54:18 (UTC -03:00)
 tags: []
 source: https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02007/full
 author: For authors
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:34.299054+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mentalidade_de_crescimento
+    weight: 10
+    confidence: 0.98
+  - name: grit_perseveranca
+    weight: 9
+    confidence: 0.97
+  - name: motivacoes_de_aprendizagem
+    weight: 8
+    confidence: 0.96
+  - name: motivacao_intrinseca
+    weight: 7
+    confidence: 0.94
+  - name: motivacao_extrinseca_regulacao_identificada
+    weight: 6
+    confidence: 0.93
+  - name: motivacao_extrinseca_regulacao_externa
+    weight: 6
+    confidence: 0.92
+  - name: motivacao_extrinseca_regulacao_introjetada
+    weight: 5
+    confidence: 0.91
+  - name: educacao_positiva
+    weight: 7
+    confidence: 0.9
+  - name: desempenho_academico
+    weight: 8
+    confidence: 0.95
+  - name: estudantes_chineses
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '159.94'
+  cdu_secondary:
+  - '37.01'
+  - '37.04'
+  cdu_description: Psicologia da educação, com foco em mentalidade de crescimento, grit e motivações de aprendizagem em estudantes.
 ---
 
 # Frontiers | From mentalidade de [[crescimento]] to Grit in Chinese Schools: The Mediating Roles of Learning Motivations | Psychology

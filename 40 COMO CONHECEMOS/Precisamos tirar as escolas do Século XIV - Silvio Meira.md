@@ -3,6 +3,46 @@ created: 2021-07-26T17:49:10 (UTC -03:00)
 tags: []
 source: https://silvio.meira.com/silvio/precisamos-tirar-as-escolas-do-seculo-xiv/
 author: Silvio Meira
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:30.518145+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: transformacao_digital_na_educacao
+    weight: 9
+    confidence: 0.98
+  - name: inovacao_educacional
+    weight: 10
+    confidence: 0.99
+  - name: introducao_tecnologia_sala_aula
+    weight: 8
+    confidence: 0.97
+  - name: estrategias_aprendizagem
+    weight: 7
+    confidence: 0.96
+  - name: ciclo_vicioso_inovacao_educacao
+    weight: 8
+    confidence: 0.95
+  - name: definicao_inovacao_drucker
+    weight: 9
+    confidence: 0.97
+  - name: mudanca_comportamento_agentes
+    weight: 8
+    confidence: 0.96
+  - name: processo_experimental_inovacao
+    weight: 9
+    confidence: 0.98
+  - name: escalabilidade_sustentabilidade_educacao
+    weight: 7
+    confidence: 0.95
+  - name: pandemia_aceleracao_processos
+    weight: 6
+    confidence: 0.94
+  cdu_primary: '37.01'
+  cdu_secondary:
+  - '004.7'
+  - '330.12'
+  cdu_description: Filosofia e teoria da educação; Inovação e tecnologia educacional; Mudança de comportamento e processos de aprendizagem.
 ---
 
 # Precisamos tirar as escolas do Século XIV – dia a dia, bit a bit

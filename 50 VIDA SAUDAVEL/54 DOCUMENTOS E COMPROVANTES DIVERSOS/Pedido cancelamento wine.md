@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:41.747133+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cancelamento_assinatura_vinho
+    weight: 10
+    confidence: 0.98
+  - name: estorno_cobranca_indevida
+    weight: 9
+    confidence: 0.97
+  - name: renovacao_automatica_contrato
+    weight: 8
+    confidence: 0.95
+  - name: atendimento_ao_cliente_chat
+    weight: 7
+    confidence: 0.96
+  - name: gestao_de_assinaturas
+    weight: 8
+    confidence: 0.94
+  - name: politica_de_cancelamento
+    weight: 7
+    confidence: 0.93
+  - name: perda_de_beneficios_socio
+    weight: 6
+    confidence: 0.9
+  - name: oferta_de_desconto_vinho
+    weight: 5
+    confidence: 0.88
+  - name: motivo_pessoal_cancelamento
+    weight: 5
+    confidence: 0.85
+  - name: protocolo_atendimento
+    weight: 6
+    confidence: 0.99
+  cdu_primary: '339.37'
+  cdu_secondary:
+  - '663.2'
+  - '005.57'
+  cdu_description: Comércio de vinhos e bebidas alcoólicas; Atendimento ao cliente e gestão de serviços
+---
 Protocolo atendimento02790605
 
 Agente Camila (7/20/2021, 9:08:56 AM): Olá! Me chamo Camila, posso te ajudar? 

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:03.623149+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_reino_pessoal
+    weight: 7
+    confidence: 0.85
+  - name: perspectivas_crescimento_reino_nao_linear
+    weight: 8
+    confidence: 0.9
+  - name: perspectivas_humildade_suficiencia_graca
+    weight: 7
+    confidence: 0.88
+  - name: perspectivas_genero_ministerio_valorizacao_feminina
+    weight: 9
+    confidence: 0.92
+  - name: acoes_evolucao_pessoal_contemplacao_espiritual
+    weight: 6
+    confidence: 0.8
+  - name: analise_teologica_soberania_divina_reino
+    weight: 9
+    confidence: 0.95
+  - name: analise_teologica_santificacao_progressiva
+    weight: 8
+    confidence: 0.89
+  - name: analise_texto_biblico_lucas_13_20_21_exegese
+    weight: 10
+    confidence: 0.98
+  - name: analise_texto_biblico_simbolismo_fermento
+    weight: 9
+    confidence: 0.93
+  - name: proposta_sermao_reino_transformacao_cotidiano
+    weight: 10
+    confidence: 0.97
+  cdu_primary: '230.9'
+  cdu_secondary:
+  - 27-29
+  - '232.9'
+  - '261.8'
+  cdu_description: Teologia cristã. Doutrinas gerais. Teologia do Reino de Deus. Teologia bíblica. Escatologia. Teologia sistemática. Doutrinas da salvação. Doutrinas sociais e éticas. Relações de gênero.
+---
 #### Análise e sermão deepseek meditações [[Lucas 13]]_20-21
 
 ### **1. Análise Comportamental**  

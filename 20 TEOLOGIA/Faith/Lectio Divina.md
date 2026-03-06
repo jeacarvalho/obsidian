@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:18.827289+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: vida_devocional_crista
+    weight: 10
+    confidence: 0.98
+  - name: lectio_divina
+    weight: 10
+    confidence: 0.97
+  - name: oracao_crista
+    weight: 9
+    confidence: 0.95
+  - name: meditacao_biblica
+    weight: 8
+    confidence: 0.93
+  - name: contemplacao_espiritual
+    weight: 7
+    confidence: 0.9
+  - name: relacionamento_com_deus
+    weight: 8
+    confidence: 0.92
+  - name: leitura_orante
+    weight: 9
+    confidence: 0.96
+  - name: espiritualidade_crista
+    weight: 7
+    confidence: 0.88
+  - name: disciplinas_espirituais
+    weight: 6
+    confidence: 0.85
+  - name: historia_do_cristianismo
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '248.3'
+  cdu_secondary:
+  - '242'
+  - 27-28
+  cdu_description: 248.3 - Vida devocional, prática religiosa; 242 - Meditação, contemplação; 27-28 - Cristianismo, história e geografia
+---
 Puxa uma cadeira e vamos conversar - Café com Alecrim
 
 *Me diga, andorinha, você que já voou o mundo inteiro

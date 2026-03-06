@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:36.010820+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contabilidade_geral
+    weight: 10
+    confidence: 0.98
+  - name: economia
+    weight: 9
+    confidence: 0.95
+  - name: auditoria_independente
+    weight: 8
+    confidence: 0.92
+  - name: demonstracoes_contabeis
+    weight: 7
+    confidence: 0.9
+  - name: teoria_da_contabilidade
+    weight: 6
+    confidence: 0.88
+  - name: contabilidade_internacional
+    weight: 7
+    confidence: 0.85
+  - name: gestao_executiva
+    weight: 5
+    confidence: 0.8
+  - name: treinamento_continuado
+    weight: 6
+    confidence: 0.75
+  - name: revisao_por_pares
+    weight: 5
+    confidence: 0.7
+  - name: tcc_contabilidade
+    weight: 8
+    confidence: 0.82
+  cdu_primary: '657.1'
+  cdu_secondary:
+  - '330'
+  - '657.6'
+  cdu_description: Contabilidade em geral, com ênfase em auditoria e teoria contábil.
+---
 Começando curso em 18/10/2021. Louco...
 
 DEFINIÇÃO QUE UNE A CONTABILIDADE E A [[Economia]]:

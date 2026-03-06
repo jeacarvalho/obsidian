@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:53.386716+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: empreendedorismo_social
+    weight: 10
+    confidence: 0.98
+  - name: recuperacao_alcoolismo
+    weight: 9
+    confidence: 0.97
+  - name: negocio_jardinagem_paisagismo
+    weight: 8
+    confidence: 0.96
+  - name: superacao_pobreza_extrema
+    weight: 7
+    confidence: 0.94
+  - name: reinsercao_social
+    weight: 7
+    confidence: 0.93
+  - name: saude_mental_reabilitacao
+    weight: 6
+    confidence: 0.92
+  - name: historia_pessoal_inspiradora
+    weight: 6
+    confidence: 0.91
+  - name: gestao_pequena_empresa
+    weight: 5
+    confidence: 0.9
+  - name: servicos_condominios
+    weight: 5
+    confidence: 0.88
+  - name: apoio_institucional_sebrae
+    weight: 5
+    confidence: 0.87
+  cdu_primary: '334.7'
+  cdu_secondary:
+  - '364.6'
+  - '305.8'
+  - '635'
+  cdu_description: Cooperativismo e outras formas de associação econômica; Pequenas e médias empresas; Reabilitação social; Grupos sociais desfavorecidos; Horticultura e jardinagem
+---
 Ele viveu 8 anos na rua. Hojeundefined tem um negócio de jardinagem | EXAME.com
 
 [PME](http://exame.abril.com.br/pme)21/07/2016 10:30

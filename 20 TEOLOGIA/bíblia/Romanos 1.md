@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:48.757112+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: espirito_de_santidade
+    weight: 9
+    confidence: 0.98
+  - name: obediencia_da_fe
+    weight: 8
+    confidence: 0.97
+  - name: pertencer_a_cristo
+    weight: 7
+    confidence: 0.96
+  - name: dom_espiritual
+    weight: 6
+    confidence: 0.95
+  - name: evangelho_poder_de_deus
+    weight: 10
+    confidence: 0.99
+  - name: salvacao_universal
+    weight: 8
+    confidence: 0.97
+  - name: justica_de_deus
+    weight: 9
+    confidence: 0.98
+  - name: perdao_divino
+    weight: 7
+    confidence: 0.96
+  - name: ira_de_deus
+    weight: 8
+    confidence: 0.97
+  - name: pecado_e_verdade
+    weight: 9
+    confidence: 0.98
+  cdu_primary: '230'
+  cdu_secondary:
+  - '232.9'
+  - '241.1'
+  - '273.2'
+  cdu_description: Teologia cristã; Cristologia; Ética cristã; Doutrinas sobre a salvação
+---
 e foi designado Filho de Deus com poder, segundo o Espírito de santidade, pela ressurreição dos mortos, a saber, Jesus Cristo, nosso Senhor. Romanos 1:4 NAA
 - Espírito de [[santidade]]. Importância de sermos santos
 

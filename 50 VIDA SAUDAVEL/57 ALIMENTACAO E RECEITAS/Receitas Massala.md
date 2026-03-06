@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:52.231659+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: misturas_de_especiarias
+    weight: 10
+    confidence: 0.98
+  - name: garam_masala
+    weight: 10
+    confidence: 0.97
+  - name: culinaria_indiana
+    weight: 9
+    confidence: 0.95
+  - name: receitas_de_masala
+    weight: 8
+    confidence: 0.92
+  - name: ingredientes_de_especiarias
+    weight: 7
+    confidence: 0.9
+  - name: pimenta_do_reino
+    weight: 6
+    confidence: 0.85
+  - name: cominho
+    weight: 6
+    confidence: 0.85
+  - name: cardamomo
+    weight: 6
+    confidence: 0.85
+  - name: cravo
+    weight: 5
+    confidence: 0.8
+  - name: canela
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '641.59'
+  cdu_secondary:
+  - '664.5'
+  cdu_description: Culinária de países asiáticos. Especiarias e temperos.
+---
 [[Temperos massala]]
 masalas
 

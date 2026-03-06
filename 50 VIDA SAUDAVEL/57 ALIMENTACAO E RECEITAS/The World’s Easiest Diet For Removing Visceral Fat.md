@@ -1,13 +1,54 @@
 ---
-title: "Thread by @CoachDanGo"
-source: "https://x.com/CoachDanGo/status/2015820528385142798"
+title: Thread by @CoachDanGo
+source: https://x.com/CoachDanGo/status/2015820528385142798
 author:
-  - "[[@CoachDanGo]]"
+- '[[@CoachDanGo]]'
 published: 2026-01-26
 created: 2026-01-27
-description:
+description: null
 tags:
-  - "clippings"
+- clippings
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:53.792040+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reducao_gordura_visceral
+    weight: 10
+    confidence: 0.98
+  - name: dieta_mediterranea_otimizada
+    weight: 9
+    confidence: 0.97
+  - name: polifenois_saude
+    weight: 8
+    confidence: 0.96
+  - name: impacto_gordura_visceral_cognicao
+    weight: 7
+    confidence: 0.95
+  - name: risco_doencas_gordura_visceral
+    weight: 7
+    confidence: 0.94
+  - name: gordura_visceral_doencas_cardiovasculares
+    weight: 7
+    confidence: 0.93
+  - name: nutricao_alto_desempenho
+    weight: 6
+    confidence: 0.92
+  - name: perda_peso_vs_gordura_visceral
+    weight: 6
+    confidence: 0.91
+  - name: alimentos_ricos_polifenois
+    weight: 5
+    confidence: 0.9
+  - name: ciencia_perda_gordura
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '613.2'
+  cdu_secondary:
+  - '616.1'
+  - '616.8'
+  - '616.3'
+  cdu_description: Dietética. Nutrição. Alimentação. Promoção da saúde. Prevenção de doenças. Doenças cardiovasculares. Doenças neurológicas. Doenças do sistema digestivo.
 ---
 The World’s Easiest Diet For Removing Visceral Fat
 

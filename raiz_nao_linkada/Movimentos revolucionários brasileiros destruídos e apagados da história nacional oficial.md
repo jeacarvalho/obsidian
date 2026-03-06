@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:56.278124+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: movimentos_sociais_historia_brasil
+    weight: 10
+    confidence: 0.98
+  - name: repressao_narrativa_oficial
+    weight: 9
+    confidence: 0.95
+  - name: canudos_resistancia_sertao
+    weight: 8
+    confidence: 0.97
+  - name: contestado_guerra_camponesa
+    weight: 8
+    confidence: 0.96
+  - name: ligas_camponesas_reforma_agraria
+    weight: 7
+    confidence: 0.94
+  - name: mtst_mst_luta_moradia_terra
+    weight: 7
+    confidence: 0.93
+  - name: movimentos_negros_quilombolas_favelas
+    weight: 8
+    confidence: 0.95
+  - name: cultura_popular_subversiva
+    weight: 6
+    confidence: 0.9
+  - name: movimentos_populares_internacionais
+    weight: 7
+    confidence: 0.92
+  - name: demonizacao_movimentos_oprimidos
+    weight: 9
+    confidence: 0.96
+  cdu_primary: '323.2'
+  cdu_secondary:
+  - '305.8'
+  - '323.3'
+  - '308.2'
+  - '333.3'
+  cdu_description: Movimentos sociais e políticos, revoluções, agitação. Inclui movimentos de camponeses, negros, minorias, e lutas por terra e moradia. A repressão e a narrativa oficial sobre esses movimentos também são abordadas.
+---
 #### Movimentos revolucionários brasileiros destruídos e apagados da história nacional oficial
 
 ## ChatGPT

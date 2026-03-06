@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:52.323901+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mentalidade_digital
+    weight: 10
+    confidence: 0.98
+  - name: transformacao_digital
+    weight: 9
+    confidence: 0.97
+  - name: inteligencia_artificial
+    weight: 8
+    confidence: 0.95
+  - name: adaptacao_humana_era_digital
+    weight: 8
+    confidence: 0.94
+  - name: inovacao_disruptiva
+    weight: 7
+    confidence: 0.92
+  - name: tolerancia_ao_erro
+    weight: 7
+    confidence: 0.91
+  - name: pensamento_critico
+    weight: 8
+    confidence: 0.93
+  - name: inteligencia_emocional
+    weight: 9
+    confidence: 0.96
+  - name: colaboracao_humana
+    weight: 8
+    confidence: 0.94
+  - name: confianca_organizacional
+    weight: 7
+    confidence: 0.9
+  cdu_primary: 004.056.1
+  cdu_secondary:
+  - '004.7'
+  - 159.947.5
+  - 303.446.4
+  - 316.334.2
+  cdu_description: 004.056.1 - Adaptação do ser humano às novas tecnologias e à era digital, incluindo aspectos de transformação, inteligência artificial, pensamento crítico e habilidades socioemocionais.
+---
 # link do curso: 
 - [gbg_2021_mentalidade_digital | 002/2021](https://educa.voce.serpro.gov.br/course/view.php?id=71 "Grade Básica Gerencial 2021 # Mentalidade Digital")
 - Tutor: [Andrea Iorio | Palestrante Transformação Digital](https://andreaiorio.com/pt/)

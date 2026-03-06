@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T21:57:09.538802+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_groq_meditacoes
+    weight: 10
+    confidence: 0.98
+  - name: meditacoes_lucas_4_1-2
+    weight: 9
+    confidence: 0.97
+  - name: teologia_crista
+    weight: 8
+    confidence: 0.96
+  - name: fe_religiosa
+    weight: 7
+    confidence: 0.95
+  - name: interpretacao_biblica
+    weight: 8
+    confidence: 0.94
+  - name: estudo_evangelhos
+    weight: 7
+    confidence: 0.93
+  - name: reflexao_espiritual
+    weight: 6
+    confidence: 0.92
+  - name: inteligencia_artificial_teologia
+    weight: 5
+    confidence: 0.9
+  - name: cristianismo
+    weight: 6
+    confidence: 0.89
+  - name: vida_crista
+    weight: 5
+    confidence: 0.88
+  cdu_primary: '230'
+  cdu_secondary:
+  - '226.4'
+  cdu_description: Teologia cristã em geral; Teologia cristã - Evangelhos
+---
 #### analise do groq sobre minhas meditacoes em [[Lucas 4]]_1-2
 **Leitura das anotações e análise comportamental**
 

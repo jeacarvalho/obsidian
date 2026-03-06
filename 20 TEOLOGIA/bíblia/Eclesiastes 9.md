@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:44.643006+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: esperanca_vida_apos_morte
+    weight: 8
+    confidence: 0.9
+  - name: valor_sabedoria_vs_forca
+    weight: 9
+    confidence: 0.95
+  - name: aproveitar_vida_presente
+    weight: 7
+    confidence: 0.85
+  - name: importancia_trabalho_bem_feito
+    weight: 6
+    confidence: 0.8
+  - name: reflexao_sobre_acaso_soberania_divina
+    weight: 7
+    confidence: 0.88
+  - name: perspectiva_salomao_sobre_alem
+    weight: 5
+    confidence: 0.75
+  - name: perspectiva_jesus_sobre_alem
+    weight: 6
+    confidence: 0.78
+  - name: alegria_na_vida_terrena
+    weight: 7
+    confidence: 0.82
+  - name: sabedoria_superior_a_forca_militar
+    weight: 9
+    confidence: 0.92
+  - name: valor_sabedoria_pobre_desprezada
+    weight: 6
+    confidence: 0.79
+  cdu_primary: '230.2'
+  cdu_secondary:
+  - '224.5'
+  - '170.4'
+  - '305.8'
+  cdu_description: Teologia cristã; Teologia sistemática; Doutrina da salvação; Bíblia. Antigo Testamento. Livros Sapienciais; Ética. Filosofia moral; Sociologia da religião
+---
 [[sermos do Senhor não nos livra das lutas da vida]]
 Para aquele que está entre os vivos há [[Esperança]], porque mais vale um cão vivo do que um leão morto. Eclesiastes 9:4 NAA
 - Para Salomão o além não oferecia nenhuma vantagem

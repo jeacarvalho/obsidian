@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:58.735691+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_de_competencias_na_pratica
+    weight: 9
+    confidence: 0.9
+  - name: resiliencia_organizacional
+    weight: 8
+    confidence: 0.85
+  - name: foco_em_resultados_lideranca
+    weight: 8
+    confidence: 0.85
+  - name: prontidao_para_transformacao
+    weight: 7
+    confidence: 0.8
+  - name: desafios_da_mudanca_empresarial
+    weight: 7
+    confidence: 0.75
+  - name: fadiga_da_mudanca
+    weight: 6
+    confidence: 0.7
+  - name: gestao_da_transformacao_individual
+    weight: 6
+    confidence: 0.7
+  - name: apoio_aos_liderados_em_mudanca
+    weight: 7
+    confidence: 0.75
+  - name: impacto_da_transformacao_organizacional
+    weight: 5
+    confidence: 0.65
+  - name: senso_de_pertencimento_em_home_office
+    weight: 5
+    confidence: 0.6
+  cdu_primary: '658.3'
+  cdu_secondary:
+  - '159.947'
+  - '303.3'
+  - '316.4'
+  cdu_description: Gestão de pessoal. Administração de pessoal. Recursos humanos. Relações de trabalho. Comportamento organizacional. Psicologia organizacional. Mudança organizacional. Liderança.
+---
 - Iniciando com o exercício do último encontro
 - Já tinha feito: [[Template Ação para Transformar.pdf]]
 - Desejo de transformar da gente mostra impacto e relevância. Deixar isso claro.

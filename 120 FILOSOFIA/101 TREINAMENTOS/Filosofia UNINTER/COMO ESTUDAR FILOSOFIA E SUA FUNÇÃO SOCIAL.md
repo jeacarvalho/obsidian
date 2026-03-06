@@ -1,5 +1,45 @@
 ---
-{}
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:54.570956+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: responsabilidade_do_filosofo
+    weight: 10
+    confidence: 0.98
+  - name: ensinar_a_filosofar_vs_ensinar_filosofia
+    weight: 9
+    confidence: 0.95
+  - name: libertacao_pela_filosofia
+    weight: 8
+    confidence: 0.92
+  - name: critica_e_reconstrucao_filosofica
+    weight: 7
+    confidence: 0.9
+  - name: mito_da_caverna_platao
+    weight: 6
+    confidence: 0.88
+  - name: superacao_do_senso_comum
+    weight: 7
+    confidence: 0.85
+  - name: multidiscplinaridade_filosofica
+    weight: 5
+    confidence: 0.8
+  - name: historia_da_filosofia_textos_classicos
+    weight: 6
+    confidence: 0.82
+  - name: kant_esclarecimento_autonomia
+    weight: 9
+    confidence: 0.93
+  - name: filosofia_como_ato_social
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '101'
+  cdu_secondary:
+  - '102'
+  - '100.1'
+  - '100.7'
+  cdu_description: Filosofia. Teoria geral da filosofia. Relações da filosofia com outras ciências e com a vida. Filosofia e sociedade. Filosofia e educação.
 ---
 
 - ![[aula 2 int filosofia.pdf]]

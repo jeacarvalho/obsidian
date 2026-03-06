@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:07.987412+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sentimentos_de_desesperanca
+    weight: 9
+    confidence: 0.98
+  - name: busca_por_conforto_espiritual
+    weight: 10
+    confidence: 0.99
+  - name: superacao_de_dificuldades
+    weight: 8
+    confidence: 0.97
+  - name: fe_em_momentos_de_crise
+    weight: 9
+    confidence: 0.96
+  - name: entrega_a_deus
+    weight: 10
+    confidence: 0.99
+  - name: protecao_divina
+    weight: 9
+    confidence: 0.98
+  - name: sofrimento_emocional
+    weight: 7
+    confidence: 0.95
+  - name: esperanca_restaurada
+    weight: 8
+    confidence: 0.97
+  - name: voz_divina_consoladora
+    weight: 9
+    confidence: 0.96
+  - name: sustento_emocional_e_espiritual
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '200'
+  cdu_secondary:
+  - '159.9'
+  cdu_description: Religião e Teologia; Psicologia
+---
 Menina dos olhos
 
 As vezes tem aquele dia em que

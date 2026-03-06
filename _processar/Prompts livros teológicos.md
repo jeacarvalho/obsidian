@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:35.405255+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: estudo_livro_ia
+    weight: 8
+    confidence: 0.98
+  - name: prompt_matriz_analise
+    weight: 9
+    confidence: 0.97
+  - name: analise_camadas_criticas
+    weight: 10
+    confidence: 0.99
+  - name: arquitetura_conhecimento_obsidian
+    weight: 9
+    confidence: 0.96
+  - name: resumo_atomico_zettelkasten
+    weight: 7
+    confidence: 0.95
+  - name: conexao_conceitos_externos
+    weight: 8
+    confidence: 0.94
+  - name: perguntas_transformadoras_espirituais
+    weight: 7
+    confidence: 0.93
+  - name: praticas_aplicadas_criativas
+    weight: 6
+    confidence: 0.92
+  - name: analise_capitulo_incremental
+    weight: 7
+    confidence: 0.91
+  - name: sintese_final_integrada
+    weight: 8
+    confidence: 0.9
+  cdu_primary: '004.9'
+  cdu_secondary:
+  - '2'
+  - '001.8'
+  cdu_description: Processamento de informação e conhecimento; Organização do conhecimento; Métodos de estudo e pesquisa; Teologia
+---
 # 🌿 Fluxo de Estudo de Livros — Jesus sem Cristianismo
 
 ## 1. Criar uma nova conversa na IA para cada livro

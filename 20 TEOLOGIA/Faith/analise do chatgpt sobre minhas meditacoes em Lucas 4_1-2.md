@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T21:59:36.872710+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_chatgpt_meditacoes
+    weight: 10
+    confidence: 0.98
+  - name: meditacoes_lucas_4_1-2
+    weight: 9
+    confidence: 0.97
+  - name: teologia_crista
+    weight: 8
+    confidence: 0.96
+  - name: interpretacao_biblica
+    weight: 7
+    confidence: 0.95
+  - name: inteligencia_artificial_teologia
+    weight: 6
+    confidence: 0.94
+  - name: reflexao_espiritual
+    weight: 5
+    confidence: 0.93
+  - name: estudo_evangelho
+    weight: 7
+    confidence: 0.92
+  - name: aplicacao_teologica_ia
+    weight: 6
+    confidence: 0.91
+  - name: dialogo_fe_tecnologia
+    weight: 5
+    confidence: 0.9
+  - name: conteudo_teologico_personalizado
+    weight: 8
+    confidence: 0.89
+  cdu_primary: '230'
+  cdu_secondary:
+  - '226.4'
+  - 004.032.2
+  cdu_description: Teologia Cristã Geral (230), Evangelhos (226.4), Inteligência Artificial (004.032.2)
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Lucas 4]]_1-2
 ### **Análise das Meditações sobre Lucas 4:1-2**
 

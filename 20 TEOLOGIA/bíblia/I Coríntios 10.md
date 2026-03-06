@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:52.936483+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: advertencia_crista_baseada_em_exemplos_biblicos
+    weight: 9
+    confidence: 0.98
+  - name: tentacao_e_fidelidade_divina
+    weight: 8
+    confidence: 0.97
+  - name: livramento_divino_na_tentacao
+    weight: 7
+    confidence: 0.96
+  - name: escolhas_cristas_e_prazeres_mundanos
+    weight: 8
+    confidence: 0.95
+  - name: adoracao_exclusiva_a_deus
+    weight: 9
+    confidence: 0.94
+  - name: prioridade_do_proximo_na_etica_crista
+    weight: 10
+    confidence: 0.99
+  - name: limites_da_liberdade_crista
+    weight: 9
+    confidence: 0.97
+  - name: edificacao_mutua_na_comunidade_crista
+    weight: 7
+    confidence: 0.93
+  - name: busca_do_interesse_alheio
+    weight: 8
+    confidence: 0.96
+  - name: gloria_de_deus_em_todas_as_acoes
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '230.9'
+  cdu_secondary:
+  - '241.4'
+  - '248.3'
+  cdu_description: Teologia cristã - Doutrinas gerais - Escatologia e escatologia bíblica; Ética cristã - Princípios morais; Vida cristã - Prática
+---
 1Co 10:11 — 1Co 10:12
 Estas coisas lhes sobrevieram como exemplos e foram escritas para advertência nossa, de nós outros sobre quem os fins dos séculos têm chegado. Aquele, pois, que pensa estar em pé veja que não caia.
 - O exemplo dos israelitas no deserto é forte

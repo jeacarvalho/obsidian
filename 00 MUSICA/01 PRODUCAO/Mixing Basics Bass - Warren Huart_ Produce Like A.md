@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:10.034319+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gravacao_de_guitarra
+    weight: 10
+    confidence: 0.98
+  - name: mixagem_de_audio
+    weight: 9
+    confidence: 0.97
+  - name: producao_musical
+    weight: 8
+    confidence: 0.96
+  - name: tecnicas_de_microfonacao
+    weight: 7
+    confidence: 0.94
+  - name: plugins_de_audio
+    weight: 6
+    confidence: 0.93
+  - name: efeitos_sonoros
+    weight: 6
+    confidence: 0.92
+  - name: edicao_de_guitarra
+    weight: 7
+    confidence: 0.91
+  - name: engenharia_de_som
+    weight: 8
+    confidence: 0.9
+  - name: guitarra_eletrica
+    weight: 5
+    confidence: 0.88
+  - name: dicas_de_producao
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '781.6'
+  cdu_secondary:
+  - '781.63'
+  - '781.65'
+  - '781.66'
+  cdu_description: A CDU primária 781.6 abrange a teoria e a prática da música, com foco em composição e arranjo. As secundárias 781.63 (instrumentos de corda), 781.65 (instrumentos de sopro) e 781.66 (instrumentos de percussão) podem ser aplicadas dependendo do foco específico da gravação. No entanto, como o conteúdo é sobre gravação e mixagem de guitarra, a classificação mais adequada seria focada na tecnologia musical e produção sonora.
+---
 Mixing Basics: Bass - Warren Huart: Produce Like A Pro
 
 Record Guitar Like A PRO (& revealing my BIG secret!)

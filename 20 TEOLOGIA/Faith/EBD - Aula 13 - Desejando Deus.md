@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:40:03.296042+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desejo_por_deus
+    weight: 10
+    confidence: 0.98
+  - name: sede_espiritual
+    weight: 9
+    confidence: 0.97
+  - name: felicidade_e_desejo
+    weight: 8
+    confidence: 0.95
+  - name: insatisfacao_humana
+    weight: 7
+    confidence: 0.93
+  - name: natureza_do_desejo
+    weight: 7
+    confidence: 0.92
+  - name: criacao_para_outro_mundo
+    weight: 6
+    confidence: 0.9
+  - name: erros_sobre_desejos
+    weight: 6
+    confidence: 0.88
+  - name: busca_por_deus
+    weight: 8
+    confidence: 0.96
+  - name: consolo_em_deus
+    weight: 7
+    confidence: 0.94
+  - name: vazio_existencial
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '231.7'
+  cdu_secondary:
+  - '230.1'
+  - '201.6'
+  cdu_description: Teologia cristã - A natureza de Deus e a relação com o homem; Doutrina cristã - Fundamentos; Filosofia da religião - Relação entre religião e outras esferas da vida humana
+---
 EBD - Aula 13 - Desejando Deus
 
 **Desejando Deus - A Felicidade, Houston, Capítulo 11**

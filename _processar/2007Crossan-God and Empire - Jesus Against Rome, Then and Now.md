@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:33.780989+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: jesus_historico_anti_imperialismo
+    weight: 10
+    confidence: 0.98
+  - name: confronto_material_jesus_imperio_romano
+    weight: 9
+    confidence: 0.97
+  - name: paz_pela_vitoria_vs_paz_pela_justica
+    weight: 9
+    confidence: 0.96
+  - name: normalidade_da_violencia_civilizatoria
+    weight: 8
+    confidence: 0.95
+  - name: teologia_imperial_romana
+    weight: 8
+    confidence: 0.94
+  - name: ambiguidade_poder_divino_biblia
+    weight: 7
+    confidence: 0.93
+  - name: apocalipse_captura_radicalidade_jesus
+    weight: 7
+    confidence: 0.92
+  - name: escatologia_economia_justica_divina
+    weight: 6
+    confidence: 0.91
+  - name: critica_romantizacao_monaquismo
+    weight: 5
+    confidence: 0.85
+  - name: silencio_sobre_genero_nao_violencia
+    weight: 5
+    confidence: 0.8
+  cdu_primary: 27-22
+  cdu_secondary:
+  - '323.28'
+  - '305.8'
+  cdu_description: '27-22: História do Cristianismo e da Igreja; 323.28: Movimentos de protesto e resistência; 305.8: Relações étnicas e raciais; estudos de grupos sociais.'
+---
 ### 🔍 ANÁLISE CURATORIAL: *God and Empire* (John Dominic Crossan)
 
 #### 1. CLASSIFICAÇÃO ARQUETÍPICA

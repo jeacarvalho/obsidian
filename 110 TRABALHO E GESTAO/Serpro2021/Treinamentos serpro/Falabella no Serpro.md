@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T21:55:31.820317+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: treinamento_corporativo
+    weight: 8
+    confidence: 0.9
+  - name: gestao_de_pessoas
+    weight: 7
+    confidence: 0.85
+  - name: desenvolvimento_profissional
+    weight: 9
+    confidence: 0.92
+  - name: cultura_organizacional
+    weight: 6
+    confidence: 0.78
+  - name: lideranca_empresarial
+    weight: 7
+    confidence: 0.82
+  - name: inovacao_tecnologica
+    weight: 5
+    confidence: 0.7
+  - name: estrategias_de_negocio
+    weight: 6
+    confidence: 0.75
+  - name: comunicacao_empresarial
+    weight: 5
+    confidence: 0.72
+  - name: gestao_de_talentos
+    weight: 8
+    confidence: 0.88
+  - name: relacionamento_institucional
+    weight: 6
+    confidence: 0.79
+  cdu_primary: '658.3'
+  cdu_secondary:
+  - '005.73'
+  - '331.104'
+  cdu_description: Gestão de pessoal. Administração de pessoal. Recursos humanos. Treinamento e desenvolvimento de pessoal. Liderança.
+---
 1. **Poesia** - ter e exercitar um olhar poético para com a vida. Metáforas. "Arte existe para não moerrermos de realidade" [[Nietzsche]]
 	1. Há uma mecanismo no cerébro que só é acionado com metáforas
 	2. Ler uma poesia, um poema por dia.

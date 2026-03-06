@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:07.950824+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: importancia_oferta_crista
+    weight: 9
+    confidence: 0.98
+  - name: motivacao_doacao_coracao
+    weight: 10
+    confidence: 0.97
+  - name: analise_biblica_marcos_12_41_43
+    weight: 8
+    confidence: 0.95
+  - name: perspectivas_teologicas_oferta
+    weight: 7
+    confidence: 0.92
+  - name: critica_social_religiosa_ofertas
+    weight: 8
+    confidence: 0.9
+  - name: sacrificio_financeiro_cristao
+    weight: 9
+    confidence: 0.96
+  - name: generosidade_versus_riqueza
+    weight: 7
+    confidence: 0.88
+  - name: administracao_recursos_pessoais_deus
+    weight: 8
+    confidence: 0.93
+  - name: interpretacao_calvino_wesley_viuva
+    weight: 6
+    confidence: 0.85
+  - name: interpretacao_brueggemann_fiorenza_viuva
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '230.2'
+  cdu_secondary:
+  - 27-29
+  - '241.5'
+  cdu_description: Teologia cristã; Doutrinas cristãs; Ética cristã; Doutrinas sobre a vida cristã; Doutrinas sobre a relação do cristão com a sociedade e o mundo
+---
 Suas meditações sobre[[ Marcos 12]]:41-43 levantam pontos interessantes e profundos sobre a importância da oferta e a postura do coração ao fazê-la. Vamos avaliar sua análise e cotejá-la com comentários de outros cristãos, tanto os que concordam quanto os que oferecem uma visão diferente.
 
 ### 1. **Jesus deu atenção às ofertas e à importância do sustento da comunidade**

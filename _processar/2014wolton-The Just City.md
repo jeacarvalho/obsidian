@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:33.462626+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ficcao_filosofica_etica_politica
+    weight: 10
+    confidence: 0.98
+  - name: critica_representacao_narrativa
+    weight: 8
+    confidence: 0.95
+  - name: justica_igualdade_significancia
+    weight: 9
+    confidence: 0.97
+  - name: volicao_humanidade_dignidade
+    weight: 8
+    confidence: 0.96
+  - name: necessidade_destino_escravidao
+    weight: 7
+    confidence: 0.94
+  - name: critica_elite_iluminada
+    weight: 7
+    confidence: 0.93
+  - name: hermeneutica_tecnica_interpretacao
+    weight: 6
+    confidence: 0.9
+  - name: ia_senciencia_etica
+    weight: 7
+    confidence: 0.92
+  - name: critica_eurocentrismo_literatura
+    weight: 6
+    confidence: 0.88
+  - name: vulnerabilidade_humana_relacao
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '821.09'
+  cdu_secondary:
+  - '111.85'
+  - '321.02'
+  - '305.8'
+  cdu_description: 821.09 - Teoria geral da literatura. Crítica literária. História geral da literatura. 111.85 - Filosofia da existência. Existencialismo. 321.02 - Teoria do Estado. 305.8 - Grupos étnicos. Minorias.
+---
 ### 🔑 PASSO 1: ATIVAÇÃO DA LENTE DISCIPLINAR
 
 **Lente ativada:** Modo Hermenêutico-Técnico → Escrita, Literatura & Ficção  

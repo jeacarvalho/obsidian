@@ -1,3 +1,53 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:39.056320+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: classificacao_empresas_por_atividade
+    weight: 8
+    confidence: 0.98
+  - name: classificacao_empresas_por_socios
+    weight: 7
+    confidence: 0.97
+  - name: personalidade_juridica_empresario
+    weight: 7
+    confidence: 0.96
+  - name: registro_empresarial_junta_comercial
+    weight: 6
+    confidence: 0.95
+  - name: documentos_constitutivos_sociedades
+    weight: 9
+    confidence: 0.99
+  - name: obrigacoes_empresariais_tributarias_trabalhistas
+    weight: 8
+    confidence: 0.97
+  - name: livro_diario_escrituracao_contabil
+    weight: 9
+    confidence: 0.98
+  - name: nome_empresarial_firma_denominacao
+    weight: 7
+    confidence: 0.96
+  - name: tipos_responsabilidade_societaria_limitada_ilimitada
+    weight: 10
+    confidence: 1.0
+  - name: classificacao_sociedades_personificadas
+    weight: 8
+    confidence: 0.97
+  cdu_primary: '334.7'
+  cdu_secondary:
+  - '334.72'
+  - '334.73'
+  - '334.74'
+  - '334.75'
+  - '334.76'
+  - '334.77'
+  - '334.78'
+  - '334.79'
+  - '657.1'
+  - '657.3'
+  cdu_description: Organização e gestão de empresas. Sociedades comerciais e empresariais. Contabilidade.
+---
 # Bibliografia
 ## Básica
 - LUZ, Érico Eleutério da. Contabilidade Comercial. Curitiba: Intersaberes, 2015

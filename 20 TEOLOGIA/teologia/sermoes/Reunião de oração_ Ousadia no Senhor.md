@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:03.319618+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: importancia_da_oracao_continua
+    weight: 9
+    confidence: 0.98
+  - name: parabola_do_juiz_iniquo
+    weight: 8
+    confidence: 0.97
+  - name: ousadia_na_oracao
+    weight: 10
+    confidence: 0.99
+  - name: fe_na_oracao
+    weight: 9
+    confidence: 0.96
+  - name: perseveranca_na_oracao
+    weight: 8
+    confidence: 0.95
+  - name: oracao_como_trabalho_intenso
+    weight: 7
+    confidence: 0.94
+  - name: vontade_de_deus_na_oracao
+    weight: 8
+    confidence: 0.93
+  - name: confianca_em_deus_diante_de_dificuldades
+    weight: 7
+    confidence: 0.92
+  - name: oracao_pelos_enviados_de_deus
+    weight: 6
+    confidence: 0.9
+  - name: superar_medo_ao_orar
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '248.3'
+  cdu_secondary: []
+  cdu_description: Prática da vida cristã. Oração. Meditação. Vida mística.
+---
 Reunião de oração: Ousadia no Senhor
 
 **> Ousadia no Senhor**

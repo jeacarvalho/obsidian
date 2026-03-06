@@ -3,6 +3,46 @@ created: 2021-09-10T14:26:26 (UTC -03:00)
 tags: []
 source: https://hebraicthought.org/confrontando-o-nacionalismo-cristao-com-o-livro-de-amos/
 author: By Dr. Michael Rhodes on September 7, 2021
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:04.815455+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: nacionalismo_cristao_critica
+    weight: 10
+    confidence: 0.98
+  - name: livro_de_amos_relevancia
+    weight: 9
+    confidence: 0.95
+  - name: idolatria_nacionalista
+    weight: 8
+    confidence: 0.92
+  - name: aplicacao_promessas_deus_eua
+    weight: 7
+    confidence: 0.88
+  - name: critica_moral_israel_antigo_testamento
+    weight: 6
+    confidence: 0.85
+  - name: patriotismo_virtude_crista
+    weight: 5
+    confidence: 0.8
+  - name: discurso_politico_nacionalismo_cristao
+    weight: 7
+    confidence: 0.89
+  - name: interpretacao_biblica_politica
+    weight: 6
+    confidence: 0.82
+  - name: teologia_nacionalista
+    weight: 8
+    confidence: 0.9
+  - name: justica_social_profecia_amos
+    weight: 7
+    confidence: 0.87
+  cdu_primary: 27-23
+  cdu_secondary:
+  - '322.1'
+  - '224.9'
+  cdu_description: Religião cristã. Teologia. História da igreja. Relações entre religião e nacionalismo. Interpretação do livro de Amós.
 ---
 
 # Confrontando o Nacionalismo Cristão com o Livro de Amós | Mentalidade Bíblica

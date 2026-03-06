@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:43.280493+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: monopolio_estatal_recursos_naturais
+    weight: 10
+    confidence: 0.98
+  - name: controle_monopolio_privado_vs_publico
+    weight: 9
+    confidence: 0.97
+  - name: politica_economica_sang
+    weight: 8
+    confidence: 0.95
+  - name: teoria_monopolio_natural_precoce
+    weight: 7
+    confidence: 0.93
+  - name: distribuicao_beneficios_economicos_recursos
+    weight: 6
+    confidence: 0.9
+  - name: regulacao_uso_montanhas_recursos_hidricos
+    weight: 5
+    confidence: 0.88
+  - name: estado_equilibrio_social_economico
+    weight: 7
+    confidence: 0.92
+  - name: alivio_necessitados_politica_estatal
+    weight: 6
+    confidence: 0.89
+  - name: visao_chinesa_economia_monopolios
+    weight: 9
+    confidence: 0.96
+  - name: producao_sal_ferro_monopolio
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '330.111'
+  cdu_secondary:
+  - '338.43'
+  - '330.14'
+  - '321.02'
+  cdu_description: Economia. Teoria econômica. Monopólios. Política econômica. História econômica da China.
+---
 #### Para a china a discussão não é sobre a existência ou não de monopólios mas sim quem os controla
 Amarelo destaque | Local: 1,346 Nota | Local: 1,346
 

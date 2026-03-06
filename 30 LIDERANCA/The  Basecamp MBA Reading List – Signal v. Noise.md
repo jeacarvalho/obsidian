@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:01.744573+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_empresarial
+    weight: 10
+    confidence: 0.98
+  - name: empreendedorismo
+    weight: 9
+    confidence: 0.97
+  - name: lideranca
+    weight: 8
+    confidence: 0.96
+  - name: estrategia_de_negocios
+    weight: 8
+    confidence: 0.95
+  - name: psicologia_da_persuasao
+    weight: 7
+    confidence: 0.94
+  - name: consultoria
+    weight: 7
+    confidence: 0.93
+  - name: desenvolvimento_de_negocios
+    weight: 6
+    confidence: 0.92
+  - name: gestao_de_pessoas
+    weight: 6
+    confidence: 0.91
+  - name: marketing_estrategico
+    weight: 5
+    confidence: 0.9
+  - name: cultura_organizacional
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '658'
+  cdu_secondary:
+  - '005.32'
+  - '334.7'
+  - '316.6'
+  cdu_description: Gestão e organização de empresas. Liderança, empreendedorismo, estratégia, consultoria, psicologia da persuasão, marketing e cultura organizacional.
+---
 The “Basecamp MBA” Reading List – Signal v. Noise
 
 # The “Basecamp MBA” Reading List

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:03.773862+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: tendencia_deterioracao_organizacional
+    weight: 10
+    confidence: 0.98
+  - name: sinais_deterioracao_corporativa
+    weight: 9
+    confidence: 0.95
+  - name: apatia_organizacional
+    weight: 8
+    confidence: 0.92
+  - name: superficialidade_nas_organizacoes
+    weight: 7
+    confidence: 0.88
+  - name: gestao_lideranca_visao
+    weight: 9
+    confidence: 0.93
+  - name: complexidade_ambiguidade_gestao
+    weight: 8
+    confidence: 0.9
+  - name: valor_orientacao_empresarial
+    weight: 7
+    confidence: 0.85
+  - name: relacionamento_cliente_organizacao
+    weight: 6
+    confidence: 0.8
+  - name: quantificacao_excessiva_negocios
+    weight: 7
+    confidence: 0.87
+  - name: confianca_lideranca_sabedoria
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '658.01'
+  cdu_secondary:
+  - '303.4'
+  - '316.4'
+  cdu_description: Gestão e organização de empresas. Teoria da organização. Sociologia das organizações. Psicologia social.
+---
 Entropia na organização
 
 I am using the word “entropy” in a loose way, because technically it has to do with the second law of thermodynamics. From a corporate management point of view, I choose to define it as meaning that everything has a tendency to deteriorate.

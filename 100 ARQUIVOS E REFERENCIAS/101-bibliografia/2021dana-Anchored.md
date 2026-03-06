@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:59.322988+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teoria_polivagal
+    weight: 10
+    confidence: 0.98
+  - name: sistema_nervoso_autonomo
+    weight: 9
+    confidence: 0.97
+  - name: hierarquia_autonomica
+    weight: 8
+    confidence: 0.96
+  - name: vagal_dorsal
+    weight: 7
+    confidence: 0.95
+  - name: simpatico_ativacao
+    weight: 7
+    confidence: 0.95
+  - name: vagal_ventral_conexao
+    weight: 8
+    confidence: 0.96
+  - name: neurocepcao
+    weight: 8
+    confidence: 0.97
+  - name: co_regulacao
+    weight: 9
+    confidence: 0.97
+  - name: contexto_escolha_conexao
+    weight: 7
+    confidence: 0.94
+  - name: bem_estar_regulacao_emocional
+    weight: 6
+    confidence: 0.93
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '612.8'
+  - '616.89'
+  cdu_description: Psicologia. Fisiologia do sistema nervoso. Psiquiatria.
+---
 ## Cap 1
 
 O capítulo "Anchored - Cap 1.pdf" oferece uma introdução clara e concisa à Teoria Polivagal, desenvolvida pelo professor de psiquiatria Stephen Porges. A teoria se baseia na redescoberta de duas vias vagais no sistema nervoso que regulam o coração e estabelecem uma conexão face-coração para comunicar o estado interno do corpo a outras pessoas. O sistema nervoso autônomo, responsável pelas funções corporais básicas como respiração e batimentos cardíacos, pode ser ajustado através da Teoria Polivagal.

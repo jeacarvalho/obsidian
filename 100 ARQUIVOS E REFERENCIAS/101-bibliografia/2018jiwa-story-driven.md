@@ -1,4 +1,45 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:01.258491+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: importancia_da_historia_pessoal_e_negocios
+    weight: 10
+    confidence: 0.98
+  - name: identidade_e_auto_conhecimento
+    weight: 9
+    confidence: 0.95
+  - name: empresas_movidas_por_historia_vs_competicao
+    weight: 9
+    confidence: 0.97
+  - name: redescobrindo_a_grandeza_e_proposito
+    weight: 8
+    confidence: 0.92
+  - name: significado_como_vantagem_competitiva
+    weight: 8
+    confidence: 0.93
+  - name: narrativa_e_formacao_de_identidade
+    weight: 7
+    confidence: 0.9
+  - name: historia_como_estrategia_empresarial
+    weight: 7
+    confidence: 0.91
+  - name: framework_story_driven_elementos
+    weight: 6
+    confidence: 0.88
+  - name: valores_organizacionais_e_tomada_de_decisao
+    weight: 6
+    confidence: 0.89
+  - name: impacto_maximo_atraves_da_historia
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '305.8'
+  cdu_secondary:
+  - '658.8'
+  - '159.947'
+  cdu_description: Sociologia. Estudos de temas sociais. Sociologia da comunicação. Psicologia. Psicologia da motivação. Psicologia da personalidade. Gestão empresarial. Marketing.
+---
 # Resumo
 
 O livro "Story Driven" é dividido em três partes, cada uma com vários capítulos que exploram a importância da história na vida pessoal e nos negócios. Aqui está um resumo de cada parte e seus capítulos, com base nas fontes fornecidas:

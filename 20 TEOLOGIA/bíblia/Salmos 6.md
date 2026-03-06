@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:36.555878+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ira_divina_e_redencao
+    weight: 9
+    confidence: 0.9
+  - name: sofrimento_e_lamento_do_crente
+    weight: 8
+    confidence: 0.95
+  - name: oracao_e_suplica_a_deus
+    weight: 10
+    confidence: 0.98
+  - name: compaixao_divina_e_cura
+    weight: 7
+    confidence: 0.85
+  - name: perturbacao_da_alma_e_esperanca
+    weight: 6
+    confidence: 0.8
+  - name: iniquidade_e_afastamento_do_mal
+    weight: 7
+    confidence: 0.88
+  - name: integridade_e_justica_pessoal
+    weight: 8
+    confidence: 0.92
+  - name: perseguicao_inimiga_e_resiliencia
+    weight: 6
+    confidence: 0.75
+  - name: interpretacao_biblica_de_salmos
+    weight: 9
+    confidence: 0.93
+  - name: fe_em_meio_a_adversidade
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '231.7'
+  cdu_secondary:
+  - '242.3'
+  - '223.2'
+  cdu_description: Teologia cristã - Atributos de Deus (ira, compaixão) - Vida cristã (oração, sofrimento, fé) - Bíblia (Livro de Salmos)
+---
 Senhor , não me repreendas na tua ira, nem me castigues no teu furor.  Tem compaixão de mim, Senhor , porque eu me sinto debilitado; sara-me, Senhor , porque os meus ossos estão abalados.  Também a minha alma está profundamente perturbada; mas tu, Senhor , até quando?
 Salmos 6:1‭-‬3 NAA
 - Davi sabia que o Senhor se irava. Não era um tabu, como parece ser hoje. Hoje, sim , por causa de Jesus, Sua ira pode se manifestar de forma diferente. Mas Deus não mudou.

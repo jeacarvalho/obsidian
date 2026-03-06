@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:09.692651+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: identificacao_com_pedro_e_fraquezas_humanas
+    weight: 8
+    confidence: 0.9
+  - name: autocritica_e_reflexao_espiritual
+    weight: 7
+    confidence: 0.88
+  - name: reconhecimento_da_graca_divina
+    weight: 9
+    confidence: 0.92
+  - name: preocupacao_com_a_igreja_e_justica
+    weight: 6
+    confidence: 0.85
+  - name: proposta_de_pratica_do_perdao
+    weight: 7
+    confidence: 0.87
+  - name: desenvolvimento_da_dependencia_de_deus
+    weight: 8
+    confidence: 0.89
+  - name: engajamento_comunitario_na_igreja
+    weight: 6
+    confidence: 0.84
+  - name: teologia_reformada_e_depravacao_humana
+    weight: 9
+    confidence: 0.93
+  - name: exegese_do_contexto_historico_de_marcos_14
+    weight: 7
+    confidence: 0.86
+  - name: licoes_de_restauracao_e_servico_apos_falha
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '230.9'
+  cdu_secondary:
+  - '270.6'
+  - '226.3'
+  cdu_description: Teologia cristã; Teologia sistemática; Teologia reformada; História do cristianismo; Novo Testamento; Evangelho de Marcos
+---
 #### analise deepseek meditacoes em [[Marcos 14]]- - 66 - 71
 ### Análise Comportamental
 

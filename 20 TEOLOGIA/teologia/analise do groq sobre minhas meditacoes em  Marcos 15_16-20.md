@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:03.055142+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reflexao_sobre_a_paixao_de_jesus
+    weight: 9
+    confidence: 0.98
+  - name: analise_comportamental_dos_soldados
+    weight: 8
+    confidence: 0.95
+  - name: identificacao_com_motivos_de_sobrevivencia
+    weight: 7
+    confidence: 0.92
+  - name: fidelidade_aos_propositos_divinos
+    weight: 10
+    confidence: 0.99
+  - name: teologia_da_cruz
+    weight: 9
+    confidence: 0.97
+  - name: influencia_de_calvino_na_teologia_reformada
+    weight: 7
+    confidence: 0.9
+  - name: influencia_de_lutero_na_teologia_reformada
+    weight: 7
+    confidence: 0.9
+  - name: exemplo_de_resiliencia_em_situacoes_dificeis
+    weight: 8
+    confidence: 0.96
+  - name: busca_por_equilibrio_entre_seguranca_e_valores
+    weight: 8
+    confidence: 0.94
+  - name: desenvolvimento_de_compaixao_e_compreensao
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - 27-29
+  - '232.9'
+  - '231.7'
+  cdu_description: Teologia cristã; Teologia da cruz; Teologia reformada; Cristologia; Ética cristã
+---
 #### analise do groq sobre minhas meditacoes em  [[Marcos 15]]_16-20
 **Análise comportamental:**
 

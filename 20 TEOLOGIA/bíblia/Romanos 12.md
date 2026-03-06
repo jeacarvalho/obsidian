@@ -1,4 +1,45 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:23.080658+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sacrificio_vivo_agradavel_a_deus
+    weight: 8
+    confidence: 0.9
+  - name: transformacao_pela_renovacao_da_mente
+    weight: 9
+    confidence: 0.95
+  - name: corpo_em_cristo_membros_uns_dos_outros
+    weight: 7
+    confidence: 0.85
+  - name: diversidade_de_dons_ministeriais
+    weight: 8
+    confidence: 0.92
+  - name: amor_fraternal_e_preferencia_aos_outros
+    weight: 9
+    confidence: 0.96
+  - name: zelo_fervoroso_no_servico_ao_senhor
+    weight: 7
+    confidence: 0.88
+  - name: abencoar_perseguidores_e_inimigos
+    weight: 8
+    confidence: 0.93
+  - name: empatia_alegrar_com_os_que_alegram_chorar_com_os_que_choram
+    weight: 7
+    confidence: 0.87
+  - name: humildade_e_unidade_no_pensamento
+    weight: 6
+    confidence: 0.82
+  - name: viver_em_paz_e_nao_tomar_vinganca
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '248.2'
+  cdu_secondary:
+  - '230.1'
+  - 27-29
+  cdu_description: Vida cristã, prática da fé, vida em comunidade, dons espirituais, ética cristã, amor ao próximo e inimigos, paz, justiça divina.
+---
 Portanto, irmãos, pelas misericórdias de Deus, peço que ofereçam o seu corpo como sacrifício vivo, santo e agradável a Deus. Este é o culto racional de vocês. E não vivam conforme os padrões deste mundo, mas deixem que Deus os transforme pela renovação da mente, para que possam experimentar qual é a boa, agradável e perfeita vontade de Deus. Romanos 12:1‭-‬2 NAA
 - Um dos versos mais sensacionais da Palavra!
 - O que era o sacrifício no AT? Qual relação dele com esse que Paulo orienta?

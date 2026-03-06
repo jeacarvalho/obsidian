@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:52.928796+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mercantilizacao_da_vida_urbana
+    weight: 10
+    confidence: 0.98
+  - name: direito_a_cidade
+    weight: 9
+    confidence: 0.97
+  - name: interesses_privados_vs_bem_comum
+    weight: 8
+    confidence: 0.96
+  - name: politicas_publicas_urbanas
+    weight: 7
+    confidence: 0.95
+  - name: planejamento_urbano_brasileiro
+    weight: 9
+    confidence: 0.94
+  - name: capital_imobiliario_urbano
+    weight: 8
+    confidence: 0.93
+  - name: mobilidade_urbana_como_mercadoria
+    weight: 8
+    confidence: 0.92
+  - name: acesso_desigual_a_servicos_urbanos
+    weight: 7
+    confidence: 0.91
+  - name: construcao_de_significado_na_cidade
+    weight: 6
+    confidence: 0.89
+  - name: redes_sociais_e_vida_urbana
+    weight: 5
+    confidence: 0.88
+  cdu_primary: '308'
+  cdu_secondary:
+  - '330.5'
+  - '316.4'
+  - '321.1'
+  cdu_description: Sociologia urbana, com ênfase na economia urbana, desenvolvimento social e políticas públicas.
+---
 A cidade
 
 **2 TRECHOS SELECIONADOS DO ARTIGO DO PROFESSOR ADALBERTO CARDOSO: PRIMEIRA PARTE!**

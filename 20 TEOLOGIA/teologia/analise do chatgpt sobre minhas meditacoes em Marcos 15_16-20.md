@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:56.991351+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: meditacao_crista_marcos_15
+    weight: 9
+    confidence: 0.98
+  - name: analise_comportamental_empatia
+    weight: 7
+    confidence: 0.92
+  - name: dilema_moral_etica_crista
+    weight: 8
+    confidence: 0.94
+  - name: reflexao_etica_uso_poder
+    weight: 8
+    confidence: 0.93
+  - name: desalento_existencial_cristao
+    weight: 6
+    confidence: 0.88
+  - name: teologia_reformada_humilhacao_cristo
+    weight: 9
+    confidence: 0.96
+  - name: sofrimento_vicario_substituicao_penal
+    weight: 9
+    confidence: 0.95
+  - name: exegese_marcos_15_16_20
+    weight: 8
+    confidence: 0.91
+  - name: contexto_historico_dominio_romano
+    weight: 7
+    confidence: 0.89
+  - name: proposta_sermao_rei_que_nao_se_defende
+    weight: 7
+    confidence: 0.9
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - '248.3'
+  - '273.6'
+  cdu_description: Teologia cristã - Jesus Cristo - Vida e paixão; Prática cristã - Meditação; Protestantismo - Teologia reformada
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Marcos 15]]_16-20
 ## 1. **Leitura e acolhimento das anotações**
 

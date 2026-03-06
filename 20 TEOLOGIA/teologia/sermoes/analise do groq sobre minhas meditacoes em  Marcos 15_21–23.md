@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:04.553856+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: meditacao_biblica_marcos_15
+    weight: 8
+    confidence: 0.9
+  - name: analise_comportamental_simon_cruz
+    weight: 7
+    confidence: 0.85
+  - name: conexao_profunda_texto_biblico
+    weight: 6
+    confidence: 0.8
+  - name: teologia_reformada_graca_deus
+    weight: 9
+    confidence: 0.92
+  - name: doutrina_suficiencia_deus
+    weight: 9
+    confidence: 0.91
+  - name: exegese_marcos_15_21_23
+    weight: 8
+    confidence: 0.88
+  - name: contexto_historico_jerusalem_romana
+    weight: 7
+    confidence: 0.82
+  - name: proposta_sermao_simon_homem_comum
+    weight: 7
+    confidence: 0.85
+  - name: proposta_sermao_jesus_nao_precisa_ajuda_humana
+    weight: 7
+    confidence: 0.85
+  - name: reflexao_identidade_em_cristo
+    weight: 6
+    confidence: 0.78
+  cdu_primary: '226.7'
+  cdu_secondary:
+  - '234.2'
+  - '231.7'
+  - '273.6'
+  cdu_description: 226.7 - Evangelho de Marcos; 234.2 - Graça; 231.7 - Soberania de Deus; 273.6 - Teologia Reformada
+---
 #### analise do groq sobre minhas meditacoes em  [[Marcos 15]]_21–23
 **Análise comportamental:**
 

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:01.530737+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: unidade_crista
+    weight: 10
+    confidence: 0.98
+  - name: concordia_entre_cristaos
+    weight: 9
+    confidence: 0.97
+  - name: mesmo_sentimento_cristao
+    weight: 8
+    confidence: 0.96
+  - name: humildade_crista
+    weight: 7
+    confidence: 0.95
+  - name: fraternidade_crista
+    weight: 7
+    confidence: 0.94
+  - name: misericordia_crista
+    weight: 6
+    confidence: 0.93
+  - name: solidariedade_crista
+    weight: 6
+    confidence: 0.92
+  - name: evitar_dissensao
+    weight: 5
+    confidence: 0.91
+  - name: evitar_altivez
+    weight: 5
+    confidence: 0.9
+  - name: pensamento_comum_cristao
+    weight: 5
+    confidence: 0.89
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '241.6'
+  - '248.4'
+  cdu_description: Teologia cristã. Ética cristã. Vida e prática cristã. Moralidade cristã. Comportamento social cristão.
+---
 #### [[Unidade]] é o alvo do cristão
 [[II Pedro 3]]: 8 NAA Finalmente, tenham todos o mesmo modo de pensar, sejam compassivos, fraternalmente amigos, misericordiosos, humildes. 
 > [[Atos 4]]32 Da multidão dos que criam, era um só o coração e uma só a alma, e ninguém dizia que coisa alguma das que possuía era sua própria, mas todas as coisas lhes eram comuns.

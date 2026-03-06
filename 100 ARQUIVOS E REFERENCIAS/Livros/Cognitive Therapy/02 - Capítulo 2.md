@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:48.315934+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: processamento_mensagens_internas
+    weight: 9
+    confidence: 0.9
+  - name: sinais_ambientais_e_comportamento
+    weight: 8
+    confidence: 0.85
+  - name: discrepancia_interno_externo_psicologia
+    weight: 7
+    confidence: 0.8
+  - name: desordens_psicologicas_informacao_faltante
+    weight: 6
+    confidence: 0.75
+  - name: analise_comportamento_anomalo
+    weight: 7
+    confidence: 0.7
+  - name: exemplos_clinicos_reacoes_psicologicas
+    weight: 8
+    confidence: 0.88
+  - name: psicoterapia_explicacoes_comportamentais
+    weight: 9
+    confidence: 0.92
+  - name: psicanalise_interpretacao_ansiedade
+    weight: 7
+    confidence: 0.78
+  - name: behaviorismo_condicionamento_emocoes
+    weight: 8
+    confidence: 0.82
+  - name: estimulos_inocuos_perigo_condicionamento
+    weight: 6
+    confidence: 0.65
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '159.94'
+  - '159.96'
+  - '159.942'
+  cdu_description: Psicologia. Psicologia geral. Psicologia da personalidade. Psicologia das emoções. Psicologia clínica.
+---
 # Capítulo 2
 
 CHAPTER 2

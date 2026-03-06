@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:07.370582+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: identificacao_eu_ideal
+    weight: 8
+    confidence: 0.9
+  - name: analise_autoavaliacao_realidade
+    weight: 7
+    confidence: 0.85
+  - name: criacao_agenda_aprendizado
+    weight: 9
+    confidence: 0.92
+  - name: planejamento_estrategico_mudanca
+    weight: 8
+    confidence: 0.88
+  - name: execucao_pratica_maestria
+    weight: 10
+    confidence: 0.95
+  - name: superacao_resistencia_mudanca
+    weight: 7
+    confidence: 0.8
+  - name: desenvolvimento_pessoal_continuo
+    weight: 9
+    confidence: 0.91
+  - name: rede_apoio_responsabilizacao
+    weight: 8
+    confidence: 0.87
+  - name: relacionamentos_suporte_mudanca
+    weight: 7
+    confidence: 0.83
+  - name: pontos_virada_transformacao
+    weight: 6
+    confidence: 0.75
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '305.8'
+  - '005.32'
+  cdu_description: Psicologia da motivação e da vontade; Psicologia social; Gestão da mudança
+---
 Tipping Points in the 5 Discoveries of Sustained Desired Change
 
 1. Qual é o ideal desejado?

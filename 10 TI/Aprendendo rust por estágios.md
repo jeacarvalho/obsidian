@@ -1,3 +1,42 @@
+---
+topic_classification:
+  cdu_description: Programação em linguagem Rust, com foco em aprendizado por estágios,
+    sintaxe, conceitos chave, padrões de projeto e desenvolvimento de projetos práticos.
+  cdu_primary: '004.43'
+  cdu_secondary:
+  - '004.07'
+  topics:
+  - confidence: 0.95
+    name: aprendizado_por_estagios_rust
+    weight: 10
+  - confidence: 0.9
+    name: sintaxe_rust
+    weight: 8
+  - confidence: 0.85
+    name: materiais_estudo_rust
+    weight: 7
+  - confidence: 0.92
+    name: projetos_pratica_rust
+    weight: 9
+  - confidence: 0.8
+    name: aplicativos_linha_comando_rust
+    weight: 6
+  - confidence: 0.88
+    name: conceitos_chave_rust
+    weight: 8
+  - confidence: 0.82
+    name: rust_para_rustaceos
+    weight: 7
+  - confidence: 0.82
+    name: programacao_rust_segunda_edicao
+    weight: 7
+  - confidence: 0.78
+    name: padroes_design_rust
+    weight: 6
+  - confidence: 0.85
+    name: mecanismo_propriedade_rust
+    weight: 7
+---
 esse artigo mostra uma visão de ir aprendendo por estágios: https://dev.to/zhanghandong/learning-rust-you-need-a-cognitive-frame-41oa e sempre balanceando input e output. Ou seja, a cada estágio foque também em projetos
 
 

@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:24.555565+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: livro_de_salmos
+    weight: 10
+    confidence: 0.99
+  - name: poesia_religiosa
+    weight: 9
+    confidence: 0.95
+  - name: liturgia_judaica
+    weight: 8
+    confidence: 0.9
+  - name: hinos_de_louvor
+    weight: 7
+    confidence: 0.85
+  - name: oracoes_biblicas
+    weight: 7
+    confidence: 0.85
+  - name: sabedoria_biblica
+    weight: 6
+    confidence: 0.8
+  - name: teologia_do_antigo_testamento
+    weight: 6
+    confidence: 0.75
+  - name: historia_de_israel
+    weight: 5
+    confidence: 0.7
+  - name: interpretacao_biblica
+    weight: 5
+    confidence: 0.65
+  - name: espiritualidade_crista
+    weight: 5
+    confidence: 0.6
+  cdu_primary: '224.21'
+  cdu_secondary: []
+  cdu_description: Livro dos Salmos (Antigo Testamento)
+---
 [[Salmos 1]]
 [[Salmos 3]]
 [[Salmos 4]]

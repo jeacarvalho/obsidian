@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:03.486844+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_teologica_politica_crista
+    weight: 9
+    confidence: 0.98
+  - name: estrategia_crista_leitura_tempos
+    weight: 8
+    confidence: 0.95
+  - name: uso_religiao_controle_social
+    weight: 10
+    confidence: 0.99
+  - name: critica_lideranca_religiosa_historica
+    weight: 7
+    confidence: 0.92
+  - name: comparacao_reformados_acao_politica
+    weight: 8
+    confidence: 0.96
+  - name: etica_crista_resistancia_regimes_autoritarios
+    weight: 9
+    confidence: 0.97
+  - name: debate_uso_forca_cristaos
+    weight: 10
+    confidence: 0.99
+  - name: teologia_paz_crista
+    weight: 9
+    confidence: 0.98
+  - name: dependencia_acao_espirito_santo
+    weight: 8
+    confidence: 0.95
+  - name: cristianismo_acao_sobrenatural_deus
+    weight: 7
+    confidence: 0.93
+  cdu_primary: '273.6'
+  cdu_secondary:
+  - '261.7'
+  - '323.2'
+  - 27-28
+  cdu_description: Teologia da Reforma; História da Igreja; Relações Igreja-Estado; Ética Cristã; Movimentos Políticos e Religiosos
+---
 Segue abaixo, entre aspas, anotações que fiz ao meditar sobre o texto de Marcos 14:1-2. A partir dessas anotações, peço: a) Uma análise da "corretude" delas, a partir de comparações a grandes reformados da história da igreja e atuais; b) Uma "contra argumentação", trazendo visões discordantes daquilo que anotei; c) Um sermão de 3 pontos a partir das meditações. Em cada ponto, comentários de reformados do passado e do presente (citando não somente o comentarista mas, também a bibliografia fonte) para ajudar na sustentação do argumento e, na conclusão, sugestões de ações práticas para colocar em ação o aprendizado do sermão. Procure conectar o título do sermão aos subtítulos, de maneira que o ouvinte possa guardar com mais facilidade as divisões.
 Anotações da meditação realizada:
 "- O político sempre é estratégico. Sempre sabe ler os dias, o pensamento, o povo. Sempre sabe usar isso em benefício próprio, se mantendo no poder. Eu penso que devemos nós, cristãos, desenvolver essa habilidade de ler os tempos, os dias. De ser estratégico em nossa caminhada. 

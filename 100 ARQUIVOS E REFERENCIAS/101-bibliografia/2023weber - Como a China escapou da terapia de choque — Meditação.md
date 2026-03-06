@@ -2,6 +2,46 @@
 copista: meditation
 source: 98 ARQUIVOS E REFERENCIAS/981-bibliografia/2023weber - Como a China escapou da terapia de choque.md
 created: 2026-01-27
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:54.565929+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: politica_economica_china
+    weight: 10
+    confidence: 0.98
+  - name: terapia_de_choque_vs_china
+    weight: 9
+    confidence: 0.95
+  - name: regulacao_estatal_china
+    weight: 8
+    confidence: 0.92
+  - name: interacao_agentes_privados_burocraticos
+    weight: 7
+    confidence: 0.88
+  - name: formacao_mercado_china
+    weight: 7
+    confidence: 0.87
+  - name: pragmatismo_politica_economica_china
+    weight: 6
+    confidence: 0.85
+  - name: implicacoes_globais_politica_economica_china
+    weight: 9
+    confidence: 0.93
+  - name: cadeia_produtiva_global_china
+    weight: 8
+    confidence: 0.9
+  - name: desenvolvimento_tecnologico_china
+    weight: 8
+    confidence: 0.89
+  - name: estabilidade_economica_china
+    weight: 6
+    confidence: 0.8
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '338.2'
+  - '327.3'
+  cdu_description: Economia. Economia política. Desenvolvimento econômico. Política econômica. China. Relações econômicas internacionais.
 ---
 
 # Meditações sobre "2023weber - Como a China escapou da terapia de choque"

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:55.232213+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: relacao_humano_natureza_bem_estar
+    weight: 10
+    confidence: 0.98
+  - name: impacto_urbanizacao_saude_mental
+    weight: 9
+    confidence: 0.95
+  - name: felicidade_ambientes_naturais_vs_urbanos
+    weight: 8
+    confidence: 0.92
+  - name: desconexao_natureza_epidemia_contemporanea
+    weight: 8
+    confidence: 0.9
+  - name: influencia_tecnologia_comportamento_humano
+    weight: 7
+    confidence: 0.88
+  - name: nature_deficit_disorder_infancia
+    weight: 7
+    confidence: 0.85
+  - name: planejamento_urbano_espacos_verdes
+    weight: 6
+    confidence: 0.8
+  - name: beneficios_emocionais_natureza_subestimados
+    weight: 6
+    confidence: 0.78
+  - name: filosofia_natureza_aristoteles_whitman
+    weight: 5
+    confidence: 0.75
+  - name: aplicativo_mappiness_dados_bem_estar
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '304'
+  - '305.8'
+  - '711.1'
+  cdu_description: 159.947 - Emoções e sentimentos; 304 - Influência do meio sobre a sociedade; 305.8 - Relações entre o homem e o meio ambiente; 711.1 - Urbanismo e planejamento urbano
+---
 # Cap 1
 
 ## Análise

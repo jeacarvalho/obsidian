@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:05.466931+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: diferenciacao_social_na_sociedade
+    weight: 7
+    confidence: 0.85
+  - name: necessidades_materiais_e_ideais
+    weight: 8
+    confidence: 0.9
+  - name: interesses_subjetivos_e_objetivos
+    weight: 8
+    confidence: 0.9
+  - name: cooperacao_social
+    weight: 6
+    confidence: 0.75
+  - name: competicao_social
+    weight: 6
+    confidence: 0.75
+  - name: conflito_social_e_violencia
+    weight: 9
+    confidence: 0.95
+  - name: administracao_do_conflito_por_coercao_e_politica
+    weight: 9
+    confidence: 0.95
+  - name: politica_como_resolucao_pacifica_de_conflitos
+    weight: 10
+    confidence: 1.0
+  - name: analise_de_politicas_publicas_descritiva_e_prescritiva
+    weight: 10
+    confidence: 1.0
+  - name: metodologias_de_analise_de_politicas_publicas_racional_compreensiva_e_incrementalista
+    weight: 9
+    confidence: 0.95
+  cdu_primary: '32'
+  cdu_secondary:
+  - '303.4'
+  - '316.4'
+  - '321.02'
+  - '323.3'
+  cdu_description: Ciência política. Política. Administração pública. Governo. Relações políticas. Sociologia. Teoria social. Métodos de investigação social. Análise de políticas públicas.
+---
 POLÍTICAS PÚBLICAS -Rua
 
 [[administração pública]]

@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:39.610456+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: notas_explicativas_balanco_orcamentario
+    weight: 10
+    confidence: 0.98
+  - name: regime_orcamentario_orcamento_aprovado
+    weight: 8
+    confidence: 0.9
+  - name: detalhamento_receitas_despesas_intraorcamentarias
+    weight: 7
+    confidence: 0.85
+  - name: detalhamento_despesas_tipos_creditos
+    weight: 7
+    confidence: 0.85
+  - name: utilizacao_superavit_financeiro_reabertura_creditos
+    weight: 8
+    confidence: 0.88
+  - name: restos_pagar_nao_processados_liquidados
+    weight: 7
+    confidence: 0.8
+  - name: recursos_exercicios_anteriores_financiamento_despesas
+    weight: 8
+    confidence: 0.87
+  - name: notas_explicativas_balanco_patrimonial
+    weight: 10
+    confidence: 0.98
+  - name: detalhamento_contas_balanco_patrimonial
+    weight: 9
+    confidence: 0.92
+  - name: politicas_contabeis_relevantes_patrimonio
+    weight: 8
+    confidence: 0.89
+  cdu_primary: '657.3'
+  cdu_secondary: []
+  cdu_description: Contabilidade. Auditoria. Gestão comercial. Administração. Marketing. Relações públicas. Organização e gestão de empresas. Contabilidade pública.
+---
 Avalie se o documento traz as notas explicativas citadas abaixo. Em caso positivo, cite em qual página do documento
 
 2.3. NOTAS EXPLICATIVAS (Balanço orçamentário)

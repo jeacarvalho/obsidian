@@ -1,4 +1,50 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:45.640779+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pessoas_naturais_personalidade_capacidade
+    weight: 8
+    confidence: 0.98
+  - name: direitos_personalidade
+    weight: 7
+    confidence: 0.97
+  - name: ausencia_curadoria_sucessao
+    weight: 7
+    confidence: 0.96
+  - name: pessoas_juridicas_associacoes_fundacoes
+    weight: 8
+    confidence: 0.97
+  - name: bens_imoveis_moveis_fungiveis
+    weight: 9
+    confidence: 0.99
+  - name: negocio_juridico_representacao_condicao
+    weight: 9
+    confidence: 0.98
+  - name: defeitos_negocio_juridico_erro_dolo_coacao
+    weight: 8
+    confidence: 0.97
+  - name: prescricao_decadencia
+    weight: 8
+    confidence: 0.96
+  - name: direito_das_obrigacoes_modalidades
+    weight: 10
+    confidence: 1.0
+  - name: contratos_em_geral_compra_venda_locacao
+    weight: 10
+    confidence: 1.0
+  cdu_primary: '347.1'
+  cdu_secondary:
+  - '347.2'
+  - '347.4'
+  - '347.5'
+  - '347.6'
+  - '347.7'
+  - '347.8'
+  - '347.9'
+  cdu_description: Direito Civil. Direito das Obrigações. Contratos. Direito das Coisas. Direito das Pessoas.
+---
 # P A R T E G E R A L
 ## LIVRO I DAS PESSOAS
 ### TÍTULO I DAS PESSOAS NATURAIS

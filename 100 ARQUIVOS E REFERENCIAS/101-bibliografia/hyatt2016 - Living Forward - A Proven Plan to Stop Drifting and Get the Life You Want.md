@@ -2,7 +2,47 @@
 created: 2022-01-11T12:30:03 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:01.894545+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: planejamento_de_vida
+    weight: 10
+    confidence: 0.95
+  - name: definicao_de_metas
+    weight: 9
+    confidence: 0.92
+  - name: legado_pessoal
+    weight: 9
+    confidence: 0.9
+  - name: proatividade
+    weight: 8
+    confidence: 0.88
+  - name: perspectiva_futura
+    weight: 8
+    confidence: 0.85
+  - name: equilibrio_vida_trabalho
+    weight: 7
+    confidence: 0.8
+  - name: lideranca_pessoal
+    weight: 7
+    confidence: 0.78
+  - name: motivacao_intrinsica
+    weight: 6
+    confidence: 0.75
+  - name: gestao_expectativas
+    weight: 6
+    confidence: 0.72
+  - name: autodesenvolvimento
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '305.8'
+  - '378.1'
+  cdu_description: Psicologia da vida e do trabalho; Desenvolvimento pessoal; Legado; Planejamento; Metas; Liderança; Equilíbrio; Perspectiva; Motivação; Expectativas.
 ---
 
 # Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want

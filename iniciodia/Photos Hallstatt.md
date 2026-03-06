@@ -3,6 +3,46 @@ created: 2024-04-26T10:07:27 (UTC -03:00)
 tags: []
 source: https://practicalwanderlust.com/hallstatt-austria-in-winter/
 author: Lia Garcia
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:41.482879+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: hallstatt_austria_inverno
+    weight: 10
+    confidence: 0.98
+  - name: paisagens_alpinas_inverno
+    weight: 9
+    confidence: 0.95
+  - name: vilarejo_conto_fadas
+    weight: 8
+    confidence: 0.92
+  - name: viagem_europa_inverno
+    weight: 7
+    confidence: 0.9
+  - name: turismo_austria
+    weight: 8
+    confidence: 0.93
+  - name: fotografia_viagem
+    weight: 6
+    confidence: 0.85
+  - name: transporte_ferry_hallstatt
+    weight: 7
+    confidence: 0.88
+  - name: arquitetura_historica_hallstatt
+    weight: 6
+    confidence: 0.8
+  - name: experiencia_inverno_magico
+    weight: 9
+    confidence: 0.94
+  - name: planejamento_viagem_austria
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '914.36'
+  cdu_secondary:
+  - '913.436'
+  - '779'
+  cdu_description: Geografia. Biografias. Viagens. Descrição de lugares. Europa. Áustria. Descrição de lugares. Áustria. Fotografia.
 ---
 
 # 23 Photos Proving that Hallstatt, Austria in Winter is a Fairytale

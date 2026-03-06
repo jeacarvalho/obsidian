@@ -2,7 +2,47 @@
 created: 2021-05-14T14:09:53 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.42.4/b393d742cdd2/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:59.925550+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: memoria_humana_recuperacao
+    weight: 9
+    confidence: 0.98
+  - name: modos_cerebrais_devaneio_executivo
+    weight: 8
+    confidence: 0.97
+  - name: redes_cerebrais_pensamento
+    weight: 7
+    confidence: 0.96
+  - name: sistema_atencao_humana
+    weight: 8
+    confidence: 0.97
+  - name: genetica_neurotransmissores_arte
+    weight: 6
+    confidence: 0.95
+  - name: recordacao_experiencias_emocionais
+    weight: 7
+    confidence: 0.96
+  - name: categorizacao_nivel_basico
+    weight: 8
+    confidence: 0.97
+  - name: economia_cognitiva_simplificacao
+    weight: 9
+    confidence: 0.98
+  - name: formacao_categorias_cerebro
+    weight: 8
+    confidence: 0.97
+  - name: organizacao_informacao_externa
+    weight: 9
+    confidence: 0.98
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '004.9'
+  - '159.953'
+  cdu_description: Psicologia da memória e da atenção; organização do conhecimento e da informação; sistemas cognitivos.
 ---
 
 # Kindle: Your Notes and Highlights

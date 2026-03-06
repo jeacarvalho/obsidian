@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:51.576320+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: transformacao_digital_estado
+    weight: 9
+    confidence: 0.9
+  - name: inovacao_solucoes_digitais
+    weight: 10
+    confidence: 0.95
+  - name: gestao_talentos_estrategia
+    weight: 8
+    confidence: 0.85
+  - name: sustentabilidade_economico_socioambiental
+    weight: 7
+    confidence: 0.75
+  - name: seguranca_privacidade_dados
+    weight: 9
+    confidence: 0.92
+  - name: inteligencia_dados_sociedade
+    weight: 8
+    confidence: 0.88
+  - name: fortalecimento_marca_mercado
+    weight: 7
+    confidence: 0.7
+  - name: ampliacao_mercado_estrangeiro
+    weight: 6
+    confidence: 0.65
+  - name: experiencia_cidadao_servicos_digitais
+    weight: 8
+    confidence: 0.8
+  - name: biometria_identificacao_digital
+    weight: 7
+    confidence: 0.78
+  cdu_primary: '004.7'
+  cdu_secondary:
+  - '338.45'
+  - 316.334.2
+  - '351.85'
+  - '303.482'
+  cdu_description: Tecnologia da informação. Sistemas de computadores. Processamento de dados. Redes de computadores. Inovação tecnológica. Gestão da inovação. Sustentabilidade. Segurança da informação. Inteligência artificial. Governo eletrônico. Serviços públicos digitais.
+---
 # Nossos Valores
 • Segurança e privacidade como prioridade
 • Inteligência de dados voltada para a sociedade

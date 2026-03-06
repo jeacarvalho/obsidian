@@ -1,8 +1,49 @@
 ---
 created: 2023-10-03T17:51:07 (UTC -03:00)
-tags: 
-source: 
+tags: null
+source: null
 author: Brad Stulberg e Steve Magness
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:51.594190+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_pessoal_atraves_do_desafio
+    weight: 10
+    confidence: 0.95
+  - name: gerenciamento_de_estresse_para_adaptacao
+    weight: 9
+    confidence: 0.92
+  - name: importancia_do_descanso_e_recuperacao
+    weight: 8
+    confidence: 0.9
+  - name: aprendizagem_por_meio_da_falha_produtiva
+    weight: 7
+    confidence: 0.88
+  - name: estado_de_fluxo_e_desafios_gerenciaveis
+    weight: 7
+    confidence: 0.85
+  - name: limites_da_capacidade_de_concentracao
+    weight: 6
+    confidence: 0.82
+  - name: neuroplasticidade_e_mielinizacao
+    weight: 6
+    confidence: 0.8
+  - name: saida_da_zona_de_conforto_para_crescimento
+    weight: 5
+    confidence: 0.78
+  - name: ciclos_de_trabalho_e_descanso_produtivo
+    weight: 5
+    confidence: 0.75
+  - name: identificacao_do_ponto_de_resistencia_para_evoluir
+    weight: 5
+    confidence: 0.72
+  cdu_primary: '159.94'
+  cdu_secondary:
+  - 159.944.2
+  - '159.942'
+  - '159.947'
+  cdu_description: Psicologia do desempenho e da motivação; Psicologia do estresse; Psicologia do desenvolvimento pessoal
 ---
 
 # Peak Performance: Elevate Your Game, Avoid [[Burnout]], and Thrive with the New Science of Success (English Edition)

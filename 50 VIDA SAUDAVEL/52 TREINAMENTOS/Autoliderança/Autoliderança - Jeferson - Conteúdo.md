@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:48.891832+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: depoimento_transformacao_pessoal
+    weight: 10
+    confidence: 0.98
+  - name: valor_agregado_curso
+    weight: 9
+    confidence: 0.95
+  - name: lideranca_crista_conhecimentos
+    weight: 8
+    confidence: 0.92
+  - name: recomendacao_curso
+    weight: 7
+    confidence: 0.9
+  - name: investimento_curso_retorno
+    weight: 7
+    confidence: 0.88
+  - name: dicas_aproveitamento_curso
+    weight: 6
+    confidence: 0.85
+  - name: habilidades_autolideranca_antes_depois
+    weight: 9
+    confidence: 0.96
+  - name: autolideranca_fundamentos
+    weight: 8
+    confidence: 0.93
+  - name: autolideranca_competencia_habito
+    weight: 8
+    confidence: 0.94
+  - name: ministerio_era_conhecimento
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '261.8'
+  cdu_secondary:
+  - '159.947'
+  - '27'
+  - '371.42'
+  cdu_description: Teologia social e ética cristã; Psicologia aplicada à religião; Educação e formação profissional
+---
 Última aula
 - Vídeo **depoimento**
 	- Não é elogio - transformação pessoal é o objetivo. Qual foi o valor agregado no curso para mim.

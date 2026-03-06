@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:30.619012+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: coragem_intelectual_para_avaliar_crencas
+    weight: 10
+    confidence: 0.98
+  - name: questionamento_de_crencas_fundamentais
+    weight: 9
+    confidence: 0.95
+  - name: validade_da_fe_sob_escrutinio
+    weight: 8
+    confidence: 0.92
+  - name: consideracao_imparcial_de_argumentos_ameacadores
+    weight: 7
+    confidence: 0.9
+  - name: fundamentos_existenciais_da_vida
+    weight: 6
+    confidence: 0.88
+  - name: medo_de_ideias_que_desafiam_crencas
+    weight: 5
+    confidence: 0.85
+  - name: virtudes_intelectuais_e_coragem
+    weight: 7
+    confidence: 0.87
+  - name: autenticidade_da_fe_testada
+    weight: 8
+    confidence: 0.91
+  - name: risco_existencial_associado_a_fe
+    weight: 6
+    confidence: 0.86
+  - name: compreensao_religiosa_e_questionamento
+    weight: 5
+    confidence: 0.84
+  cdu_primary: '201'
+  cdu_secondary:
+  - '101'
+  - '230'
+  cdu_description: Religião. Teologia. Filosofia da religião. Teologia sistemática. Teologia cristã. Teologia moral. Ética religiosa. Filosofia da fé. Risco e coragem na fé. Questionamento de crenças.
+---
 #### coragem de colocar pensamentos e fé à prova
 Azul destaque | Página: 28 Nota | Página: 28
 

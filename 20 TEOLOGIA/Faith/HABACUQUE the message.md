@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:20.633717+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: profecia_de_habacuque
+    weight: 10
+    confidence: 0.98
+  - name: injustica_social
+    weight: 9
+    confidence: 0.95
+  - name: corrupcao_e_violencia
+    weight: 9
+    confidence: 0.94
+  - name: castigo_divino
+    weight: 8
+    confidence: 0.92
+  - name: fe_e_confianca_em_deus
+    weight: 8
+    confidence: 0.91
+  - name: critica_a_riqueza_ilicitamente_obtida
+    weight: 7
+    confidence: 0.88
+  - name: consequencias_da_maldade
+    weight: 7
+    confidence: 0.87
+  - name: esperanca_na_justica_divina
+    weight: 6
+    confidence: 0.85
+  - name: adoracao_em_meio_a_adversidade
+    weight: 6
+    confidence: 0.84
+  - name: conhecimento_de_deus
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '224.1'
+  cdu_secondary: []
+  cdu_description: Livros proféticos do Antigo Testamento - Habacuque
+---
 HABACUQUE the message
 
 Contexto: Por volta de 626-600 a.C.

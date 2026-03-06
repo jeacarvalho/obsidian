@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:13.343174+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: santidade_divina
+    weight: 10
+    confidence: 0.98
+  - name: pureza_de_coracao
+    weight: 9
+    confidence: 0.95
+  - name: integridade_moral
+    weight: 8
+    confidence: 0.92
+  - name: disciplina_divina
+    weight: 7
+    confidence: 0.9
+  - name: participacao_na_santidade
+    weight: 7
+    confidence: 0.88
+  - name: pecado_e_cristianismo
+    weight: 8
+    confidence: 0.93
+  - name: filhos_de_deus
+    weight: 6
+    confidence: 0.85
+  - name: filhos_do_diabo
+    weight: 6
+    confidence: 0.85
+  - name: relacao_com_cristo
+    weight: 7
+    confidence: 0.89
+  - name: adoracao_a_deus
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '230.1'
+  cdu_secondary:
+  - '241.1'
+  - '248.3'
+  cdu_description: Teologia sistemática cristã - Doutrina de Deus - Atributos de Deus - Santidade; Ética cristã - Vida cristã - Prática da vida cristã
+---
 santidade
 
 [[Salmos]] 24:3 Quem subirá ao monte do SENHOR? Quem há de permanecer no seu santo lugar?

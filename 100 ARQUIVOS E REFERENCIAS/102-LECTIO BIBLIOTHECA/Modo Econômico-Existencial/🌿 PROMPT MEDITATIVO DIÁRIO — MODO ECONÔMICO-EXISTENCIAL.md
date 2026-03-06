@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:04.154336+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: economia_existencial
+    weight: 9
+    confidence: 0.98
+  - name: sujeito_vs_variavel
+    weight: 10
+    confidence: 0.99
+  - name: cuidado_humano_otimizacao
+    weight: 8
+    confidence: 0.97
+  - name: subjetividade_economica
+    weight: 7
+    confidence: 0.95
+  - name: dignidade_vs_extracao
+    weight: 8
+    confidence: 0.96
+  - name: analise_economica_formacao_humana
+    weight: 7
+    confidence: 0.94
+  - name: divida_trabalho_tempo_humanidade
+    weight: 8
+    confidence: 0.96
+  - name: coisificacao_humana_resistencia
+    weight: 9
+    confidence: 0.97
+  - name: economia_relacao_humana_tecnica
+    weight: 7
+    confidence: 0.93
+  - name: discernimento_economico_existencial
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '330.1'
+  cdu_secondary:
+  - '305.8'
+  - '111.1'
+  cdu_description: '330.1: Teoria econômica geral; 305.8: Relações raciais e étnicas; 111.1: Existencialismo'
+---
 #### 🌿 PROMPT MEDITATIVO DIÁRIO — MODO ECONÔMICO-EXISTENCIAL
 *(Compacto para NotebookLM — 480 palavras)*
 

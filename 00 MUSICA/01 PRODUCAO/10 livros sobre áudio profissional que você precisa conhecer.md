@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:09.784237+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mixagem_audio_profissional
+    weight: 9
+    confidence: 0.9
+  - name: producao_musical
+    weight: 10
+    confidence: 0.95
+  - name: gravacao_musical
+    weight: 8
+    confidence: 0.85
+  - name: tecnicas_gravacao_naoconvencionais
+    weight: 7
+    confidence: 0.75
+  - name: mindset_engenheiro_audio
+    weight: 6
+    confidence: 0.7
+  - name: equipamentos_audio
+    weight: 5
+    confidence: 0.6
+  - name: masterizacao_audio
+    weight: 5
+    confidence: 0.65
+  - name: home_studio
+    weight: 6
+    confidence: 0.7
+  - name: publicacao_musica_online
+    weight: 7
+    confidence: 0.75
+  - name: livros_audio_profissional
+    weight: 10
+    confidence: 1.0
+  cdu_primary: '004.92'
+  cdu_secondary:
+  - '78.01'
+  - '78.07'
+  cdu_description: 004.92 - Livros e publicações sobre tecnologia de áudio e produção musical. 78.01 - Teoria e estética musical. 78.07 - Profissões e atividades musicais.
+---
 10 livros sobre áudio profissional que os mestres recomendam
 
 # 10 livros sobre áudio profissional que você precisa conhecer

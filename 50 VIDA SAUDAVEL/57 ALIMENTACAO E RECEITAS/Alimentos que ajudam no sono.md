@@ -2,7 +2,46 @@
 created: 2021-03-08T16:47:33 (UTC -03:00)
 tags: []
 source: https://tommasi.com.br/blog/15-alimentos-que-vao-ajudar-voce-a-dormir-melhor/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:53.246025+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: alimentos_para_dormir_melhor
+    weight: 10
+    confidence: 0.98
+  - name: mel_sono
+    weight: 7
+    confidence: 0.9
+  - name: graos_integrais_insonia
+    weight: 7
+    confidence: 0.9
+  - name: banana_potassio_triptofano
+    weight: 7
+    confidence: 0.9
+  - name: feijao_vitaminas_b_insonia
+    weight: 7
+    confidence: 0.9
+  - name: laticinios_triptofano_calcio
+    weight: 7
+    confidence: 0.9
+  - name: nozes_serotonina_magnesio
+    weight: 7
+    confidence: 0.9
+  - name: aveia_melatonina_ciclo_sono
+    weight: 7
+    confidence: 0.9
+  - name: aves_triptofano
+    weight: 7
+    confidence: 0.9
+  - name: grao_de_bico_vitamina_b6_serotonina
+    weight: 7
+    confidence: 0.9
+  cdu_primary: '613.2'
+  cdu_secondary:
+  - '616.847'
+  cdu_description: Nutrição e dietética; Higiene e saúde pública; Doenças do sistema nervoso; Insônia
 ---
 
 # 15 alimentos que vão ajudar você a dormir melhor - Tommasi Laboratório

@@ -2,7 +2,47 @@
 created: 2021-10-20T17:45:40 (UTC -03:00)
 tags: []
 source: https://laiob.com/blog/empreendedorismo-e-inovacao-qual-e-relacao/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:38.931708+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: empreendedorismo_inovador
+    weight: 10
+    confidence: 0.98
+  - name: relacao_empreendedorismo_inovacao
+    weight: 9
+    confidence: 0.97
+  - name: competitividade_mercado
+    weight: 8
+    confidence: 0.95
+  - name: solucoes_diferenciadas
+    weight: 7
+    confidence: 0.93
+  - name: evolucao_negocios
+    weight: 7
+    confidence: 0.92
+  - name: perfil_empreendedor
+    weight: 8
+    confidence: 0.94
+  - name: criatividade_empreendedora
+    weight: 6
+    confidence: 0.9
+  - name: visao_mercado
+    weight: 7
+    confidence: 0.91
+  - name: etica_inovacao
+    weight: 6
+    confidence: 0.88
+  - name: flexibilidade_negocios
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '658.11'
+  cdu_secondary:
+  - '001.895'
+  - '334.7'
+  cdu_description: Gestão e administração de empresas; Empreendedorismo e Inovação; Organização e gestão de empresas
 ---
 
 # Empreendedorismo e Inovação — Qual é a relação? - #BlogdoLAIOB

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:23.137098+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: discurso_de_estevao
+    weight: 10
+    confidence: 0.98
+  - name: aparicao_de_deus_a_abraham
+    weight: 9
+    confidence: 0.95
+  - name: mesopotamia_e_hara
+    weight: 7
+    confidence: 0.9
+  - name: conflito_familiar_religioso
+    weight: 8
+    confidence: 0.92
+  - name: citacao_de_mateus_10_34_36
+    weight: 7
+    confidence: 0.93
+  - name: resistencia_ao_espirito_santo
+    weight: 9
+    confidence: 0.96
+  - name: dureza_de_cerviz_e_coracao_incircunciso
+    weight: 8
+    confidence: 0.94
+  - name: mordomia_e_libertacao_por_moises
+    weight: 8
+    confidence: 0.91
+  - name: perdao_em_momentos_finais
+    weight: 9
+    confidence: 0.97
+  - name: procedimento_semelhante_a_jesus
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '227.1'
+  cdu_secondary:
+  - '230.1'
+  - '241.5'
+  cdu_description: Atos dos Apóstolos, capítulo 7, com foco no discurso de Estêvão, teologia bíblica, ética cristã e figuras bíblicas como Abraão e Moisés.
+---
 Atos 7:2
 
 2 Estêvão respondeu: Varões irmãos e pais, ouvi. O Deus da glória apareceu a Abraão, nosso pai, quando estava na Mesopotâmia, antes de habitar em Harã,

@@ -1,10 +1,48 @@
 ---
-
 created: 2023-10-13T11:37:33 (UTC -03:00)
-tags:
+tags: null
 source: https://www.bloomberg.com/news/features/2023-10-11/fake-parts-found-on-boeing-airbus-jets-plague-airlines?sref=KkPzpZvz
 author: Julie Johnsson, Ryan Beene, Siddharth Vikram Philip, Sabah Meddings
-
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:59.742207+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: falsificacao_de_pecas_aeroespaciais
+    weight: 10
+    confidence: 0.98
+  - name: fraude_em_documentacao_de_componentes
+    weight: 9
+    confidence: 0.97
+  - name: distribuidor_de_pecas_aeronauticas_fraudulento
+    weight: 8
+    confidence: 0.96
+  - name: manutencao_de_motores_de_aeronaves
+    weight: 7
+    confidence: 0.95
+  - name: seguranca_aerea_e_pecas_falsificadas
+    weight: 9
+    confidence: 0.94
+  - name: inspecao_de_componentes_aeronauticos
+    weight: 6
+    confidence: 0.93
+  - name: regulamentacao_de_pecas_de_aviacao
+    weight: 7
+    confidence: 0.92
+  - name: impacto_financeiro_de_pecas_falsas
+    weight: 6
+    confidence: 0.91
+  - name: cadeia_de_suprimentos_aeroespaciais
+    weight: 5
+    confidence: 0.9
+  - name: confianca_na_industria_aeronautica
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '629.13'
+  cdu_secondary:
+  - '343.34'
+  - '339.37'
+  cdu_description: Aeronáutica. Engenharia aeronáutica. Construção, fabricação, manutenção e reparo de aeronaves. Fraudes e crimes relacionados a componentes aeronáuticos. Distribuição e comércio de peças.
 ---
 # Fake Parts Found on Boeing, Airbus Jets Plague Airlines - Bloomberg
 

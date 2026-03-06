@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:11.249799+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_de_lideres
+    weight: 10
+    confidence: 0.98
+  - name: competencias_comportamentais
+    weight: 9
+    confidence: 0.95
+  - name: neurociencia_e_lideranca
+    weight: 8
+    confidence: 0.9
+  - name: potenciais_individuais
+    weight: 8
+    confidence: 0.92
+  - name: autoconhecimento_emocional
+    weight: 7
+    confidence: 0.88
+  - name: comunicacao_influencia
+    weight: 7
+    confidence: 0.85
+  - name: gestao_de_mudancas
+    weight: 6
+    confidence: 0.8
+  - name: motivacao_autorealizacao
+    weight: 6
+    confidence: 0.75
+  - name: inteligencia_emocional
+    weight: 9
+    confidence: 0.93
+  - name: diversidade_inclusao_no_trabalho
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '305.8'
+  - '658.3'
+  cdu_description: Psicologia da liderança e do desenvolvimento pessoal, com ênfase em competências comportamentais, neurociência aplicada, autoconhecimento e gestão de pessoas em ambientes organizacionais.
+---
 # Curso de formação de líderes
 (Marcio Shultz)
 

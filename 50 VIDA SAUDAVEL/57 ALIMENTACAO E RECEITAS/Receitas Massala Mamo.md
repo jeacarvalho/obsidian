@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:52.064218+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: preparo_massala_especiarias
+    weight: 10
+    confidence: 0.98
+  - name: beneficios_saude_massala
+    weight: 9
+    confidence: 0.97
+  - name: perda_peso_termogenicos
+    weight: 8
+    confidence: 0.96
+  - name: equilibrio_organico_sabores
+    weight: 7
+    confidence: 0.95
+  - name: ingredientes_massala_basica
+    weight: 8
+    confidence: 0.94
+  - name: variacoes_receitas_massala
+    weight: 7
+    confidence: 0.93
+  - name: propriedades_feno_grego
+    weight: 9
+    confidence: 0.92
+  - name: propriedades_assafetida
+    weight: 6
+    confidence: 0.91
+  - name: uso_culinario_massala
+    weight: 7
+    confidence: 0.9
+  - name: conservacao_massala
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '641.3'
+  cdu_secondary:
+  - '613.2'
+  - '615.324'
+  cdu_description: 641.3 - Alimentos. Ingredientes. Composição. Especiarias. Condimentos. 613.2 - Dietética. Regimes alimentares. Nutrição. 615.324 - Medicamentos de origem vegetal. Substâncias vegetais.
+---
 Nota Sem Título
 
 ·         Massala básica .

@@ -1,3 +1,50 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:45.093409+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: linguagem_verbal_e_nao_verbal
+    weight: 10
+    confidence: 0.98
+  - name: formacao_discursos_sociais
+    weight: 9
+    confidence: 0.95
+  - name: linguagem_e_ideologia
+    weight: 8
+    confidence: 0.92
+  - name: linguagem_e_cultura
+    weight: 8
+    confidence: 0.93
+  - name: arte_como_comunicacao
+    weight: 7
+    confidence: 0.9
+  - name: evolucao_historica_da_linguagem
+    weight: 7
+    confidence: 0.88
+  - name: formacao_sujeito_linguagem
+    weight: 6
+    confidence: 0.85
+  - name: variacoes_linguisticas
+    weight: 6
+    confidence: 0.87
+  - name: recursos_expressivos_artes
+    weight: 5
+    confidence: 0.8
+  - name: linguagem_e_sociedade
+    weight: 5
+    confidence: 0.82
+  cdu_primary: '305'
+  cdu_secondary:
+  - '305.1'
+  - '305.2'
+  - '305.4'
+  - '305.8'
+  - '305.9'
+  - '305.6'
+  - '305.7'
+  cdu_description: Sociologia. Relações sociais. Sociologia geral. Sociologia da cultura. Sociologia da comunicação. Sociologia da arte. Sociologia da linguagem.
+---
 [[Contabilidade]]
 [[Escrevendo]]
 # Livro da disciplina

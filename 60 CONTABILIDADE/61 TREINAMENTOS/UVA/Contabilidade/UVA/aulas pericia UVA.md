@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:37.794764+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceito_pericia_contabil
+    weight: 10
+    confidence: 0.98
+  - name: fundamentos_tecnicos_pericia
+    weight: 9
+    confidence: 0.95
+  - name: definicao_pericia_juridica
+    weight: 8
+    confidence: 0.92
+  - name: instrumento_constatacao_prova
+    weight: 7
+    confidence: 0.9
+  - name: especializacao_cientifica_pericia
+    weight: 6
+    confidence: 0.88
+  - name: tipos_pericia_contabil_judicial
+    weight: 7
+    confidence: 0.93
+  - name: tipos_pericia_contabil_extrajudicial
+    weight: 7
+    confidence: 0.93
+  - name: perito_contabil_competencias
+    weight: 8
+    confidence: 0.96
+  - name: norma_brasileira_pericia_contabil_nbctp01
+    weight: 9
+    confidence: 0.97
+  - name: caracteristicas_pericia_contabil_imparcialidade
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '336.22'
+  cdu_secondary:
+  - '347.9'
+  - 005.336.2
+  cdu_description: 336.22 - Perícia contábil e tributária; 347.9 - Procedimento civil e judicial; 005.336.2 - Auditoria e perícia
+---
 https://ead.uva.br/disciplinas/grad/publica/cont/pqr/pea/re/u1/aula-1.htm
 
 #  A perícia contábil e seus preceitos legais

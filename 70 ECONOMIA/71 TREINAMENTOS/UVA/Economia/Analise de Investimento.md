@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:43.801017+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_de_investimentos
+    weight: 10
+    confidence: 0.98
+  - name: matematica_financeira
+    weight: 9
+    confidence: 0.95
+  - name: tomada_de_decisao_empresarial
+    weight: 8
+    confidence: 0.9
+  - name: estrategia_empresarial
+    weight: 7
+    confidence: 0.85
+  - name: engenharia_economica
+    weight: 7
+    confidence: 0.88
+  - name: retorno_de_investimento
+    weight: 8
+    confidence: 0.92
+  - name: lucro_empresarial
+    weight: 6
+    confidence: 0.8
+  - name: calculos_financeiros_hp12c
+    weight: 6
+    confidence: 0.75
+  - name: analise_de_projetos_industriais
+    weight: 9
+    confidence: 0.93
+  - name: impacto_da_inflacao_em_projetos
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '336.7'
+  cdu_secondary:
+  - '330.13'
+  - '658.15'
+  cdu_description: Finanças. Economia monetária e bancária. Finanças empresariais. Análise de investimentos. Matemática financeira. Engenharia econômica. Tomada de decisão em projetos.
+---
 # Bibliografia 
 ## Básica  
 - CASAROTTO FILHO, Nelson; KOPITTKE, Bruno Hartmut. Análise de investimentos: matemática  financeira, engenharia econômica, tomada de decisão, estratégia empresarial. 11. ed. São Paulo:  Atlas, 2010.   https://integrada.minhabiblioteca.com.br/reader/books/9788597023299/pages/recent

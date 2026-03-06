@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:10.911220+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: bajulacao_e_armadilha_fariseus
+    weight: 8
+    confidence: 0.98
+  - name: reino_de_deus_vs_reinos_humanos
+    weight: 9
+    confidence: 0.97
+  - name: submissao_autoridades_temporais
+    weight: 7
+    confidence: 0.96
+  - name: teologia_reformada_calvino
+    weight: 8
+    confidence: 0.95
+  - name: soberania_divina_governo_civil
+    weight: 7
+    confidence: 0.94
+  - name: impostos_e_reinado_deus
+    weight: 6
+    confidence: 0.93
+  - name: soberania_esferica_abraham_kuyper
+    weight: 7
+    confidence: 0.92
+  - name: limite_obediencia_autoridades_humanas
+    weight: 6
+    confidence: 0.91
+  - name: cristianismo_esfera_publica_timothy_keller
+    weight: 7
+    confidence: 0.9
+  - name: reino_de_deus_implicacoes_sociais_nt_wright
+    weight: 8
+    confidence: 0.89
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '230.2'
+  - '322.1'
+  - '261.7'
+  cdu_description: Teologia cristã, Doutrinas cristãs, Relação Igreja-Estado, Teologia social
+---
 Sua meditação sobre [[Marcos 12]]:13-17 levanta pontos relevantes e reflete sobre questões centrais do texto, como a bajulação e a armadilha dos fariseus, a relação entre o Reino de Deus e os reinos humanos, e a importância de submeter-se às autoridades temporais.
 
 Aqui está uma avaliação e alguns comentários à luz da teologia reformada:

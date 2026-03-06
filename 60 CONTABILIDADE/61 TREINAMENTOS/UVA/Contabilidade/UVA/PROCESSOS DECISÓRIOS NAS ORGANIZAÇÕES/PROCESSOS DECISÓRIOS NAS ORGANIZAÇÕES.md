@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:39.895717+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teoria_da_decisao
+    weight: 10
+    confidence: 0.98
+  - name: processo_decisorio
+    weight: 9
+    confidence: 0.97
+  - name: analise_estrategica
+    weight: 8
+    confidence: 0.9
+  - name: probabilidade_estatistica
+    weight: 8
+    confidence: 0.92
+  - name: teorema_de_bayes
+    weight: 7
+    confidence: 0.88
+  - name: tomada_de_decisao_organizacional
+    weight: 7
+    confidence: 0.91
+  - name: etica_na_decisao
+    weight: 6
+    confidence: 0.85
+  - name: estruturacao_de_problemas
+    weight: 6
+    confidence: 0.87
+  - name: influencia_emocional_na_decisao
+    weight: 5
+    confidence: 0.8
+  - name: historia_da_matematica_aplicada
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '316.3'
+  cdu_secondary:
+  - '007'
+  - '330.1'
+  - '519.2'
+  cdu_description: Sociologia da decisão e do processo decisório, com subtemas em cibernética e teoria da informação, economia e teoria da decisão, e probabilidade e estatística.
+---
 # Referências
 ## básicas 
 - CÂMARA, Alexandre de Freitas. Levando os Padrões Decisórios a Sério. Editora Atlas, 2017. ISBN 9788597014204. (Minha Biblioteca)  https://integrada.minhabiblioteca.com.br/#/books/9788597014204/recent

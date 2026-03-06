@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:51.775289+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gerenciamento_producao_sistemas_php
+    weight: 8
+    confidence: 0.9
+  - name: sistemas_em_correcao_serpro
+    weight: 7
+    confidence: 0.85
+  - name: validacao_usuario_ibama
+    weight: 9
+    confidence: 0.92
+  - name: sistemas_java_gwt
+    weight: 6
+    confidence: 0.75
+  - name: sistemas_java_microservicos
+    weight: 7
+    confidence: 0.8
+  - name: backlog_estaleiro
+    weight: 8
+    confidence: 0.88
+  - name: liberacao_sistemas_producao
+    weight: 7
+    confidence: 0.82
+  - name: ambiente_producao_ibama
+    weight: 9
+    confidence: 0.95
+  - name: protocolo_montreal_ibama
+    weight: 6
+    confidence: 0.7
+  - name: previsao_internalizacao_serpro
+    weight: 5
+    confidence: 0.65
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - 351.823.1
+  - '005.8'
+  cdu_description: Sistemas de informação, gestão de projetos de software, administração pública, meio ambiente e cooperação internacional.
+---
 IBAMA força tarefa estaleiro
 
 Danielle Valenca de Abreu e Lima Sa

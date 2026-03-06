@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:38.180888+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contabilidade_societaria
+    weight: 10
+    confidence: 0.98
+  - name: estrutura_de_capital
+    weight: 9
+    confidence: 0.97
+  - name: formas_societarias
+    weight: 9
+    confidence: 0.96
+  - name: sociedade_anonima
+    weight: 9
+    confidence: 0.9
+  - name: empresa_individual_responsabilidade_limitada
+    weight: 8
+    confidence: 0.95
+  - name: sociedade_limitada
+    weight: 8
+    confidence: 0.91
+  - name: sociedade_simples
+    weight: 8
+    confidence: 0.92
+  - name: sociedade_cooperativa
+    weight: 8
+    confidence: 0.89
+  - name: sociedade_em_comum
+    weight: 7
+    confidence: 0.94
+  - name: sociedade_em_conta_participacao
+    weight: 7
+    confidence: 0.93
+  cdu_primary: '334.7'
+  cdu_secondary:
+  - '657.1'
+  - '347.7'
+  cdu_description: Organizações econômicas. Sociedades. Cooperativas. Contabilidade. Direito comercial.
+---
 [[Contabilidade]]
 # BIBLIOGRAFIA
 - lIVRO DISCIPLINA: [[CSO_LD_PDF.pdf]]

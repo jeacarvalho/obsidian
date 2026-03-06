@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:58.283987+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gerenciamento_certificados_estaleiro
+    weight: 9
+    confidence: 0.98
+  - name: seguranca_ambiente_nuvem_privada
+    weight: 8
+    confidence: 0.95
+  - name: mudancas_configuracao_estaleiro
+    weight: 7
+    confidence: 0.92
+  - name: infraestrutura_ia_estaleiro
+    weight: 10
+    confidence: 0.97
+  - name: equipamentos_gpu_inferencia
+    weight: 8
+    confidence: 0.94
+  - name: pipeline_ia_gitlab_runner
+    weight: 7
+    confidence: 0.9
+  - name: mlops_estaleiro
+    weight: 8
+    confidence: 0.93
+  - name: atualizacao_console_estaleiro
+    weight: 6
+    confidence: 0.88
+  - name: normativo_uso_estaleiro
+    weight: 7
+    confidence: 0.91
+  - name: elementos_rede_gateway_grupos
+    weight: 9
+    confidence: 0.96
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '004.7'
+  - '004.8'
+  - '621.39'
+  cdu_description: 004.4 - Segurança de sistemas de computadores. 004.7 - Redes de computadores. 004.8 - Sistemas de computadores distribuídos. 621.39 - Telecomunicações.
+---
 ### Descrição:
 
 | links                                                                                                                                                         | Arquivos |     |

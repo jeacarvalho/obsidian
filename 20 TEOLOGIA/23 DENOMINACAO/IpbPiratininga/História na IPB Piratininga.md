@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:24.954416+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_eclesiastica_pntr
+    weight: 9
+    confidence: 0.9
+  - name: historia_ipb_pntr
+    weight: 8
+    confidence: 0.85
+  - name: contas_igreja_google
+    weight: 7
+    confidence: 0.75
+  - name: documentos_legalizacao_igreja
+    weight: 8
+    confidence: 0.8
+  - name: discipulado_projeto_emaus
+    weight: 9
+    confidence: 0.9
+  - name: acoes_melhoria_igreja
+    weight: 7
+    confidence: 0.7
+  - name: atas_reunioes_conselho
+    weight: 8
+    confidence: 0.85
+  - name: futuro_igreja_pos_pandemia
+    weight: 7
+    confidence: 0.75
+  - name: organizacao_administrativa_igreja
+    weight: 6
+    confidence: 0.65
+  - name: reflexao_plano_acoes_igreja
+    weight: 6
+    confidence: 0.6
+  cdu_primary: '284.1'
+  cdu_secondary:
+  - '351.71'
+  - '262.1'
+  - '268.2'
+  cdu_description: Relacionado à organização e administração de igrejas presbiterianas, incluindo aspectos históricos, legais, de discipulado e gestão.
+---
 # Material curso de formação para ordenação do PNTR
 - [[gestão eclesiástica]]
 - [[História IPB - curso formação PNTR]]

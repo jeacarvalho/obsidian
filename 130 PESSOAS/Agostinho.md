@@ -1,12 +1,55 @@
 ---
-title: "Agostinho de Hipona – Wikipédia, a enciclopédia livre"
-source: "https://pt.wikipedia.org/wiki/Agostinho_de_Hipona"
-author:
-published:
+title: Agostinho de Hipona – Wikipédia, a enciclopédia livre
+source: https://pt.wikipedia.org/wiki/Agostinho_de_Hipona
+author: null
+published: null
 created: 2025-03-28
-description:
+description: null
 tags:
-  - "clippings"
+- clippings
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:43.506818+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: agostinho_de_hipona
+    weight: 10
+    confidence: 1.0
+  - name: filosofia_ocidental
+    weight: 9
+    confidence: 0.95
+  - name: teologia_crista
+    weight: 9
+    confidence: 0.95
+  - name: padres_da_igreja
+    weight: 8
+    confidence: 0.9
+  - name: a_cidade_de_deus
+    weight: 8
+    confidence: 0.9
+  - name: confissoes_agostinho
+    weight: 8
+    confidence: 0.9
+  - name: pecado_original
+    weight: 7
+    confidence: 0.85
+  - name: doutrina_da_guerra_justa
+    weight: 7
+    confidence: 0.85
+  - name: maniqueismo
+    weight: 6
+    confidence: 0.7
+  - name: neoplatonismo
+    weight: 6
+    confidence: 0.7
+  cdu_primary: '270.2'
+  cdu_secondary:
+  - '181.3'
+  - '230'
+  - '231.7'
+  - '233.5'
+  - '261.87'
+  cdu_description: História da Igreja Cristã; Patrística; Filosofia Antiga e Medieval; Teologia Cristã; Doutrina da Trindade; Doutrina do Pecado Original; Doutrina da Guerra Justa.
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Disambig_grey.svg/20px-Disambig_grey.svg.png) **Nota:** "Agostinho" e "Santo Agostinho" redirecionam para este artigo. Para o santo homônimo, veja [Agostinho de Cantuária](https://pt.wikipedia.org/wiki/Agostinho_de_Cantu%C3%A1ria "Agostinho de Cantuária"). Para outros significados, veja [Agostinho (desambiguação)](https://pt.wikipedia.org/wiki/Agostinho_\(desambigua%C3%A7%C3%A3o\) "Agostinho (desambiguação)").
 

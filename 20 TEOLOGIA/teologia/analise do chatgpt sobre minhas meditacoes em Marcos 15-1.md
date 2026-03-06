@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:58.629328+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_poder_religioso_politico
+    weight: 8
+    confidence: 0.9
+  - name: postura_jesus_manipulacao_poder
+    weight: 7
+    confidence: 0.85
+  - name: influencia_massas_poder
+    weight: 6
+    confidence: 0.8
+  - name: tensao_acao_humana_soberania_divina
+    weight: 9
+    confidence: 0.92
+  - name: autoavaliacao_justificativas_decisoes
+    weight: 7
+    confidence: 0.88
+  - name: reacao_injustica_postura_cristo
+    weight: 6
+    confidence: 0.82
+  - name: enfrentamento_poder_sem_reproduzir_metodos
+    weight: 7
+    confidence: 0.87
+  - name: teologia_reformada_depravacao_total
+    weight: 9
+    confidence: 0.95
+  - name: exegese_contexto_historico_religioso_politico
+    weight: 8
+    confidence: 0.91
+  - name: proposta_sermao_poder_medo_verdade
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - 27-29
+  - '321.1'
+  - '305.8'
+  cdu_description: Cristologia (232.9), História do Cristianismo (27-29), Teoria e Sistemas Políticos (321.1), Sociologia (305.8)
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Marcos 15]]-1
 ### **Análise Comportamental**
 

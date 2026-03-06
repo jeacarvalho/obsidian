@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:38.050369+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: evolucao_ciencia_contabil
+    weight: 8
+    confidence: 0.9
+  - name: contabilidade_de_custos
+    weight: 7
+    confidence: 0.85
+  - name: contabilidade_tributaria
+    weight: 7
+    confidence: 0.85
+  - name: surgimento_auditoria
+    weight: 10
+    confidence: 0.98
+  - name: justificativas_auditoria
+    weight: 9
+    confidence: 0.95
+  - name: definicao_auditoria_crepaldi
+    weight: 8
+    confidence: 0.92
+  - name: definicao_auditoria_attie
+    weight: 8
+    confidence: 0.92
+  - name: objetivo_auditoria_resolucao_cfc
+    weight: 9
+    confidence: 0.96
+  - name: historia_auditoria_externa
+    weight: 9
+    confidence: 0.94
+  - name: evolucao_sistema_capitalista
+    weight: 6
+    confidence: 0.8
+  cdu_primary: '657.6'
+  cdu_secondary: []
+  cdu_description: Auditoria e controle contábil
+---
 #  Introdução a Auditoria
 
   * [Introdução](index.htm)

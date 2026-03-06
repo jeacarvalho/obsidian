@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:06.562165+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conversao_frequentador_membro_igreja
+    weight: 10
+    confidence: 0.98
+  - name: importancia_membros_atuais_igreja
+    weight: 9
+    confidence: 0.95
+  - name: valorizacao_servico_membros_igreja
+    weight: 8
+    confidence: 0.92
+  - name: visao_biblica_vida_crista
+    weight: 7
+    confidence: 0.9
+  - name: discipulado_igreja_local
+    weight: 7
+    confidence: 0.88
+  - name: comunidade_crista_corpo_de_cristo
+    weight: 6
+    confidence: 0.85
+  - name: papel_pastor_integracao_membros
+    weight: 6
+    confidence: 0.82
+  - name: encorajamento_gratidao_congregacao
+    weight: 5
+    confidence: 0.8
+  - name: cultura_igreja_acolhedora
+    weight: 5
+    confidence: 0.78
+  - name: maturidade_espiritual_igreja
+    weight: 5
+    confidence: 0.75
+  cdu_primary: 27-42
+  cdu_secondary:
+  - '248.2'
+  - '262.1'
+  cdu_description: Teologia prática e pastoral. Vida cristã e prática. Organização eclesiástica. Membresia eclesiástica.
+---
 Ministério Fiel
 
 Um desafio prático que nós enfrentamos enquanto pastores é como encorajar um frequentador de igreja a tornar-se um membro de igreja ativo. Como devemos ajudar indivíduos a entenderem a necessidade e a alegria de pertencer a uma assembleia local de crentes?

@@ -3,6 +3,46 @@ created: 2023-11-01T16:58:25 (UTC -03:00)
 tags: []
 source: https://www.in.gov.br/en/web/dou/-/portaria-sgd/mgi-n-5.950-de-26-de-outubro-de-2023-520119446
 author: Imprensa Nacional
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:55.317941+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contratacao_software_nuvem
+    weight: 10
+    confidence: 0.98
+  - name: modelo_contratacao_sisp
+    weight: 9
+    confidence: 0.97
+  - name: servicos_computacao_nuvem
+    weight: 8
+    confidence: 0.96
+  - name: software_como_servico_saas
+    weight: 7
+    confidence: 0.95
+  - name: infraestrutura_como_servico_iaas
+    weight: 7
+    confidence: 0.94
+  - name: plataforma_como_servico_paas
+    weight: 7
+    confidence: 0.93
+  - name: licenciamento_software
+    weight: 6
+    confidence: 0.92
+  - name: gestao_recursos_ti_federal
+    weight: 8
+    confidence: 0.91
+  - name: normas_contratacao_publica
+    weight: 6
+    confidence: 0.9
+  - name: secretaria_governo_digital_mg
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '004.77'
+  cdu_secondary:
+  - '351.71'
+  - '004.89'
+  cdu_description: 004.77 - Redes de computadores. Serviços de rede. Internet. 351.71 - Contratação pública. Licitações. 004.89 - Serviços de computação em nuvem.
 ---
 
 # PORTARIA SGD/MGI Nº 5.950, DE 26 DE OUTUBRO DE 2023 - PORTARIA SGD/MGI Nº 5.950, DE 26 DE OUTUBRO DE 2023 - DOU - Imprensa Nacional

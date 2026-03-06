@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:52.060516+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: subcontratacao_serpro_2021
+    weight: 10
+    confidence: 0.98
+  - name: gestao_contratos_cessao_uso
+    weight: 8
+    confidence: 0.9
+  - name: implantacao_sistemas_subcontratados
+    weight: 7
+    confidence: 0.85
+  - name: riscos_contratuais_terceirizados
+    weight: 7
+    confidence: 0.82
+  - name: comunicacao_com_terceiros
+    weight: 6
+    confidence: 0.75
+  - name: obrigacoes_qualidade_contratados
+    weight: 6
+    confidence: 0.78
+  - name: responsabilidades_contratuais
+    weight: 5
+    confidence: 0.7
+  - name: infraestrutura_proposta_serpro
+    weight: 5
+    confidence: 0.65
+  - name: modelo_de_uso_subcontratacao
+    weight: 5
+    confidence: 0.68
+  - name: pucomex_subcontratacao
+    weight: 5
+    confidence: 0.6
+  cdu_primary: '334.7'
+  cdu_secondary:
+  - '351.7'
+  - '004.6'
+  cdu_description: Gestão de contratos de subcontratação e cessão de uso em empresas públicas, com foco em riscos, implantação de sistemas e obrigações contratuais.
+---
 #### Descrição:
 Para tratar o assunto de subcontratação no [[serpro]] em 2021
 

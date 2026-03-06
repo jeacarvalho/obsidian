@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:15.513821+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: voz_profetica_e_denuncia_de_pecados
+    weight: 10
+    confidence: 0.98
+  - name: jejum_aparente_vs_jejum_verdadeiro
+    weight: 10
+    confidence: 0.97
+  - name: critica_ao_interesse_proprio_no_jejum
+    weight: 9
+    confidence: 0.96
+  - name: contendas_rixas_e_violencia_no_jejum
+    weight: 9
+    confidence: 0.95
+  - name: jejum_para_agradar_a_deus_beneficio_dos_outros
+    weight: 10
+    confidence: 0.97
+  - name: cura_e_justica_como_consequencia_da_fe
+    weight: 8
+    confidence: 0.94
+  - name: resposta_divina_ao_clamor_sincero
+    weight: 8
+    confidence: 0.93
+  - name: pratica_da_justica_social_e_caridade
+    weight: 10
+    confidence: 0.98
+  - name: restauracao_e_reconstrucao_social
+    weight: 7
+    confidence: 0.92
+  - name: observancia_do_sabado_e_deleite_em_deus
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '248.3'
+  cdu_secondary:
+  - 27-29
+  - '223.1'
+  cdu_description: Práticas religiosas e espirituais. Jejum. Ética cristã. Livros proféticos do Antigo Testamento.
+---
 Is 58
 
 Isaías 58_1_14

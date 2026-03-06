@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:48.380463+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: terapia_cognitiva
+    weight: 10
+    confidence: 0.98
+  - name: processos_cognitivos
+    weight: 9
+    confidence: 0.95
+  - name: introspeccao
+    weight: 8
+    confidence: 0.92
+  - name: mudanca_de_pensamento
+    weight: 8
+    confidence: 0.9
+  - name: habilidades_cognitivas
+    weight: 7
+    confidence: 0.88
+  - name: psicoterapia
+    weight: 7
+    confidence: 0.85
+  - name: formacao_de_juizos
+    weight: 6
+    confidence: 0.82
+  - name: superacao_de_medos
+    weight: 6
+    confidence: 0.8
+  - name: habitos_mentais
+    weight: 5
+    confidence: 0.78
+  - name: desenvolvimento_intelectual
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '159.963'
+  cdu_secondary:
+  - '159.944'
+  - '159.97'
+  cdu_description: 159.9 Psicologia; 159.96 Psicologia aplicada; 159.963 Terapia e aconselhamento psicológico; 159.944 Processos mentais; 159.97 Psicologia do desenvolvimento
+---
 # Capítulo 9
 
 it often is blended with myths, superstitions, and

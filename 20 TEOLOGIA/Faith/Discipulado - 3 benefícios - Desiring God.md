@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:13.698855+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: importancia_discipulado_cristao
+    weight: 10
+    confidence: 0.98
+  - name: beneficios_relacionamentos_discipulado
+    weight: 9
+    confidence: 0.95
+  - name: humildade_no_discipulado
+    weight: 8
+    confidence: 0.92
+  - name: conselho_sabio_biblico
+    weight: 7
+    confidence: 0.9
+  - name: unidade_entre_crentes
+    weight: 8
+    confidence: 0.93
+  - name: vida_comunitaria_crista
+    weight: 7
+    confidence: 0.91
+  - name: encorajamento_mutuo_cristao
+    weight: 7
+    confidence: 0.9
+  - name: equipamento_para_fidelidade_crista
+    weight: 8
+    confidence: 0.94
+  - name: ensino_e_treinamento_cristao
+    weight: 7
+    confidence: 0.92
+  - name: mulheres_no_discipulado
+    weight: 6
+    confidence: 0.88
+  cdu_primary: 27-31
+  cdu_secondary:
+  - '230'
+  - '248.4'
+  - 27-07
+  cdu_description: Teologia cristã. Doutrinas gerais. Vida e prática cristãs. Relações sociais e comunitárias. Organização e administração da igreja. História eclesiástica.
+---
 Three Benefits of Discipleship | Desiring God
 
 # Three Benefits of Discipleship** **

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:21.244082+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: resistencia_psicologica_no_trabalho
+    weight: 10
+    confidence: 0.98
+  - name: significado_da_vida_e_morte
+    weight: 9
+    confidence: 0.95
+  - name: realizacao_pessoal_em_fim_de_vida
+    weight: 8
+    confidence: 0.92
+  - name: burocracia_e_resistencia_institucional
+    weight: 7
+    confidence: 0.9
+  - name: impacto_de_decisoes_importantes
+    weight: 6
+    confidence: 0.88
+  - name: transformacao_pessoal_atraves_da_acao
+    weight: 7
+    confidence: 0.85
+  - name: memoria_e_legado_no_ambiente_de_trabalho
+    weight: 6
+    confidence: 0.82
+  - name: superacao_de_obstaculos_pessoais_e_profissionais
+    weight: 8
+    confidence: 0.8
+  - name: a_importancia_de_viver_o_presente
+    weight: 5
+    confidence: 0.78
+  - name: influencia_do_cinema_na_reflexao_existencial
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '351.71'
+  - '305.8'
+  cdu_description: Psicologia da resistência e da motivação; Administração pública e burocracia; Questões sociais e de gênero (representado pelo pedido das mulheres).
+---
 #### A [[resistência]] impede que decisões importantes se mantenham
 Amarelo destaque | Local: 85 Nota | Local: 85
 

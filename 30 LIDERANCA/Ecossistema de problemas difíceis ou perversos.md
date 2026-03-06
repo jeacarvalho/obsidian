@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:04.657380+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: corrupcao_igreja_lavagem_dinheiro
+    weight: 8
+    confidence: 0.9
+  - name: isencao_impostos_igreja
+    weight: 7
+    confidence: 0.85
+  - name: debito_publico_reducao_investimento_publico
+    weight: 7
+    confidence: 0.8
+  - name: piora_servicos_essenciais_saude_educacao
+    weight: 6
+    confidence: 0.75
+  - name: justica_social_impacto_igreja
+    weight: 8
+    confidence: 0.9
+  - name: maximizacao_lucros_mindset
+    weight: 9
+    confidence: 0.95
+  - name: amor_ao_dinheiro_covardia
+    weight: 8
+    confidence: 0.88
+  - name: racismo_extremismo_refugiados_migracao
+    weight: 7
+    confidence: 0.82
+  - name: racismo_desigualdade_crime_educacao_pobreza
+    weight: 7
+    confidence: 0.83
+  - name: problemas_complexos_autoalimentacao
+    weight: 10
+    confidence: 0.98
+  cdu_primary: '303.7'
+  cdu_secondary:
+  - '336.1'
+  - 27-73
+  - '316.4'
+  - '323.1'
+  cdu_description: 303.7 - Métodos e técnicas de investigação social. 336.1 - Finanças públicas em geral. 27-73 - Corrupção na Igreja. 316.4 - Processos sociais. 323.1 - Racismo e outras formas de discriminação.
+---
 # Ecosisstema de problemas difíceis (ou "perversos" na tradução literal)
 
 #### Coisas interessantes nesse gráfico

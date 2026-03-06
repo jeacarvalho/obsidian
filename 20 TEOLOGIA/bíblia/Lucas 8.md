@@ -1,4 +1,45 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:46.880597+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: parabola_do_semeador
+    weight: 10
+    confidence: 0.98
+  - name: interpretacao_parabolas_jesus
+    weight: 9
+    confidence: 0.95
+  - name: discernimento_do_reino_de_deus
+    weight: 8
+    confidence: 0.92
+  - name: importancia_de_ouvir_a_palavra
+    weight: 10
+    confidence: 0.97
+  - name: frutos_espirituais
+    weight: 9
+    confidence: 0.94
+  - name: natureza_divina_de_jesus
+    weight: 10
+    confidence: 0.99
+  - name: humanidade_de_jesus
+    weight: 8
+    confidence: 0.9
+  - name: provisao_divina_ministerio_jesus
+    weight: 7
+    confidence: 0.88
+  - name: testemunho_pessoal_cristao
+    weight: 9
+    confidence: 0.93
+  - name: obediencia_a_jesus
+    weight: 8
+    confidence: 0.91
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '232.9'
+  - '226.6'
+  cdu_description: Novo Testamento - Evangelhos - Lucas - Parábolas - Natureza de Jesus - Testemunho Cristão
+---
 Lucas 8:3 e Joana, mulher de Cuza, procurador de Herodes, Suzana e muitas outras, as quais lhe prestavam assistência com os seus bens.
 - Deus providencialmente proporcionando sustento para o ministério de Jesus
 

@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T20:46:17.414198+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cristianismo_engajado
+    weight: 9
+    confidence: 0.98
+  - name: politica_de_jesus
+    weight: 8
+    confidence: 0.97
+  - name: teologia_da_libertacao
+    weight: 8
+    confidence: 0.96
+  - name: historia_da_igreja_no_brasil
+    weight: 7
+    confidence: 0.95
+  - name: proposito_existencial
+    weight: 9
+    confidence: 0.97
+  - name: resiliencia_em_crise
+    weight: 8
+    confidence: 0.96
+  - name: storytelling_e_identidade
+    weight: 10
+    confidence: 0.99
+  - name: narrativa_pessoal
+    weight: 9
+    confidence: 0.98
+  - name: resignificacao_de_falhas
+    weight: 8
+    confidence: 0.97
+  - name: saude_e_longevidade
+    weight: 7
+    confidence: 0.95
+  cdu_primary: 27-4(81)
+  cdu_secondary:
+  - '316.3'
+  - '305.8'
+  - '159.9'
+  - '230.01'
+  cdu_description: Religião cristã. História eclesiástica. América do Sul. Brasil. Sociologia. Psicologia. Filosofia.
+---
 Com base nos títulos de livros sugeridos e no conteúdo detalhado do arquivo, apresento sugestões de capítulos e as principais entradas de texto relevantes para cada um:
 
 ---

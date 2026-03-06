@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:02.730555+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: justica_social_biblica
+    weight: 10
+    confidence: 0.98
+  - name: empatia_com_os_pobres
+    weight: 9
+    confidence: 0.95
+  - name: solidariedade_crista
+    weight: 8
+    confidence: 0.92
+  - name: critica_a_ganancia
+    weight: 7
+    confidence: 0.9
+  - name: responsabilidade_social_do_rico
+    weight: 8
+    confidence: 0.93
+  - name: amor_em_acoes
+    weight: 7
+    confidence: 0.88
+  - name: o_clamor_do_pobre
+    weight: 6
+    confidence: 0.85
+  - name: distribuicao_de_riqueza
+    weight: 6
+    confidence: 0.82
+  - name: etica_nas_financas
+    weight: 5
+    confidence: 0.8
+  - name: justica_economica_na_biblia
+    weight: 9
+    confidence: 0.91
+  cdu_primary: 27-41
+  cdu_secondary:
+  - 316.334.2
+  - '330.5'
+  - '241.1'
+  cdu_description: Teologia social cristã, ética social, justiça social e econômica com base em textos bíblicos.
+---
 justiça social
 
 [[Provérbios 21]]:13 O que tapa o ouvido ao clamor do pobre também clamará e não será ouvido.

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:56.552526+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: importancia_da_delegacao_para_equipe
+    weight: 9
+    confidence: 0.98
+  - name: barreiras_comuns_na_delegacao
+    weight: 8
+    confidence: 0.95
+  - name: evitar_microgerenciamento_na_lideranca
+    weight: 7
+    confidence: 0.92
+  - name: processo_de_delegacao_eficaz
+    weight: 8
+    confidence: 0.96
+  - name: planejamento_e_comunicacao_na_delegacao
+    weight: 7
+    confidence: 0.93
+  - name: tarefas_delegaveis_e_nao_delegaveis
+    weight: 8
+    confidence: 0.94
+  - name: selecao_de_pessoas_para_delegacao
+    weight: 9
+    confidence: 0.97
+  - name: definicao_de_expectativas_na_delegacao
+    weight: 7
+    confidence: 0.91
+  - name: desenvolvimento_de_times_por_delegacao
+    weight: 8
+    confidence: 0.95
+  - name: lideranca_e_gestao_de_pessoas
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '658.3'
+  - '159.947'
+  cdu_description: Gestão de pessoal. Administração de pessoal. Relações humanas no trabalho. Liderança. Motivação.
+---
 # 20210330 - Liderança de pessoas - Delegação
 (último encontro do módulo 2)
 

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:32.130709+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mini_casa_movel
+    weight: 10
+    confidence: 0.98
+  - name: design_de_interiores_funcional
+    weight: 9
+    confidence: 0.95
+  - name: arquitetura_sustentavel
+    weight: 8
+    confidence: 0.9
+  - name: uso_de_madeira_reaproveitada
+    weight: 7
+    confidence: 0.92
+  - name: mobilia_articulada
+    weight: 6
+    confidence: 0.88
+  - name: estilo_rustico_moderno
+    weight: 7
+    confidence: 0.85
+  - name: espacos_compactos
+    weight: 8
+    confidence: 0.93
+  - name: solucoes_residenciais_pequenas
+    weight: 9
+    confidence: 0.96
+  - name: construcao_em_trailer
+    weight: 8
+    confidence: 0.91
+  - name: inspiracao_para_moradia
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '728.37'
+  cdu_secondary:
+  - '699.8'
+  - '684.4'
+  cdu_description: 728.37 - Habitações unifamiliares móveis ou pré-fabricadas; 699.8 - Isolamento térmico e acústico em construções; 684.4 - Mobiliário, móveis e acessórios.
+---
 Refúgio móvel de 19m² - Do Edu
 
 # Refúgio móvel de 19m²

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:17.976650+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: discernimento_espiritual_cristao
+    weight: 9
+    confidence: 0.9
+  - name: identidade_de_jesus_cristo
+    weight: 10
+    confidence: 0.95
+  - name: compreensao_dos_evangelhos
+    weight: 7
+    confidence: 0.85
+  - name: caminho_de_emaus_biblico
+    weight: 8
+    confidence: 0.92
+  - name: esperanca_messianica_em_israel
+    weight: 6
+    confidence: 0.75
+  - name: reconhecimento_de_jesus
+    weight: 9
+    confidence: 0.91
+  - name: interpretacao_biblica_crista
+    weight: 7
+    confidence: 0.88
+  - name: vida_crista_cotidiana
+    weight: 8
+    confidence: 0.89
+  - name: profecia_e_profetas_biblicos
+    weight: 6
+    confidence: 0.78
+  - name: natureza_de_jesus_rei_sacerdote
+    weight: 7
+    confidence: 0.82
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - '226.7'
+  - 27-23
+  cdu_description: Cristologia (232.9), Evangelho de Lucas (226.7), Teologia cristã (27-23)
+---
 #### Ainda estamos todos no caminho de Emaus.
 > [[Lucas 24]]: 19“Que coisas?”, perguntou Jesus.  
 “As coisas que aconteceram com Jesus de Nazaré”, responderam eles. “Ele era um profeta de palavras e ações poderosas aos olhos de Deus e de todo o povo. 20Mas os principais sacerdotes e outros líderes religiosos o entregaram para que fosse condenado à morte e o crucificaram. 21Tínhamos esperança de que ele fosse aquele que resgataria Israel. Isso tudo aconteceu há três dias.  

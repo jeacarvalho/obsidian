@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:47.609379+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: treinamento_assertivo_terapia_comportamental
+    weight: 9
+    confidence: 0.98
+  - name: contracondicionamento_ansiedade
+    weight: 8
+    confidence: 0.95
+  - name: interpretacao_cognitiva_terapia
+    weight: 8
+    confidence: 0.94
+  - name: mudanca_conceito_autoestima
+    weight: 7
+    confidence: 0.92
+  - name: modelagem_terapia_comportamental
+    weight: 7
+    confidence: 0.9
+  - name: abordagens_comportamentais_depressao
+    weight: 8
+    confidence: 0.93
+  - name: reforco_positivo_comportamentos_desejaveis
+    weight: 7
+    confidence: 0.91
+  - name: deficit_comportamental_depressao
+    weight: 6
+    confidence: 0.88
+  - name: tecnicas_terapeuticas_psicologia
+    weight: 6
+    confidence: 0.85
+  - name: reducao_medo_interpessoal
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '159.94'
+  cdu_secondary:
+  - '159.97'
+  - '159.942'
+  cdu_description: Psicologia. Psicologia aplicada. Psicologia clínica. Terapia comportamental e cognitiva. Tratamento de transtornos de ansiedade e depressão.
+---
 # Capítulo 13
 
 is paralyzed (hysteria), helpless and hopeless (depression),

@@ -2,7 +2,47 @@
 created: 2021-09-13T14:42:36 (UTC -03:00)
 tags: []
 source: https://www.bbc.com/portuguese/internacional-58538421?at_medium=RSS&at_campaign=KARANGA
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:44.970336+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ansiedade_positiva
+    weight: 10
+    confidence: 0.98
+  - name: exercicios_para_ansiedade
+    weight: 9
+    confidence: 0.95
+  - name: neurociencia_da_ansiedade
+    weight: 8
+    confidence: 0.92
+  - name: resiliencia_mental
+    weight: 7
+    confidence: 0.9
+  - name: plasticidade_cerebral
+    weight: 7
+    confidence: 0.88
+  - name: saude_mental
+    weight: 6
+    confidence: 0.85
+  - name: bem_estar_emocional
+    weight: 6
+    confidence: 0.83
+  - name: transformacao_de_emocoes
+    weight: 5
+    confidence: 0.8
+  - name: exercicio_fisico_e_saude_mental
+    weight: 5
+    confidence: 0.78
+  - name: desenvolvimento_cognitivo
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '613.8'
+  - '159.946'
+  cdu_description: Psicologia das emoções. Psicologia da ansiedade. Saúde mental e bem-estar. Exercícios para lidar com a ansiedade. Plasticidade cerebral e resiliência.
 ---
 
 # [[Ansiedade]]: 6 exercícios para extrair algo positivo da 'emoção incompreendida', segundo neurocientista - BBC News Brasil

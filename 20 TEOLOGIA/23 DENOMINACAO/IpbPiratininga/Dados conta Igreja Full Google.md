@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:25.394674+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: registro_dominio_betaniapiratininga_org_br
+    weight: 9
+    confidence: 0.98
+  - name: expiracao_dominio_web
+    weight: 7
+    confidence: 0.95
+  - name: transferencia_propriedade_dominio
+    weight: 6
+    confidence: 0.9
+  - name: registro_google_workspace
+    weight: 10
+    confidence: 0.99
+  - name: credenciais_acesso_gmail
+    weight: 8
+    confidence: 0.97
+  - name: techsoup_brasil_validacao_ong
+    weight: 9
+    confidence: 0.96
+  - name: ferramentas_digitais_gratuitas
+    weight: 8
+    confidence: 0.94
+  - name: contas_google_workspace_criadas
+    weight: 7
+    confidence: 0.93
+  - name: gerenciamento_google_workspace_admin_console
+    weight: 8
+    confidence: 0.95
+  - name: manutencao_ativacao_dominio_web
+    weight: 6
+    confidence: 0.92
+  cdu_primary: '004.6'
+  cdu_secondary:
+  - '004.77'
+  - '364.12'
+  cdu_description: Gestão de domínios e serviços online para organizações, incluindo ferramentas digitais gratuitas e validação de entidades sem fins lucrativos.
+---
 [20:42, 24/03/2023] Luiz Tadeu Seminarista Barreto: O domínio registrado foi o betaniapiratininga.org.br, exatamente o mesmo domínio que já havia sido usado no passado. Ele foi registrado por 1 ano e expirará em 11/07/2023. Eu fiz esse registro no meu usuário do Registro.Br. Caso tenha algum usuário lá, basta me informar que eu faço a transferência para ele.
 [20:42, 24/03/2023] Luiz Tadeu Seminarista Barreto: Para fazer o registro no Google Workspace eu tive que criar uma conta no Gmail. Seguem os dados para acesso, caso necessite:
 

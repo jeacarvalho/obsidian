@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:15.998481+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contemplacao_criacao_divina
+    weight: 9
+    confidence: 0.98
+  - name: grandiosidade_criador
+    weight: 10
+    confidence: 0.99
+  - name: esperanca_em_deus
+    weight: 8
+    confidence: 0.95
+  - name: valor_do_homem_perante_deus
+    weight: 7
+    confidence: 0.92
+  - name: poder_deus_silenciar_inimigos
+    weight: 8
+    confidence: 0.96
+  - name: louvor_de_criancas
+    weight: 9
+    confidence: 0.97
+  - name: administracao_humana_da_criacao
+    weight: 6
+    confidence: 0.9
+  - name: magnificencia_nome_senhor
+    weight: 7
+    confidence: 0.93
+  - name: dependencia_humana_de_deus
+    weight: 8
+    confidence: 0.94
+  - name: exaltacao_maravilhas_divinas
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '224.2'
+  cdu_secondary: []
+  cdu_description: Salmos 8 - A majestade de Deus e a posição do homem
+---
 SL_6_11
 
 

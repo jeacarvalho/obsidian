@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:57.143578+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fundamento_do_perdao_carater_deus
+    weight: 9
+    confidence: 0.98
+  - name: perdao_beneficio_proprio
+    weight: 8
+    confidence: 0.95
+  - name: carater_deus_misericordia_fidelidade
+    weight: 7
+    confidence: 0.92
+  - name: felicidade_em_deus_atraves_perdao
+    weight: 8
+    confidence: 0.93
+  - name: perdao_como_direito_e_nao_dever
+    weight: 9
+    confidence: 0.96
+  - name: capacidade_de_perdoar_em_jesus
+    weight: 10
+    confidence: 0.97
+  - name: relacao_entre_perdao_recebido_e_dado
+    weight: 9
+    confidence: 0.94
+  - name: perdao_e_felicidade_heranca_crista
+    weight: 7
+    confidence: 0.91
+  - name: transformacao_coracao_pelo_perdao
+    weight: 8
+    confidence: 0.9
+  - name: motivacao_para_perdoar_carater_divino
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '234.2'
+  cdu_secondary:
+  - '231.7'
+  - '241.5'
+  cdu_description: Teologia cristã - Doutrina da salvação - Perdão. Caráter de Deus. Ética cristã. Felicidade.
+---
 Fundamento do perdão - porque perdoar?
 - O caráter de Deus: [[Êxodo 34]]: 5O Senhor desceu na nuvem, esteve ali junto de Moisés e proclamou o nome do Senhor. 6O Senhor passou diante de Moisés e proclamou:  — O Senhor! O Senhor Deus compassivo e bondoso, tardio em irar-se e grande em misericórdia e fidelidade; 7que guarda a misericórdia em mil gerações, que perdoa a maldade, a transgressão e o pecado, ainda que não inocente o culpado, e visita a iniquidade dos pais nos filhos e nos filhos dos filhos, até a terceira e quarta geração!
 - Mas uma vez entendido o caráter de Deus, há um 2o fundamento: o bem que o perdão fez a nós: [[Salmos 32]]: 1Bem-aventurado aquele cuja transgressão é perdoada, cujo pecado é coberto. 2Bem-aventurado é aquele a quem o Senhor não atribui iniquidade e em cujo espírito não há engano

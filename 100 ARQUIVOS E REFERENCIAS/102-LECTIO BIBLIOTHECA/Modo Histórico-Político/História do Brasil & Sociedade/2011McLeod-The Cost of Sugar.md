@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:03.670499+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_colonial_acucareira
+    weight: 10
+    confidence: 0.98
+  - name: escravidao_no_suriname
+    weight: 9
+    confidence: 0.97
+  - name: violencia_racial_estrutural
+    weight: 9
+    confidence: 0.96
+  - name: critica_ao_capitalismo
+    weight: 8
+    confidence: 0.95
+  - name: relacao_entre_acucar_e_corpos_negros
+    weight: 8
+    confidence: 0.94
+  - name: agencia_etica_de_escravizados
+    weight: 7
+    confidence: 0.93
+  - name: colonialidade_religiosa
+    weight: 7
+    confidence: 0.92
+  - name: patriarcado_colonial
+    weight: 6
+    confidence: 0.91
+  - name: resistencia_de_marrons
+    weight: 6
+    confidence: 0.9
+  - name: critica_a_romantizacao_da_escravidao
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '949.298'
+  cdu_secondary:
+  - '316.347'
+  - '325.2'
+  - '305.8'
+  cdu_description: A obra aborda a história colonial do Suriname, focando na produção de açúcar e seu impacto na sociedade escravocrata, com ênfase na violência racial e na resistência. A classificação primária reflete a história específica da colônia holandesa, enquanto as secundárias cobrem sociologia, migração e relações raciais.
+---
 ## 🔍 ANÁLISE CURATORIAL: *The Cost of Sugar* (Cynthia McLeod)
 
 ### 1. CLASSIFICAÇÃO ARQUETÍPICA

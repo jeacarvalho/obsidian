@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:48.698138+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: identidade_crista_em_cristo
+    weight: 10
+    confidence: 0.98
+  - name: relacionamento_com_deus
+    weight: 9
+    confidence: 0.95
+  - name: conduta_moral_na_comunidade
+    weight: 8
+    confidence: 0.92
+  - name: pecado_sexual_e_corpo_sagrado
+    weight: 8
+    confidence: 0.9
+  - name: sofrimento_do_cristao_no_mundo
+    weight: 7
+    confidence: 0.88
+  - name: discernimento_espiritual_e_idolatria
+    weight: 7
+    confidence: 0.85
+  - name: unidade_dos_crentes_em_cristo
+    weight: 6
+    confidence: 0.82
+  - name: disciplina_eclesiastica
+    weight: 6
+    confidence: 0.8
+  - name: servir_a_cristo
+    weight: 5
+    confidence: 0.78
+  - name: sabedoria_crista
+    weight: 5
+    confidence: 0.75
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '230'
+  - '240'
+  - '250'
+  cdu_description: Teologia cristã. Doutrinas gerais. Vida cristã. Prática cristã. Organização da igreja cristã. Moral cristã.
+---
 1 Co The Message
 
 1CO_3_21_23

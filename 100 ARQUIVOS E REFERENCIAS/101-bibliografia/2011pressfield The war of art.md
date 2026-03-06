@@ -3,6 +3,47 @@ created: 2023-10-03T11:23:09 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
 author: Steven Pressfield
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:57.546483+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: superacao_da_resistencia_criativa
+    weight: 10
+    confidence: 0.98
+  - name: disciplina_para_concluir_projetos
+    weight: 9
+    confidence: 0.95
+  - name: identificacao_da_resistencia_como_mal
+    weight: 8
+    confidence: 0.92
+  - name: genio_individual_e_potencial_divino
+    weight: 7
+    confidence: 0.9
+  - name: comparacao_artista_fundamentalista
+    weight: 7
+    confidence: 0.88
+  - name: critica_ao_conceito_de_humanista_perfeito
+    weight: 6
+    confidence: 0.85
+  - name: co_criacao_do_mundo_com_deus
+    weight: 6
+    confidence: 0.82
+  - name: medo_de_realizar_ambicoes_pessoais
+    weight: 5
+    confidence: 0.78
+  - name: influencia_das_forcas_produtivas_na_realidade
+    weight: 5
+    confidence: 0.75
+  - name: relacao_entre_resistencia_e_pecado
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '17'
+  - '2'
+  - '305.8'
+  cdu_description: Psicologia da criatividade e da motivação; Ética e moral; Religião; Estudos sociais e culturais
 ---
 
 # The War of Art (English Edition)

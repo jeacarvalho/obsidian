@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:33.466702+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pratica_deliberada
+    weight: 10
+    confidence: 0.98
+  - name: foco_intenso
+    weight: 9
+    confidence: 0.97
+  - name: desafios_gerenciaveis
+    weight: 8
+    confidence: 0.96
+  - name: saida_da_zona_de_conforto
+    weight: 7
+    confidence: 0.95
+  - name: mindfulness_no_trabalho
+    weight: 8
+    confidence: 0.94
+  - name: evitar_multitarefa
+    weight: 9
+    confidence: 0.93
+  - name: custo_troca_de_contexto
+    weight: 7
+    confidence: 0.92
+  - name: impacto_multitarefa_cognicao
+    weight: 6
+    confidence: 0.91
+  - name: oportunidade_de_crescimento
+    weight: 5
+    confidence: 0.9
+  - name: qualidade_sobre_quantidade_treino
+    weight: 8
+    confidence: 0.89
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '005.32'
+  - 159.944.2
+  cdu_description: Psicologia da performance e do desempenho; Psicologia da aprendizagem e da memória; Psicologia do trabalho e das organizações
+---
 #### a sensação de que vou falhar é o sinal de que estou diante de uma oportunidade de crescimento
 
 Amarelo destaque | Local: 719 Nota | Local: 719

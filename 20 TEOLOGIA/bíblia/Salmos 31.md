@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:36.331557+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: confianca_em_deus
+    weight: 10
+    confidence: 0.98
+  - name: livramento_divino
+    weight: 9
+    confidence: 0.95
+  - name: descanso_espiritual
+    weight: 8
+    confidence: 0.92
+  - name: alegria_em_deus
+    weight: 7
+    confidence: 0.9
+  - name: experimentar_deus
+    weight: 8
+    confidence: 0.88
+  - name: angustia_e_sofrimento
+    weight: 7
+    confidence: 0.85
+  - name: sensibilidade_artistica
+    weight: 6
+    confidence: 0.8
+  - name: empatia_com_pecadores
+    weight: 6
+    confidence: 0.78
+  - name: proposito_de_vida
+    weight: 9
+    confidence: 0.88
+  - name: protecao_divina
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '248.4'
+  - '223.2'
+  cdu_description: Teologia cristã; Doutrinas gerais da religião cristã; Vida cristã; Oração e meditação; Salmos
+---
 Porque tu és a minha rocha e a minha fortaleza; por causa do teu nome, tu me conduzirás e me guiarás. Salmos 31:3 NAA  
 - a relação de nosso livramento como um compromisso do Senhor com Ele mesmo, com Seu nome, et constante  
 - talvez devemos aprender a descansar mais nisso. É por causa Dele mesmo e não por causa de nossa capacidade.  [[Descanso]]

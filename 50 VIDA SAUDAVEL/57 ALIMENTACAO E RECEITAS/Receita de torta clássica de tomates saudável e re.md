@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:51.821349+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: receita_torta_tomate
+    weight: 10
+    confidence: 0.98
+  - name: culinaria_saudavel
+    weight: 9
+    confidence: 0.95
+  - name: ingredientes_massa_torta
+    weight: 8
+    confidence: 0.92
+  - name: ingredientes_recheio_torta
+    weight: 8
+    confidence: 0.92
+  - name: preparo_massa_torta
+    weight: 7
+    confidence: 0.9
+  - name: preparo_recheio_torta
+    weight: 7
+    confidence: 0.9
+  - name: montagem_torta
+    weight: 6
+    confidence: 0.88
+  - name: abobora_cabotianacozida
+    weight: 6
+    confidence: 0.85
+  - name: farinha_grao_bico
+    weight: 5
+    confidence: 0.8
+  - name: tomate_italiano
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '641.5'
+  cdu_secondary:
+  - 641.563.8
+  - '641.551'
+  - '641.578'
+  cdu_description: Culinária. Artes culinárias. Cozinha. Gastronomia. Preparação de alimentos. Receitas. Cozinha vegetariana. Cozinha com vegetais. Cozinha com frutas. Cozinha com grãos.
+---
 Receita de torta clássica de tomates saudável e reinventada
 
 #  Receita de torta clássica de tomates saudável e reinventada

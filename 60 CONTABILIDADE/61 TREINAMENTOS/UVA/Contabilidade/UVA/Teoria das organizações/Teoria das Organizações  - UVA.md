@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:41.768535+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: administracao_cientifica_taylor
+    weight: 10
+    confidence: 0.98
+  - name: organizacao_racional_do_trabalho
+    weight: 9
+    confidence: 0.92
+  - name: teoria_classica_fayol
+    weight: 9
+    confidence: 0.95
+  - name: funcoes_administrativas_fayol
+    weight: 8
+    confidence: 0.93
+  - name: principio_homo_economicus
+    weight: 8
+    confidence: 0.9
+  - name: estudo_tempo_padrao
+    weight: 7
+    confidence: 0.85
+  - name: selecao_treinamento_trabalhador
+    weight: 7
+    confidence: 0.88
+  - name: divisao_trabalho_responsabilidade
+    weight: 7
+    confidence: 0.87
+  - name: reducao_fadiga_gilbreth
+    weight: 6
+    confidence: 0.82
+  - name: cooperacao_remuneracao_trabalhador
+    weight: 6
+    confidence: 0.8
+  cdu_primary: '658.01'
+  cdu_secondary: []
+  cdu_description: Teoria e prática da administração
+---
 # Bibligrafia
 - Livro básico: [[TDO_LD_PDF.pdf]]
 - MAXIMIANO, Antonio Cesar Amaru. Teoria Geral da Administração. 2. ed. São Paulo: Pearson, 2012. https://integrada.minhabiblioteca.com.br/reader/books/9788597012460/epubcfi/6/2[%3Bvnd.vst.idref%3Dbody001]!/4/2/2%4051:42

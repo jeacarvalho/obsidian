@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:50.732335+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: superacao_dependencia_quimica
+    weight: 10
+    confidence: 0.98
+  - name: empreendedorismo_feminino
+    weight: 9
+    confidence: 0.95
+  - name: reintegracao_social_ex_detentos
+    weight: 8
+    confidence: 0.92
+  - name: tratamento_dependencia_crack
+    weight: 8
+    confidence: 0.9
+  - name: historia_vida_transformacao
+    weight: 7
+    confidence: 0.88
+  - name: gastronomia_confeitaria
+    weight: 7
+    confidence: 0.85
+  - name: reducao_danos_drogas
+    weight: 6
+    confidence: 0.8
+  - name: cracolandia_contexto_social
+    weight: 6
+    confidence: 0.78
+  - name: relacionamento_interpessoal_apoio
+    weight: 5
+    confidence: 0.75
+  - name: preconceito_social_ex_dependentes
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '364.6'
+  cdu_secondary:
+  - '305.8'
+  - '396'
+  - '641.5'
+  cdu_description: Assistência social a toxicômanos; Reintegração social de ex-detentos; Mulheres e a sociedade; Gastronomia
+---
 De usuária de crack a dona de confeitaria: a trajetória da mulher que saiu da cracolândia e virou empresária
 
 # De usuária de crack a dona de confeitaria: a trajetória da mulher que saiu da cracolândia e virou empresária

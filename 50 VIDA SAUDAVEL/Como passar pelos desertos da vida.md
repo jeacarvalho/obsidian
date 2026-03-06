@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:21.529576+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cristianismo_em_adversidade
+    weight: 8
+    confidence: 0.9
+  - name: deserto_espiritual
+    weight: 10
+    confidence: 1.0
+  - name: provas_divinas_e_carater
+    weight: 9
+    confidence: 0.95
+  - name: promessas_divinas
+    weight: 7
+    confidence: 0.85
+  - name: orientacao_divina_no_deserto
+    weight: 8
+    confidence: 0.9
+  - name: fe_e_oracao_no_deserto
+    weight: 9
+    confidence: 0.95
+  - name: amadurecimento_espiritual_em_prova
+    weight: 7
+    confidence: 0.8
+  - name: tentacao_em_momentos_dificeis
+    weight: 6
+    confidence: 0.75
+  - name: perseveranca_na_fe
+    weight: 8
+    confidence: 0.9
+  - name: gratidao_e_louvor_em_adversidade
+    weight: 7
+    confidence: 0.85
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '248.2'
+  - '248.3'
+  cdu_description: Teologia cristã; Vida e prática cristãs; Experiência religiosa
+---
 Pastor Nassif 20110828 noite
 
 - É fácil ser cristão qdo tudo esta bem

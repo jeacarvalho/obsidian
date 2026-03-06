@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:22.613032+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: habilidade_tecnica_ti
+    weight: 8
+    confidence: 0.9
+  - name: desenvolvimento_software
+    weight: 7
+    confidence: 0.85
+  - name: suporte_rede
+    weight: 6
+    confidence: 0.8
+  - name: administracao_gestao
+    weight: 9
+    confidence: 0.92
+  - name: planejamento_projetos_ti
+    weight: 7
+    confidence: 0.88
+  - name: analise_sistemas
+    weight: 8
+    confidence: 0.91
+  - name: visao_sistemica
+    weight: 7
+    confidence: 0.87
+  - name: habilidade_politica_empresarial
+    weight: 9
+    confidence: 0.93
+  - name: relacionamento_interpessoal_ti
+    weight: 6
+    confidence: 0.82
+  - name: lideranca_tecnica
+    weight: 7
+    confidence: 0.86
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '005.3'
+  - '316.46'
+  - '331.1'
+  cdu_description: Gestão e administração de sistemas de informação e tecnologia, com foco nas habilidades técnicas, conceituais e relacionais de profissionais de TI em empresas públicas.
+---
 Habi técnicas
 
 Habi técnicas

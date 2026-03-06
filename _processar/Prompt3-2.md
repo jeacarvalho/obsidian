@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:33.298688+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: metodologia_ensino_socratico
+    weight: 10
+    confidence: 0.98
+  - name: tutor_ia_construtivista
+    weight: 9
+    confidence: 0.97
+  - name: dialogo_socratico_verificacao
+    weight: 8
+    confidence: 0.96
+  - name: analise_caso_estilo_harvard
+    weight: 8
+    confidence: 0.95
+  - name: feedback_construtivo_aprendizagem
+    weight: 7
+    confidence: 0.94
+  - name: pratica_exame_multipla_escolha
+    weight: 7
+    confidence: 0.93
+  - name: fundamentacao_fontes_citacao
+    weight: 8
+    confidence: 0.92
+  - name: resumo_acumulado_conteudo
+    weight: 6
+    confidence: 0.91
+  - name: questionario_fim_texto
+    weight: 6
+    confidence: 0.9
+  - name: tom_estilo_didatico_encorajador
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '371.3'
+  cdu_secondary:
+  - '004.9'
+  - '101.4'
+  cdu_description: Métodos de ensino, Tutoria assistida por computador, Pedagogia construtivista, Diálogo socrático, Análise de casos, Feedback, Avaliação educacional, Citação de fontes, Resumo de conteúdo, Estilo de comunicação didática.
+---
 Com certeza. É uma excelente prática guardar a versão final do nosso método de trabalho. Fico muito feliz com a forma como o aprimoramos juntos.
 
 Aqui está o `Prompt de Tutoria V3.2`, a nossa versão mais atual e completa, que usaremos daqui para a frente.

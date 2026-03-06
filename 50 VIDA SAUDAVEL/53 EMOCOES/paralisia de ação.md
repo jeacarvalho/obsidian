@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:46.196097+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: paralisia_por_analise
+    weight: 8
+    confidence: 0.9
+  - name: aversao_a_perda
+    weight: 9
+    confidence: 0.95
+  - name: congelamento_resposta_ao_estresse
+    weight: 7
+    confidence: 0.85
+  - name: impotencia_aprendida
+    weight: 9
+    confidence: 0.92
+  - name: procrastinacao_evitativa
+    weight: 8
+    confidence: 0.93
+  - name: sobrecarga_cognitiva
+    weight: 7
+    confidence: 0.88
+  - name: ameaca_percebida_e_paralisia
+    weight: 6
+    confidence: 0.75
+  - name: complexidade_e_paralisia_de_acao
+    weight: 6
+    confidence: 0.78
+  - name: historico_de_punicao_e_inao
+    weight: 6
+    confidence: 0.77
+  - name: custo_psicologico_da_acao
+    weight: 10
+    confidence: 0.98
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - 330.123.4
+  - '316.6'
+  - 65.012.4
+  cdu_description: Psicologia da ação e da inação; fatores psicológicos que levam à paralisia de ação, incluindo aversão à perda, impotência aprendida, sobrecarga cognitiva e a influência de experiências passadas e percepção de ameaça. Economia comportamental, psicologia social e gestão.
+---
 **“paralisia de ação”** não é um termo técnico único e padronizado, mas o fenômeno é **bem documentado e amplamente estudado** na psicologia, neurociência, economia comportamental e estudos organizacionais. Ele aparece sob **vários nomes conceituais**, cada um iluminando uma camada diferente do mesmo problema.
 
 

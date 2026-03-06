@@ -1,8 +1,55 @@
 ---
 created: 2023-06-06T12:57:15 (UTC -03:00)
-tags: [História,Ciclismo,Transporte,Indústria,Inovação]
+tags:
+- História
+- Ciclismo
+- Transporte
+- Indústria
+- Inovação
 source: https://www.nationalgeographicbrasil.com/historia/2023/06/como-as-bicicletas-transformaram-o-mundo
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:50.179840+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_da_bicicleta
+    weight: 10
+    confidence: 0.98
+  - name: impacto_social_da_bicicleta
+    weight: 9
+    confidence: 0.97
+  - name: emancipacao_feminina_e_bicicleta
+    weight: 8
+    confidence: 0.96
+  - name: inovacao_tecnologica_bicicleta
+    weight: 7
+    confidence: 0.95
+  - name: industria_fabricacao_bicicletas
+    weight: 7
+    confidence: 0.94
+  - name: mobilidade_urbana_historica
+    weight: 6
+    confidence: 0.93
+  - name: transporte_acessivel_historico
+    weight: 6
+    confidence: 0.92
+  - name: invencao_bicicleta_seguranca
+    weight: 8
+    confidence: 0.91
+  - name: evolucao_pneu_bicicleta
+    weight: 5
+    confidence: 0.9
+  - name: ciclismo_como_fenomeno_cultural
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '629.113'
+  cdu_secondary:
+  - '316.3'
+  - '396'
+  - '001.891'
+  - '338.45'
+  cdu_description: 629.113 Veículos de propulsão humana. Bicicletas. 316.3 Sociologia da cultura e da civilização. 396 Condição e papel da mulher. 001.891 Inovação. 338.45 Indústria.
 ---
 [[Bike]]
 # Como as bicicletas transformaram o mundo | National Geographic

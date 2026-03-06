@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:56.333151+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lideranca_organizacional
+    weight: 10
+    confidence: 0.98
+  - name: motivacao_intrinseca_e_extrinseca
+    weight: 9
+    confidence: 0.95
+  - name: colaboracao_em_equipe
+    weight: 8
+    confidence: 0.92
+  - name: mindset_de_crescimento
+    weight: 7
+    confidence: 0.9
+  - name: teorias_de_lideranca_x_e_y
+    weight: 7
+    confidence: 0.88
+  - name: lideranca_situacional
+    weight: 8
+    confidence: 0.85
+  - name: inteligencia_emocional
+    weight: 9
+    confidence: 0.93
+  - name: tomada_de_decisao_organizacional
+    weight: 8
+    confidence: 0.89
+  - name: proposito_organizacional
+    weight: 6
+    confidence: 0.8
+  - name: felicidade_e_desempenho
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '658.3'
+  cdu_secondary:
+  - '159.947'
+  - '303.3'
+  - '316.46'
+  cdu_description: Gestão de pessoal. Administração de empresas. Liderança. Motivação. Inteligência emocional. Tomada de decisão. Colaboração.
+---
 Coursera. “Introduction to the Organizational Leadership Specialization with Dean Blount”. Acessado 22 de dezembro de 2020. [https://www.coursera.org/learn/leadership-collaboration/lecture/20orc/introduction-to-the-organizational-leadership-specialization-with-dean-blount](https://www.coursera.org/learn/leadership-collaboration/lecture/20orc/introduction-to-the-organizational-leadership-specialization-with-dean-blount).
 
 Parte do curso "High Performance Collaboration: Leadership, Teamwork, and Negotiation"

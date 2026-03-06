@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:21.743116+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_igreja_crista
+    weight: 10
+    confidence: 0.98
+  - name: desafios_comunidade_religiosa
+    weight: 9
+    confidence: 0.95
+  - name: planejamento_estrategico_igreja
+    weight: 8
+    confidence: 0.92
+  - name: lideranca_pastoral
+    weight: 7
+    confidence: 0.9
+  - name: impacto_pandemia_igrejas
+    weight: 8
+    confidence: 0.93
+  - name: evangelismo_e_missao
+    weight: 6
+    confidence: 0.85
+  - name: relacionamento_comunitario_igreja
+    weight: 7
+    confidence: 0.88
+  - name: identidade_crista_organizacional
+    weight: 9
+    confidence: 0.91
+  - name: discipulado_e_crescimento_espiritual
+    weight: 6
+    confidence: 0.87
+  - name: administracao_imoveis_igreja
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '27'
+  cdu_secondary:
+  - 27-28
+  - '316.47'
+  cdu_description: Religião. Teologia. Organização e administração de igrejas cristãs. Sociologia da religião. Impacto social e comunitário.
+---
 Pessoal, boa tarde. Todos bem? Espero que sim!
 
 (esse email acabou virando um "testamento".. Puxem uma cadeira se estão de pé...kkkk)  

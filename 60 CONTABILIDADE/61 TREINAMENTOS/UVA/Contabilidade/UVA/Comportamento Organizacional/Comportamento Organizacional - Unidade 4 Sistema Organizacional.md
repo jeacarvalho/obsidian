@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:41.235950+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: estrutura_organizacional
+    weight: 10
+    confidence: 0.98
+  - name: departamentalizacao
+    weight: 9
+    confidence: 0.95
+  - name: cadeia_de_comando
+    weight: 7
+    confidence: 0.85
+  - name: amplitude_de_controle
+    weight: 7
+    confidence: 0.85
+  - name: centralizacao_descentralizacao
+    weight: 8
+    confidence: 0.9
+  - name: formalizacao_organizacional
+    weight: 7
+    confidence: 0.88
+  - name: cultura_organizacional
+    weight: 10
+    confidence: 0.97
+  - name: identidade_organizacional
+    weight: 6
+    confidence: 0.8
+  - name: etica_empresarial
+    weight: 9
+    confidence: 0.96
+  - name: moral_organizacional
+    weight: 6
+    confidence: 0.82
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '316.46'
+  - '174'
+  cdu_description: Organização do trabalho. Gestão. Relações de trabalho. Sociologia do trabalho. Ética nos negócios.
+---
 # Objetivo
 >Ao final desta unidade, você deverá ser capaz de: Compreender o sistema organizacional, sua estrutura, [[cultura]], clima, política e ética.
 

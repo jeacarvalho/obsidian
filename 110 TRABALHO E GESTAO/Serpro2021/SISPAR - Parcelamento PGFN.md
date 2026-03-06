@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:54.386409+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: evolucao_sispar
+    weight: 10
+    confidence: 0.98
+  - name: desacoplamento_sistemas
+    weight: 9
+    confidence: 0.95
+  - name: arquitetura_software
+    weight: 9
+    confidence: 0.92
+  - name: redesenho_arquitetural
+    weight: 8
+    confidence: 0.9
+  - name: integracao_sistemas
+    weight: 7
+    confidence: 0.88
+  - name: fila_mensagens
+    weight: 7
+    confidence: 0.85
+  - name: escalabilidade_software
+    weight: 8
+    confidence: 0.87
+  - name: desenvolvimento_paralelo
+    weight: 6
+    confidence: 0.8
+  - name: planejamento_projetos
+    weight: 7
+    confidence: 0.82
+  - name: gerenciamento_equipes
+    weight: 6
+    confidence: 0.78
+  cdu_primary: '004.2'
+  cdu_secondary:
+  - '004.4'
+  - '004.7'
+  - '005.3'
+  cdu_description: Arquitetura de sistemas de informação; Sistemas de gestão; Sistemas de processamento de dados; Sistemas de comunicação de dados
+---
 # Descrição: Evolução do SISPAR
 
 | links | Arquivos | 

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:27.848008+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: valor_da_leitura_de_livros
+    weight: 10
+    confidence: 0.98
+  - name: experiencias_multiplas_atraves_de_livros
+    weight: 9
+    confidence: 0.97
+  - name: livros_como_maquina_do_tempo
+    weight: 8
+    confidence: 0.96
+  - name: livros_e_empatia
+    weight: 8
+    confidence: 0.95
+  - name: identificacao_com_personagens_literarios
+    weight: 7
+    confidence: 0.94
+  - name: sabedoria_acumulada_em_livros
+    weight: 7
+    confidence: 0.93
+  - name: humor_e_autocritica_pessoal
+    weight: 6
+    confidence: 0.92
+  - name: aprendizado_continuo_ao_longo_da_vida
+    weight: 6
+    confidence: 0.91
+  - name: perspectiva_do_leitor_na_interpretacao
+    weight: 5
+    confidence: 0.9
+  - name: aceitacao_da_imperfeicao_humana
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '82.0'
+  cdu_secondary:
+  - 008
+  - '17'
+  - '305.8'
+  cdu_description: Teoria e crítica literária; Cultura e civilização; Ética; Relações raciais e étnicas
+---
 fonte: https://jamesclear.com/3-2-1/august-3-2023
 
 **Gene Roddenberry,** television screenwriter and creator of _Star Trek_, on the value of reading books:

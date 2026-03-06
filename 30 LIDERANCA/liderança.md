@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:03.322886+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lideranca_situacional
+    weight: 10
+    confidence: 0.9
+  - name: autonomia_subordinados
+    weight: 8
+    confidence: 0.85
+  - name: tomada_decisao_lideranca
+    weight: 9
+    confidence: 0.92
+  - name: gestao_pessoas_centrada_no_humano
+    weight: 7
+    confidence: 0.88
+  - name: lideranca_na_incerteza
+    weight: 9
+    confidence: 0.91
+  - name: motivacao_equipes
+    weight: 7
+    confidence: 0.8
+  - name: seguranca_psicologica_ambiente_trabalho
+    weight: 8
+    confidence: 0.87
+  - name: lidando_com_complexidade_organizacional
+    weight: 6
+    confidence: 0.75
+  - name: organizacao_atraente
+    weight: 5
+    confidence: 0.7
+  - name: coesao_equipe
+    weight: 6
+    confidence: 0.78
+  cdu_primary: '658.3'
+  cdu_secondary:
+  - '658.4'
+  - '159.947'
+  cdu_description: Gestão de pessoal. Administração de pessoal. Recursos humanos. Liderança. Motivação. Segurança psicológica. Gestão de equipas.
+---
 Segundo [[bungay2011-The art of action]] 
 	- suas bases são a tarefa e a situação, o contexto
 	- parte da arte de liderar é reconhecer o momento e as circunstâncias de que uma nova decisão é necessária.

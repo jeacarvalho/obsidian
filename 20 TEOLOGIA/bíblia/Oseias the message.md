@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:27.592754+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: corrupcao_sacerdotal
+    weight: 10
+    confidence: 0.98
+  - name: apostasia_religiosa
+    weight: 9
+    confidence: 0.95
+  - name: idolatria_e_culto_falso
+    weight: 9
+    confidence: 0.96
+  - name: falta_de_conhecimento_divino
+    weight: 8
+    confidence: 0.93
+  - name: pecado_e_suas_consequencias
+    weight: 8
+    confidence: 0.94
+  - name: critica_aos_profetas
+    weight: 7
+    confidence: 0.9
+  - name: relacao_sacerdote_povo
+    weight: 7
+    confidence: 0.92
+  - name: arrogancia_e_auto_suficiencia
+    weight: 6
+    confidence: 0.88
+  - name: justica_divina_e_julgamento
+    weight: 6
+    confidence: 0.91
+  - name: arrependimento_e_restauracao
+    weight: 5
+    confidence: 0.85
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '235.3'
+  - '241.1'
+  - '273.2'
+  cdu_description: Religião. Teologia. Ética. História das religiões. Religiões específicas. Cristianismo. História e geografia da igreja. Doutrinas. Ética cristã. Pecado. Salvação. Juízo final.
+---
 Oseias the message
 
 Hos 4:10

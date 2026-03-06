@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:46.429182+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: tecnicas_escrita_concisa
+    weight: 8
+    confidence: 0.9
+  - name: memoria_escrita_ficcao
+    weight: 9
+    confidence: 0.95
+  - name: inspiracao_escrita_criativa
+    weight: 7
+    confidence: 0.85
+  - name: guia_pensante_escrita_seculo_21
+    weight: 8
+    confidence: 0.92
+  - name: estilo_clareza_graca_escrita
+    weight: 9
+    confidence: 0.96
+  - name: dicas_rapidas_vida_escrita
+    weight: 6
+    confidence: 0.8
+  - name: desenvolvimento_profissional_escritores
+    weight: 7
+    confidence: 0.88
+  - name: leitura_voraz_escritores
+    weight: 5
+    confidence: 0.75
+  - name: uso_emoticons_escrita
+    weight: 5
+    confidence: 0.7
+  - name: superacao_bloqueio_escritor
+    weight: 6
+    confidence: 0.82
+  cdu_primary: '808.0'
+  cdu_secondary:
+  - '808.04'
+  - '808.1'
+  - '808.2'
+  cdu_description: 808.0 - Arte de escrever em geral; 808.04 - Estilo; 808.1 - Escrita criativa; 808.2 - Escrita de ficção
+---
 Some Awesome Books on Writing – Summit Life with J.D. Greear
 
 # Some Awesome Books on Writing

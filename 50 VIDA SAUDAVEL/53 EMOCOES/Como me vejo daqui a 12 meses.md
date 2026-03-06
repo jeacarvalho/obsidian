@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:46.128905+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: superacao_medo_errar
+    weight: 9
+    confidence: 0.9
+  - name: superacao_medo_rejeicao
+    weight: 9
+    confidence: 0.9
+  - name: publicacao_musica_propria
+    weight: 8
+    confidence: 0.85
+  - name: realizacao_profissional_serpro
+    weight: 7
+    confidence: 0.8
+  - name: servico_religioso_cristao
+    weight: 6
+    confidence: 0.75
+  - name: melhora_saude_fisica
+    weight: 8
+    confidence: 0.9
+  - name: saude_familiar_ana
+    weight: 7
+    confidence: 0.8
+  - name: desenvolvimento_pessoal_carol
+    weight: 6
+    confidence: 0.7
+  - name: conclusao_formacao_academica
+    weight: 8
+    confidence: 0.85
+  - name: aquisicao_imovel_residencial
+    weight: 7
+    confidence: 0.8
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '316.6'
+  - '78'
+  - 27-29
+  - '613.2'
+  - '305.8'
+  cdu_description: Psicologia da personalidade e do comportamento. Psicologia social. Música. Religião. Saúde. Sociologia.
+---
 # 20240423
 - Talvez esse seja um dos itens mais difíceis para mim, por tudo o que já falei sobre [[medo de errar]], [[MEDO DA REJEIÇÃO]]
 - Mas vou tentar.,

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:26.352893+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: manipulacao_mental_consumista
+    weight: 10
+    confidence: 0.98
+  - name: design_de_aplicativos_viciantes
+    weight: 9
+    confidence: 0.95
+  - name: sindrome_da_vibracao_fantasma
+    weight: 8
+    confidence: 0.92
+  - name: prazeres_criados_vs_prazeres_reais
+    weight: 7
+    confidence: 0.88
+  - name: escravidao_de_habitos
+    weight: 7
+    confidence: 0.85
+  - name: distracao_causada_por_smartphones
+    weight: 9
+    confidence: 0.96
+  - name: controle_de_atencao_tecnologica
+    weight: 8
+    confidence: 0.93
+  - name: estrategias_de_autocontrole
+    weight: 7
+    confidence: 0.89
+  - name: influencia_do_capitalismo_na_mente
+    weight: 9
+    confidence: 0.94
+  - name: natureza_do_prazer_humano
+    weight: 6
+    confidence: 0.8
+  cdu_primary: '305.4'
+  cdu_secondary:
+  - '159.942'
+  - '316.7'
+  - '004.777'
+  cdu_description: 305.4 - Mulheres e a sociedade. 159.942 - Emoções e sentimentos. 316.7 - Influência social e comunicação de massa. 004.777 - Aplicações de redes de computadores e telecomunicações (smartphones).
+---
 #### nossa época é a da manipulação poderosa de nossas mentes para que sejamos máquinas consumidoras
 ---
 Amarelo destaque | Local: 893 Nota | Local: 893

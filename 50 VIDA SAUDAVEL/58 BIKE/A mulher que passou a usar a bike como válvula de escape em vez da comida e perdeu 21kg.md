@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:49.944841+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: perda_de_peso_emocional
+    weight: 10
+    confidence: 0.98
+  - name: ciclismo_indoor_spinning
+    weight: 9
+    confidence: 0.97
+  - name: controle_da_alimentacao_emocional
+    weight: 9
+    confidence: 0.96
+  - name: efeito_sanfona_reversao
+    weight: 8
+    confidence: 0.95
+  - name: mudanca_de_habitos_alimentares
+    weight: 7
+    confidence: 0.94
+  - name: disciplina_em_treinamento_fisico
+    weight: 7
+    confidence: 0.93
+  - name: autocontrole_emocional_e_comida
+    weight: 8
+    confidence: 0.92
+  - name: atividade_fisica_prazerosa
+    weight: 6
+    confidence: 0.91
+  - name: gerenciamento_de_estresse_via_exercicio
+    weight: 7
+    confidence: 0.9
+  - name: transformacao_corporal_sustentavel
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '613.2'
+  cdu_secondary:
+  - '613.7'
+  - '159.947'
+  cdu_description: Dietética. Nutrição. Alimentação. Higiene alimentar. Exercícios físicos. Psicologia do esporte. Controle emocional.
+---
 "Passei a descontar as emoções no pedal em vez de na comida e perdi 21 kg"
 
 #  "Passei a descontar as emoções no pedal em vez de na comida e perdi 21 kg"

@@ -2,6 +2,46 @@
 copista: meditation
 source: 20 TEOLOGIA/23 DENOMINACAO/IpbPiratininga/Missão iPB Piratininga.md
 created: 2026-01-09
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:24.355028+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: missao_da_igreja
+    weight: 10
+    confidence: 0.98
+  - name: acolhimento_comunitario
+    weight: 9
+    confidence: 0.95
+  - name: comunhao_eclesial
+    weight: 8
+    confidence: 0.92
+  - name: pratica_da_misericordia
+    weight: 7
+    confidence: 0.9
+  - name: justica_social_na_igreja
+    weight: 7
+    confidence: 0.88
+  - name: fidelidade_as_escrituras
+    weight: 8
+    confidence: 0.93
+  - name: evangelismo_integral
+    weight: 9
+    confidence: 0.94
+  - name: alcance_missionario_local
+    weight: 6
+    confidence: 0.85
+  - name: alcance_missionario_urbano
+    weight: 6
+    confidence: 0.85
+  - name: alcance_missionario_global
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '27'
+  cdu_secondary:
+  - 27-07
+  - '261.8'
+  cdu_description: Teologia cristã. Doutrina cristã. Missões. Ética social cristã.
 ---
 
 # Meditações sobre "Missão iPB Piratininga"

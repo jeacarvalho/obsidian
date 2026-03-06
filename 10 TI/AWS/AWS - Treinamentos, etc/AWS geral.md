@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:59.681793+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: seguranca_aws_iam
+    weight: 10
+    confidence: 0.98
+  - name: gerenciamento_acesso_aws_iam
+    weight: 9
+    confidence: 0.97
+  - name: criptografia_aws_kms
+    weight: 9
+    confidence: 0.96
+  - name: configuracao_rede_aws_vpc
+    weight: 8
+    confidence: 0.95
+  - name: armazenamento_aws_s3
+    weight: 8
+    confidence: 0.94
+  - name: computacao_aws_ec2
+    weight: 7
+    confidence: 0.93
+  - name: escalabilidade_aws_ec2_auto_scaling
+    weight: 7
+    confidence: 0.92
+  - name: monitoramento_aws_cloudwatch
+    weight: 6
+    confidence: 0.91
+  - name: auditoria_aws_cloudtrail
+    weight: 6
+    confidence: 0.9
+  - name: consultas_dados_aws_athena
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '004.8'
+  - '004.6'
+  - '004.7'
+  cdu_description: Sistemas de computadores. Redes de computadores. Segurança de computadores. Gerenciamento de sistemas. Armazenamento de dados. Computação em nuvem.
+---
 # Mapeando o assunto
 - [[Architecting for Security on AWS]]
 - [[Architecting for Security on AWS _ Pluralsight]]

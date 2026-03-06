@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:21.643715+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: suspensao_atividades_religiosas
+    weight: 10
+    confidence: 0.98
+  - name: pandemia_covid_19
+    weight: 9
+    confidence: 0.97
+  - name: transmissao_online_cultos
+    weight: 8
+    confidence: 0.95
+  - name: devocional_familiar_em_casa
+    weight: 7
+    confidence: 0.93
+  - name: contribuicoes_financeiras_igreja
+    weight: 8
+    confidence: 0.96
+  - name: gestao_financeira_igreja
+    weight: 6
+    confidence: 0.9
+  - name: fe_e_confianca_em_deus
+    weight: 7
+    confidence: 0.92
+  - name: lideranca_eclesiastica
+    weight: 5
+    confidence: 0.85
+  - name: comunicacao_governamental_restricoes
+    weight: 6
+    confidence: 0.88
+  - name: projeto_social_educacional_igreja
+    weight: 5
+    confidence: 0.87
+  cdu_primary: '284.5'
+  cdu_secondary:
+  - '316.47'
+  - '336.2'
+  - '004.77'
+  cdu_description: 284.5 - Protestantismo (Igrejas Presbiterianas); 316.47 - Impacto social das tecnologias de comunicação; 336.2 - Finanças públicas e privadas; 004.77 - Transmissão de dados pela internet
+---
 Mensagem pandemia início
 
 Queridos irmãos e irmãs,

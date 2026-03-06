@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:53.958930+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: receita_low_carb
+    weight: 9
+    confidence: 0.98
+  - name: ingredientes_salgados
+    weight: 8
+    confidence: 0.95
+  - name: farinha_de_amendoas
+    weight: 7
+    confidence: 0.92
+  - name: queijo_mussarela
+    weight: 6
+    confidence: 0.88
+  - name: chia_na_culinaria
+    weight: 7
+    confidence: 0.9
+  - name: fermento_em_po
+    weight: 6
+    confidence: 0.85
+  - name: alecrim_temperos
+    weight: 5
+    confidence: 0.8
+  - name: creme_de_leite_culinaria
+    weight: 6
+    confidence: 0.87
+  - name: ovos_culinaria
+    weight: 6
+    confidence: 0.86
+  - name: instrucoes_assar
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '641.5'
+  cdu_secondary: []
+  cdu_description: Culinária. Arte culinária. Cozinha. Preparação de alimentos. Receitas
+---
 INGREDIENTES DA RECEITA: 
 - 3 colheres de sopa de água 
 - 3 colheres de sopa de creme de leite

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:50.105048+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: treinamento_capacitacao_nuvem
+    weight: 8
+    confidence: 0.9
+  - name: evolucao_capacitacao_parceiros
+    weight: 7
+    confidence: 0.85
+  - name: roadmap_cloud_one
+    weight: 9
+    confidence: 0.95
+  - name: armazenamento_objetos_cloudian
+    weight: 6
+    confidence: 0.7
+  - name: automacao_vmware_aria
+    weight: 7
+    confidence: 0.8
+  - name: fila_mensagens_vmware_rabbitmq
+    weight: 6
+    confidence: 0.75
+  - name: banco_dados_como_servico_vmware_dms
+    weight: 7
+    confidence: 0.8
+  - name: comparacao_ferramentas_multicloud
+    weight: 9
+    confidence: 0.92
+  - name: custo_projeto_multicloud
+    weight: 8
+    confidence: 0.88
+  - name: evolucao_trabalho_multicloud
+    weight: 7
+    confidence: 0.82
+  cdu_primary: '004.7'
+  cdu_secondary:
+  - '004.4'
+  - '004.5'
+  - '004.6'
+  cdu_description: Redes de computadores. Sistemas de computadores. Processamento de dados. Gestão de dados. Armazenamento de dados. Serviços de dados. Automação de sistemas. Computação em nuvem.
+---
 ___
 ##  20230216 - CCoe de treinamentos nuvem com SUPED
 - Tarefa --> parceiros pedem informações de quanto está evoluindo a capacitação em suas clouds

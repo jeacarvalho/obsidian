@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:03.037073+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: preparacao_futuro_trabalho_servico_publico
+    weight: 10
+    confidence: 0.98
+  - name: reskilling_servidor_publico
+    weight: 9
+    confidence: 0.95
+  - name: desenvolvimento_competencias_gestores_publicos
+    weight: 8
+    confidence: 0.92
+  - name: cultura_aprendizagem_organizacional
+    weight: 7
+    confidence: 0.9
+  - name: mudancas_tecnologicas_trabalho
+    weight: 6
+    confidence: 0.88
+  - name: automacao_tarefas_servico_publico
+    weight: 6
+    confidence: 0.85
+  - name: treinamento_continuo_servidor
+    weight: 7
+    confidence: 0.91
+  - name: capacitacao_lideranca_publica
+    weight: 8
+    confidence: 0.93
+  - name: gestao_mudancas_forca_trabalho
+    weight: 9
+    confidence: 0.94
+  - name: ferramentas_desenvolvimento_carreira
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '351.1'
+  cdu_secondary:
+  - '331.5'
+  - '004.7'
+  - '37.01'
+  cdu_description: Administração pública. Administração geral. Serviço público. Gestão de pessoal. Formação profissional. Mudanças tecnológicas. Desenvolvimento de competências.
+---
 Evento organizado pela ENAP e transmitido pelo [youtube](https://www.youtube.com/watch?v=gn1MmcqeaOE)
 
 Divulgou um documento com um [estudo](http://www.oecd.org/gov/budgeting/preparing-the-workforce-for-change-in-a-context-of-uncertainty.pdf). Salvei: [[preparing-the-workforce-for-change-in-a-context-of-uncertainty.pdf]]

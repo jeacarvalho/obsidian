@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:22.092255+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: definicao_sucesso_holistico
+    weight: 7
+    confidence: 0.85
+  - name: superacao_conforto_certeza
+    weight: 8
+    confidence: 0.9
+  - name: proposito_maior_desafio
+    weight: 9
+    confidence: 0.92
+  - name: evitar_mudanca_necessaria
+    weight: 6
+    confidence: 0.8
+  - name: perspectiva_religiosa_pecado_graca
+    weight: 7
+    confidence: 0.88
+  - name: busca_por_equilibrio_na_vida
+    weight: 8
+    confidence: 0.91
+  - name: mudancas_grandes_insistencia
+    weight: 9
+    confidence: 0.93
+  - name: custo_aceleracao_constante
+    weight: 7
+    confidence: 0.87
+  - name: selecao_estrategica_de_batalhas
+    weight: 10
+    confidence: 0.95
+  - name: identificacao_prioridades_reais
+    weight: 10
+    confidence: 0.96
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '230'
+  - '305.4'
+  cdu_description: Psicologia da vida, desenvolvimento pessoal, ética e moral, teologia cristã, vida social e comportamento
+---
 #### quais são as minhas prioridades
 Azul destaque | Página: 23 Nota | Página: 23
 

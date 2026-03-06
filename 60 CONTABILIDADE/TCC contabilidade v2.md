@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:36.119876+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_contabil_economia_solidaria
+    weight: 10
+    confidence: 0.98
+  - name: inclusao_produtiva_economia_solidaria
+    weight: 9
+    confidence: 0.97
+  - name: capacitacao_negocios_economia_solidaria
+    weight: 8
+    confidence: 0.96
+  - name: infraestrutura_cicloviaria_niteroi
+    weight: 7
+    confidence: 0.95
+  - name: modelo_gestao_contabil_empreendimentos
+    weight: 8
+    confidence: 0.94
+  - name: desenvolvimento_local_sustentavel
+    weight: 6
+    confidence: 0.93
+  - name: autonomia_autogestao_economia_solidaria
+    weight: 7
+    confidence: 0.92
+  - name: mobilidade_urbana_sustentavel
+    weight: 5
+    confidence: 0.91
+  - name: indicadores_economicos_sociais_empreendimentos
+    weight: 6
+    confidence: 0.9
+  - name: tecnologias_sociais_economia_solidaria
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '334.0'
+  cdu_secondary:
+  - 330.341.5
+  - '351.713'
+  - '338.45'
+  cdu_description: Economia solidária e cooperativismo; Desenvolvimento econômico e social; Gestão e administração pública; Gestão de negócios.
+---
 Com certeza! Com base no seu tema e nas fontes fornecidas, apresento uma proposta de pré-projeto para o seu Trabalho de Conclusão de Curso:
 
 **Pré-Projeto de TCC**

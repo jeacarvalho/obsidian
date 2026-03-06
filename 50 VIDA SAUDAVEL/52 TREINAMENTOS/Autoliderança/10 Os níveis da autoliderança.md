@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:48.283003+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: autolideranca_niveis
+    weight: 10
+    confidence: 0.98
+  - name: metodo_gtddavid_allen
+    weight: 9
+    confidence: 0.95
+  - name: metodo_top_down
+    weight: 8
+    confidence: 0.9
+  - name: metodo_bottom_up
+    weight: 8
+    confidence: 0.9
+  - name: autolideranca_estrategica
+    weight: 7
+    confidence: 0.85
+  - name: autolideranca_tatica
+    weight: 7
+    confidence: 0.85
+  - name: autolideranca_operacional
+    weight: 7
+    confidence: 0.85
+  - name: gestao_de_tarefas_dia
+    weight: 6
+    confidence: 0.8
+  - name: definicao_de_metas_objetivos
+    weight: 6
+    confidence: 0.75
+  - name: processo_de_organizacao_pessoal
+    weight: 5
+    confidence: 0.7
+  cdu_primary: 159.947.5
+  cdu_secondary:
+  - '005.32'
+  - '005.8'
+  cdu_description: Psicologia da autoconsciência e da autodisciplina. Gestão e organização pessoal. Métodos de trabalho.
+---
 #### 10 Os níveis da autoliderança
 fonte: https://aartedaautoliderancamod-okbyyx.club.hotmart.com/lesson/meL0Mpoqen/10.-os-niveis-da-autolideranca
 ##### Os níveis do trabalho

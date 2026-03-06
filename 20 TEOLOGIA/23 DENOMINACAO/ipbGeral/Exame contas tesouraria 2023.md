@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:26.444676+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: auditoria_emprestimos_igreja
+    weight: 9
+    confidence: 0.9
+  - name: verificacao_atas_reuniao_pntr
+    weight: 8
+    confidence: 0.85
+  - name: aprovacao_financeira_missionarios
+    weight: 7
+    confidence: 0.8
+  - name: prestacao_contas_despesas_reuniao_pntr
+    weight: 9
+    confidence: 0.92
+  - name: documentacao_notas_fiscais_despesas
+    weight: 8
+    confidence: 0.88
+  - name: comprovacao_pagamento_carteira_presbiteros
+    weight: 7
+    confidence: 0.75
+  - name: envio_verba_plantacao_aquarius
+    weight: 6
+    confidence: 0.7
+  - name: nota_fiscal_honorarios_contabeis
+    weight: 6
+    confidence: 0.72
+  - name: acompanhamento_saldos_tesouraria
+    weight: 5
+    confidence: 0.65
+  - name: analise_emprestimo_betania_litoranea
+    weight: 8
+    confidence: 0.82
+  cdu_primary: '336.7'
+  cdu_secondary:
+  - 27-65
+  - '347.7'
+  cdu_description: Finanças e contabilidade de organizações religiosas; administração e gestão financeira de igrejas e instituições religiosas; auditoria e controle financeiro.
+---
 A) Anotações para possíveis acertos: 
 - 02.2023 - Empréstimo IP Betânia Litorânea - Parcelas 1 a 4/60R$3.000,00 Esse valor não parece estar de acordo com a descrição. Foram pagas 4 parcelas realmente?
 - 03.2023 - . Empréstimo Comunidade Presbiteriana da Freguesia R$20.000,00 - foi autorizada em qual ATA de reunião da CE/PNTR?

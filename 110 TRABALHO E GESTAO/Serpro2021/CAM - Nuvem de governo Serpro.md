@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:56.250775+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: precificacao_nuvem_governo
+    weight: 9
+    confidence: 0.9
+  - name: gestao_contas_multicloud
+    weight: 8
+    confidence: 0.85
+  - name: arquitetura_nuvem_governo
+    weight: 7
+    confidence: 0.8
+  - name: unidade_servico_nacional_usn
+    weight: 7
+    confidence: 0.75
+  - name: fluxo_isonomico
+    weight: 6
+    confidence: 0.7
+  - name: governanca_nuvem
+    weight: 6
+    confidence: 0.65
+  - name: treinamento_conteudo_agregado
+    weight: 5
+    confidence: 0.6
+  - name: balanceamento_buckets
+    weight: 5
+    confidence: 0.55
+  - name: esteira_devops_cam
+    weight: 5
+    confidence: 0.5
+  - name: enderecamento_ip
+    weight: 5
+    confidence: 0.45
+  cdu_primary: '004.7'
+  cdu_secondary:
+  - '330.1'
+  - '351.8'
+  cdu_description: Redes de computadores, sistemas de computadores distribuídos, computação em nuvem, governança de TI, administração pública.
+---
 l## 20251103 - Acompanhamento com Jonas
 - [ ] Ver com Curi o que fez no treinamento e agregar ao conteúdo
 

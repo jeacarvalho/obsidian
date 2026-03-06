@@ -2,6 +2,46 @@
 copista: meditation
 source: 50 VIDA SAUDAVEL/PRECISAMOS LIDAR COM OS PROBLEMAS. ELES NÃO IRÃO DESAPARECER.md
 created: 2026-01-09
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:58:28.553300+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: enfrentamento_de_problemas
+    weight: 10
+    confidence: 0.98
+  - name: autopercepcao_de_problemas
+    weight: 9
+    confidence: 0.95
+  - name: saude_e_bem_estar
+    weight: 8
+    confidence: 0.92
+  - name: relacionamentos_interpessoais
+    weight: 7
+    confidence: 0.88
+  - name: gestao_financeira
+    weight: 7
+    confidence: 0.85
+  - name: foco_e_atencao
+    weight: 8
+    confidence: 0.9
+  - name: motivacao_e_resiliencia
+    weight: 9
+    confidence: 0.93
+  - name: autocuidado_mental
+    weight: 8
+    confidence: 0.91
+  - name: criacao_de_tarefas
+    weight: 7
+    confidence: 0.87
+  - name: reflexao_pessoal
+    weight: 9
+    confidence: 0.94
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '305.8'
+  - '613.8'
+  cdu_description: Psicologia da vida prática. Psicologia do desenvolvimento pessoal. Autoajuda. Saúde e bem-estar. Relações interpessoais. Gestão de problemas.
 ---
 
 # Meditações sobre "[[PRECISAMOS LIDAR COM OS PROBLEMAS. ELES NÃO IRÃO DESAPARECER]]"

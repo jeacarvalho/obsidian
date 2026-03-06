@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:52.070806+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mudancas_tecnologicas_e_fe
+    weight: 9
+    confidence: 0.98
+  - name: alerta_neil_postman
+    weight: 10
+    confidence: 0.99
+  - name: tradeoff_tecnologico
+    weight: 8
+    confidence: 0.95
+  - name: sabedoria_antiga_vs_tecnologia
+    weight: 7
+    confidence: 0.9
+  - name: impacto_dos_computadores
+    weight: 8
+    confidence: 0.92
+  - name: desvantagens_tecnologicas
+    weight: 9
+    confidence: 0.96
+  - name: critica_a_inovacao_tecnologica
+    weight: 7
+    confidence: 0.88
+  - name: perspectiva_historica_tecnologia
+    weight: 6
+    confidence: 0.85
+  - name: equilibrio_cultural_e_tecnologia
+    weight: 7
+    confidence: 0.89
+  - name: consequencias_negativas_tecnologia
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '303.4'
+  cdu_secondary:
+  - '004'
+  - '316.7'
+  cdu_description: Metodologia e técnica de investigação em ciências sociais; Sociologia da tecnologia; Informática e sociedade
+---
 5 alertas sobre mudanças tecnológicas de Neil Postman • Voltemos ao Evangelho
 
 # 5 alertas sobre mudanças tecnológicas de Neil Postman

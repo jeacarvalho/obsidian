@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:09.428493+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mixagem_violao_acustico
+    weight: 10
+    confidence: 0.98
+  - name: tecnicas_de_bussing_audio
+    weight: 8
+    confidence: 0.95
+  - name: otimizacao_de_plugins_em_mixagem
+    weight: 7
+    confidence: 0.9
+  - name: reducao_de_mud
+    weight: 6
+    confidence: 0.85
+  - name: selecao_de_microfones_para_gravacao
+    weight: 7
+    confidence: 0.88
+  - name: balanceamento_de_instrumentos_em_mixagem
+    weight: 9
+    confidence: 0.97
+  - name: uso_de_faders_e_automacao
+    weight: 8
+    confidence: 0.92
+  - name: evitar_solo_em_mixagem
+    weight: 5
+    confidence: 0.8
+  - name: producao_musical_profissional
+    weight: 9
+    confidence: 0.96
+  - name: masterclass_de_producao_musical
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '781.6'
+  cdu_secondary:
+  - '781.61'
+  - '004.89'
+  cdu_description: Técnicas de mixagem e produção musical, com foco em instrumentos acústicos e uso de ferramentas digitais.
+---
 How to ACTUALLY Set Instrument Levels in a Mix | musicianonamission.com - Mix School #17
 
 # Mixing Acoustic Guitar - How to Get Professional Tones

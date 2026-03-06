@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:39.732921+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: valor_presente_liquido_vpl
+    weight: 10
+    confidence: 0.99
+  - name: taxa_interna_retorno_tir
+    weight: 9
+    confidence: 0.98
+  - name: analise_investimento_projeto
+    weight: 9
+    confidence: 0.97
+  - name: viabilidade_economica_projeto
+    weight: 8
+    confidence: 0.96
+  - name: calculo_vpl
+    weight: 8
+    confidence: 0.95
+  - name: fluxo_caixa_futuro
+    weight: 7
+    confidence: 0.94
+  - name: taxa_minima_atratividade_tma
+    weight: 7
+    confidence: 0.93
+  - name: vantagens_metodo_vpl
+    weight: 6
+    confidence: 0.92
+  - name: custo_capital_empresa
+    weight: 6
+    confidence: 0.91
+  - name: desvantagens_metodo_vpl
+    weight: 5
+    confidence: 0.9
+  cdu_primary: '658.15'
+  cdu_secondary:
+  - '336.7'
+  cdu_description: Finanças empresariais. Gestão financeira. Orçamento de capital. Análise de investimento. Valor presente líquido. Taxa interna de retorno. Fluxo de caixa. Custo de capital.
+---
 #  Unidade 1 - Indicadores financeiros de investimento
 
   * [Introdução](index.htm)

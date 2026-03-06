@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:56.753599+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sistema_sicar_cadastro_ambiental_rural
+    weight: 10
+    confidence: 0.98
+  - name: rastreabilidade_madeira_sisflora
+    weight: 8
+    confidence: 0.9
+  - name: simcar_mato_grosso_substituicao_sicar
+    weight: 9
+    confidence: 0.95
+  - name: tecnomapas_empresa_desenvolvimento_simcar
+    weight: 7
+    confidence: 0.85
+  - name: processamento_malha_entrada_simcar
+    weight: 7
+    confidence: 0.8
+  - name: infraestrutura_datacenter_sicar_hepta
+    weight: 8
+    confidence: 0.88
+  - name: arquitetura_sistema_sicar_java_angular_vue
+    weight: 9
+    confidence: 0.92
+  - name: banco_dados_postgres_postgis_sicar
+    weight: 8
+    confidence: 0.87
+  - name: geoprocessamento_arcgis_geoserver_sicar
+    weight: 7
+    confidence: 0.82
+  - name: docker_conteinerizacao_sicar_sem_k8s
+    weight: 6
+    confidence: 0.75
+  cdu_primary: '351.84'
+  cdu_secondary:
+  - '621.39'
+  - '004.451'
+  - '004.6'
+  - '004.77'
+  cdu_description: Administração pública. Legislação ambiental. Gestão ambiental. Sistemas de informação geográfica. Processamento de dados. Redes de computadores.
+---
 # Descrição:
 
 Absorção do sistema [SICAR](https://www.car.gov.br/#/sobre) 

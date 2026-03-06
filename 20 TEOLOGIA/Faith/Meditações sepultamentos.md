@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:15.604632+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: consolo_em_jesus
+    weight: 8
+    confidence: 0.9
+  - name: vida_apos_morte
+    weight: 10
+    confidence: 0.98
+  - name: esperanca_crista
+    weight: 9
+    confidence: 0.95
+  - name: recompensa_celestial
+    weight: 7
+    confidence: 0.85
+  - name: descanso_dos_santos
+    weight: 8
+    confidence: 0.92
+  - name: novo_ceu_e_nova_terra
+    weight: 10
+    confidence: 0.99
+  - name: ausencia_de_morte_e_dor
+    weight: 9
+    confidence: 0.96
+  - name: morada_celestial
+    weight: 7
+    confidence: 0.88
+  - name: fidelidade_e_fe
+    weight: 6
+    confidence: 0.8
+  - name: preciosidade_da_morte_dos_santos
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '236.3'
+  cdu_secondary:
+  - '232.9'
+  - '273.2'
+  cdu_description: Escatologia cristã; Vida após a morte; Esperança cristã; Novo Céu e Nova Terra; Morte dos justos.
+---
 Meditações sepultamentos
 
 [[João 14]]:1 — Jo 14:3 (Bíblia Almeida Strong)

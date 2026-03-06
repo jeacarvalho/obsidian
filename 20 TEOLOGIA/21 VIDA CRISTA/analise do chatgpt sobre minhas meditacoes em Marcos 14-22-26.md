@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:11.270933+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_meditacoes_cristo
+    weight: 8
+    confidence: 0.9
+  - name: dimensao_trinitaria_sacrificio_cristo
+    weight: 7
+    confidence: 0.85
+  - name: perspectiva_comunitaria_corpo_sangue_cristo
+    weight: 7
+    confidence: 0.85
+  - name: relacao_eternidade_humanidade_redencao
+    weight: 8
+    confidence: 0.9
+  - name: propostas_acoes_pessoais_gratidao_servico
+    weight: 6
+    confidence: 0.8
+  - name: analise_teologica_reformada_depravacao_grace
+    weight: 9
+    confidence: 0.95
+  - name: doutrina_soberania_divina_salvacao
+    weight: 9
+    confidence: 0.95
+  - name: sacrificio_substitutivo_cristo_calvino
+    weight: 8
+    confidence: 0.9
+  - name: encarnacao_amor_perfeito_bavinck
+    weight: 7
+    confidence: 0.85
+  - name: ceia_senhor_recordacao_anticipacao_ferguson
+    weight: 8
+    confidence: 0.9
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - '264.03'
+  - '231.7'
+  - '230.3'
+  cdu_description: Teologia cristã. Cristologia. Doutrina da salvação. Sacramentos. Teologia sistemática.
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Marcos 14]]-22-26
 **1. Análise Comportamental:**
 

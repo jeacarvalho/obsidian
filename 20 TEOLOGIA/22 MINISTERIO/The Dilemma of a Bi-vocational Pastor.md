@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:00:03.636284+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pastorado_bi_vocacional
+    weight: 10
+    confidence: 0.98
+  - name: dilemas_pastorais
+    weight: 9
+    confidence: 0.95
+  - name: gestao_tempo_pastoral
+    weight: 8
+    confidence: 0.92
+  - name: conciliacao_trabalho_ministerio
+    weight: 8
+    confidence: 0.9
+  - name: ministerio_pastoral
+    weight: 7
+    confidence: 0.88
+  - name: teologia_pratica
+    weight: 7
+    confidence: 0.85
+  - name: desafios_ministerio
+    weight: 6
+    confidence: 0.82
+  - name: organizacao_ministerial
+    weight: 6
+    confidence: 0.8
+  - name: vida_crista_pastor
+    weight: 5
+    confidence: 0.78
+  - name: formacao_pastoral
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '262.14'
+  cdu_secondary:
+  - '267.6'
+  - '331.1'
+  cdu_description: 262.14 - Pastores e ministros. 267.6 - Organização e administração de atividades religiosas. 331.1 - Relações de trabalho.
+---
 [[Ministério]]
 
 The Dilemma of a Bi-vocational Pastor

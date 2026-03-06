@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:27.625733+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: resistencia_a_mudanca
+    weight: 10
+    confidence: 0.98
+  - name: natureza_humana_superior_inferior
+    weight: 9
+    confidence: 0.95
+  - name: gratificacao_imediata_vs_crescimento_longo_prazo
+    weight: 8
+    confidence: 0.92
+  - name: forcas_produtivas_sociais
+    weight: 7
+    confidence: 0.9
+  - name: matriz_social_controladora
+    weight: 7
+    confidence: 0.88
+  - name: priorizacao_do_lucro
+    weight: 6
+    confidence: 0.85
+  - name: integridade_pessoal
+    weight: 6
+    confidence: 0.82
+  - name: busca_por_sustento_diario
+    weight: 5
+    confidence: 0.8
+  - name: luta_contra_inimigo_interno
+    weight: 5
+    confidence: 0.78
+  - name: autodesenvolvimento_e_saude
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '305.8'
+  - '170.4'
+  cdu_description: Filosofia da vida. Ética. Resistência a mudanças e desenvolvimento pessoal em face de pressões sociais e econômicas.
+---
 #### Estamos em uma matrix comandada pelas forças produtivas da sociedade
 Amarelo destaque | Página: 5 Nota | Página: 5
 

@@ -2,7 +2,46 @@
 created: 2021-03-23T19:11:09 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.42.4/b393d742cdd2/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:53.721500+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: rastreamento_de_habitos
+    weight: 8
+    confidence: 0.9
+  - name: importancia_da_constancia_em_habitos
+    weight: 9
+    confidence: 0.95
+  - name: qualidade_de_vida_depende_de_habitos
+    weight: 7
+    confidence: 0.85
+  - name: modelo_de_quatro_passos_para_habitos
+    weight: 6
+    confidence: 0.7
+  - name: superestimar_momentos_decisivos
+    weight: 7
+    confidence: 0.8
+  - name: valor_das_pequenas_melhorias_diarias
+    weight: 10
+    confidence: 0.98
+  - name: sucesso_resultado_de_habitos_diarios
+    weight: 9
+    confidence: 0.92
+  - name: trajetoria_atual_vs_resultados_atuais
+    weight: 8
+    confidence: 0.88
+  - name: foco_em_sistemas_em_vez_de_metas
+    weight: 10
+    confidence: 0.99
+  - name: maestria_requer_paciencia
+    weight: 7
+    confidence: 0.82
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '305.8'
+  cdu_description: Psicologia do comportamento. Hábitos. Desenvolvimento pessoal. Mudança de comportamento.
 ---
 
 Clear, James. _Atomic habits: tiny changes, remarkable results: an easy & proven way to build good habits & break bad ones_. New York: Avery, an imprint of Penguin Random House, 2018.

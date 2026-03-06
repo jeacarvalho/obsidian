@@ -1,13 +1,53 @@
 ---
-title: "Lampião e Maria Bonita"
-source: "https://chatgpt.com/c/67f06c7f-f65c-8007-9963-cb7d538d47ef"
+title: Lampião e Maria Bonita
+source: https://chatgpt.com/c/67f06c7f-f65c-8007-9963-cb7d538d47ef
 author:
-  - "[[ChatGPT]]"
-published:
+- '[[ChatGPT]]'
+published: null
 created: 2025-04-06
-description: "ChatGPT conversation with 28 turns"
+description: ChatGPT conversation with 28 turns
 tags:
-  - "clippings"
+- clippings
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:06.319649+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_nao_contada_lampiao_maria_bonita
+    weight: 9
+    confidence: 0.98
+  - name: cangaco_como_resistencia_fome_seca
+    weight: 8
+    confidence: 0.97
+  - name: motivacoes_vinganca_pai_lampiao
+    weight: 7
+    confidence: 0.96
+  - name: lampiao_instrumento_sistema_coronelista
+    weight: 10
+    confidence: 0.99
+  - name: maria_bonita_ruptura_papel_mulher_sertaneja
+    weight: 8
+    confidence: 0.97
+  - name: massacre_angico_traicao_estado
+    weight: 9
+    confidence: 0.98
+  - name: lampiao_maria_bonita_simbolos_brasil_rachado
+    weight: 7
+    confidence: 0.95
+  - name: cangaco_linguagem_grito_sertao
+    weight: 6
+    confidence: 0.94
+  - name: sertao_campo_guerra_politica_coronelismo
+    weight: 8
+    confidence: 0.96
+  - name: guerra_narrativas_construcao_imagem_cangaceiro
+    weight: 7
+    confidence: 0.95
+  cdu_primary: '323.2'
+  cdu_secondary:
+  - '305.8'
+  - '981.03'
+  cdu_description: O cangaço como fenômeno social e político no sertão nordestino, com ênfase na sua relação com o coronelismo, a resistência à injustiça e a construção de narrativas. Inclui a figura de Lampião e Maria Bonita como símbolos e a história não contada do sertão.
 ---
 ## ChatGPT
 

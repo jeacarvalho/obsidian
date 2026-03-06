@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:51.888466+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pizza_sem_gluten
+    weight: 10
+    confidence: 0.98
+  - name: receita_de_pizza
+    weight: 9
+    confidence: 0.97
+  - name: farinha_de_arroz
+    weight: 8
+    confidence: 0.95
+  - name: farinha_de_sarraceno
+    weight: 8
+    confidence: 0.94
+  - name: psyllium
+    weight: 7
+    confidence: 0.93
+  - name: goma_xantana
+    weight: 7
+    confidence: 0.92
+  - name: molho_de_tomate
+    weight: 6
+    confidence: 0.9
+  - name: doenca_celiaca
+    weight: 6
+    confidence: 0.88
+  - name: culinaria_sem_gluten
+    weight: 9
+    confidence: 0.96
+  - name: assar_pizza_no_forno
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '641.5'
+  cdu_secondary:
+  - '641.563'
+  - '613.262'
+  cdu_description: '641.5 - Arte culinária, cozinha, culinária; 641.563 - Cozinha dietética, culinária para doentes, culinária especial (ex: sem glúten, sem lactose); 613.262 - Alimentos sem glúten'
+---
 Pizza na pedra sem glúten
 
 PIZZA NA PEDRA SEM GLÚTEN!

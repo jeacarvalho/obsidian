@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:06.977314+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: politicas_publicas_brasil_historico
+    weight: 9
+    confidence: 0.98
+  - name: estado_desenvolvimentista_brasil
+    weight: 8
+    confidence: 0.95
+  - name: urbanizacao_brasil_seculo_xx
+    weight: 7
+    confidence: 0.9
+  - name: industrializacao_brasil_pib
+    weight: 8
+    confidence: 0.92
+  - name: estado_regulador_vs_produtor
+    weight: 7
+    confidence: 0.88
+  - name: heterogeneidade_regional_politicas_publicas
+    weight: 6
+    confidence: 0.85
+  - name: globalizacao_impacto_politicas_publicas
+    weight: 9
+    confidence: 0.96
+  - name: reestruturacao_produtiva_inovacao
+    weight: 8
+    confidence: 0.93
+  - name: neoliberalismo_estado_minimo
+    weight: 7
+    confidence: 0.9
+  - name: financeirizacao_riqueza_economia
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '321.1'
+  - '338.2'
+  - '308.1'
+  cdu_description: Economia e sociedade. Economia política. Desenvolvimento econômico. Políticas públicas no Brasil, com ênfase em seu histórico, tendências globais e desafios.
+---
 Bacelar (semana 3) - As Políticas Públicas no Brasil: herançasundefined tendências e desafios
 
 1. Herança das Políticas Públicas no Brasil

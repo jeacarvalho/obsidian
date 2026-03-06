@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:55.000354+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gerenciamento_custos_nuvem
+    weight: 10
+    confidence: 0.98
+  - name: precificacao_servicos_nuvem
+    weight: 9
+    confidence: 0.97
+  - name: infraestrutura_kafka
+    weight: 8
+    confidence: 0.95
+  - name: licenciamento_software_livre
+    weight: 7
+    confidence: 0.9
+  - name: suporte_tecnico_especializado
+    weight: 8
+    confidence: 0.92
+  - name: modelagem_custos_comodato
+    weight: 7
+    confidence: 0.93
+  - name: metadados_consumo_kafka
+    weight: 6
+    confidence: 0.91
+  - name: automacao_envio_consumo
+    weight: 7
+    confidence: 0.94
+  - name: sistema_billing_faturamento
+    weight: 8
+    confidence: 0.96
+  - name: revisao_anual_precos
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '004.77'
+  cdu_secondary:
+  - '658.15'
+  - '005.32'
+  cdu_description: Gestão de custos e precificação de serviços em nuvem, com foco em infraestrutura Kafka, licenciamento, suporte e automação de faturamento.
+---
 Processo criação nova oferta de nuvem
 
 2.1) O time define que será necessária a aquisição de uma máquina especializada. O fornecedor tem como modelo de comercialização do “comodato” e, assim, essa máquina terá um custo mensal para a empresa a ser previsto como custo.  

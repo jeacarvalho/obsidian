@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:37.959673+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: saude_mental_resolucoes
+    weight: 10
+    confidence: 0.98
+  - name: perspectiva_cosmica_universo
+    weight: 8
+    confidence: 0.95
+  - name: inteligencia_universal_design
+    weight: 7
+    confidence: 0.9
+  - name: valorizacao_momentos_unicos
+    weight: 6
+    confidence: 0.88
+  - name: superacao_dor_sofrimento
+    weight: 7
+    confidence: 0.85
+  - name: evitar_abstracoes_falsas
+    weight: 5
+    confidence: 0.8
+  - name: singularidade_individual_vs_inveja
+    weight: 8
+    confidence: 0.92
+  - name: apreciacao_natureza_coisas_simples
+    weight: 9
+    confidence: 0.96
+  - name: relembrar_visao_infantil
+    weight: 6
+    confidence: 0.87
+  - name: estimulo_imaginacao_literatura_musica
+    weight: 7
+    confidence: 0.9
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '2'
+  - '28'
+  - '29'
+  - '82'
+  - '7'
+  cdu_description: Psicologia. Relações psicológicas. Comportamento. Psicologia aplicada. Psicologia da saúde. Religião. Teologia. Filosofia da religião. Ética religiosa. Artes. Literatura. História da arte.
+---
 [10 Resolutions for Mental Health](http://feedproxy.google.com/~r/DGBlog/~3/rO5D2iwP-Pk/)
 
 (Author: [[John Piper]])

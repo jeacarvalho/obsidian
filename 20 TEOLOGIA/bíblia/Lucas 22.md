@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:56.724768+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: traicao_de_judas_iscariotes
+    weight: 9
+    confidence: 0.98
+  - name: soberania_divina_e_controle_de_deus
+    weight: 10
+    confidence: 0.99
+  - name: instituicao_da_ceia_do_senhor
+    weight: 8
+    confidence: 0.97
+  - name: nova_alianca_no_sangue_de_jesus
+    weight: 8
+    confidence: 0.96
+  - name: servico_e_humildade_na_lideranca
+    weight: 7
+    confidence: 0.95
+  - name: confianca_do_reino_a_igreja
+    weight: 7
+    confidence: 0.94
+  - name: tentacao_e_intercessao_por_pedro
+    weight: 9
+    confidence: 0.97
+  - name: negacao_de_pedro_e_arrependimento
+    weight: 9
+    confidence: 0.98
+  - name: vontade_de_deus_versus_vontade_humana
+    weight: 8
+    confidence: 0.96
+  - name: poder_das_trevas_e_submissao_de_jesus
+    weight: 8
+    confidence: 0.95
+  cdu_primary: 27-32
+  cdu_secondary:
+  - '232.9'
+  - '248.2'
+  - '264.3'
+  cdu_description: Novo Testamento - Evangelho de Lucas - Vida e ensinamentos de Jesus Cristo, incluindo a Última Ceia, a traição, a negação de Pedro e a submissão à vontade divina.
+---
 Lucas 22:3
 O pacto da traição
 Ora, Satanás entrou em Judas, chamado Iscariotes, que era um dos doze.

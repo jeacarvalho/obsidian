@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:58.427814+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: modernizacao_cnpj_para_alfa
+    weight: 10
+    confidence: 0.98
+  - name: integracao_redesim_novo_portal
+    weight: 8
+    confidence: 0.9
+  - name: sistema_parcelamento_pgfn
+    weight: 7
+    confidence: 0.85
+  - name: aplicativo_lista_devedores_georreferenciamento
+    weight: 9
+    confidence: 0.92
+  - name: implementacao_waf_siscomex
+    weight: 7
+    confidence: 0.88
+  - name: dimensionamento_ambiente_cdc_cdd
+    weight: 6
+    confidence: 0.8
+  - name: problemas_pucomex_atomikos
+    weight: 7
+    confidence: 0.87
+  - name: migracao_cnpj_oracle_sincronismo
+    weight: 9
+    confidence: 0.93
+  - name: vendas_gov_riscos_seguranca
+    weight: 8
+    confidence: 0.91
+  - name: monitoracao_kafka_ibama
+    weight: 6
+    confidence: 0.82
+  cdu_primary: '351.7'
+  cdu_secondary:
+  - '347.7'
+  - '004.7'
+  - '336.2'
+  cdu_description: Administração pública. Finanças públicas. Direito administrativo. Sistemas de informação. Gestão de dados.
+---
 # Descrição: Para tratar assuntos relacionados aos domínios
 
 | links | Arquivos | 

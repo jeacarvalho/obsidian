@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:37.240345+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: multipotencialidade
+    weight: 10
+    confidence: 0.98
+  - name: carreiras_multiplas
+    weight: 9
+    confidence: 0.95
+  - name: ansiedade_carreira
+    weight: 8
+    confidence: 0.9
+  - name: aptidao_vocacao_talento
+    weight: 7
+    confidence: 0.85
+  - name: proposito_vida
+    weight: 7
+    confidence: 0.88
+  - name: autoconhecimento_carreira
+    weight: 8
+    confidence: 0.92
+  - name: inovacao_carreira
+    weight: 9
+    confidence: 0.93
+  - name: adaptabilidade_profissional
+    weight: 10
+    confidence: 0.97
+  - name: aprendizado_rapido
+    weight: 8
+    confidence: 0.91
+  - name: combinacao_areas_atuacao
+    weight: 9
+    confidence: 0.94
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '331.1'
+  - '005.32'
+  cdu_description: Psicologia da vida profissional e vocacional; Orientação profissional; Gestão da carreira e desenvolvimento pessoal.
+---
 [[Contabilidade]]
 - não é multitarefa
 - multipotencial = mais de uma carreira, mais de um ramo na carreira

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:37.951194+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: metodologia_cientifica_universidade
+    weight: 10
+    confidence: 0.98
+  - name: origem_evolucao_universidade
+    weight: 8
+    confidence: 0.95
+  - name: funcoes_universidade
+    weight: 8
+    confidence: 0.95
+  - name: estudo_universitario_estrategias
+    weight: 9
+    confidence: 0.97
+  - name: elaboracao_esquema
+    weight: 7
+    confidence: 0.9
+  - name: elaboracao_resumo
+    weight: 7
+    confidence: 0.9
+  - name: elaboracao_resenha
+    weight: 6
+    confidence: 0.85
+  - name: tipos_trabalhos_academicos
+    weight: 9
+    confidence: 0.96
+  - name: artigo_cientifico_estrutura
+    weight: 7
+    confidence: 0.92
+  - name: trabalho_conclusao_curso
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '001.8'
+  cdu_secondary:
+  - '378'
+  - '001.4'
+  cdu_description: Metodologia da ciência e da pesquisa; Organização e administração da educação superior
+---
 # Sobre o tema na internet
 - ![[ProjetoPesquisa.png]]
 # BIBLIOGRAFIA

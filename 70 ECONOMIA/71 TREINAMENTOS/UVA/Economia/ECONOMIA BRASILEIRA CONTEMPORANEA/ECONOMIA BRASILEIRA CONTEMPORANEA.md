@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T23:02:46.101991+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_industrial_brasil_vargas
+    weight: 9
+    confidence: 0.9
+  - name: governo_juscelino_kubitschek
+    weight: 8
+    confidence: 0.85
+  - name: plano_cruzado
+    weight: 9
+    confidence: 0.92
+  - name: plano_collor
+    weight: 9
+    confidence: 0.91
+  - name: plano_real
+    weight: 10
+    confidence: 0.98
+  - name: hiperinflacao_brasil
+    weight: 8
+    confidence: 0.88
+  - name: abertura_comercial_brasil
+    weight: 7
+    confidence: 0.75
+  - name: papel_estado_economia
+    weight: 7
+    confidence: 0.78
+  - name: privatizacoes_regulacao
+    weight: 8
+    confidence: 0.82
+  - name: pobreza_brasil
+    weight: 6
+    confidence: 0.7
+  cdu_primary: '338.1'
+  cdu_secondary:
+  - '330.5'
+  - '338.2'
+  - '336.7'
+  - '339.9'
+  - '305.5'
+  cdu_description: Economia e desenvolvimento econômico. Política econômica. História econômica. Desenvolvimento econômico. Planejamento econômico. Finanças. Relações econômicas internacionais. Economia social.
+---
 - ![[D ESENVOLVIMENTO, CRESCIMENTO E SALÁRIO LUIZ CARLOS BRESSER-PEREIRA 1.pdf]]
 - ![[Estratégia de desenvolvimento e as três frentes de expansão no Brasil -  um desenho conceitual - Ricardo Bielschowsky.pdf]]
 - https://www.youtube.com/watch?v=83vOal_hRAk&list=PLJJrzEKslHUztRE65Mg0TihJMgGadRgry

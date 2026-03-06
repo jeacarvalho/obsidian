@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:39.157145+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: piedade_e_contentamento
+    weight: 10
+    confidence: 0.98
+  - name: busca_por_riqueza
+    weight: 9
+    confidence: 0.95
+  - name: amor_ao_dinheiro
+    weight: 9
+    confidence: 0.96
+  - name: consequencias_da_cobica
+    weight: 8
+    confidence: 0.93
+  - name: virtudes_cristas
+    weight: 8
+    confidence: 0.94
+  - name: justica_e_integridade
+    weight: 7
+    confidence: 0.9
+  - name: fidelidade_a_deus
+    weight: 7
+    confidence: 0.91
+  - name: perseveranca_na_fe
+    weight: 6
+    confidence: 0.88
+  - name: mansidao_e_humildade
+    weight: 6
+    confidence: 0.87
+  - name: fonte_de_lucro_espiritual
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '241.4'
+  cdu_secondary:
+  - '248.4'
+  - '171.7'
+  cdu_description: Ética cristã, vida cristã, moralidade. Virtudes e vícios. Riqueza e pobreza.
+---
 De fato, grande fonte de lucro é a piedade com o contentamento.  Porque nada trouxemos para o mundo, nem coisa alguma podemos levar dele.  Tendo sustento e com que nos vestir, estejamos contentes. 1Timóteo 6:6‭-‬8 NAA
 - [[Piedade]] com [[contentamento]]. Fonte de lucro, ganho.
 - Piedade, de novo:  (Dicionario Strong)

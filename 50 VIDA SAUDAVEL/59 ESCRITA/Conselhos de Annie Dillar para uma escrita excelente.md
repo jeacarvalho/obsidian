@@ -1,10 +1,44 @@
 ---
-created: 2021-05-06T14:05:44 (UTC -03:00)
-tags: []
-source: https://lithub.com/read-annie-dillards-greatest-writing-advice/
-author: By Walker Caplan
-
-April 30, 2021, 1:21pm
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:47.560300+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conselhos_de_escrita_de_annie_dillard
+    weight: 10
+    confidence: 0.98
+  - name: importancia_da_perspectiva_unica_do_escritor
+    weight: 9
+    confidence: 0.95
+  - name: escrita_com_senso_de_urgencia
+    weight: 8
+    confidence: 0.92
+  - name: inspiracao_literaria_atraves_da_leitura
+    weight: 8
+    confidence: 0.94
+  - name: leitura_de_obras_classicas
+    weight: 7
+    confidence: 0.9
+  - name: desenvolvimento_de_gosto_literario
+    weight: 7
+    confidence: 0.88
+  - name: influencia_de_escritores_em_outros_escritores
+    weight: 6
+    confidence: 0.85
+  - name: abordagem_da_escrita_para_pacientes_terminais
+    weight: 6
+    confidence: 0.8
+  - name: superacao_da_trivialidade_na_escrita
+    weight: 5
+    confidence: 0.78
+  - name: valorizacao_de_interesses_idiossincraticos
+    weight: 9
+    confidence: 0.93
+  cdu_primary: '82.08'
+  cdu_secondary:
+  - '801.7'
+  - '820.09'
+  cdu_description: Teoria e prática da escrita literária, com foco em conselhos de autores renomados e a importância da voz individual e da leitura para o desenvolvimento do escritor.
 ---
 
 # “Write as if you were dying.” Read Annie Dillard’s greatest writing advice. ‹ Literary Hub

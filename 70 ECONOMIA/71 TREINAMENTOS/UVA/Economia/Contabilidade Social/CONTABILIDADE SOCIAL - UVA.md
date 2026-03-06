@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.183663+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contabilidade_introdutoria
+    weight: 10
+    confidence: 0.98
+  - name: contabilidade_intermediaria
+    weight: 9
+    confidence: 0.97
+  - name: contabilidade_social
+    weight: 10
+    confidence: 0.99
+  - name: macroeconomia
+    weight: 8
+    confidence: 0.96
+  - name: teoria_economica
+    weight: 7
+    confidence: 0.94
+  - name: contas_nacionais
+    weight: 10
+    confidence: 0.99
+  - name: sistema_de_contas_nacionais_brasileiro
+    weight: 9
+    confidence: 0.95
+  - name: calculo_do_pib
+    weight: 8
+    confidence: 0.93
+  - name: historia_da_contabilidade_social
+    weight: 7
+    confidence: 0.92
+  - name: estatistica_economica
+    weight: 6
+    confidence: 0.9
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '336.74'
+  - '657.1'
+  - '657.4'
+  cdu_description: Economia. Economia e estatística. Contabilidade social. Contas nacionais. Contabilidade nacional. Contabilidade geral. Contabilidade empresarial.
+---
 # BIBLIOGRAFIA 
 ## BÁSICA  tea
   

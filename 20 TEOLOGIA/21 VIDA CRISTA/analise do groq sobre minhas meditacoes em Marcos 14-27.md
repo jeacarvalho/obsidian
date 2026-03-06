@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:09.998310+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: meditacao_biblica_marcos_zacarias
+    weight: 8
+    confidence: 0.9
+  - name: natureza_deus_sofrimento_jesus
+    weight: 9
+    confidence: 0.95
+  - name: questionamentos_teologicos_pecado
+    weight: 7
+    confidence: 0.85
+  - name: interpretacoes_biblicas_amor_deus
+    weight: 6
+    confidence: 0.8
+  - name: aplicacao_vida_purificacao_sofrimento
+    weight: 7
+    confidence: 0.88
+  - name: evolucao_pessoal_fe_oracao
+    weight: 6
+    confidence: 0.75
+  - name: teologia_reformada_onipotencia_amor
+    weight: 8
+    confidence: 0.92
+  - name: reflexoes_comentaristas_calvino_luter
+    weight: 7
+    confidence: 0.87
+  - name: proposta_sermao_sofrimento_jesus
+    weight: 9
+    confidence: 0.93
+  - name: justica_deus_redencao_cristo
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '226.7'
+  - '224.5'
+  - '231.7'
+  - '232.9'
+  cdu_description: Teologia cristã; Teologia bíblica; Teologia sistemática; Doutrinas cristãs; Teologia da redenção; Teologia do sofrimento
+---
 #### analise do groq sobre minhas meditacoes em [[Marcos 14]]-27 e [[Zacarias 13]]
 A partir das anotações, é possível perceber que a pessoa que meditou está se aproximando do texto bíblico com uma mente aberta e curiosa. Ela está questionando e refletindo sobre a natureza de Deus e o sofrimento de Jesus. Isso demonstra uma disposição para aprender e crescer em sua compreensão da fé.
 

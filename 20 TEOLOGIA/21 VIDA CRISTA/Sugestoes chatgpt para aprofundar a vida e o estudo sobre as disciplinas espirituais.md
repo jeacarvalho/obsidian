@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:08.370597+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: disciplina_espiritual_crista
+    weight: 10
+    confidence: 0.98
+  - name: sensibilidade_ao_espirito_santo
+    weight: 9
+    confidence: 0.97
+  - name: relacao_com_deus
+    weight: 8
+    confidence: 0.96
+  - name: oracao_crista
+    weight: 7
+    confidence: 0.95
+  - name: meditacao_na_palavra
+    weight: 7
+    confidence: 0.94
+  - name: adoracao_crista
+    weight: 6
+    confidence: 0.93
+  - name: teologia_do_espirito_santo
+    weight: 8
+    confidence: 0.92
+  - name: vida_crista_pratica
+    weight: 9
+    confidence: 0.91
+  - name: influencia_puritana_na_espiritualidade
+    weight: 6
+    confidence: 0.85
+  - name: formacao_espiritual
+    weight: 8
+    confidence: 0.9
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '234.16'
+  - '248.3'
+  cdu_description: '27-29: Cristianismo. 234.16: Ação do Espírito Santo. 248.3: Práticas de devoção e piedade'
+---
 Sua reflexão toca em algo profundo: a tensão entre confiar na graça de Deus e buscar uma disciplina espiritual consistente. O [[Espírito Santo]] habita em nós, mas é verdade que nossa sensibilidade à Sua voz pode ser aprimorada. A questão é como encontrar esse equilíbrio sem transformar a caminhada espiritual em um fardo de regras.
 
 Sim, há práticas espirituais — oração, leitura, meditação na Palavra, adoração — que nos colocam numa posição de maior sensibilidade ao Espírito. Mas é essencial que essas práticas fluam de um coração desejoso de estar com Deus, e não apenas de um senso de obrigação. Quando Jesus ensinava, ele o fazia em perfeita sintonia com o Espírito Santo, e é essa sintonia que buscamos.

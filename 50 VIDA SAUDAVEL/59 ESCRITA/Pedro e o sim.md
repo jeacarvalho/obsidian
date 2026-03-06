@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:47.316151+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: juventude_em_situacao_de_vulnerabilidade
+    weight: 9
+    confidence: 0.98
+  - name: trafico_de_drogas_e_violencia
+    weight: 10
+    confidence: 0.99
+  - name: pobreza_e_desigualdade_social
+    weight: 8
+    confidence: 0.97
+  - name: influencia_da_midia_social_na_juventude
+    weight: 7
+    confidence: 0.9
+  - name: religiosidade_e_fe_em_comunidades_carentes
+    weight: 6
+    confidence: 0.85
+  - name: familia_disfuncional_e_maternidade_precoce
+    weight: 7
+    confidence: 0.92
+  - name: criminalidade_urbana_e_controle_territorial
+    weight: 9
+    confidence: 0.96
+  - name: falta_de_oportunidades_para_jovens
+    weight: 8
+    confidence: 0.95
+  - name: cotidiano_em_comunidades_urbanas_precarias
+    weight: 7
+    confidence: 0.93
+  - name: conflito_entre_valores_familiares_e_sociais
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '343.57'
+  cdu_secondary:
+  - '305.4'
+  - '364.12'
+  - '305.8'
+  cdu_description: Tráfico de drogas, delinquência juvenil, condições socioeconômicas precárias, vida em favelas, influência da mídia e religiosidade.
+---
 [[Escrevendo]]
 
 Será mesmo que com você seria diferente. Pense bem. Com calma. Não, não se apresse. Se permita viver ali, da mesmo que ele. Quem é ele?  

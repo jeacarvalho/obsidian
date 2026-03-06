@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:50.051441+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceito_de_lideranca
+    weight: 10
+    confidence: 0.98
+  - name: obrigacoes_do_lider
+    weight: 9
+    confidence: 0.95
+  - name: impacto_e_relevancia_lideranca
+    weight: 8
+    confidence: 0.92
+  - name: elementos_da_cerimonia_anel_de_ferro
+    weight: 7
+    confidence: 0.9
+  - name: lideranca_como_trabalho_duro
+    weight: 9
+    confidence: 0.96
+  - name: resiliencia_na_lideranca
+    weight: 8
+    confidence: 0.93
+  - name: importancia_do_feedback_na_lideranca
+    weight: 7
+    confidence: 0.88
+  - name: lideranca_como_comunidade
+    weight: 10
+    confidence: 0.97
+  - name: tipos_de_lideres_na_comunidade
+    weight: 8
+    confidence: 0.91
+  - name: desenvolvimento_de_comunidade_de_lideres
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '316.46'
+  cdu_secondary:
+  - '005.32'
+  - '17'
+  - '305.8'
+  cdu_description: Sociologia da liderança, comportamento organizacional, ética e relações interpessoais no ambiente de trabalho.
+---
 Lembrando da [[Curso de liderança SERPRO LHH - Aula 1]]
 - __Liderança é uma obrigação__
 - **é um trabalho árduo**

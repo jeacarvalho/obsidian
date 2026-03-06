@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:12:18.099579+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_lealdade_a_deus
+    weight: 8
+    confidence: 0.9
+  - name: questionamento_perspectiva_limitada
+    weight: 7
+    confidence: 0.85
+  - name: proposta_acao_refletir_lealdade_a_deus
+    weight: 6
+    confidence: 0.8
+  - name: proposta_acao_buscar_orientacao_divina
+    weight: 6
+    confidence: 0.8
+  - name: analise_teologica_reformada
+    weight: 9
+    confidence: 0.95
+  - name: teologia_reformada_graca_soberania_deus
+    weight: 9
+    confidence: 0.95
+  - name: reflexoes_comentaristas_reformados
+    weight: 7
+    confidence: 0.85
+  - name: proposta_sermao_lealdade_soberania_deus
+    weight: 8
+    confidence: 0.9
+  - name: analise_biblica_lealdade_pedro
+    weight: 8
+    confidence: 0.9
+  - name: orientacao_espirito_santo_vida_crista
+    weight: 7
+    confidence: 0.85
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '234.2'
+  - '273.6'
+  - '226.6'
+  cdu_description: Teologia cristã; Teologia sistemática; Teologia da graça; Teologia reformada; Teologia bíblica; Novo Testamento; Evangelhos
+---
 #### analise do groq sobre minhas meditacoes em [[Marcos 14]]-28-31
 **Análise comportamental:**
 

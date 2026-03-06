@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:09.484461+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mixagem_violao_acustico
+    weight: 10
+    confidence: 0.98
+  - name: equalizacao_violao_acustico
+    weight: 9
+    confidence: 0.95
+  - name: compressao_audio_violao
+    weight: 8
+    confidence: 0.92
+  - name: reverb_violao_acustico
+    weight: 7
+    confidence: 0.88
+  - name: balanceamento_mixagem
+    weight: 8
+    confidence: 0.93
+  - name: filtros_passa_altas_audio
+    weight: 6
+    confidence: 0.85
+  - name: frequencias_graves_mixagem
+    weight: 7
+    confidence: 0.89
+  - name: frequencias_medias_altas_mixagem
+    weight: 7
+    confidence: 0.89
+  - name: frequencias_altas_mixagem
+    weight: 6
+    confidence: 0.87
+  - name: referencia_mixagem_audio
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '781.63'
+  cdu_secondary:
+  - '621.381'
+  cdu_description: Técnicas de gravação e mixagem para instrumentos musicais, com foco em violão acústico. Inclui equalização, compressão, reverb e balanceamento de níveis. Aplicações em engenharia de áudio e processamento de sinais.
+---
 Everything You Need To Know About Mixing Acoustic Guitars – Mastering The Mix
 
 # Everything You Need To Know About Mixing Acoustic Guitars

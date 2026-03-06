@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:39.454069+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contabilidade_de_custos
+    weight: 10
+    confidence: 1.0
+  - name: terminologia_contabil
+    weight: 9
+    confidence: 0.95
+  - name: classificacao_custos
+    weight: 8
+    confidence: 0.9
+  - name: custos_fixos
+    weight: 7
+    confidence: 0.85
+  - name: custos_variaveis
+    weight: 7
+    confidence: 0.85
+  - name: gasto
+    weight: 6
+    confidence: 0.8
+  - name: investimento
+    weight: 6
+    confidence: 0.8
+  - name: despesa
+    weight: 6
+    confidence: 0.8
+  - name: revolucao_industrial
+    weight: 5
+    confidence: 0.75
+  - name: capitalismo
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '657.42'
+  cdu_secondary: []
+  cdu_description: Contabilidade de custos
+---
 # Bibliografia
 ## Básica
 - MEGLIORINI, Evandir. **Custos**. São Paulo: Pearson, 2012 - https://plataforma.bvirtual.com.br/Acervo/Publicacao/167785

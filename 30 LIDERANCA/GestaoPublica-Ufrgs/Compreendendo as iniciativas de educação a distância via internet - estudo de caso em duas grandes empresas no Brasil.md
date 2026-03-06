@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:06.007936+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: educacao_a_distancia_corporativa
+    weight: 10
+    confidence: 0.98
+  - name: redes_de_parcerias_e_aliancas
+    weight: 9
+    confidence: 0.95
+  - name: cultura_de_aprendizagem_continua
+    weight: 9
+    confidence: 0.96
+  - name: colaboracao_empresarial
+    weight: 8
+    confidence: 0.92
+  - name: desenvolvimento_pessoal_colaboradores
+    weight: 8
+    confidence: 0.93
+  - name: transformacao_organizacional
+    weight: 7
+    confidence: 0.9
+  - name: gestao_empresarial_empresas_publicas
+    weight: 7
+    confidence: 0.88
+  - name: lideranca_inspiradora
+    weight: 6
+    confidence: 0.85
+  - name: meritocracia_e_promocao
+    weight: 6
+    confidence: 0.87
+  - name: equipes_interfuncionais
+    weight: 5
+    confidence: 0.82
+  cdu_primary: '374.7'
+  cdu_secondary:
+  - '004.77'
+  - '334.7'
+  - '316.46'
+  cdu_description: Educação de adultos e formação profissional contínua; Educação a distância; Redes de empresas; Sociologia do trabalho; Gestão e organização empresarial
+---
 Texto "Complementar - EAD Corporativo": Compreendendo as iniciativas de educação a distância via internet: estudo de caso em duas grandes empresas no Brasil*
     
 

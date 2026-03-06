@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:05.585154+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: escola_de_design_estrategia
+    weight: 8
+    confidence: 0.9
+  - name: escola_de_planejamento_estrategia
+    weight: 8
+    confidence: 0.9
+  - name: estrategia_economica
+    weight: 7
+    confidence: 0.85
+  - name: analise_ambiental_externa
+    weight: 6
+    confidence: 0.8
+  - name: analise_organizacional_interna
+    weight: 6
+    confidence: 0.8
+  - name: fixacao_de_objetivos_estrategicos
+    weight: 5
+    confidence: 0.75
+  - name: avaliacao_de_estrategia
+    weight: 5
+    confidence: 0.75
+  - name: operacionalizacao_de_estrategia
+    weight: 5
+    confidence: 0.75
+  - name: estrategia_porter_posicionamento
+    weight: 9
+    confidence: 0.95
+  - name: diferenciacao_estrategica
+    weight: 7
+    confidence: 0.85
+  cdu_primary: '658.012'
+  cdu_secondary:
+  - '005.32'
+  cdu_description: Gestão e administração. Planejamento estratégico. Organização e métodos. Teoria da administração. Estratégia empresarial.
+---
 Mintzberg - Safaria cap 1 a 3
 
 Escola de design

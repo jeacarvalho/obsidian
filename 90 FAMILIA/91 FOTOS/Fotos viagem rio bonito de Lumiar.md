@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:11.097225+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fotografia_de_viagem
+    weight: 10
+    confidence: 0.98
+  - name: paisagens_naturais
+    weight: 9
+    confidence: 0.95
+  - name: turismo_em_lumiar
+    weight: 8
+    confidence: 0.92
+  - name: rio_bonito_rj
+    weight: 7
+    confidence: 0.9
+  - name: registros_fotograficos
+    weight: 6
+    confidence: 0.88
+  - name: memoria_visual
+    weight: 5
+    confidence: 0.85
+  - name: documentacao_de_viagem
+    weight: 7
+    confidence: 0.87
+  - name: natureza_exuberante
+    weight: 8
+    confidence: 0.93
+  - name: experiencias_de_viagem
+    weight: 6
+    confidence: 0.86
+  - name: colecao_de_fotos
+    weight: 5
+    confidence: 0.84
+  cdu_primary: '778.3'
+  cdu_secondary:
+  - '910.4'
+  - '913.81'
+  cdu_description: Fotografia de viagem, com ênfase em paisagens naturais e turismo na região de Lumiar, Rio de Janeiro.
+---
 Fotos viagem rio bonito de Lumiar
 
 ![img_20181027_081806.jpg](735146a1a867649181a0d796cfb9e3cc.jpg)

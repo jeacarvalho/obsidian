@@ -1,8 +1,53 @@
 ---
 created: 2023-10-08T19:27:29 (UTC -03:00)
-tags: [Travel time valuation,flow theory,travel experience,quality of time,optimal experience]
+tags:
+- Travel time valuation
+- flow theory
+- travel experience
+- quality of time
+- optimal experience
 source: https://www.tandfonline.com/doi/full/10.1080/23800127.2021.1912947
 author: Enrica  Papa
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:30.947427+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teoria_do_fluxo_em_mobilidade
+    weight: 10
+    confidence: 0.98
+  - name: qualidade_da_experiencia_de_viagem
+    weight: 9
+    confidence: 0.97
+  - name: valoracao_do_tempo_de_viagem
+    weight: 8
+    confidence: 0.96
+  - name: planejamento_de_transporte_tradicional
+    weight: 7
+    confidence: 0.95
+  - name: estados_otimais_de_consciencia
+    weight: 8
+    confidence: 0.94
+  - name: bem_estar_em_mobilidade
+    weight: 7
+    confidence: 0.93
+  - name: desenvolvimento_pessoal_via_mobilidade
+    weight: 6
+    confidence: 0.92
+  - name: impactos_ambientais_da_mobilidade
+    weight: 5
+    confidence: 0.91
+  - name: pesquisa_em_mobilidade_cotidiana
+    weight: 6
+    confidence: 0.9
+  - name: teoria_do_estado_de_fluxo
+    weight: 9
+    confidence: 0.98
+  cdu_primary: '305.8'
+  cdu_secondary:
+  - '303.4'
+  - '388.4'
+  cdu_description: Sociologia da mobilidade e do transporte, com ênfase na experiência do usuário e na teoria do fluxo. Inclui aspectos de psicologia social e planejamento de transporte.
 ---
 
 # Full article: Have a good trip! expanding our concepts of the quality of everyday travelling with [[Estado de Fluxo]] theory

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:40.451486+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceito_organizacao
+    weight: 9
+    confidence: 0.98
+  - name: funcoes_administrador
+    weight: 8
+    confidence: 0.95
+  - name: tipos_organizacao_formal
+    weight: 7
+    confidence: 0.92
+  - name: estrutura_organizacional
+    weight: 6
+    confidence: 0.9
+  - name: tecnologia_organizacional
+    weight: 5
+    confidence: 0.88
+  - name: definicao_administracao
+    weight: 10
+    confidence: 0.99
+  - name: processo_administrativo
+    weight: 9
+    confidence: 0.97
+  - name: planejamento_organizacional
+    weight: 7
+    confidence: 0.93
+  - name: organizacao_direcao_controle
+    weight: 8
+    confidence: 0.94
+  - name: historia_administracao_contribuicoes
+    weight: 6
+    confidence: 0.91
+  cdu_primary: '65.01'
+  cdu_secondary:
+  - '005.3'
+  - '316.46'
+  cdu_description: Gestão e administração. Organização e métodos. Comportamento organizacional e social.
+---
 # BIBLIOGRAFIA
 ## Livro disciplina
 - [[FGE_LD_PDF.pdf]]

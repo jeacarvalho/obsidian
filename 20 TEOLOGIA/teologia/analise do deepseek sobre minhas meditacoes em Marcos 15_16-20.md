@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:02.023059+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_cristo
+    weight: 8
+    confidence: 0.9
+  - name: empatia_condicao_humana_soldados
+    weight: 7
+    confidence: 0.85
+  - name: autoidentificacao_autor_soldados
+    weight: 6
+    confidence: 0.8
+  - name: interpretacao_profetica_coroa_espinhos
+    weight: 9
+    confidence: 0.92
+  - name: soberania_divina_plano_redentor
+    weight: 10
+    confidence: 0.98
+  - name: doutrina_providencia_divina
+    weight: 7
+    confidence: 0.88
+  - name: silencio_contemplativo_cristo
+    weight: 6
+    confidence: 0.82
+  - name: expiacao_substitutiva_cristo
+    weight: 9
+    confidence: 0.91
+  - name: exegese_marcos_15_16_20
+    weight: 8
+    confidence: 0.93
+  - name: contexto_historico_crucificacao
+    weight: 7
+    confidence: 0.87
+  cdu_primary: 27-23
+  cdu_secondary:
+  - '232.9'
+  - '226.7'
+  cdu_description: '27-23: História do Cristianismo. 232.9: A Pessoa e Obra de Jesus Cristo. 226.7: Evangelho de Marcos.'
+---
 #### analise do deepseek sobre minhas meditacoes em [[Marcos 15]]_16-20
 **RESPOSTA ESTRUTURADA CONFORME SOLICITADO**  
 

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:45.026755+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: economia_internacional_teoria_pratica
+    weight: 10
+    confidence: 0.98
+  - name: exportacao_comercio_exterior
+    weight: 8
+    confidence: 0.95
+  - name: fundamentos_economia
+    weight: 7
+    confidence: 0.92
+  - name: mercantilismo_teoria_classica_comercio
+    weight: 9
+    confidence: 0.97
+  - name: teoria_dotacao_fatores_comercio
+    weight: 8
+    confidence: 0.96
+  - name: ganhos_comercio_internacional
+    weight: 7
+    confidence: 0.94
+  - name: protecionismo_politicas_comerciais
+    weight: 10
+    confidence: 0.99
+  - name: substituicao_importacao_modelos_economicos
+    weight: 9
+    confidence: 0.97
+  - name: globalizacao_impacto_cenario_internacional
+    weight: 10
+    confidence: 0.99
+  - name: vantagens_comparativas_comercio
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '339.9'
+  cdu_secondary:
+  - '330.1'
+  - '339.5'
+  - '338.48'
+  cdu_description: Economia internacional. Comércio internacional. Globalização. Protecionismo. Teorias do comércio.
+---
 [[Economia]]
 # BIBLIOGRAFIA
 ## BÁSICA 

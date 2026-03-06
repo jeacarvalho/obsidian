@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:54.514619+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: torta_funcional_banana_amendoas
+    weight: 10
+    confidence: 0.98
+  - name: receita_culinaria
+    weight: 9
+    confidence: 0.95
+  - name: farinha_de_amendoas
+    weight: 8
+    confidence: 0.9
+  - name: farinha_de_paico
+    weight: 7
+    confidence: 0.85
+  - name: farinha_de_grao_de_bico
+    weight: 7
+    confidence: 0.85
+  - name: banana_madura
+    weight: 8
+    confidence: 0.9
+  - name: canela_em_po
+    weight: 6
+    confidence: 0.8
+  - name: acucar_mascavo
+    weight: 6
+    confidence: 0.8
+  - name: manteiga_ghee
+    weight: 7
+    confidence: 0.88
+  - name: crumble_cobertura
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '641.5'
+  cdu_secondary:
+  - '641.56'
+  - '664.7'
+  cdu_description: '641.5: Culinária. Artes culinárias. Cozinha. Preparação de alimentos. 641.56: Preparação de alimentos específicos. 664.7: Processamento de cereais e seus produtos.'
+---
 Receita de torta funcional de banana e amêndoas
 
 #  Receita de torta funcional de banana e amêndoas

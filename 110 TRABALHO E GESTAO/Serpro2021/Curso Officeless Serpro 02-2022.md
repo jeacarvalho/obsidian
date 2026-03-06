@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:52.471917+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: trabalho_hibrido_remoto_cuidados
+    weight: 10
+    confidence: 0.98
+  - name: formato_adotado_trabalho_hibrido
+    weight: 8
+    confidence: 0.95
+  - name: papel_escritorio_trabalho_remoto
+    weight: 7
+    confidence: 0.92
+  - name: processos_colaborativos_presencial
+    weight: 6
+    confidence: 0.88
+  - name: metricas_sucesso_trabalho_remoto
+    weight: 9
+    confidence: 0.96
+  - name: foco_produtividade_bemestar_colaboradores
+    weight: 8
+    confidence: 0.94
+  - name: comunicacao_tempo_real_equipes_distribuidas
+    weight: 7
+    confidence: 0.9
+  - name: acesso_informacao_documentacao_trabalho_remoto
+    weight: 9
+    confidence: 0.97
+  - name: rituais_fortalecimento_equipes_remotas
+    weight: 7
+    confidence: 0.91
+  - name: lideranca_officeless_mindset
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '005.32'
+  - '303.4'
+  - '305.8'
+  cdu_description: Organização do trabalho. Gestão. Liderança. Trabalho remoto e híbrido. Colaboração. Comunicação. Produtividade. Acesso à informação. Rituais de equipe.
+---
 # Acesso ao curso
 - https://membros.officeless.cc/21273-lideranca-officeless
 - **E-mail:** jose-eduardo.carvalho@serpro.gov.br  

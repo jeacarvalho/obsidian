@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:10.877602+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: organizacao_de_informacao_digital
+    weight: 8
+    confidence: 0.9
+  - name: gerenciamento_de_notas
+    weight: 9
+    confidence: 0.95
+  - name: arquivamento_digital
+    weight: 7
+    confidence: 0.85
+  - name: indexacao_de_conteudo
+    weight: 8
+    confidence: 0.9
+  - name: fotografia_digital
+    weight: 6
+    confidence: 0.7
+  - name: armazenamento_de_dados
+    weight: 7
+    confidence: 0.8
+  - name: recuperacao_de_informacao
+    weight: 8
+    confidence: 0.9
+  - name: sistemas_de_gerenciamento_de_conteudo
+    weight: 7
+    confidence: 0.85
+  - name: organizacao_pessoal
+    weight: 9
+    confidence: 0.95
+  - name: metadados_de_arquivos
+    weight: 6
+    confidence: 0.75
+  cdu_primary: '004.9'
+  cdu_secondary:
+  - '025.4'
+  - '004.7'
+  - '004.8'
+  cdu_description: Organização e recuperação de informação digital, incluindo gerenciamento de notas, indexação e arquivamento.
+---
 [[Índice fotos notas evernote]]
 
 ![Foto.jpg](d0d9b0d8254b13e8af33326d39dc6168.jpg)

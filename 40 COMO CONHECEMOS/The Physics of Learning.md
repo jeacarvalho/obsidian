@@ -1,13 +1,53 @@
 ---
-title: "Thread by @justinskycak"
-source: "https://x.com/justinskycak/status/2014496697481605246?s=20"
+title: Thread by @justinskycak
+source: https://x.com/justinskycak/status/2014496697481605246?s=20
 author:
-  - "[[@justinskycak]]"
+- '[[@justinskycak]]'
 published: 2026-01-22
 created: 2026-01-24
-description:
+description: null
 tags:
-  - "clippings"
+- clippings
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:32.700871+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fisica_do_aprendizado
+    weight: 10
+    confidence: 0.98
+  - name: estrategias_de_aprendizagem_ativa
+    weight: 9
+    confidence: 0.97
+  - name: curva_de_esquecimento
+    weight: 8
+    confidence: 0.96
+  - name: efeito_de_espacamento
+    weight: 9
+    confidence: 0.95
+  - name: repeticao_espacada
+    weight: 8
+    confidence: 0.94
+  - name: efeito_de_recuperacao
+    weight: 9
+    confidence: 0.93
+  - name: pratica_espacada_de_recuperacao
+    weight: 8
+    confidence: 0.92
+  - name: pratica_intercalada
+    weight: 8
+    confidence: 0.91
+  - name: automaticidade_no_aprendizado
+    weight: 7
+    confidence: 0.9
+  - name: pratica_deliberada
+    weight: 8
+    confidence: 0.89
+  cdu_primary: '37.015'
+  cdu_secondary:
+  - '159.942'
+  - '004.9'
+  cdu_description: Psicologia da educação. Teorias e métodos de ensino. Processos de aprendizagem e memória. Uso de tecnologia para educação.
 ---
 The Physics of Learning (And Why Almost No One Uses It)
 

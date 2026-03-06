@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:08.399617+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: proposito_existencial_divino
+    weight: 10
+    confidence: 0.98
+  - name: orientacao_espiritual_conselho
+    weight: 9
+    confidence: 0.97
+  - name: refugio_em_deus
+    weight: 10
+    confidence: 0.99
+  - name: forca_em_deus_fraqueza_humana
+    weight: 9
+    confidence: 0.96
+  - name: deus_como_heranca_eterna
+    weight: 8
+    confidence: 0.95
+  - name: lealdade_a_deus_e_consequencias
+    weight: 8
+    confidence: 0.94
+  - name: adoracao_e_louvor_a_deus
+    weight: 7
+    confidence: 0.93
+  - name: confianca_no_senhor
+    weight: 9
+    confidence: 0.97
+  - name: proclamacao_dos_feitos_de_deus
+    weight: 7
+    confidence: 0.92
+  - name: criacao_divina_para_louvor
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '2'
+  cdu_secondary:
+  - '23'
+  - '24'
+  - '26'
+  cdu_description: Religião. Teologia. Religião comparada. Teologia e prática religiosa. Doutrinas. Ética religiosa. Vida religiosa. Vida cristã.
+---
 O objetivo maximo de nossa existencia
 
 Tu me guias com os teus conselhos  e no fim me receberás com honras. No céu, eu só tenho a ti.

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:43.552080+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: tecnofeudalismo
+    weight: 10
+    confidence: 0.98
+  - name: fim_do_capitalismo
+    weight: 9
+    confidence: 0.95
+  - name: privatizacao_da_internet
+    weight: 8
+    confidence: 0.92
+  - name: gigantes_da_tecnologia
+    weight: 8
+    confidence: 0.9
+  - name: poder_politico_e_tecnologia
+    weight: 7
+    confidence: 0.88
+  - name: crise_economica_europeia
+    weight: 7
+    confidence: 0.85
+  - name: austeridade_excessiva
+    weight: 6
+    confidence: 0.82
+  - name: influencia_de_yanis_varoufakis
+    weight: 6
+    confidence: 0.8
+  - name: mutacao_do_capitalismo
+    weight: 5
+    confidence: 0.78
+  - name: trabalho_nao_remunerado_online
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '330.1'
+  cdu_secondary:
+  - '305.2'
+  - '338.4'
+  - '004.7'
+  cdu_description: Economia. Teoria econômica. Capitalismo e suas mutações. Impacto da tecnologia e da internet na economia e na política. Crises econômicas e políticas na Europa.
+---
 [[Economia]]
 # ‘O capitalismo morreu. Nova ordem é tecnofeudal', diz ex-ministro grego que desafiou o sistema
 

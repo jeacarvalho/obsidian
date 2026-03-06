@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:06.470980+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_reformada_obras_humanas
+    weight: 9
+    confidence: 0.9
+  - name: joao_calvino_idolatria_criacao
+    weight: 8
+    confidence: 0.85
+  - name: martinho_lutero_efemeridade_gloria_humana
+    weight: 7
+    confidence: 0.8
+  - name: abraham_kuyper_vocacao_cultural_crista
+    weight: 7
+    confidence: 0.75
+  - name: francis_schaeffer_cuidado_criacao
+    weight: 8
+    confidence: 0.8
+  - name: teologia_catolica_beleza_criacao
+    weight: 6
+    confidence: 0.7
+  - name: tomas_de_aquino_beleza_atributos_deus
+    weight: 6
+    confidence: 0.65
+  - name: critica_co_criadores_dependencia_deus
+    weight: 7
+    confidence: 0.7
+  - name: perspectiva_secular_destruicao_ambiental
+    weight: 7
+    confidence: 0.75
+  - name: sermao_marcos_13_obras_humanas_eternidade
+    weight: 9
+    confidence: 0.9
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '270.6'
+  - '261.8'
+  - '241.3'
+  cdu_description: Teologia cristã; Teologia da Reforma; Teologia da criação; Ética cristã
+---
 [[Marcos 13]]:1-2
 
 Vamos começar com a análise a partir de grandes reformadores da história da igreja, contrapontos e, em seguida, o sermão com três pontos com base nas anotações que você trouxe.

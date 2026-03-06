@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:07.654221+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_pilatos
+    weight: 7
+    confidence: 0.9
+  - name: pecado_por_omissao
+    weight: 9
+    confidence: 0.95
+  - name: teologia_reformada_pecaminosidade
+    weight: 8
+    confidence: 0.92
+  - name: exegese_marcos_15_6_10
+    weight: 8
+    confidence: 0.93
+  - name: contexto_historico_romano_judeia
+    weight: 7
+    confidence: 0.88
+  - name: costume_libertacao_pascoa_romana
+    weight: 6
+    confidence: 0.85
+  - name: proposta_sermao_integridade
+    weight: 7
+    confidence: 0.9
+  - name: neutralidade_comoda_cristianismo
+    weight: 8
+    confidence: 0.91
+  - name: medo_impedimento_agir_justica
+    weight: 8
+    confidence: 0.92
+  - name: coragem_moral_crista
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '230.9'
+  cdu_secondary:
+  - 27-29
+  - '226.7'
+  cdu_description: Teologia cristã; Teologia sistemática; Teologia reformada; Teologia bíblica; Novo Testamento; Evangelho de Marcos
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Marcos 15]]:6-10
 ### **Análise das Meditações sobre Marcos 15:6-10**  
 

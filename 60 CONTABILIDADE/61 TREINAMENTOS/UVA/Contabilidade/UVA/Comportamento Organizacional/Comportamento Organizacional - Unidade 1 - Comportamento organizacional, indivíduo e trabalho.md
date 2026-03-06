@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:40.894687+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceito_comportamento_organizacional
+    weight: 10
+    confidence: 0.98
+  - name: papel_individuo_ambiente_trabalho
+    weight: 9
+    confidence: 0.95
+  - name: influencia_organizacao_individuo
+    weight: 8
+    confidence: 0.92
+  - name: disciplinas_relacionadas_comportamento_organizacional
+    weight: 7
+    confidence: 0.9
+  - name: desenvolvimento_organizacional
+    weight: 6
+    confidence: 0.88
+  - name: talentos_potenciais_colaboradores
+    weight: 5
+    confidence: 0.85
+  - name: valores_atitudes_emocoes_trabalho
+    weight: 9
+    confidence: 0.93
+  - name: personalidade_individuo_organizacao
+    weight: 8
+    confidence: 0.91
+  - name: habilidades_individuo_trabalho
+    weight: 7
+    confidence: 0.89
+  - name: inteligencia_emocional_organizacional
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '316.46'
+  cdu_secondary:
+  - '159.947'
+  - '331.1'
+  cdu_description: Sociologia do trabalho e da organização; Psicologia social aplicada ao trabalho; Psicologia do trabalho e das organizações
+---
 #### Comportamento Organizacional - Unidade 1
 Ao final desta unidade, você deverá ser capaz de:
 -   explicar o que é comportamento organizacional e o papel do indivíduo no ambiente de trabalho.

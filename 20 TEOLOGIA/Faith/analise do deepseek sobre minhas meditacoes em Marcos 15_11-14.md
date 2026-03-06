@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T21:59:17.474411+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: meditacoes_biblicas
+    weight: 9
+    confidence: 0.98
+  - name: evangelho_de_marcos
+    weight: 8
+    confidence: 0.97
+  - name: analise_ia_deepseek
+    weight: 7
+    confidence: 0.96
+  - name: teologia_crista
+    weight: 6
+    confidence: 0.95
+  - name: fe_e_espiritualidade
+    weight: 5
+    confidence: 0.94
+  - name: interpretacao_biblica
+    weight: 8
+    confidence: 0.93
+  - name: passagens_biblicas_marcos_15
+    weight: 7
+    confidence: 0.92
+  - name: reflexoes_teologicas
+    weight: 6
+    confidence: 0.91
+  - name: estudo_de_textos_sagrados
+    weight: 5
+    confidence: 0.9
+  - name: relacionamento_com_deus
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '230'
+  cdu_secondary:
+  - '226.4'
+  cdu_description: Teologia cristã em geral; Teologia cristã. Novo Testamento. Evangelhos. Atos dos Apóstolos. Epístolas. Apocalipse. Evangelho de Marcos.
+---
 #### analise do deepseek sobre minhas meditacoes em [[Marcos 15]]_11-14
 **Resposta conforme Instruções**
 

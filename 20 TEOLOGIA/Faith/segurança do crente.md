@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:15.717014+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: seguranca_em_deus
+    weight: 10
+    confidence: 1.0
+  - name: protecao_divina
+    weight: 9
+    confidence: 0.98
+  - name: confianca_no_senhor
+    weight: 9
+    confidence: 0.97
+  - name: paz_interior_em_deus
+    weight: 8
+    confidence: 0.95
+  - name: salvacao_pelo_senhor
+    weight: 8
+    confidence: 0.94
+  - name: amor_incondicional_deus
+    weight: 7
+    confidence: 0.92
+  - name: superacao_de_inimigos
+    weight: 7
+    confidence: 0.9
+  - name: consolo_divino
+    weight: 6
+    confidence: 0.88
+  - name: sabedoria_e_compreensao
+    weight: 6
+    confidence: 0.85
+  - name: aperfeicoamento_pelo_sofrimento
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '231.7'
+  cdu_secondary:
+  - '248.4'
+  - '273.2'
+  cdu_description: Teologia cristã - Atributos de Deus - Providência e Soberania; Vida cristã - Prática religiosa - Confiança em Deus; Doutrinas cristãs - Escatologia - Esperança cristã
+---
 segurança do crente
 
 Eu me deito, e durmo tranquilo, e depois acordo porque o Senhor me protege. ([[Salmos 3]]:5 NTLH)

@@ -1,4 +1,45 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:52.299783+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pasta_de_berinjela_babaganuche
+    weight: 10
+    confidence: 0.98
+  - name: beneficios_da_berinjela_para_saude
+    weight: 9
+    confidence: 0.95
+  - name: controle_de_colesterol_com_berinjela
+    weight: 8
+    confidence: 0.92
+  - name: emagrecimento_com_berinjela
+    weight: 8
+    confidence: 0.9
+  - name: reducao_de_gordura_abdominal
+    weight: 7
+    confidence: 0.88
+  - name: fibras_alimentares_e_saciedade
+    weight: 6
+    confidence: 0.85
+  - name: reducao_de_triglicerides_e_acido_urico
+    weight: 7
+    confidence: 0.87
+  - name: prevencao_de_doencas_cardiovasculares
+    weight: 7
+    confidence: 0.86
+  - name: receita_de_babaganuche
+    weight: 9
+    confidence: 0.96
+  - name: niacina_para_emagrecimento
+    weight: 6
+    confidence: 0.8
+  cdu_primary: '641.5'
+  cdu_secondary:
+  - '613.2'
+  - '616.1'
+  cdu_description: '641.5: Culinária, gastronomia, cozinha. 613.2: Dietética, alimentação, nutrição. 616.1: Doenças do aparelho circulatório.'
+---
       A deliciosa pasta de berinjela: para ajudar você a controlar o colesterol e a derreter as gordurinhas | Cura pela Natureza
     
 

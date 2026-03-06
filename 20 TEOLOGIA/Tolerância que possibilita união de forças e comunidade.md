@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:02.173805+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: tolerancia_religiosa
+    weight: 10
+    confidence: 0.98
+  - name: conviccoes_de_fe
+    weight: 9
+    confidence: 0.95
+  - name: comunidade_religiosa
+    weight: 8
+    confidence: 0.92
+  - name: relacao_entre_fe_e_igreja
+    weight: 7
+    confidence: 0.88
+  - name: salvacao_em_jesus
+    weight: 9
+    confidence: 0.96
+  - name: natureza_de_deus
+    weight: 7
+    confidence: 0.85
+  - name: fe_como_questao_pessoal
+    weight: 8
+    confidence: 0.9
+  - name: evangelizacao_por_imitacao
+    weight: 9
+    confidence: 0.93
+  - name: abordagem_nao_impositiva_de_jesus
+    weight: 8
+    confidence: 0.91
+  - name: convivencia_com_diferencas
+    weight: 10
+    confidence: 0.97
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - 27-29
+  - '304'
+  - '323.1'
+  cdu_description: Teologia cristã; Doutrinas cristãs; História e geografia da igreja cristã; Sociologia e psicologia da religião; Relações entre grupos sociais
+---
 #### Tolerância que possibilita união de forças e comunidade
 Amarelo destaque | Local: 304 Nota | Local: 304
 

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:28.202248+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conhecimento_vs_amor_cristao
+    weight: 10
+    confidence: 0.98
+  - name: comida_sacrificada_a_idolos
+    weight: 9
+    confidence: 0.95
+  - name: humildade_intelectual_crista
+    weight: 8
+    confidence: 0.92
+  - name: ser_conhecido_por_deus
+    weight: 7
+    confidence: 0.9
+  - name: responsabilidade_com_os_fracos_na_fe
+    weight: 9
+    confidence: 0.96
+  - name: liberdade_crista_e_tropeco
+    weight: 8
+    confidence: 0.93
+  - name: pecado_contra_irmaos_e_cristo
+    weight: 7
+    confidence: 0.91
+  - name: escandalizar_a_consciencia_fraca
+    weight: 8
+    confidence: 0.94
+  - name: renuncia_por_amor_ao_proximo
+    weight: 7
+    confidence: 0.92
+  - name: etica_crista_na_alimentacao
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - 27-29
+  - '241.5'
+  cdu_description: Teologia cristã; Doutrina cristã; Ética cristã; Novo Testamento; Epístolas de Paulo; 1 Coríntios
+---
 1Co 8:1 — 1Co 8:3 (Bíblia Almeida Strong)
 Acerca das coisas sacrificadas aos ídolos
 1 No que se refere às coisas sacrificadas a ídolos, reconhecemos que todos somos senhores do saber. O saber ensoberbece, mas o amor edifica. 2 Se alguém julga saber alguma coisa, com efeito, não aprendeu ainda como convém saber. 3 Mas, se alguém ama a Deus, esse é conhecido por ele.

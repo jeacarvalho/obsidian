@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:34.873193+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: revisao_editorial_ia
+    weight: 7
+    confidence: 0.9
+  - name: sintese_conteudo_livro
+    weight: 8
+    confidence: 0.95
+  - name: analise_critica_livro
+    weight: 8
+    confidence: 0.92
+  - name: aplicabilidade_cotidiana
+    weight: 7
+    confidence: 0.88
+  - name: selecao_citacoes
+    weight: 6
+    confidence: 0.85
+  - name: agrupamento_bibliografia
+    weight: 6
+    confidence: 0.8
+  - name: transformacao_leitor
+    weight: 9
+    confidence: 0.98
+  - name: desenvolvimento_qualidades_humanas
+    weight: 8
+    confidence: 0.93
+  - name: mudancas_comportamentais
+    weight: 7
+    confidence: 0.9
+  - name: superacao_obstaculos_transformacao
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '004.9'
+  cdu_secondary:
+  - '159.9'
+  - '005.32'
+  cdu_description: Processamento de informação e documentação; Análise e síntese de conteúdo; Psicologia; Desenvolvimento pessoal; Gestão da qualidade.
+---
 # Resumo do resumo
 
 Você atuará como um revisor editorial especializado em análise de livros e síntese de conteúdo gerado por IA.

@@ -2,7 +2,49 @@
 created: 2021-06-30T14:18:08 (UTC -03:00)
 tags: []
 source: https://www.bbc.com/portuguese/geral-57656537
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:43.478906+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_publicidade_diamantes
+    weight: 10
+    confidence: 0.98
+  - name: psicologia_comportamental_consumo
+    weight: 9
+    confidence: 0.95
+  - name: marketing_simbolico_compromisso
+    weight: 9
+    confidence: 0.94
+  - name: etica_valor_economico_diamantes
+    weight: 8
+    confidence: 0.92
+  - name: relacionamentos_amor_casamento_seculo_20
+    weight: 7
+    confidence: 0.9
+  - name: teoria_sinalizacao_consumo_conspicuo
+    weight: 8
+    confidence: 0.93
+  - name: influencia_publicidade_normas_sociais
+    weight: 7
+    confidence: 0.91
+  - name: biologia_evolucionista_selecao_parceiros
+    weight: 6
+    confidence: 0.88
+  - name: criatividade_redacao_publicitaria
+    weight: 7
+    confidence: 0.89
+  - name: historia_empresa_de_beers
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '659.1'
+  cdu_secondary:
+  - '316.6'
+  - '391.7'
+  - '177.3'
+  - '330.1'
+  cdu_description: Publicidade e propaganda. Marketing. Relações públicas. Psicologia social. Sociologia da família. Ética. Economia. Biologia evolutiva.
 ---
 
 # As 4 palavras mais polêmicas e bem sucedidas da [[história]] da publicidade - BBC News Brasil

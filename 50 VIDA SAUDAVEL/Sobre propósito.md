@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:38.638982+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: proposito_de_vida
+    weight: 10
+    confidence: 0.98
+  - name: significado_no_trabalho
+    weight: 9
+    confidence: 0.95
+  - name: motivacao_organizacional
+    weight: 8
+    confidence: 0.92
+  - name: apatia_no_ambiente_de_trabalho
+    weight: 7
+    confidence: 0.9
+  - name: engajamento_dos_funcionarios
+    weight: 8
+    confidence: 0.88
+  - name: transformacao_organizacional_por_proposito
+    weight: 7
+    confidence: 0.85
+  - name: exclusao_social_e_perda_de_sentido
+    weight: 6
+    confidence: 0.8
+  - name: psicologia_do_trabalho
+    weight: 7
+    confidence: 0.75
+  - name: lideranca_e_significado
+    weight: 6
+    confidence: 0.7
+  - name: construcao_de_carro_simbolico
+    weight: 5
+    confidence: 0.65
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '331.1'
+  - '316.6'
+  cdu_description: Psicologia do propósito e significado no trabalho, motivação, apatia e engajamento organizacional.
+---
 Sobre [[propósito]]
 
 ## Alguma indicação bibliográfica

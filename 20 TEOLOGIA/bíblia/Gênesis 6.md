@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:26.838878+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reflexao_genesis_6_3_espiritos_humanos
+    weight: 7
+    confidence: 0.85
+  - name: reflexao_genesis_6_6_arrependimento_divino
+    weight: 9
+    confidence: 0.95
+  - name: comparacao_arrependimento_humano_divino
+    weight: 8
+    confidence: 0.9
+  - name: justificativa_juizo_divino_genesis_6_7
+    weight: 7
+    confidence: 0.88
+  - name: causa_destruicao_diluvio_violencia_humana
+    weight: 8
+    confidence: 0.92
+  - name: conceito_graca_genesis_6_8
+    weight: 9
+    confidence: 0.96
+  - name: estabelecimento_alianca_genesis_6_18
+    weight: 8
+    confidence: 0.93
+  - name: instrucoes_arca_alimentacao_genesis_6_21
+    weight: 6
+    confidence: 0.8
+  - name: natureza_carnal_homem_genesis
+    weight: 7
+    confidence: 0.87
+  - name: teologia_juizo_divino_antigo_testamento
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '221.9'
+  cdu_secondary:
+  - '231.7'
+  - '224.1'
+  cdu_description: Estudo do Livro de Gênesis, com foco nos capítulos 6, abordando temas como a natureza humana, o juízo divino, o arrependimento de Deus, a graça e a aliança. Inclui referências teológicas sobre a inconstância divina versus a constância de Deus.
+---
 Nota Sem Título
 
 Gênesis 6:3

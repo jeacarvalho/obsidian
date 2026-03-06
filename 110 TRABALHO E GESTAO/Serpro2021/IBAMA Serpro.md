@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:49.490445+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: arquitetura_geo_analitica_fiscalizacao_madeireira
+    weight: 10
+    confidence: 0.98
+  - name: projeto_floresta_mais_madeira_ibama
+    weight: 9
+    confidence: 0.97
+  - name: solucao_analitica_alertas_fiscalizacao
+    weight: 8
+    confidence: 0.96
+  - name: parceria_transformacao_digital_serpro
+    weight: 7
+    confidence: 0.95
+  - name: contrato_ibama_urc
+    weight: 6
+    confidence: 0.94
+  - name: absorcao_sistemas_ibama
+    weight: 8
+    confidence: 0.93
+  - name: contratos_terceiros_desenvolvimento_software
+    weight: 7
+    confidence: 0.92
+  - name: infraestrutura_aws_suporte_serpro
+    weight: 6
+    confidence: 0.91
+  - name: sistemas_ibama_sisfogo_siga_sca_protocolo_montreal
+    weight: 7
+    confidence: 0.9
+  - name: forca_tarefa_subir_sistemas_estaleiro
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '351.777'
+  cdu_secondary:
+  - '338.47'
+  - '004.4'
+  - 351.823.5
+  cdu_description: Administração pública. Serviços públicos. Gestão. Organização. Planeamento. Serviços de fiscalização e controlo. Proteção ambiental. Gestão de recursos naturais. Desenvolvimento de software. Contratos de desenvolvimento.
+---
 ___
 # 20220503 - Arquitetura Geo Analítica
 - Convocada pela SUPAI

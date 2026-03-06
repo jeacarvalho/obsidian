@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:32.984220+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: vida_e_ministerio_de_paulo
+    weight: 10
+    confidence: 0.98
+  - name: humildade_e_provacoes_no_servico
+    weight: 9
+    confidence: 0.95
+  - name: pregacao_publica_e_domestica
+    weight: 9
+    confidence: 0.94
+  - name: arrependimento_e_fe_em_jesus
+    weight: 8
+    confidence: 0.93
+  - name: testemunho_pessoal_e_vocacao
+    weight: 8
+    confidence: 0.92
+  - name: perseveranca_diante_de_tribulacoes
+    weight: 7
+    confidence: 0.9
+  - name: pastoreio_da_igreja_e_cuidado_do_rebanho
+    weight: 7
+    confidence: 0.89
+  - name: edificacao_pela_palavra_de_graca
+    weight: 6
+    confidence: 0.88
+  - name: generosidade_e_altruismo_no_cristianismo
+    weight: 6
+    confidence: 0.87
+  - name: milagres_e_sinais_apostolicos
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '273.6'
+  cdu_secondary: []
+  cdu_description: Vida e ministério de Paulo, com ênfase em sua pregação, testemunho, perseverança e ensinamentos sobre o serviço e o cuidado da igreja.
+---
 At 20:9 — At 20:10 (RA Strong's)
 
 9 Um jovem, chamado Êutico, que estava sentado numa janela, adormecendo profundamente durante o prolongado discurso de Paulo, vencido pelo sono, caiu do terceiro andar abaixo e foi levantado morto. 10 Descendo, porém, Paulo inclinou-se sobre ele e, abraçando-o, disse: Não vos perturbeis, que a vida nele está.

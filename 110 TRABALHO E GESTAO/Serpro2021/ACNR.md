@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:50.247730+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reunioes_obrigatorias_bimestrais
+    weight: 7
+    confidence: 0.85
+  - name: remodelacao_espaco_coworking
+    weight: 6
+    confidence: 0.75
+  - name: eleicao_coordenador_acnr
+    weight: 8
+    confidence: 0.9
+  - name: transicao_trabalho_remoto_hibrido
+    weight: 9
+    confidence: 0.95
+  - name: condicao_centro_dados_horto
+    weight: 7
+    confidence: 0.8
+  - name: distribuicao_maquinas_dides
+    weight: 5
+    confidence: 0.65
+  - name: incerteza_localizacao_horto_andarai
+    weight: 8
+    confidence: 0.88
+  - name: aumento_produtividade_auditoria
+    weight: 6
+    confidence: 0.7
+  - name: retorno_presencial_restaurante_distanciamento
+    weight: 5
+    confidence: 0.6
+  - name: necessidade_pessoal_desenvolvimento
+    weight: 9
+    confidence: 0.92
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '004.4'
+  - '351.8'
+  - '334.7'
+  cdu_description: Gestão de pessoal e organização do trabalho; Tecnologia da informação e organização; Administração pública e direito administrativo; Organização e gestão de empresas
+---
 | links | Arquivos |
 | ----- | -------- |
 |       |          |

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:22.081509+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sabedoria_celestial
+    weight: 10
+    confidence: 0.98
+  - name: pureza_sabedoria
+    weight: 9
+    confidence: 0.95
+  - name: paz_sabedoria
+    weight: 9
+    confidence: 0.95
+  - name: bondade_sabedoria
+    weight: 8
+    confidence: 0.93
+  - name: amabilidade_sabedoria
+    weight: 8
+    confidence: 0.93
+  - name: misericordia_sabedoria
+    weight: 9
+    confidence: 0.96
+  - name: boas_acoes_sabedoria
+    weight: 8
+    confidence: 0.94
+  - name: imparcialidade_sabedoria
+    weight: 7
+    confidence: 0.92
+  - name: sinceridade_sabedoria
+    weight: 7
+    confidence: 0.92
+  - name: fruto_justica
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '234.2'
+  - '241.4'
+  cdu_description: Teologia cristã; Doutrina da salvação; Ética cristã
+---
 Sabedoria que vem de Deus
 
 A sabedoria que vem do céu é antes de tudo

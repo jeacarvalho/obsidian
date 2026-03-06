@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:15.063746+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: luto_e_tempo
+    weight: 7
+    confidence: 0.85
+  - name: cuidado_com_pobres
+    weight: 10
+    confidence: 0.98
+  - name: orgulho_e_fartura
+    weight: 6
+    confidence: 0.8
+  - name: consequencias_da_iniquidade
+    weight: 8
+    confidence: 0.9
+  - name: alegria_e_morte
+    weight: 7
+    confidence: 0.88
+  - name: vigilancia_e_oracao
+    weight: 9
+    confidence: 0.92
+  - name: opressao_do_pobre
+    weight: 10
+    confidence: 0.99
+  - name: justica_e_pecado
+    weight: 8
+    confidence: 0.91
+  - name: sabedoria_e_caminho_reto
+    weight: 7
+    confidence: 0.85
+  - name: avareza_e_exploracao
+    weight: 9
+    confidence: 0.95
+  cdu_primary: '22'
+  cdu_secondary:
+  - '305.8'
+  - '316.3'
+  - '343.8'
+  cdu_description: Religião, Teologia, Ética Social, Sociologia da Pobreza, Crime e Punição
+---
 Diversos versículos sobre o coração que percebe o tempo de luto e sobre cuidar do pobre
 
 Eis que esta foi a iniquidade de sua irmã Sodoma: ela e as suas filhas foram orgulhosas, tiveram fartura de pão e próspera tranquilidade, mas nunca ampararam os pobres e os necessitados.

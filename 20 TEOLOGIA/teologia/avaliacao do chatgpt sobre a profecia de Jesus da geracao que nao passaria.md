@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:59.949512+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: interpretacao_geracao_marcos_13_30
+    weight: 10
+    confidence: 0.98
+  - name: discurso_profetico_jesus
+    weight: 9
+    confidence: 0.95
+  - name: sermao_monte_oliveiras
+    weight: 8
+    confidence: 0.92
+  - name: interpretacao_geracao_atual
+    weight: 7
+    confidence: 0.9
+  - name: destruicao_jerusalem_70_dc
+    weight: 7
+    confidence: 0.88
+  - name: interpretacao_geracao_nacao_israel
+    weight: 8
+    confidence: 0.93
+  - name: preservacao_povo_judeu
+    weight: 7
+    confidence: 0.89
+  - name: interpretacao_geracao_ultimos_dias
+    weight: 9
+    confidence: 0.96
+  - name: linhas_teologicas_escatologia
+    weight: 8
+    confidence: 0.94
+  - name: preterismo_futurismo_dispensacionalismo
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '230.2'
+  cdu_secondary:
+  - 27-29
+  - '22.31'
+  - '22.32'
+  cdu_description: Teologia cristã. Doutrinas gerais. Escatologia. Profecias bíblicas e suas interpretações. Interpretações específicas do Novo Testamento (Evangelhos, Atos, Epístolas, Apocalipse). Interpretações de passagens específicas (Marcos 13). Linhas teológicas (Preterismo, Futurismo, Dispensacionalismo).
+---
 fonte: https://chatgpt.com/share/67222ca6-8f50-8007-9684-0ff3f15f2b59
 
 Esse versículo de [[Marcos 13]]:30 faz parte do discurso profético de Jesus sobre os eventos futuros, também conhecido como o "Sermão do Monte das Oliveiras", que aparece nos três evangelhos sinópticos (Mateus, Marcos e Lucas). A interpretação da palavra "geração" (grego: *genea*) é crucial aqui, pois diferentes traduções, como a Nova Versão Transformadora (NVT), sugerem "nação" como uma possível alternativa. Vamos explorar um pouco mais essas interpretações.

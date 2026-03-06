@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:57.180144+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_estrategica_de_pessoas
+    weight: 9
+    confidence: 0.95
+  - name: cultura_organizacional
+    weight: 8
+    confidence: 0.9
+  - name: inovacao_empresarial
+    weight: 10
+    confidence: 0.98
+  - name: lideranca_transformacional
+    weight: 9
+    confidence: 0.96
+  - name: quarta_revolucao_industrial
+    weight: 7
+    confidence: 0.85
+  - name: desenvolvimento_de_conhecimento_tacito
+    weight: 8
+    confidence: 0.92
+  - name: fomento_a_redes_de_relacionamento
+    weight: 7
+    confidence: 0.88
+  - name: gestao_do_amanha
+    weight: 6
+    confidence: 0.8
+  - name: lider_como_agente_de_mudanca
+    weight: 7
+    confidence: 0.87
+  - name: integracao_tecnologia_humanidades
+    weight: 6
+    confidence: 0.82
+  cdu_primary: '65.01'
+  cdu_secondary:
+  - '005.32'
+  - '005.8'
+  - '316.46'
+  cdu_description: Gestão e organização. Gestão de pessoal. Inovação. Liderança. Impacto da tecnologia e das humanidades na gestão.
+---
 Magaldi, Sandro, e José Salibi Neto. _Gestão do amanhã: tudo o que você precisa saber sobre gestão, inovação e liderança para vencer na 4a revoluçoão industrial_, 2018. [http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=2127480](http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=2127480).
 
 Gestão do Amanhã: Tudo o que você precisa saber sobre gestãoundefined inovação e liderança para vencer na 4ª [[revolução industrial]] (Portuguese Edition) Sandro Magaldi and José Salibi Neto

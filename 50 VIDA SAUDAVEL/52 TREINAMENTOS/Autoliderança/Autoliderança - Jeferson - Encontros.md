@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:48.183790+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lideranca_eficaz
+    weight: 10
+    confidence: 0.98
+  - name: planejamento_estrategico
+    weight: 9
+    confidence: 0.95
+  - name: gestao_de_projetos
+    weight: 8
+    confidence: 0.92
+  - name: reconstrucao_de_muralhas
+    weight: 7
+    confidence: 0.9
+  - name: motivacao_de_equipe
+    weight: 7
+    confidence: 0.88
+  - name: avaliacao_de_realidade
+    weight: 6
+    confidence: 0.85
+  - name: disciplina_devocional
+    weight: 6
+    confidence: 0.82
+  - name: comunicacao_eficaz
+    weight: 5
+    confidence: 0.8
+  - name: gestao_de_prazos
+    weight: 5
+    confidence: 0.78
+  - name: principio_20_80
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '224.1'
+  cdu_secondary:
+  - '305.8'
+  - '316.4'
+  cdu_description: A CDU 224.1 refere-se a livros históricos do Antigo Testamento, especificamente Neemias, que trata da reconstrução de Jerusalém. A CDU 305.8 abrange estudos sobre grupos étnicos e raciais, relevantes para o contexto de Neemias e os desafios enfrentados. A CDU 316.4 lida com a dinâmica social e a mudança social, aplicável à reconstrução e liderança.
+---
 #### 17o encontro presencial - 20210601
 - 
 - 

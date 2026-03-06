@@ -1,4 +1,47 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:43.470254+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: revolucao_1930_brasil
+    weight: 10
+    confidence: 0.98
+  - name: getulio_vargas_poder
+    weight: 9
+    confidence: 0.97
+  - name: industrializacao_brasil_periodo
+    weight: 8
+    confidence: 0.95
+  - name: estado_novo_brasil
+    weight: 9
+    confidence: 0.96
+  - name: crise_economica_brasil_1930s
+    weight: 8
+    confidence: 0.94
+  - name: legislacao_trabalhista_brasil_vargas
+    weight: 7
+    confidence: 0.92
+  - name: grande_depressao_impacto_brasil
+    weight: 7
+    confidence: 0.93
+  - name: burguesia_cafeicultura_brasil
+    weight: 6
+    confidence: 0.9
+  - name: lutas_classes_brasil_1930s
+    weight: 6
+    confidence: 0.91
+  - name: estado_desenvolvimentista_brasil
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '338.1'
+  cdu_secondary:
+  - '323.2'
+  - '330.5'
+  - '349.2'
+  - '338.45'
+  cdu_description: 338.1 - Desenvolvimento econômico. Política econômica. Produção. Serviços. Preços. Concorrência. Organização econômica. Economia aplicada. 323.2 - Movimentos sociais e políticos. Agitação. Desordem. 330.5 - Economia política. 349.2 - Direito do trabalho. 338.45 - Industrialização.
+---
 A criação das bases da industrialização (1930-1945)
 
 Introdução

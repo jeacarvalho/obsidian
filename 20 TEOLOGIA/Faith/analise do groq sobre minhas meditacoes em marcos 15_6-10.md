@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T21:56:49.371324+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: meditacoes_biblicas
+    weight: 9
+    confidence: 0.98
+  - name: evangelho_de_marcos
+    weight: 8
+    confidence: 0.97
+  - name: passagens_biblicas_especificas
+    weight: 7
+    confidence: 0.96
+  - name: analise_teologica
+    weight: 8
+    confidence: 0.95
+  - name: interpretacao_biblica
+    weight: 9
+    confidence: 0.94
+  - name: reflexoes_espirituais
+    weight: 7
+    confidence: 0.93
+  - name: teologia_crista
+    weight: 6
+    confidence: 0.92
+  - name: estudo_do_novo_testamento
+    weight: 8
+    confidence: 0.91
+  - name: fe_e_doutrina
+    weight: 5
+    confidence: 0.9
+  - name: textos_sagrados
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '226.7'
+  cdu_secondary:
+  - '230'
+  cdu_description: Evangelho de Marcos (226.7), Teologia Cristã (230)
+---
 #### analise do groq sobre minhas meditacoes em  [[Marcos 15]]_6-10
 
 <think>

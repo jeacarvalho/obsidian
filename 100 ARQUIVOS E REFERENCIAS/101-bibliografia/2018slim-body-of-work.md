@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:02.070637+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: construcao_de_carreira_holistica
+    weight: 9
+    confidence: 0.98
+  - name: identificacao_de_valores_e_motivacoes
+    weight: 8
+    confidence: 0.97
+  - name: desenvolvimento_de_habilidades_unicas
+    weight: 8
+    confidence: 0.96
+  - name: escolha_de_modos_de_trabalho
+    weight: 7
+    confidence: 0.95
+  - name: processo_criativo_e_inovacao
+    weight: 9
+    confidence: 0.97
+  - name: gerenciamento_construtivo_do_medo
+    weight: 10
+    confidence: 0.99
+  - name: importancia_da_colaboracao_e_networking
+    weight: 8
+    confidence: 0.96
+  - name: definicao_pessoal_de_sucesso
+    weight: 9
+    confidence: 0.98
+  - name: narrativa_e_comunicacao_eficaz
+    weight: 7
+    confidence: 0.95
+  - name: superacao_de_medo_de_errar_e_rejeicao
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '331.5'
+  - '005.32'
+  cdu_description: Psicologia da motivação e da emoção; Psicologia do trabalho e das organizações; Gestão da criatividade
+---
 O quanto meu [[medo de errar]] e [[MEDO DA REJEIÇÃO]] podem estar sabotando o crescimento da igreja?????
 
 Com base nas informações fornecidas no livro "Body of Work", aqui está um breve resumo de cada capítulo:

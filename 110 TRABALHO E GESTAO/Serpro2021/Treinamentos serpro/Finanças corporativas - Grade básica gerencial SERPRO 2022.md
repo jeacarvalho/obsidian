@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:00.397989+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: principio_orcamentario_unidade
+    weight: 7
+    confidence: 0.9
+  - name: principio_orcamentario_totalidade
+    weight: 7
+    confidence: 0.9
+  - name: principio_orcamentario_anualidade
+    weight: 7
+    confidence: 0.9
+  - name: principio_orcamentario_pureza
+    weight: 7
+    confidence: 0.9
+  - name: principio_orcamentario_equilibrio
+    weight: 8
+    confidence: 0.95
+  - name: principio_orcamentario_discriminacao
+    weight: 7
+    confidence: 0.9
+  - name: principio_orcamentario_universalidade
+    weight: 7
+    confidence: 0.9
+  - name: custo_abc
+    weight: 9
+    confidence: 0.95
+  - name: analise_fluxo_caixa_indireto
+    weight: 8
+    confidence: 0.9
+  - name: analise_viabilidade_projeto_vpl
+    weight: 9
+    confidence: 0.95
+  cdu_primary: '657.1'
+  cdu_secondary:
+  - '336.1'
+  - '658.15'
+  cdu_description: Contabilidade pública e privada, orçamentos, análise de custos e viabilidade financeira de projetos.
+---
 [[Contabilidade]]
 
 # 1.1 Princípios orçamentários

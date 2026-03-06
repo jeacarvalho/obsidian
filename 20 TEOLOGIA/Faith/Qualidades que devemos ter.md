@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:14.517039+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: virtude_crista
+    weight: 8
+    confidence: 0.9
+  - name: fe_crista
+    weight: 10
+    confidence: 0.95
+  - name: conhecimento_cristao
+    weight: 7
+    confidence: 0.85
+  - name: autocontrole_cristao
+    weight: 7
+    confidence: 0.85
+  - name: perseveranca_crista
+    weight: 8
+    confidence: 0.9
+  - name: devocao_a_deus
+    weight: 9
+    confidence: 0.92
+  - name: amizade_crista
+    weight: 6
+    confidence: 0.8
+  - name: amor_cristao
+    weight: 10
+    confidence: 0.95
+  - name: crescimento_espiritual
+    weight: 7
+    confidence: 0.88
+  - name: cegueira_espiritual
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '248.4'
+  - '241.1'
+  cdu_description: Teologia cristã; Vida e prática cristãs; Ética cristã
+---
 # Qualidades que devemos ter segundo [[II Pedro 1]]: 5-9
 
 Por isso mesmo façam todo o possível para

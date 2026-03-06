@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:50.356013+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: planejamento_estrategico_sedat
+    weight: 10
+    confidence: 0.98
+  - name: gestao_de_projetos_ti
+    weight: 9
+    confidence: 0.95
+  - name: indicadores_de_desempenho_ti
+    weight: 8
+    confidence: 0.92
+  - name: transformacao_digital
+    weight: 7
+    confidence: 0.88
+  - name: lgpd_arquitetura_de_dados
+    weight: 8
+    confidence: 0.9
+  - name: gestao_de_mudancas_organizacionais
+    weight: 7
+    confidence: 0.85
+  - name: colaboracao_e_comunicacao_equipes
+    weight: 6
+    confidence: 0.8
+  - name: planejamento_e_execucao_de_metas
+    weight: 9
+    confidence: 0.93
+  - name: ferramentas_de_gestao_alm
+    weight: 7
+    confidence: 0.87
+  - name: analise_e_visualizacao_de_dados
+    weight: 6
+    confidence: 0.82
+  cdu_primary: '005.3'
+  cdu_secondary:
+  - '004.77'
+  - '351.85'
+  - '338.47'
+  cdu_description: Gestão e administração. Organização e métodos. Planejamento estratégico. Gestão de projetos de TI. Indicadores de desempenho. Transformação digital. LGPD. Gestão de mudanças. Colaboração. Ferramentas de gestão. Análise de dados.
+---
 #### Descrição: Semana de planemanento 2021 do SEDAT
 
 

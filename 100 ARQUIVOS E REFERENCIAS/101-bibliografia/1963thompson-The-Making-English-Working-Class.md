@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:50.854593+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: london_corresponding_society_fundacao
+    weight: 10
+    confidence: 0.98
+  - name: conceito_membros_ilimitados
+    weight: 9
+    confidence: 0.97
+  - name: consciencia_politica_classe_trabalhadora
+    weight: 9
+    confidence: 0.96
+  - name: critica_direitos_politicos_propriedade
+    weight: 8
+    confidence: 0.95
+  - name: radicalismo_ingles_seculo_xviii
+    weight: 8
+    confidence: 0.94
+  - name: debate_putney_reivindicacao_historica
+    weight: 7
+    confidence: 0.93
+  - name: direito_de_voto_versus_propriedade
+    weight: 7
+    confidence: 0.92
+  - name: levellers_influencia_radicalismo
+    weight: 6
+    confidence: 0.91
+  - name: organizacao_politica_classe_trabalhadora_modelo
+    weight: 6
+    confidence: 0.9
+  - name: repressao_radicalismo_anos_1790
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '324.24'
+  cdu_secondary:
+  - '321.1'
+  - '305.8'
+  cdu_description: O tema central é a fundação e o significado da London Corresponding Society (L.C.S.) em 1792, com sua regra de 'Membros Ilimitados', vista como um ponto de virada na história inglesa. Aborda a emergência da consciência política da classe trabalhadora, o debate sobre direitos políticos versus propriedade, a conexão com o radicalismo histórico (Levellers, Debates de Putney) e a oposição ao establishment e reformadores moderados. Inclui a análise da organização e legado da L.C.S. como modelo para futuras organizações políticas da classe trabalhadora e a repressão sofrida.
+---
 # Cap 1
 
 ### Análise Multiperspectiva do Capítulo 1: "Members Unlimited"

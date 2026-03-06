@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:03.835592+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: alegria_no_senhor
+    weight: 10
+    confidence: 0.98
+  - name: deleite_em_deus
+    weight: 9
+    confidence: 0.97
+  - name: promessas_divinas
+    weight: 8
+    confidence: 0.96
+  - name: fidelidade_deus
+    weight: 7
+    confidence: 0.95
+  - name: restauracao_de_israel
+    weight: 8
+    confidence: 0.94
+  - name: consolo_divino
+    weight: 7
+    confidence: 0.93
+  - name: amor_paterno_deus
+    weight: 9
+    confidence: 0.92
+  - name: celebracao_e_festa
+    weight: 6
+    confidence: 0.91
+  - name: forca_na_alegria_do_senhor
+    weight: 8
+    confidence: 0.9
+  - name: esperanca_em_deus
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '220.9'
+  cdu_secondary:
+  - '234.3'
+  - '242.2'
+  cdu_description: Textos bíblicos que enfatizam a alegria, o deleite e a fidelidade em Deus, com promessas de restauração e consolo, refletindo o amor divino e a força encontrada na celebração.
+---
 Deleita-te também no Senhor, e ele te concederá o que deseja o teu [[coração]]. ([[Salmos 37]]:4 [PorAR])
 
 E alegrar-me-ei por causa deles, fazendo-lhes o bem; e os plantarei nesta terra, com toda a [[fidelidade]] do meu coração e da minha alma. ([[Jeremias 32]]:41 [PorAR])

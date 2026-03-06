@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:04.168061+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: imitacao_de_deus
+    weight: 10
+    confidence: 0.98
+  - name: andar_em_amor
+    weight: 9
+    confidence: 0.97
+  - name: evitar_impureza_e_cobica
+    weight: 9
+    confidence: 0.96
+  - name: santidade_de_vida
+    weight: 8
+    confidence: 0.95
+  - name: andar_como_filhos_da_luz
+    weight: 8
+    confidence: 0.94
+  - name: fruto_da_luz_bondade_justica_verdade
+    weight: 7
+    confidence: 0.93
+  - name: agradar_ao_senhor
+    weight: 7
+    confidence: 0.92
+  - name: evitar_obras_das_trevas
+    weight: 6
+    confidence: 0.91
+  - name: sabedoria_em_procedimento
+    weight: 6
+    confidence: 0.9
+  - name: aproveitar_oportunidades_dias_maus
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '230.2'
+  cdu_secondary:
+  - '241.4'
+  - '248.3'
+  cdu_description: Teologia cristã; Ética cristã; Vida cristã
+---
 [[Efésios 5]]:1-21 - caminhando em santidade de vida
 
 |     |     |     |

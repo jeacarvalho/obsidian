@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:14.111750+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: retencao_de_adolescentes_na_igreja
+    weight: 10
+    confidence: 0.95
+  - name: importancia_do_ensino_biblico_para_jovens
+    weight: 9
+    confidence: 0.92
+  - name: compreensao_do_pecado_na_adolescencia
+    weight: 8
+    confidence: 0.88
+  - name: abordagem_de_temas_culturais_biblicos_para_adolescentes
+    weight: 9
+    confidence: 0.9
+  - name: transformacao_radical_e_obediencia_crista
+    weight: 8
+    confidence: 0.85
+  - name: teologia_solida_para_jovens
+    weight: 7
+    confidence: 0.8
+  - name: desafios_da_juventude_crista_contemporanea
+    weight: 7
+    confidence: 0.82
+  - name: papel_da_igreja_no_desenvolvimento_de_adolescentes
+    weight: 6
+    confidence: 0.75
+  - name: evangelho_e_verdade_biblica_para_adolescentes
+    weight: 9
+    confidence: 0.89
+  - name: relacionamento_intergeracional_na_igreja
+    weight: 5
+    confidence: 0.7
+  cdu_primary: 27-26
+  cdu_secondary:
+  - '305.8'
+  - '248.2'
+  cdu_description: Teologia e prática cristã aplicada à juventude, com foco na retenção e formação de adolescentes na igreja, abordando temas bíblicos e culturais relevantes.
+---
 Nota Sem Título
 
 # 4 Things Teens Need from Your Church

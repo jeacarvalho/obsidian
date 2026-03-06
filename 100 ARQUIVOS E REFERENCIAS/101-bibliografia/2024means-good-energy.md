@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T23:03:15.700666+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: critica_medicina_tradicional_fragmentada
+    weight: 9
+    confidence: 0.98
+  - name: abordagem_holistica_saude
+    weight: 10
+    confidence: 0.99
+  - name: inflamacao_cronica_causa_raiz
+    weight: 8
+    confidence: 0.97
+  - name: funcao_mitocondrial_saude_celular
+    weight: 7
+    confidence: 0.95
+  - name: impacto_estilo_vida_moderno_saude
+    weight: 8
+    confidence: 0.96
+  - name: nutricao_preventiva_tratamento_doencas
+    weight: 7
+    confidence: 0.94
+  - name: experiencia_medico_medicina_convencional
+    weight: 6
+    confidence: 0.92
+  - name: interconexao_sistemas_corporais
+    weight: 7
+    confidence: 0.93
+  - name: disfuncao_celular_doencas_cronicas
+    weight: 6
+    confidence: 0.91
+  - name: critica_especializacao_excessiva_medicina
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '613.2'
+  cdu_secondary:
+  - 616-002.1
+  - '616.09'
+  - '613.8'
+  cdu_description: 613.2 - Higiene da alimentação. Nutrição. Dietética. 616-002.1 - Inflamação aguda. 616.09 - Etiologia das doenças. 613.8 - Higiene da vida. Estilo de vida.
+---
 # Cap 1
 
 ## Análise do Conteúdo

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:47.031201+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: revelacao_verdade_oculta
+    weight: 8
+    confidence: 0.9
+  - name: temor_a_deus
+    weight: 9
+    confidence: 0.95
+  - name: blasfemia_contra_espirito_santo
+    weight: 7
+    confidence: 0.85
+  - name: orientacao_divina_em_adversidade
+    weight: 8
+    confidence: 0.9
+  - name: perigo_da_avareza
+    weight: 9
+    confidence: 0.95
+  - name: desapego_material_e_riqueza_espiritual
+    weight: 9
+    confidence: 0.95
+  - name: ansiedade_e_providencia_divina
+    weight: 8
+    confidence: 0.9
+  - name: busca_pelo_reino_de_deus
+    weight: 7
+    confidence: 0.85
+  - name: vigilancia_e_retorno_de_cristo
+    weight: 8
+    confidence: 0.9
+  - name: responsabilidade_e_prestacao_de_contas
+    weight: 9
+    confidence: 0.95
+  cdu_primary: '230'
+  cdu_secondary:
+  - '226.4'
+  - '241.1'
+  - '248.3'
+  cdu_description: Teologia cristã; Teologia bíblica; Evangelho de Lucas; Ética cristã; Vida espiritual
+---
 Lucas 12:2-3 Nada há encoberto que não venha a ser revelado; e oculto que não venha a ser conhecido. Porque tudo o que dissestes às escuras será ouvido em plena luz; e o que dissestes aos ouvidos no interior da casa será proclamado dos eirados.
 
 - Importância da [[verdade]]

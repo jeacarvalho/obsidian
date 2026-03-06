@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:57.118131+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cultura_de_aprendizagem_em_ti
+    weight: 10
+    confidence: 0.98
+  - name: aprendizagem_continua_em_ti
+    weight: 9
+    confidence: 0.95
+  - name: lideranca_em_ti_fomentando_aprendizagem
+    weight: 8
+    confidence: 0.92
+  - name: desenvolvimento_profissional_ti
+    weight: 7
+    confidence: 0.9
+  - name: gestao_do_conhecimento_ti
+    weight: 7
+    confidence: 0.88
+  - name: cultura_de_questionamento_em_ti
+    weight: 6
+    confidence: 0.85
+  - name: bootcamps_para_desenvolvimento_ti
+    weight: 6
+    confidence: 0.82
+  - name: inovacao_em_ti_atraves_da_aprendizagem
+    weight: 5
+    confidence: 0.8
+  - name: gestao_de_mudancas_tecnologicas_ti
+    weight: 5
+    confidence: 0.78
+  - name: motivacao_para_aprendizagem_em_equipes_ti
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '005.32'
+  cdu_secondary:
+  - '331.104'
+  - 37.018.4
+  cdu_description: Gestão da tecnologia da informação e comunicação (TIC) e sistemas de informação; Cultura organizacional e desenvolvimento de pessoal em TI; Métodos de ensino e aprendizagem.
+---
 7 ways to foster a culture of learning in IT
 
 # 7 ways to foster a culture of learning in IT

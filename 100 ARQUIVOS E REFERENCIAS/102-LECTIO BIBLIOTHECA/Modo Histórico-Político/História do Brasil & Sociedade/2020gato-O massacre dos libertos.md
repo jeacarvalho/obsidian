@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:03.604208+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: republica_brasileira_pos_abolicao
+    weight: 10
+    confidence: 0.98
+  - name: branquitude_como_projeto_de_poder
+    weight: 9
+    confidence: 0.95
+  - name: racializacao_no_brasil
+    weight: 9
+    confidence: 0.96
+  - name: historiografia_da_republica
+    weight: 8
+    confidence: 0.92
+  - name: colonialidade_do_poder
+    weight: 8
+    confidence: 0.9
+  - name: critica_ao_discurso_de_liberdade
+    weight: 7
+    confidence: 0.88
+  - name: violencia_contra_libertos
+    weight: 7
+    confidence: 0.91
+  - name: estado_monarquico_vs_republicano
+    weight: 6
+    confidence: 0.85
+  - name: construcao_social_da_raca
+    weight: 6
+    confidence: 0.89
+  - name: historia_social_do_brasil
+    weight: 5
+    confidence: 0.87
+  cdu_primary: '324.3'
+  cdu_secondary:
+  - '305.8'
+  - '323.1'
+  - '981.04'
+  cdu_description: A CDU 324.3 refere-se à propaganda eleitoral e à formação da opinião pública, o que se alinha com a análise da construção discursiva da República e da liberdade. A CDU 305.8 abrange estudos sobre raça e etnia, fundamental para a discussão sobre racialização e branquitude. A CDU 323.1 trata de relações raciais e conflitos. A CDU 981.04 especifica o período da República Velha no Brasil.
+---
 # Meditando
 
 ## 20260209

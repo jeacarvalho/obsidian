@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T21:59:57.088993+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_biblica
+    weight: 10
+    confidence: 0.98
+  - name: livros_teologicos
+    weight: 9
+    confidence: 0.95
+  - name: fe_crista
+    weight: 8
+    confidence: 0.9
+  - name: estudo_biblico
+    weight: 7
+    confidence: 0.88
+  - name: interpretacao_biblica
+    weight: 7
+    confidence: 0.85
+  - name: teologia_sistemica
+    weight: 6
+    confidence: 0.8
+  - name: historia_teologica
+    weight: 6
+    confidence: 0.75
+  - name: doutrinas_cristas
+    weight: 5
+    confidence: 0.7
+  - name: cristianismo
+    weight: 5
+    confidence: 0.65
+  - name: religiao_comparada
+    weight: 5
+    confidence: 0.6
+  cdu_primary: '23'
+  cdu_secondary:
+  - '22'
+  cdu_description: Teologia. Religião. Teologia cristã. Teologia bíblica.
+---
 NIV Biblical Theology Study Bible - 101 Books in Biblical Theology: An Annotated Bibliography
 
 # 101 Books in Biblical Theology: An Annotated Bibliography

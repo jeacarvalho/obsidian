@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:30.327310+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: apostasia_da_fe
+    weight: 8
+    confidence: 0.9
+  - name: espiritos_enganadores
+    weight: 7
+    confidence: 0.85
+  - name: ensinos_de_demonios
+    weight: 9
+    confidence: 0.92
+  - name: proibicao_do_casamento
+    weight: 8
+    confidence: 0.91
+  - name: abstinencia_de_alimentos
+    weight: 7
+    confidence: 0.88
+  - name: gratidao_pela_criacao
+    weight: 6
+    confidence: 0.8
+  - name: ministro_de_cristo_jesus
+    weight: 7
+    confidence: 0.85
+  - name: palavra_como_alimento
+    weight: 6
+    confidence: 0.82
+  - name: exercicio_na_piedade
+    weight: 9
+    confidence: 0.93
+  - name: esperanca_no_deus_vivo
+    weight: 8
+    confidence: 0.89
+  cdu_primary: '230'
+  cdu_secondary:
+  - '240'
+  - '273.2'
+  cdu_description: Teologia cristã; Doutrina cristã; Ética cristã; Heresias e falsas doutrinas
+---
 Ora, o Espírito afirma expressamente que, nos últimos tempos, alguns apostatarão da fé, por obedecerem a espíritos enganadores e a ensinos de demônios, pela hipocrisia dos que falam mentiras e que têm a consciência cauterizada, que **proíbem o casamento e exigem abstinência de alimentos que Deus criou para serem recebidos com gratidão pelos que creem e conhecem a [[verdade]]**. Pois tudo o que Deus criou é bom, e, se recebido com gratidão, nada é recusável, porque é santificado pela palavra de Deus e pela oração. 1Timóteo 4:1‭-‬5 NAA
 - Veja a relação entre doutrina de demônios e proibições. #alegrianacriacao
 - Fiquemos atentos ao equilíbrio

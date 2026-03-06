@@ -2,7 +2,47 @@
 created: 2023-08-03T20:16:36 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:52.351442+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pratica_da_nao_violencia_crista
+    weight: 10
+    confidence: 0.9
+  - name: comunidade_de_fe_fundamentada_em_jesus
+    weight: 9
+    confidence: 0.95
+  - name: confissao_de_pecados_na_igreja
+    weight: 8
+    confidence: 0.92
+  - name: importancia_do_perdao_na_comunidade
+    weight: 9
+    confidence: 0.93
+  - name: viver_a_vida_de_jesus
+    weight: 7
+    confidence: 0.88
+  - name: tempo_como_criatura_de_deus
+    weight: 6
+    confidence: 0.85
+  - name: verdade_e_contingencia_na_existencia
+    weight: 8
+    confidence: 0.9
+  - name: violencia_como_negacao_da_contingencia
+    weight: 7
+    confidence: 0.87
+  - name: fe_como_descoberta_de_conexao
+    weight: 9
+    confidence: 0.91
+  - name: teologia_de_stanley_hauerwas
+    weight: 10
+    confidence: 0.96
+  cdu_primary: '284.1'
+  cdu_secondary:
+  - '230'
+  - '261.8'
+  cdu_description: Teologia cristã, com foco em Dietrich Bonhoeffer e Stanley Hauerwas, abordando temas como comunidade de fé, não-violência, perdão, confissão de pecados e a natureza da verdade e da existência cristã.
 ---
 
 # Performing the Faith: Bonhoeffer and the Practice of Nonviolence (English Edition)

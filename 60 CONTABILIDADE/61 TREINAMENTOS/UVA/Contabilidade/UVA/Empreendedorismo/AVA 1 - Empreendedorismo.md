@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:38.281780+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: empreendedorismo_por_necessidade
+    weight: 10
+    confidence: 0.98
+  - name: empreendedorismo_por_oportunidade
+    weight: 9
+    confidence: 0.95
+  - name: cenario_economico_brasil
+    weight: 9
+    confidence: 0.97
+  - name: desemprego_no_brasil
+    weight: 8
+    confidence: 0.96
+  - name: motoristas_de_aplicativo
+    weight: 7
+    confidence: 0.92
+  - name: microempreendedor_individual_mei
+    weight: 7
+    confidence: 0.93
+  - name: mudanca_perfil_empreendedor
+    weight: 8
+    confidence: 0.94
+  - name: empreendedorismo_jovens
+    weight: 6
+    confidence: 0.9
+  - name: empreendedorismo_universitarios
+    weight: 6
+    confidence: 0.91
+  - name: motivacao_empreender
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '334.7'
+  cdu_secondary:
+  - '316.46'
+  - '330.5'
+  cdu_description: Organizações cooperativas e de fomento à atividade empresarial; Empreendedorismo; Desenvolvimento econômico e social
+---
 [[Empreendedorismo]]
 # identifique os principais motivos que levaram à mudança quanto ao tipo de empreendedorismo no país
 ### Definição dos termos

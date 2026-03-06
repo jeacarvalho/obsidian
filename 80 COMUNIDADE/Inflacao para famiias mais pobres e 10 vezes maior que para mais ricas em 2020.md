@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:53.217740+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: inflacao_familias_baixa_renda
+    weight: 10
+    confidence: 0.98
+  - name: inflacao_familias_alta_renda
+    weight: 9
+    confidence: 0.97
+  - name: diferenca_inflacao_por_faixa_renda
+    weight: 9
+    confidence: 0.96
+  - name: aumento_preco_alimentos_2020
+    weight: 8
+    confidence: 0.95
+  - name: peso_alimentos_orcamento_familiar
+    weight: 8
+    confidence: 0.94
+  - name: impacto_arroz_inflacao
+    weight: 7
+    confidence: 0.93
+  - name: ipea_indicador_inflacao_renda
+    weight: 7
+    confidence: 0.92
+  - name: consumo_domiciliar_alimentos
+    weight: 6
+    confidence: 0.89
+  - name: desvalorizacao_real_exportacoes
+    weight: 6
+    confidence: 0.9
+  - name: pandemia_efeitos_economia_brasil
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '338.5'
+  - '316.4'
+  cdu_description: Economia. Finanças. Preços. Inflação. Distribuição de renda. Sociologia da pobreza.
+---
 Inflação para famílias mais pobres é 10 vezes maior que para mais ricas em 2020 - BBC News Brasil
 
 # Inflação para famílias mais pobres é 10 vezes maior que para mais ricas em 2020

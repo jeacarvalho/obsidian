@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:42.167509+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: planejamento_economico_inclusao_produtiva
+    weight: 10
+    confidence: 0.98
+  - name: infraestrutura_cicloviaria_niteroi
+    weight: 9
+    confidence: 0.97
+  - name: mobilidade_urbana_sustentavel
+    weight: 8
+    confidence: 0.95
+  - name: comunidades_locais_vulneraveis
+    weight: 8
+    confidence: 0.96
+  - name: economia_social_solidaria
+    weight: 9
+    confidence: 0.97
+  - name: empreendedorismo_social
+    weight: 8
+    confidence: 0.94
+  - name: desenvolvimento_economico_local
+    weight: 7
+    confidence: 0.93
+  - name: geracao_emprego_renda
+    weight: 7
+    confidence: 0.92
+  - name: negocios_sustentaveis
+    weight: 6
+    confidence: 0.9
+  - name: politicas_publicas_inclusao
+    weight: 6
+    confidence: 0.88
+  cdu_primary: 330.341.5
+  cdu_secondary:
+  - 330.567.2
+  - '338.48'
+  - '305.8'
+  cdu_description: Economia do desenvolvimento. Desenvolvimento econômico. Inclusão social e econômica. Economia social e solidária. Empreendedorismo social. Turismo e lazer. Mobilidade urbana.
+---
 ## Pré-Projeto do Trabalho de Conclusão de Curso (TCC)
 
 **Tema:** Planejamento Econômico para a Inclusão Produtiva de Comunidades Locais na Infraestrutura Cicloviária de Niterói

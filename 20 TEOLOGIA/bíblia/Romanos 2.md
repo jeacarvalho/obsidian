@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:55.298086+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: julgamento_hipocrita
+    weight: 9
+    confidence: 0.98
+  - name: pecado_universal
+    weight: 8
+    confidence: 0.95
+  - name: bondade_deus_arrependimento
+    weight: 7
+    confidence: 0.92
+  - name: retribuicao_obras
+    weight: 10
+    confidence: 0.99
+  - name: fazer_bem_incorruptibilidade
+    weight: 8
+    confidence: 0.96
+  - name: egoismo_desobediencia_verdade
+    weight: 7
+    confidence: 0.93
+  - name: judeu_interior_circuncisao_coracao
+    weight: 9
+    confidence: 0.97
+  - name: vida_com_deus_importancia
+    weight: 8
+    confidence: 0.94
+  - name: criterio_divino_obras
+    weight: 10
+    confidence: 0.99
+  - name: recompensa_eterna_perseveranca
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '241.1'
+  - '273.2'
+  cdu_description: Teologia cristã; Ética cristã; Doutrinas sobre o homem e a salvação
+---
 Por isso, você é indesculpável quando julga os outros, não importando quem você é. Pois, naquilo que julga o outro, você está condenando a si mesmo, porque pratica as mesmas coisas que condena. Romanos 2:1 NAA
 - Se todos somos pecadores....
 - Mas, pelo fruto conhecemos a árvore...

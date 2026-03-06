@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T21:57:16.141400+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: meditacoes_biblicas
+    weight: 9
+    confidence: 0.98
+  - name: evangelho_de_lucas
+    weight: 8
+    confidence: 0.97
+  - name: analise_ia_deepseek
+    weight: 7
+    confidence: 0.96
+  - name: versiculo_lucas_4_1-2
+    weight: 6
+    confidence: 0.95
+  - name: teologia_crista
+    weight: 10
+    confidence: 0.99
+  - name: interpretacao_biblica
+    weight: 8
+    confidence: 0.94
+  - name: reflexoes_espirituais
+    weight: 7
+    confidence: 0.93
+  - name: fe_crista
+    weight: 9
+    confidence: 0.92
+  - name: estudo_teologico
+    weight: 6
+    confidence: 0.91
+  - name: inteligencia_artificial_e_religiao
+    weight: 5
+    confidence: 0.9
+  cdu_primary: '230'
+  cdu_secondary:
+  - '226.4'
+  - '004.9'
+  cdu_description: Teologia cristã; Evangelho de Lucas; Processamento de dados e computação em geral
+---
 #### analise do deepseek sobre minhas meditacoes em [[Lucas 4]]_1-2
 **Resposta Estruturada Conforme Instruções**
 

@@ -6,53 +6,82 @@ content:
 - temas:
   - conceitos:
     - teoria + prática
-    descricao: elementos que se relacionam com a vida prática, ou seja, com a forma
-      como os sujeitos significam, atribuem valor, se comportam e convivem socialmente
+    descricao: elementos que se relacionam com a vida prática, ou seja, com a forma como os sujeitos significam, atribuem valor, se comportam e convivem socialmente
     referencia: p.2
     tema: SOBRE AS ÁREAS DA INVESTIGAÇÃO FILOSÓFICA LIGADAS AO MUNDO DA PRÁTICA
   - conceitos:
-    - Há um conjunto de regras (ethos com epsilon) e devemos refletir e viver (ethos
-      com eta) conforme eles
+    - Há um conjunto de regras (ethos com epsilon) e devemos refletir e viver (ethos com eta) conforme eles
     - ἔθος → hábito → prática constante
     - ἦθος → caráter → modo de ser consolidado
     - Os romanos traduzem ἔθος por mos/mores, que significa 'costume, regra, tradição'.
     - A palavra moral deriva disso.
-    descricao: ética vem do adjetivo grego ethiké, que indica a qualidade daquele
-      que vive segundo a sabedoria prática, a partir da qual a pessoa estabelece seus
-      valores, faz suas escolhas e pauta seus comportamentos.
+    descricao: ética vem do adjetivo grego ethiké, que indica a qualidade daquele que vive segundo a sabedoria prática, a partir da qual a pessoa estabelece seus valores, faz suas escolhas e pauta seus comportamentos.
     referencia: p.3
-    reflexao: ética, enquanto disciplina filosófica, tem como missão refletir os valores
-      das diferentes sociedades e tempos históricos, buscando analisar quais são coerentes
-      à visão de mundo do povo
+    reflexao: ética, enquanto disciplina filosófica, tem como missão refletir os valores das diferentes sociedades e tempos históricos, buscando analisar quais são coerentes à visão de mundo do povo
     tema: ÉTICA
   - conceitos:
-    - Baumgarten (pai da estética moderna) concebia a estética como uma ciência com
-      objeto e método próprio.
+    - Baumgarten (pai da estética moderna) concebia a estética como uma ciência com objeto e método próprio.
     - O gosto é construído socialmente.
-    - estética como crítica da forma como a beleza e a arte são utilizadas pela sociedade
-      como forma de manipulação.
-    descricao: essa disciplina filosófica se relaciona ao processo de fruição, ou
-      seja, de uma percepção da realidade que impacta a pessoa, despertando nela sentimento
-      de regozijo ou ainda de repulsa
+    - estética como crítica da forma como a beleza e a arte são utilizadas pela sociedade como forma de manipulação.
+    descricao: essa disciplina filosófica se relaciona ao processo de fruição, ou seja, de uma percepção da realidade que impacta a pessoa, despertando nela sentimento de regozijo ou ainda de repulsa
     referencia: p.8
     tema: ESTÉTICA
   - conceitos:
     - política é a arte de compatibilizar interesses individuais em busca do bem comum.
-    - A partir da modernidade, a compreensão da política passa a estar diretamente
-      relacionada com o conceito de poder.
+    - A partir da modernidade, a compreensão da política passa a estar diretamente relacionada com o conceito de poder.
     - 'Aristóteles: política é a continuidade da ação ética.'
-    descricao: disciplina filosófica que buscar compreender, analisar e teorizar acerca
-      do fenômeno político.
+    descricao: disciplina filosófica que buscar compreender, analisar e teorizar acerca do fenômeno político.
     referencia: p.10
     tema: FILOSOFIA POLÍTICA
   - conceitos:
     - os estados mentais são idênticos aos estados cerebrais.
-    - concepções, comportamentos, valores e crenças estão todas relacionadas às estruturas
-      e funcionamento do cérebro.
+    - concepções, comportamentos, valores e crenças estão todas relacionadas às estruturas e funcionamento do cérebro.
     descricao: a identidade entre mente-cérebro.
     referencia: p.14
     reflexao: A consciência é ou não maior do que nosso estado físico?
     tema: FILOSOFIA DA MENTE
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:40:03.219881+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: filosofia_pratica_e_vida_social
+    weight: 7
+    confidence: 0.85
+  - name: etica_e_moral_origem_e_conceitos
+    weight: 9
+    confidence: 0.95
+  - name: habito_e_carater_na_etica_aristotelica
+    weight: 8
+    confidence: 0.9
+  - name: etica_como_disciplina_filosofica_e_reflexao_social
+    weight: 7
+    confidence: 0.88
+  - name: estetica_fruicao_e_percepcao_sensorial
+    weight: 8
+    confidence: 0.92
+  - name: beleza_e_feio_na_analise_estetica
+    weight: 6
+    confidence: 0.8
+  - name: gosto_construcao_social_e_visao_de_mundo
+    weight: 7
+    confidence: 0.85
+  - name: filosofia_politica_fenomeno_poder_e_bem_comum
+    weight: 9
+    confidence: 0.96
+  - name: identidade_mente_cerebro_e_materialismo
+    weight: 10
+    confidence: 0.98
+  - name: livre_arbitrio_e_determinismo_neurocientifico
+    weight: 10
+    confidence: 0.97
+  cdu_primary: '101'
+  cdu_secondary:
+  - '111.85'
+  - '17'
+  - '32'
+  - '123.1'
+  cdu_description: Filosofia. Teoria do conhecimento. Filosofia da mente. Ética. Estética. Filosofia política. Livre arbítrio.
 ---
 
 - ![[slides aula 4 int filosofia.pdf]]

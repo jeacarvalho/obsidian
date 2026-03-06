@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:35.036610+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: formacao_subjetividade_psicoterapia_espiritualidade
+    weight: 9
+    confidence: 0.98
+  - name: disciplina_sofrimento_construtivo_amor_espiritual
+    weight: 10
+    confidence: 0.99
+  - name: critica_evitacao_sofrimento_legitimo_neurose
+    weight: 8
+    confidence: 0.97
+  - name: desconstrucao_mito_amor_romantico_dependencia
+    weight: 8
+    confidence: 0.96
+  - name: individualismo_terapeutico_critica_estruturas_sociais
+    weight: 9
+    confidence: 0.95
+  - name: teodicia_simplificada_problema_sofrimento_inocente
+    weight: 7
+    confidence: 0.93
+  - name: pressuposto_meritocratico_oculto_traumas_estruturais
+    weight: 7
+    confidence: 0.92
+  - name: geografia_intelectual_eurocentrica_ausencia_vozes_sul_global
+    weight: 8
+    confidence: 0.94
+  - name: critica_capitalismo_comercializacao_espiritualidade
+    weight: 6
+    confidence: 0.9
+  - name: analise_genero_dinamicas_heteronormativas
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - 2-1
+  - '291.4'
+  - '316.6'
+  cdu_description: Psicologia da religião e da espiritualidade; Psicologia do desenvolvimento pessoal e espiritual; Sociologia da religião e da espiritualidade
+---
 ## 🔍 ANÁLISE CURATORIAL: *The Road Less Traveled* — M. Scott Peck
 
 ### 1. CLASSIFICAÇÃO ARQUETÍPICA

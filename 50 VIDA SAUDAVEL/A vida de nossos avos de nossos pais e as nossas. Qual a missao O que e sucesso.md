@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:32.227163+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: redefinicao_conceito_sucesso
+    weight: 10
+    confidence: 0.98
+  - name: insatisfacao_carreira_tradicional
+    weight: 9
+    confidence: 0.95
+  - name: busca_felicidade_pessoal
+    weight: 9
+    confidence: 0.96
+  - name: mudanca_valores_geracionais
+    weight: 8
+    confidence: 0.93
+  - name: conflito_geracao_avos_pais
+    weight: 7
+    confidence: 0.9
+  - name: modelo_sucesso_geracao_pais_carreira
+    weight: 7
+    confidence: 0.91
+  - name: desapego_bens_materiais
+    weight: 6
+    confidence: 0.88
+  - name: valorizacao_amor_familia_flexivel
+    weight: 6
+    confidence: 0.89
+  - name: crise_existencial_profissionais
+    weight: 5
+    confidence: 0.85
+  - name: geracao_carpe_diem_hippies_urbanos
+    weight: 5
+    confidence: 0.87
+  cdu_primary: '305.8'
+  cdu_secondary:
+  - 159.947.5
+  - 316.343.65
+  cdu_description: Sociologia das gerações, psicologia da motivação e da felicidade, mudanças sociais e culturais.
+---
 A vida de nossos avós de nossos pais e as nossas. Qual a missão? O que é sucesso?
 
 "O cenário é mais ou menos esse: amigo formado em comércio exterior que resolveu largar tudo para trabalhar num hostel em Morro de São Paulo, amigo com cargo fantástico em empresa multinacional que resolveu pedir as contas porque descobriu que só quer fazer hamburger, amiga advogada que jogou escritório, carrão e namoro longo pro alto para voltar a ser estudante, solteira e andar de metrô fora do Brasil, amiga executiva de um grande grupo de empresas que ficou radiante por ser mandada embora dizendo “finalmente vou aprender a surfar”.

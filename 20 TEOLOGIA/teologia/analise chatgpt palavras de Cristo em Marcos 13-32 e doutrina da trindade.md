@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:00.571720+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conhecimento_limitado_de_jesus
+    weight: 10
+    confidence: 0.98
+  - name: doutrina_da_trindade
+    weight: 9
+    confidence: 0.97
+  - name: kenosis_de_jesus
+    weight: 8
+    confidence: 0.96
+  - name: duas_naturezas_de_cristo
+    weight: 8
+    confidence: 0.95
+  - name: cristologia_calcedoniana
+    weight: 7
+    confidence: 0.94
+  - name: interpretacao_pais_da_igreja
+    weight: 7
+    confidence: 0.93
+  - name: interpretacao_reformadores
+    weight: 7
+    confidence: 0.92
+  - name: economia_trinitaria
+    weight: 6
+    confidence: 0.91
+  - name: missao_redentora_de_jesus
+    weight: 6
+    confidence: 0.9
+  - name: natureza_humana_divina_de_jesus
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '232.1'
+  cdu_secondary:
+  - '231.5'
+  - '230.3'
+  cdu_description: Teologia cristã. Cristologia. Natureza de Cristo. Trindade. Encarnação. Kenosis. Teologia sistemática.
+---
 - https://chatgpt.com/share/6731f53c-76d8-8007-be02-1d7b2f882ea0
 
 Esse versículo de [[Marcos 13]]:32 é uma das passagens mais intrigantes e debatidas nas doutrinas cristãs, especialmente no que tange à relação entre as naturezas humana e divina de Jesus e a doutrina da Trindade. Jesus afirma: *"Mas a respeito daquele dia ou da hora ninguém sabe; nem os anjos no céu, nem o Filho, senão o Pai"* (Marcos 13:32), e essa afirmação parece indicar uma limitação no conhecimento do próprio Filho, o que pode causar um certo desconforto ao tentar harmonizar com a doutrina da [[Trindade]], onde o Pai, o Filho e o [[Espírito Santo]] são entendidos como coiguais, coeternos e compartilhando da mesma essência divina.

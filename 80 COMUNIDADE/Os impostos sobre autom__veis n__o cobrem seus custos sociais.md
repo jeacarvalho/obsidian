@@ -3,6 +3,46 @@ created: 2021-09-24T11:20:00 (UTC -03:00)
 tags: []
 source: https://caosplanejado.com/os-impostos-sobre-automoveis-cobrem-seus-custos-sociais/
 author: Anthony Ling
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:51.237066+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: tributacao_automoveis
+    weight: 10
+    confidence: 0.98
+  - name: custos_sociais_automoveis
+    weight: 9
+    confidence: 0.97
+  - name: infraestrutura_viaria
+    weight: 8
+    confidence: 0.96
+  - name: externalidades_negativas_transporte
+    weight: 9
+    confidence: 0.95
+  - name: impostos_combustiveis
+    weight: 7
+    confidence: 0.94
+  - name: ipva
+    weight: 7
+    confidence: 0.93
+  - name: icms_automoveis
+    weight: 6
+    confidence: 0.92
+  - name: mobilidade_urbana
+    weight: 8
+    confidence: 0.91
+  - name: politicas_tributarias_transporte
+    weight: 7
+    confidence: 0.9
+  - name: debate_publico_tributacao_automoveis
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '336.2'
+  cdu_secondary:
+  - '388.4'
+  - '330.1'
+  cdu_description: Finanças públicas. Tributação. Impostos sobre veículos e combustíveis, custos sociais e infraestrutura viária urbana.
 ---
 
 # Os impostos sobre automóveis cobrem seus custos sociais?

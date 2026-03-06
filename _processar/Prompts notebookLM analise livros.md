@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:35.758855+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_critica_textual
+    weight: 9
+    confidence: 0.98
+  - name: hipotese_teologia_subjugou_jesus
+    weight: 10
+    confidence: 0.99
+  - name: honestidade_intelectual_analise
+    weight: 8
+    confidence: 0.97
+  - name: resumo_fiel_conteudo
+    weight: 7
+    confidence: 0.96
+  - name: forca_argumento_tese
+    weight: 8
+    confidence: 0.95
+  - name: identificacao_fragilidades_autor
+    weight: 8
+    confidence: 0.94
+  - name: comparacao_critica_afirmacao_central
+    weight: 9
+    confidence: 0.96
+  - name: perspectivas_alternativas_interdisciplinares
+    weight: 7
+    confidence: 0.93
+  - name: formulacao_perguntas_reflexao
+    weight: 6
+    confidence: 0.92
+  - name: proposta_acoes_praticas_aplicacao
+    weight: 8
+    confidence: 0.97
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - 27-29
+  - '201.6'
+  cdu_description: Teologia cristã em geral; Teologia sistemática; Teologia histórica e dogmática; Relação da teologia com outras ciências e artes; Teologia e história da igreja
+---
 "analise": "a) Leia e Analise o Conteúdo da fonte "capitulo_02.pdf" selecionada, compreendendo suas ideias centrais, argumentos e exemplos; b) Identifique a mensagem principal do autor e os temas subjacentes; c) Procure usar uma linguagem própria. Ou seja, não copie o texto, mas interprete, reescreva; d) Leve em consideração as análises que fez dos capítulos anteriores, também selecionadas como fonte, para não ser repetitivo, mas, também, para conectar ideias; e) Mantenha tua resposta no limite de 500 palavras."
 
 Estou estudando a hipótese de que a teologia tradicional (ou mainstream), em muitos momentos da história, **subjugou Jesus e sua mensagem**, colocando doutrinas, instituições e interesses acima do evangelho vivido e proclamado. Quero analisar o  "capitulo_11.pdf" com **honestidade intelectual**, sem cair em viés de confirmação.  

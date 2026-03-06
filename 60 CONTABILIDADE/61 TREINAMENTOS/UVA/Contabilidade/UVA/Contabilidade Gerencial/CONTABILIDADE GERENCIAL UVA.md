@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:39.217646+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contabilidade_gerencial
+    weight: 10
+    confidence: 1.0
+  - name: gestao_de_custos
+    weight: 9
+    confidence: 0.97
+  - name: sistemas_de_custeio
+    weight: 9
+    confidence: 0.96
+  - name: tomada_de_decisao_gerencial
+    weight: 9
+    confidence: 0.98
+  - name: contabilidade_financeira
+    weight: 8
+    confidence: 0.95
+  - name: margem_de_contribuicao
+    weight: 8
+    confidence: 0.92
+  - name: ponto_de_equilibrio
+    weight: 8
+    confidence: 0.92
+  - name: formacao_de_precos
+    weight: 8
+    confidence: 0.93
+  - name: sistema_de_informacao_gerencial
+    weight: 7
+    confidence: 0.9
+  - name: custos_de_oportunidade
+    weight: 7
+    confidence: 0.85
+  cdu_primary: '657.4'
+  cdu_secondary: []
+  cdu_description: Contabilidade de gestão. Contabilidade de custos
+---
 [[Contabilidade]]
 # Referências
 ## básicas 

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:57.293323+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contrato_lideranca
+    weight: 8
+    confidence: 0.9
+  - name: decisao_lideranca
+    weight: 7
+    confidence: 0.85
+  - name: obrigacao_lideranca
+    weight: 6
+    confidence: 0.8
+  - name: trabalho_duro_lideranca
+    weight: 6
+    confidence: 0.8
+  - name: comunidade_lideranca
+    weight: 5
+    confidence: 0.75
+  - name: evolucao_carreira_lideranca
+    weight: 9
+    confidence: 0.92
+  - name: relacionamento_lideranca
+    weight: 7
+    confidence: 0.88
+  - name: capacidade_tecnica_lideranca
+    weight: 6
+    confidence: 0.82
+  - name: positividade_lideranca
+    weight: 5
+    confidence: 0.78
+  - name: tomada_decisao_pequenas
+    weight: 9
+    confidence: 0.95
+  cdu_primary: '005.32'
+  cdu_secondary:
+  - '316.46'
+  - '159.947'
+  cdu_description: Gestão de pessoas. Liderança. Tomada de decisão. Desenvolvimento profissional.
+---
 - Vc entende o que aceitou ao aceitar ser líder no Serpro?
 - Porque [[liderança]] é um contrato:
 	- Liderança é uma decisão

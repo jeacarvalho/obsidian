@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:55.911506+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_por_objetivos_drucker
+    weight: 9
+    confidence: 0.9
+  - name: produtividade_trabalhador_conhecimento
+    weight: 8
+    confidence: 0.85
+  - name: organizacao_trabalho_empresarial
+    weight: 10
+    confidence: 0.95
+  - name: impacto_comunicacao_desestruturada
+    weight: 7
+    confidence: 0.75
+  - name: custo_humano_produtividade
+    weight: 6
+    confidence: 0.7
+  - name: critica_sistema_gtd
+    weight: 8
+    confidence: 0.8
+  - name: autonomia_execucao_tarefas
+    weight: 7
+    confidence: 0.78
+  - name: atribuicao_caotica_tarefas
+    weight: 9
+    confidence: 0.88
+  - name: importancia_trabalho_gerencial
+    weight: 8
+    confidence: 0.82
+  - name: lideranca_organizacional
+    weight: 7
+    confidence: 0.72
+  cdu_primary: '658.3'
+  cdu_secondary:
+  - '005.32'
+  - '177.8'
+  cdu_description: Gestão de pessoal. Administração de pessoal. Relações de trabalho. Organização do trabalho. Produtividade. Ética no trabalho.
+---
 Newport, Cal. “The Rise and Fall of Getting Things Done”. The New Yorker. Acessado 4 de dezembro de 2020. https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done.
 
 - [[Drucker]] introduced the idea of management by objectives, a process in which  managers focus on setting out clear targets, but the details of how they’re accomplished are left to individuals. This idea is both extremely consequential and rarely debated. It’s why the modern office worker is inundated with quantified quarterly goals and motivating mission statements, but receives almost no guidance on how to actually organize and manage these efforts.

@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:07.119940+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: formacao_estado_poder_politico
+    weight: 10
+    confidence: 0.98
+  - name: relacao_elite_economica_politica
+    weight: 9
+    confidence: 0.95
+  - name: normas_padroes_conflitos_sociais
+    weight: 8
+    confidence: 0.92
+  - name: evolucao_historica_idades_media_moderna_contemporanea
+    weight: 7
+    confidence: 0.9
+  - name: consentimento_poder_conveniencia_medo
+    weight: 8
+    confidence: 0.93
+  - name: elementos_constitutivos_estado_governo_burocracia
+    weight: 9
+    confidence: 0.96
+  - name: monopolio_violencia_estado_ordem_interna
+    weight: 8
+    confidence: 0.94
+  - name: hobbes_estado_medo_morte_violenta_seguranca
+    weight: 10
+    confidence: 0.97
+  - name: desobediencia_civil_sonegacao_impostos_boicote
+    weight: 7
+    confidence: 0.91
+  - name: separacao_poderes_legislativo_executivo_judiciario
+    weight: 8
+    confidence: 0.92
+  cdu_primary: '32'
+  cdu_secondary:
+  - '321.02'
+  - '323.3'
+  - '303.4'
+  - '305.8'
+  - '342.5'
+  cdu_description: Ciência política. Estado. Governo. Administração pública. Relações internacionais. Guerra. Paz. Ciência política. Teoria do Estado. Formação do Estado. Elementos do Estado. Soberania. Governo. Burocracia. Poder. Elite. Classes sociais. Mudança social. Desobediência civil. Separação de poderes. História das ideias políticas.
+---
 [[administração pública]]
 Texto: PARTE III - ELEMENTOS DA IDADE MÉDIAundefined DA MODERNIDADE E DA CONTEMPORANEIDADE
 

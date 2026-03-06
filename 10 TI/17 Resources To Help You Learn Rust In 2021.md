@@ -1,3 +1,41 @@
+---
+topic_classification:
+  cdu_description: Linguagens de programação específicas. Rust.
+  cdu_primary: '004.43'
+  cdu_secondary:
+  - 004.43RUST
+  topics:
+  - confidence: 0.98
+    name: aprendizado_linguagem_programacao_rust
+    weight: 10
+  - confidence: 0.97
+    name: recursos_educacionais_rust
+    weight: 9
+  - confidence: 0.95
+    name: desenvolvimento_software_rust
+    weight: 8
+  - confidence: 0.93
+    name: tutoriais_rust
+    weight: 7
+  - confidence: 0.92
+    name: livros_programacao_rust
+    weight: 7
+  - confidence: 0.9
+    name: exercicios_programacao_rust
+    weight: 6
+  - confidence: 0.88
+    name: comunidade_desenvolvedores_rust
+    weight: 6
+  - confidence: 0.85
+    name: conceitos_linguagem_rust
+    weight: 5
+  - confidence: 0.82
+    name: gerenciamento_memoria_rust
+    weight: 5
+  - confidence: 0.8
+    name: programacao_funcional_rust
+    weight: 5
+---
 17 Resources To Help You Learn Rust In 2021 | by Serokell | Better Programming | Febundefined 2021 | Medium
 
 # 17 Resources To Help You Learn Rust In 2021

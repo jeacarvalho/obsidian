@@ -1,3 +1,49 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:44.172429+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: trabalho_remoto_home_office
+    weight: 8
+    confidence: 0.9
+  - name: estudos_superiores_faculdade
+    weight: 7
+    confidence: 0.85
+  - name: atividades_religiosas_igreja
+    weight: 9
+    confidence: 0.95
+  - name: vida_domestica_familia
+    weight: 8
+    confidence: 0.9
+  - name: saude_alimentacao_atividade_fisica
+    weight: 7
+    confidence: 0.8
+  - name: relacionamento_amoroso_marcia
+    weight: 6
+    confidence: 0.75
+  - name: viagens_lazer
+    weight: 5
+    confidence: 0.7
+  - name: gestao_financeira_projetos
+    weight: 9
+    confidence: 0.92
+  - name: desenvolvimento_carreira_gerencial
+    weight: 10
+    confidence: 0.98
+  - name: comunicacao_familiar_pais
+    weight: 7
+    confidence: 0.88
+  cdu_primary: '305.8'
+  cdu_secondary:
+  - '331.1'
+  - '378'
+  - '27'
+  - '613'
+  - '159.9'
+  - '305.2'
+  cdu_description: Sociologia e antropologia social; relações sociais; vida social; sociologia da família; sociologia da religião; sociologia do trabalho; sociologia da educação; sociologia da saúde; psicologia social; relações interpessoais; desenvolvimento pessoal.
+---
 # 20240423
 ## Funcionando
 - Home office

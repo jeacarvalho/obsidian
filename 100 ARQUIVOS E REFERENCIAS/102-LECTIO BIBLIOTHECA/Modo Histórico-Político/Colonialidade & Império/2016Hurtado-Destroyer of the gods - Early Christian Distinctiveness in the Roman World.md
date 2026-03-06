@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:03.990372+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_cristianismo_primitivo
+    weight: 10
+    confidence: 0.98
+  - name: colonialidade_conceito_religiao
+    weight: 9
+    confidence: 0.95
+  - name: desconstrucao_historica_religiao
+    weight: 8
+    confidence: 0.92
+  - name: monoteismo_cristao_revolucionario
+    weight: 7
+    confidence: 0.9
+  - name: identidade_religiosa_voluntaria_transetnica
+    weight: 7
+    confidence: 0.88
+  - name: critica_historiografia_moderna_religiao
+    weight: 8
+    confidence: 0.93
+  - name: religiao_esfera_social_romana
+    weight: 6
+    confidence: 0.85
+  - name: textualidade_pratica_religiosa_crista
+    weight: 7
+    confidence: 0.89
+  - name: critica_normalizacao_triunfo_cristao
+    weight: 9
+    confidence: 0.91
+  - name: silencios_critica_historiografia_crista
+    weight: 8
+    confidence: 0.87
+  cdu_primary: 27-21
+  cdu_secondary:
+  - '201.6'
+  - '305.8'
+  cdu_description: '27-21: História do Cristianismo Primitivo; 201.6: História e crítica da religião; 305.8: Relações entre grupos étnicos, raciais ou nacionais'
+---
 ### 1. CLASSIFICAÇÃO ARQUETÍPICA
 
 **Modo epistemológico primário:** Histórico-Político  

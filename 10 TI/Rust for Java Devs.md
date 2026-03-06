@@ -1,3 +1,43 @@
+---
+topic_classification:
+  cdu_description: Linguagens de programação. Linguagem Rust. Linguagem Java. Comparação
+    e transição de desenvolvedores Java para Rust.
+  cdu_primary: '004.43'
+  cdu_secondary:
+  - 004.43 RUST
+  - 004.43 JAVA
+  topics:
+  - confidence: 0.98
+    name: comparacao_rust_java_linguagens_programacao
+    weight: 10
+  - confidence: 0.95
+    name: transicao_desenvolvedores_java_para_rust
+    weight: 9
+  - confidence: 0.92
+    name: tipos_algebricos_dados_rust
+    weight: 8
+  - confidence: 0.9
+    name: modelo_memoria_rust_sem_garbage_collector
+    weight: 8
+  - confidence: 0.88
+    name: conceito_ownership_rust
+    weight: 7
+  - confidence: 0.87
+    name: conceito_borrowing_rust
+    weight: 7
+  - confidence: 0.86
+    name: conceito_lifetimes_rust
+    weight: 7
+  - confidence: 0.85
+    name: generics_rust_vs_java
+    weight: 6
+  - confidence: 0.84
+    name: traits_rust
+    weight: 6
+  - confidence: 0.8
+    name: enums_rust_vs_java
+    weight: 5
+---
 Rust for Java Devs
 
              [Esoterically Typed](https://leshow.github.io/)

@@ -1,8 +1,50 @@
 ---
 created: 2021-05-26T13:53:22 (UTC -03:00)
-tags: [writing and blogging,sam apple]
+tags:
+- writing and blogging
+- sam apple
 source: https://tim.blog/2021/05/26/how-to-become-a-better-writer-by-becoming-a-better-noticer/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+timferriss+%28The+Blog+of+Author+Tim+Ferriss%29#exercises
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:22.548659+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: exercicios_escrita_criativa
+    weight: 10
+    confidence: 0.98
+  - name: tecnicas_observacao_detalhada
+    weight: 9
+    confidence: 0.95
+  - name: desenvolvimento_habilidade_escrita
+    weight: 8
+    confidence: 0.97
+  - name: criacao_novos_termos_linguagem
+    weight: 7
+    confidence: 0.9
+  - name: perspectiva_estrangeira_cotidiano
+    weight: 7
+    confidence: 0.92
+  - name: analise_objetos_comuns
+    weight: 6
+    confidence: 0.88
+  - name: pensamento_associativo_escrita
+    weight: 6
+    confidence: 0.85
+  - name: leitura_analitica_escritores
+    weight: 5
+    confidence: 0.8
+  - name: mindfulness_escrita
+    weight: 5
+    confidence: 0.75
+  - name: superacao_bloqueio_criativo
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '808.0'
+  cdu_secondary:
+  - '808.1'
+  - 159.964.2
+  cdu_description: 808.0 - Arte de escrever em geral; 808.1 - Escrita criativa; 159.964.2 - Atenção plena
 ---
 
 [[atenção plena]]

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:16.389267+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cansaco_e_sobrecarga_humana
+    weight: 9
+    confidence: 0.98
+  - name: consequencia_do_pecado
+    weight: 8
+    confidence: 0.95
+  - name: alivio_emocional_e_mental
+    weight: 7
+    confidence: 0.92
+  - name: descanso_em_jesus
+    weight: 10
+    confidence: 0.99
+  - name: tomar_o_jugo_de_jesus
+    weight: 9
+    confidence: 0.97
+  - name: conversao_e_direcao_divina
+    weight: 8
+    confidence: 0.94
+  - name: demandas_do_reino
+    weight: 7
+    confidence: 0.91
+  - name: cruz_e_suportar_o_proximo
+    weight: 6
+    confidence: 0.88
+  - name: processo_de_crescimento_espiritual
+    weight: 7
+    confidence: 0.9
+  - name: trabalho_e_frutificacao_no_reino
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - '248.4'
+  - '273.2'
+  cdu_description: Cristologia (Jesus Cristo) - Vida e ensinamentos de Jesus, com foco em seu convite ao descanso e à tomada de seu jugo. Inclui aspectos de vida cristã, crescimento espiritual e serviço no Reino.
+---
 Mat 11:28 — Mat 11:30 Na conversãoundefined nosso descanso
 
 Mat 11:28 — Mat 11:30

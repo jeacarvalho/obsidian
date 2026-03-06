@@ -3,6 +3,49 @@ created: 2021-03-30T12:35:33 (UTC -03:00)
 tags: []
 source: file:///home/ze-eduardo/noticias/bailarina-do-theatro-municipal-do-rio-indica-espetaculos-online-para-se-sentir-dentro-de-teatros-europeus-24947040
 author: Carolina Mazzi
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T23:04:27.910661+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: bale_classico_online
+    weight: 10
+    confidence: 0.98
+  - name: espetaculos_virtuais_teatro
+    weight: 9
+    confidence: 0.97
+  - name: royal_opera_house_londres
+    weight: 8
+    confidence: 0.95
+  - name: opera_de_paris_palacio_garnier
+    weight: 8
+    confidence: 0.95
+  - name: teatro_bolshoi_moscou
+    weight: 8
+    confidence: 0.95
+  - name: bailarina_claudia_mota
+    weight: 7
+    confidence: 0.93
+  - name: la_bayadere_bale
+    weight: 7
+    confidence: 0.92
+  - name: o_lago_dos_cisnes_bale
+    weight: 7
+    confidence: 0.92
+  - name: dom_quixote_bale
+    weight: 7
+    confidence: 0.92
+  - name: spartacus_bale
+    weight: 7
+    confidence: 0.92
+  cdu_primary: '792.8'
+  cdu_secondary:
+  - '792.51'
+  - '792.52'
+  - '792.53'
+  - '004.77'
+  - '725.1'
+  cdu_description: 792.8 Balé; 792.51 Ópera; 792.52 Teatro de revista, revista musical; 792.53 Teatro de marionetas; 004.77 Acesso a redes de computadores; 725.1 Edifícios públicos
 ---
 
 # Bailarina do Theatro Municipal do Rio indica espetáculos online para se sentir dentro de teatros europeus - Jornal O Globo

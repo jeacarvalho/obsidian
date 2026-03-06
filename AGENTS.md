@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:41.370253+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gerenciamento_de_notas_digitais
+    weight: 10
+    confidence: 0.98
+  - name: organizacao_de_informacao_pessoal
+    weight: 9
+    confidence: 0.97
+  - name: processamento_linguagem_natural_aplicada
+    weight: 9
+    confidence: 0.96
+  - name: sistemas_de_recuperacao_informacao
+    weight: 8
+    confidence: 0.95
+  - name: tecnicas_de_embedding_textual
+    weight: 8
+    confidence: 0.94
+  - name: automacao_de_fluxos_de_trabalho
+    weight: 7
+    confidence: 0.93
+  - name: geracao_de_conteudo_via_ia
+    weight: 7
+    confidence: 0.92
+  - name: gerenciamento_de_bibliotecas_digitais
+    weight: 6
+    confidence: 0.91
+  - name: otimizacao_de_desempenho_computacional
+    weight: 6
+    confidence: 0.9
+  - name: validacao_de_dados_com_ia
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '004.9'
+  cdu_secondary:
+  - '004.7'
+  - '004.8'
+  - '025.431'
+  cdu_description: Organização e processamento de informações digitais, incluindo sistemas de recuperação de informação, inteligência artificial aplicada ao texto, e gestão de conhecimento pessoal.
+---
 # Vault Obsidian - Contexto do Agente
 
 **Total de notas:** ~3.500

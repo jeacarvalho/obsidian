@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:02.338585+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_de_friccao_no_trabalho
+    weight: 10
+    confidence: 0.98
+  - name: necessidade_do_trabalho_gerencial
+    weight: 9
+    confidence: 0.95
+  - name: antecipacao_de_atrito_execucional
+    weight: 8
+    confidence: 0.92
+  - name: lidar_com_incertezas_execucionais
+    weight: 7
+    confidence: 0.9
+  - name: lacunas_entre_planos_acoes_resultados
+    weight: 8
+    confidence: 0.93
+  - name: gerenciamento_de_erros_e_acidentes
+    weight: 6
+    confidence: 0.88
+  - name: efeitos_nao_esperados_da_execucao
+    weight: 7
+    confidence: 0.89
+  - name: organizacao_de_individuos_para_tarefas
+    weight: 6
+    confidence: 0.85
+  - name: planejamento_considerando_friccao
+    weight: 9
+    confidence: 0.94
+  - name: frustracao_por_nao_considerar_friccao
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '65.01'
+  cdu_secondary:
+  - '005.32'
+  - '303.4'
+  cdu_description: Gestão e organização. Teoria e prática da gestão. Gestão de operações e produção. Gestão de projetos. Liderança. Teoria da organização. Sociologia do trabalho.
+---
 Segundo [[bungay2011-The art of action]] a existência da [[fricção]] é o que leva à necessidade do trabalho gerencial. Segundo ele, antecipar e lidar com a [[fricção]] forma o core do trabalho gerencial
 
 Há algum tempo li um livro que impactou muito a forma de pensar a liderança. Não é um livro novo. E é baseado em análise de um exército. Sim. E, mesmo assim, traz lições muito legais sobre o que é liderar.

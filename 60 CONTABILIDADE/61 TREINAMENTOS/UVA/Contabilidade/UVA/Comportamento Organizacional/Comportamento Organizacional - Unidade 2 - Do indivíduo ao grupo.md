@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:41.301050+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_de_pessoas
+    weight: 10
+    confidence: 0.98
+  - name: competencias_profissionais
+    weight: 9
+    confidence: 0.97
+  - name: talentos_organizacionais
+    weight: 8
+    confidence: 0.96
+  - name: motivacao_no_trabalho
+    weight: 9
+    confidence: 0.95
+  - name: tomada_de_decisao_gerencial
+    weight: 7
+    confidence: 0.94
+  - name: comunicacao_organizacional
+    weight: 9
+    confidence: 0.96
+  - name: diversidade_no_ambiente_de_trabalho
+    weight: 6
+    confidence: 0.9
+  - name: produtividade_empresarial
+    weight: 7
+    confidence: 0.92
+  - name: desenvolvimento_de_competencias
+    weight: 8
+    confidence: 0.93
+  - name: percepcao_organizacional
+    weight: 5
+    confidence: 0.88
+  cdu_primary: '658.3'
+  cdu_secondary:
+  - 159.947.5
+  - '316.46'
+  - '007'
+  cdu_description: Gestão de Pessoas, Motivação, Comunicação Organizacional, Competências e Talentos
+---
 ## Objetivo
 Ao final desta unidade, você deverá ser capaz de:
  - analisar a gestão de pessoas, competências e talentos no que tange ao papel do indivíduo perante o grupo de trabalho.

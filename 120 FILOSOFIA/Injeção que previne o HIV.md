@@ -34,9 +34,48 @@ informacoes:
     nome_comercial: Yeztugo
     recomendacao_oms: sim
 link: https://oglobo.globo.com/saude/noticia/2025/07/17/injecao-que-previne-o-hiv-estudo-inedito-mostra-que-droga-de-ultima-geracao-poderia-custar-r-140-farmaceutica-cobra-r-156-mil.ghtml
-resumo: Estudo revela que medicamento injetável para prevenção do HIV, lenacapavir,
-  poderia custar R$ 140, mas farmacêutica cobra R$ 156 mil.
+resumo: Estudo revela que medicamento injetável para prevenção do HIV, lenacapavir, poderia custar R$ 140, mas farmacêutica cobra R$ 156 mil.
 titulo: Injeção que previne o HIV
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:54.228599+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lenacapavir_prevencao_hiv
+    weight: 10
+    confidence: 0.98
+  - name: custo_medicamento_hiv
+    weight: 9
+    confidence: 0.97
+  - name: eficacia_lenacapavir
+    weight: 8
+    confidence: 0.96
+  - name: profilaxia_pre_exposicao_prep
+    weight: 7
+    confidence: 0.95
+  - name: antirretroviral_longa_duracao
+    weight: 7
+    confidence: 0.94
+  - name: aprovacao_medicamento_eua
+    weight: 6
+    confidence: 0.93
+  - name: recomendacao_oms_hiv
+    weight: 6
+    confidence: 0.92
+  - name: desafios_acesso_medicamentos
+    weight: 5
+    confidence: 0.91
+  - name: estudo_purpose_1
+    weight: 5
+    confidence: 0.9
+  - name: estudo_purpose_2
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '616.97'
+  cdu_secondary:
+  - '338.43'
+  - '615.25'
+  cdu_description: 616.97 - Doenças infecciosas específicas. AIDS. HIV. 338.43 - Preços. Formação de preços. 615.25 - Medicamentos para o sistema circulatório e para o sistema respiratório. Medicamentos para o sistema nervoso. Medicamentos para o sistema digestivo e para o metabolismo. Medicamentos para o sistema geniturinário e hormônios sexuais. Medicamentos para o sistema muscular e esquelético. Medicamentos para a pele. Medicamentos para o sistema endócrino. Medicamentos para o sistema imunitário. Medicamentos para o tratamento de doenças infecciosas e parasitárias.
 ---
 
 Olha nosso cenário. A empresa investe bastante para criar o medicamente. Quem aporta dinheiro quer dinheiro como retorno e não vidas salvas. Esse é mundo.

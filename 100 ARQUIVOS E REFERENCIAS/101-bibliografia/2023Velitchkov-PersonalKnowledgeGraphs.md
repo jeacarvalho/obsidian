@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:58.818204+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: grafos_de_conhecimento_pessoal_pkgs
+    weight: 10
+    confidence: 0.98
+  - name: gestao_conhecimento_individual
+    weight: 9
+    confidence: 0.95
+  - name: desconexao_dados_aplicacoes
+    weight: 8
+    confidence: 0.92
+  - name: evolucao_pkgs_ondas
+    weight: 7
+    confidence: 0.9
+  - name: cognitivismo_ferramentas_pkgs
+    weight: 7
+    confidence: 0.88
+  - name: arquitetura_descentralizada_pkgs
+    weight: 8
+    confidence: 0.91
+  - name: construcao_conhecimento_estruturado
+    weight: 6
+    confidence: 0.85
+  - name: interdependencia_pkgs_outros_grafos
+    weight: 6
+    confidence: 0.87
+  - name: zettelkasten_niklas_luhmann
+    weight: 5
+    confidence: 0.8
+  - name: controle_dados_pessoais
+    weight: 9
+    confidence: 0.93
+  cdu_primary: '004.77'
+  cdu_secondary:
+  - '159.9'
+  - '004.02'
+  cdu_description: 004.77 - Redes de computadores. Internet. Protocolos. Sistemas de informação. 159.9 - Psicologia. 004.02 - Teoria da informação. Cibernética.
+---
 # Cap 1
 
 ##     analise: 

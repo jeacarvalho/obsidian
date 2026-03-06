@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:22.473228+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: identidade_da_igreja
+    weight: 10
+    confidence: 0.98
+  - name: liderancas_jovens_e_conselho
+    weight: 9
+    confidence: 0.95
+  - name: prioridades_da_igreja_adolescentes_e_jovens
+    weight: 8
+    confidence: 0.92
+  - name: junta_diaconal_reorganizacao
+    weight: 8
+    confidence: 0.9
+  - name: novos_horarios_de_atendimento_e_oracao
+    weight: 7
+    confidence: 0.88
+  - name: projeto_devocionario_crescer_gestao_financeira
+    weight: 7
+    confidence: 0.85
+  - name: rol_de_membros_software_e_fotos
+    weight: 6
+    confidence: 0.8
+  - name: orcamento_e_novo_material
+    weight: 6
+    confidence: 0.78
+  - name: discipulado_e_celulas
+    weight: 5
+    confidence: 0.75
+  - name: saude_e_bem_estar_de_membros_orar_por_bettini
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '280'
+  cdu_secondary:
+  - '261.7'
+  - '305.23'
+  cdu_description: Religião cristã. Organização e administração de igrejas. Atividades sociais e comunitárias. Jovens e adolescentes.
+---
 Reunião conselho 20150426
 
 - Banner, orçamento, novo material, formato e possibilidade de horários “flutuantes

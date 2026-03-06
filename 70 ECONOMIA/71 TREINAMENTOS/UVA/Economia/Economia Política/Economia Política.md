@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:45.169393+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: economia_politica_definicao
+    weight: 10
+    confidence: 0.98
+  - name: escola_fisiocrata
+    weight: 9
+    confidence: 0.95
+  - name: adam_smith
+    weight: 9
+    confidence: 0.95
+  - name: escola_classica
+    weight: 8
+    confidence: 0.93
+  - name: laissez_faire
+    weight: 7
+    confidence: 0.9
+  - name: teoria_valor_trabalho
+    weight: 8
+    confidence: 0.92
+  - name: recursos_escasos
+    weight: 6
+    confidence: 0.85
+  - name: necessidades_humanas
+    weight: 6
+    confidence: 0.85
+  - name: producao_bens_servicos
+    weight: 5
+    confidence: 0.8
+  - name: distribuicao_bens_servicos
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '330.1'
+  cdu_secondary:
+  - '330.11'
+  - '330.12'
+  - '330.14'
+  cdu_description: Economia. Teoria econômica. História do pensamento econômico. Escolas econômicas.
+---
 # Bibliografia
 ##  Livro da disciplina
 - Os conteúdos apresentados neste curso on-line devem ser complementados e aprofundados por meio do estudo das páginas indicadas do livro da disciplina. O livro adotado é: IZIDORO, Cleyton. Economia e Política. São Paulo: Pearson, 2014. Você poderá encontrá-lo na Biblioteca Virtual. Para saber como acessar a Biblioteca Virtual, https://plataforma.bvirtual.com.br/Leitor/Publicacao/22186

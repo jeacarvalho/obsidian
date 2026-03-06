@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:00.865516+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: coragem_como_virtude_ontologica
+    weight: 10
+    confidence: 0.98
+  - name: coragem_criativa_como_rebeliao_contra_finitude
+    weight: 9
+    confidence: 0.97
+  - name: tipologias_da_coragem_fisica_moral_social_criativa
+    weight: 8
+    confidence: 0.96
+  - name: paradoxo_da_coragem_compromisso_apesar_da_duvida
+    weight: 7
+    confidence: 0.95
+  - name: influencia_do_existencialismo_kierkegaard_nietzsche_sartre
+    weight: 9
+    confidence: 0.94
+  - name: dialogo_com_psicologia_humanista_terceira_forca
+    weight: 7
+    confidence: 0.93
+  - name: contexto_historico_pos_guerra_guerra_fria
+    weight: 6
+    confidence: 0.92
+  - name: criatividade_como_expressao_fundamental_humana
+    weight: 8
+    confidence: 0.91
+  - name: relacao_entre_criatividade_e_mortalidade
+    weight: 7
+    confidence: 0.9
+  - name: analise_do_medo_da_vida_e_morte_otto_rank
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '111.85'
+  - '123'
+  - '159.942'
+  cdu_description: Psicologia. Filosofia da existência. Criatividade. Psicologia existencial.
+---
 ## Cap 1
 ### Análise Multiperspectiva de "A Coragem de Criar"
 

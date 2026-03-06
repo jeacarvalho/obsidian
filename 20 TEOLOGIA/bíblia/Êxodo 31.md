@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:50.218533+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: artifices_do_tabernaculo
+    weight: 10
+    confidence: 0.98
+  - name: bezalel_e_aoliabe
+    weight: 9
+    confidence: 0.97
+  - name: dons_espirituais_e_habilidade
+    weight: 8
+    confidence: 0.96
+  - name: trabalho_em_metais_preciosos
+    weight: 7
+    confidence: 0.95
+  - name: trabalho_em_madeira
+    weight: 6
+    confidence: 0.94
+  - name: companheirismo_nas_tarefas
+    weight: 7
+    confidence: 0.93
+  - name: seguranca_em_deus
+    weight: 8
+    confidence: 0.92
+  - name: observancia_do_sabado
+    weight: 9
+    confidence: 0.91
+  - name: sabado_como_sinal_de_santificacao
+    weight: 8
+    confidence: 0.9
+  - name: deus_como_senhor_do_universo
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '222.1'
+  cdu_secondary:
+  - '264.3'
+  - '248.3'
+  cdu_description: Êxodo (livro bíblico), construção do Tabernáculo, dons e habilidades divinas, observância do sábado.
+---
 Êxodo 31:1-6
 Os artífices da obra do tabernáculo
 

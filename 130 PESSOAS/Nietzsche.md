@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:43.282052+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: filosofia_nietzscheana
+    weight: 10
+    confidence: 0.98
+  - name: critica_religiao_nietzsche
+    weight: 9
+    confidence: 0.95
+  - name: critica_moral_nietzsche
+    weight: 9
+    confidence: 0.95
+  - name: critica_cultura_nietzsche
+    weight: 8
+    confidence: 0.93
+  - name: critica_filosofia_nietzsche
+    weight: 8
+    confidence: 0.93
+  - name: critica_ciencia_nietzsche
+    weight: 7
+    confidence: 0.9
+  - name: morte_deus_nietzsche
+    weight: 10
+    confidence: 0.97
+  - name: critica_metafisica_nietzsche
+    weight: 8
+    confidence: 0.92
+  - name: espiritos_apollineo_dionisiaco
+    weight: 9
+    confidence: 0.96
+  - name: filosofo_alemao_seculo_xix
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '193'
+  cdu_secondary:
+  - '23'
+  - '111.85'
+  - '308'
+  cdu_description: Filosofia alemã. Filosofia do século XIX. Filosofia da religião. Filosofia da cultura.
+---
 Friedrich Wilhelm Nietzsche - Röcken 1844101515— Weimar 19000825
 
 - foi um filósofo, filólogo, crítico cultural, poeta e compositor prussiano do século XIX, nascido na atual Alemanha.

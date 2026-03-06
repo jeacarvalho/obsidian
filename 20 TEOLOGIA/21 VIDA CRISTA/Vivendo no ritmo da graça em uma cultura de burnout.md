@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:09.426707+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: esgotamento_profissionais_cristaos
+    weight: 10
+    confidence: 0.98
+  - name: vivendo_com_graca
+    weight: 9
+    confidence: 0.97
+  - name: cultura_de_burnout
+    weight: 8
+    confidence: 0.96
+  - name: motivacao_pela_graca
+    weight: 7
+    confidence: 0.94
+  - name: moderacao_pela_graca
+    weight: 7
+    confidence: 0.93
+  - name: multiplicacao_pela_graca
+    weight: 7
+    confidence: 0.92
+  - name: deficit_de_graca
+    weight: 8
+    confidence: 0.95
+  - name: lideranca_crista_esgotada
+    weight: 9
+    confidence: 0.97
+  - name: perfeccionismo_legalista
+    weight: 6
+    confidence: 0.9
+  - name: gratidao_pela_graca
+    weight: 6
+    confidence: 0.91
+  cdu_primary: 27-32
+  cdu_secondary:
+  - 159.947.2
+  - '316.46'
+  cdu_description: Teologia cristã aplicada à vida prática, com foco em superar o esgotamento através da graça divina, abordando aspectos psicológicos e socioculturais do burnout.
+---
 Vivendo no ritmo da [[graça]] em uma [[cultura]] de [[burnout]]
 
 # Grace-Paced Living in a [[Burnout]] Culture

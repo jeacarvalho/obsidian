@@ -45,6 +45,44 @@ bibliografia:
     editora: Editora Grupo A
     link: https://integrada.minhabiblioteca.com.br/reader/books/9788580552331/pages/recent
     titulo: Os Elementos da Filosofia Moral
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:54.388155+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_da_filosofia
+    weight: 10
+    confidence: 0.98
+  - name: conceitos_filosoficos
+    weight: 9
+    confidence: 0.95
+  - name: filosofia_politica
+    weight: 8
+    confidence: 0.9
+  - name: filosofia_moral
+    weight: 7
+    confidence: 0.88
+  - name: epistemologia
+    weight: 6
+    confidence: 0.85
+  - name: metafisica
+    weight: 6
+    confidence: 0.82
+  - name: etica
+    weight: 7
+    confidence: 0.87
+  - name: estetica
+    weight: 5
+    confidence: 0.8
+  - name: hermeneutica
+    weight: 5
+    confidence: 0.78
+  - name: logica
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '1'
+  cdu_secondary: []
+  cdu_description: Filosofia
 ---
 
 # Bibliografia

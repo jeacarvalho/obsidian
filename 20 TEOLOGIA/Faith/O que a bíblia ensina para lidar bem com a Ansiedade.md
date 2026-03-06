@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:20.431088+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ansiedade_emocional
+    weight: 10
+    confidence: 0.98
+  - name: conforto_espiritual
+    weight: 9
+    confidence: 0.95
+  - name: confianca_em_deus
+    weight: 9
+    confidence: 0.96
+  - name: esperanca_na_morte
+    weight: 8
+    confidence: 0.92
+  - name: vida_apos_morte
+    weight: 7
+    confidence: 0.88
+  - name: medo_da_morte
+    weight: 7
+    confidence: 0.85
+  - name: seguranca_em_cristo
+    weight: 8
+    confidence: 0.93
+  - name: superacao_de_fadigas
+    weight: 6
+    confidence: 0.8
+  - name: relacao_com_o_senhor
+    weight: 7
+    confidence: 0.9
+  - name: perspectiva_biblica_sobre_morte
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '248.4'
+  - '231.7'
+  cdu_description: Teologia cristã; Vida e prática cristãs; Escatologia cristã
+---
 [[Ansiedade]]
 
 Ansiedade

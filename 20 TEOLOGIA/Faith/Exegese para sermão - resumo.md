@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:21.049599+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: exegese_biblica
+    weight: 10
+    confidence: 0.98
+  - name: interpretacao_textual
+    weight: 9
+    confidence: 0.95
+  - name: traducao_original
+    weight: 8
+    confidence: 0.92
+  - name: analise_estrutural_texto
+    weight: 7
+    confidence: 0.9
+  - name: preparacao_homiletica
+    weight: 10
+    confidence: 0.97
+  - name: uso_contextual_sermao
+    weight: 8
+    confidence: 0.93
+  - name: variantes_textuais_biblicas
+    weight: 7
+    confidence: 0.88
+  - name: analise_gramatical_verbo
+    weight: 6
+    confidence: 0.85
+  - name: estudo_lexical_palavras
+    weight: 9
+    confidence: 0.94
+  - name: contexto_historico_cultural
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '220.6'
+  cdu_secondary:
+  - '251'
+  - '220.1'
+  cdu_description: Exegese e hermenêutica bíblica; pregação
+---
 Exegese para sermão - resumo
 
 1) Leia o contexto maior

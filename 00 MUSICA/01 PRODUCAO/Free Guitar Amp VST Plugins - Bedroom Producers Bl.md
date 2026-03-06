@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T20:12:39.219349+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: plugins_vst_amplificador_guitarra_gratis
+    weight: 10
+    confidence: 0.98
+  - name: emuladores_amplificador_guitarra
+    weight: 9
+    confidence: 0.95
+  - name: simuladores_gabinete_guitarra
+    weight: 8
+    confidence: 0.92
+  - name: efeitos_saturacao_audio
+    weight: 7
+    confidence: 0.88
+  - name: processamento_audio_sintetizadores
+    weight: 6
+    confidence: 0.85
+  - name: plugins_audio_gratuitos
+    weight: 7
+    confidence: 0.9
+  - name: modelagem_circuito_audio
+    weight: 8
+    confidence: 0.93
+  - name: tecnologia_audio_vst
+    weight: 9
+    confidence: 0.96
+  - name: producao_musical_amadora
+    weight: 6
+    confidence: 0.8
+  - name: guitarra_eletrica_efeitos
+    weight: 7
+    confidence: 0.89
+  cdu_primary: 621.397.7
+  cdu_secondary:
+  - '781.61'
+  - '004.689'
+  cdu_description: A CDU primária 621.397.7 abrange a tecnologia de áudio e vídeo, especificamente equipamentos de gravação e reprodução sonora, que se alinha com VST plugins. A CDU secundária 781.61 cobre instrumentos de corda, incluindo guitarra, e 004.689 refere-se a software de áudio.
+---
 Free Guitar Amp VST Plugins - Bedroom Producers Blog
 
 # Free Guitar Amplifier VST Plugins

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:09.838249+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: masterizacao_musica_reaper
+    weight: 10
+    confidence: 0.98
+  - name: producao_musical_digital
+    weight: 9
+    confidence: 0.95
+  - name: software_audio_reaper
+    weight: 8
+    confidence: 0.92
+  - name: tecnicas_masterizacao
+    weight: 9
+    confidence: 0.96
+  - name: equalizacao_audio
+    weight: 7
+    confidence: 0.85
+  - name: compressao_audio
+    weight: 7
+    confidence: 0.85
+  - name: mixagem_musica
+    weight: 8
+    confidence: 0.9
+  - name: plugins_audio_gratuitos
+    weight: 6
+    confidence: 0.8
+  - name: distribuicao_musical_online
+    weight: 7
+    confidence: 0.88
+  - name: processamento_sinal_audio
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '781.6'
+  cdu_secondary:
+  - '004.6'
+  - '621.39'
+  cdu_description: 781.6 - Técnicas de gravação, reprodução e processamento de som. 004.6 - Sistemas de comunicação de dados. 621.39 - Telecomunicações.
+---
 (589) Como MASTERIZAR sua MÚSICA da forma mais FÁCIL no Reaper - YouTube
 
 Como MASTERIZAR sua MÚSICA da forma mais FÁCIL no Reaper

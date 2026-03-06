@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:01.425500+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teoria_de_intervencao_organizacional
+    weight: 10
+    confidence: 0.98
+  - name: metodologia_de_intervencao_comportamental
+    weight: 9
+    confidence: 0.97
+  - name: ciencias_comportamentais_aplicadas
+    weight: 8
+    confidence: 0.96
+  - name: eficacia_organizacional
+    weight: 7
+    confidence: 0.95
+  - name: competencia_organizacional
+    weight: 7
+    confidence: 0.94
+  - name: desenvolvimento_organizacional
+    weight: 8
+    confidence: 0.93
+  - name: geracao_de_informacao_valida
+    weight: 6
+    confidence: 0.92
+  - name: escolha_livre_e_informada
+    weight: 6
+    confidence: 0.91
+  - name: compromisso_interno_organizacional
+    weight: 5
+    confidence: 0.9
+  - name: relacao_pensamento_acao_organizacional
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '316.46'
+  cdu_secondary:
+  - '005.32'
+  - '303.01'
+  cdu_description: 316.46 - Mudança social e desenvolvimento social; 005.32 - Gestão de pessoal, gestão de recursos humanos; 303.01 - Métodos de investigação em ciências sociais
+---
 |          |                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Título:  | Intervention theory and method; a behavioral science view. --                                                                                                                                                                                                                                                                                                                                                                                |

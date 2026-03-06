@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:00.084151+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: framework_cynefin
+    weight: 10
+    confidence: 0.98
+  - name: sense_making
+    weight: 9
+    confidence: 0.97
+  - name: dominios_cynefin
+    weight: 9
+    confidence: 0.96
+  - name: dominio_claro
+    weight: 7
+    confidence: 0.9
+  - name: dominio_complicado
+    weight: 7
+    confidence: 0.9
+  - name: dominio_complexo
+    weight: 8
+    confidence: 0.95
+  - name: dominio_caos
+    weight: 8
+    confidence: 0.94
+  - name: tomada_de_decisao_em_complexidade
+    weight: 7
+    confidence: 0.92
+  - name: sistemas_ordenados_complexos_caoticos
+    weight: 8
+    confidence: 0.93
+  - name: tecnicas_para_complexidade
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '005.3'
+  cdu_secondary:
+  - '159.9'
+  - '303.4'
+  cdu_description: 005.3 - Gestão da complexidade e da incerteza em sistemas; 159.9 - Psicologia (processos cognitivos, tomada de decisão); 303.4 - Métodos sociológicos (análise de sistemas sociais)
+---
 # Módulo 1: Visão Geral do Framework Cynefin® > Aula expositiva
 - "quinevin"
 - Gaulês - um lugar de múltiplos pertencimentos

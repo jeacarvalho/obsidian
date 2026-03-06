@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:49.763952+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: seguranca_da_informacao_pilares
+    weight: 10
+    confidence: 0.98
+  - name: engenharia_social_ataques
+    weight: 9
+    confidence: 0.97
+  - name: falhas_humanas_seguranca
+    weight: 9
+    confidence: 0.96
+  - name: autenticacao_seguranca_informacao
+    weight: 8
+    confidence: 0.95
+  - name: cultura_etica_seguranca
+    weight: 8
+    confidence: 0.94
+  - name: conhecimento_vs_informacao
+    weight: 7
+    confidence: 0.93
+  - name: ativos_intangiveis_valor
+    weight: 7
+    confidence: 0.92
+  - name: lideranca_seguranca_gestores
+    weight: 6
+    confidence: 0.91
+  - name: trabalho_remoto_seguranca
+    weight: 6
+    confidence: 0.9
+  - name: gambiarra_definicao_brasileira
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '005.8'
+  cdu_secondary:
+  - '316.77'
+  - '343.97'
+  cdu_description: 005.8 Segurança da informação; 316.77 Influência dos meios de comunicação de massa e da tecnologia da informação na sociedade; 343.97 Crimes informáticos
+---
 # Módulo 1 - Contextualização
 ## Conceitos
 - Informação não é [[conhecimento]]. Conhecimento é o que pode ser adquirido por meio de diversas informações

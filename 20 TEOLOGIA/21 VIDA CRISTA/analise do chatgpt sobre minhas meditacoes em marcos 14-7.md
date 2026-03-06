@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:13:45.398319+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: superacao_sentimentos_abandono_infancia
+    weight: 9
+    confidence: 0.98
+  - name: consciencia_necessidade_transformacao_pessoal
+    weight: 8
+    confidence: 0.95
+  - name: acoes_praticas_evolucao_pessoal
+    weight: 7
+    confidence: 0.92
+  - name: dialogo_interno_menino_interior
+    weight: 6
+    confidence: 0.9
+  - name: jornadas_reconciliacao_passado
+    weight: 6
+    confidence: 0.88
+  - name: teologia_reformada_soberania_deus
+    weight: 7
+    confidence: 0.93
+  - name: urgencia_aproveitar_tempo_fazer_bem
+    weight: 8
+    confidence: 0.96
+  - name: sacrificio_pessoal_amor_proximo
+    weight: 9
+    confidence: 0.97
+  - name: comentarios_reformados_calvino_sproul
+    weight: 7
+    confidence: 0.91
+  - name: amor_cristao_acao_verdade
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '248.4'
+  - '159.9'
+  cdu_description: Teologia cristã; Teologia sistemática; Teologia reformada; Vida cristã; Prática cristã; Psicologia da religião; Emoções e religião
+---
 https://chatgpt.com/share/674dac55-92d0-8007-9321-f436c734b06e
 
 ### Análise Comportamental

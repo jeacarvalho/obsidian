@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:40:03.416356+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: criatividade_individual_e_cultural
+    weight: 9
+    confidence: 0.98
+  - name: progresso_humano_e_sentido_criativo
+    weight: 8
+    confidence: 0.97
+  - name: dedicacao_intensa_na_busca_criativa
+    weight: 7
+    confidence: 0.96
+  - name: desenvolvimento_cultural_vs_biologico
+    weight: 6
+    confidence: 0.95
+  - name: influencia_ambiental_na_criatividade
+    weight: 8
+    confidence: 0.97
+  - name: especializacao_excessiva_e_criatividade
+    weight: 7
+    confidence: 0.96
+  - name: criatividade_em_pessoas_excepcionais
+    weight: 6
+    confidence: 0.95
+  - name: percepcao_social_da_criatividade
+    weight: 5
+    confidence: 0.94
+  - name: cultivo_ambiente_inspirador_variado
+    weight: 7
+    confidence: 0.96
+  - name: dedicacao_tempo_foco_dominio_especifico
+    weight: 8
+    confidence: 0.97
+  cdu_primary: '159.954'
+  cdu_secondary:
+  - '004'
+  - '316.6'
+  cdu_description: Psicologia da criatividade e da invenção. Inovação e desenvolvimento cultural. Sociologia da criatividade.
+---
 # Cap 1
 - [[1cap-Creativity_ The Psychology of Discovery an - Mihaly Csikszentmihalyi.pdf]]
 - https://chatgpt.com/share/672e424e-c99c-8007-91fc-31aee113ed7b

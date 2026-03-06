@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:09.216181+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceito_deus_trindade
+    weight: 10
+    confidence: 0.98
+  - name: fundamentacao_biblica_trindade
+    weight: 9
+    confidence: 0.95
+  - name: historia_termo_trindade
+    weight: 8
+    confidence: 0.92
+  - name: tertuliano_cunhagem_termo_trindade
+    weight: 7
+    confidence: 0.9
+  - name: controversia_ariana_cristologia
+    weight: 8
+    confidence: 0.93
+  - name: concilio_niceia_325dc
+    weight: 7
+    confidence: 0.9
+  - name: concilio_constantinopla_381
+    weight: 7
+    confidence: 0.9
+  - name: agostinho_teologia_trindade
+    weight: 8
+    confidence: 0.91
+  - name: moltmann_trindade_familia
+    weight: 7
+    confidence: 0.88
+  - name: importancia_trindade_relacionamentos_humanos
+    weight: 9
+    confidence: 0.94
+  cdu_primary: '231.01'
+  cdu_secondary:
+  - 27-23
+  - '230.1'
+  cdu_description: Teologia cristã. Doutrina da Trindade. História e desenvolvimento da doutrina. Teologia sistemática.
+---
 Ebd betania [[Trindade]] Pastor Leandro 20120304
 
 Ebd **trindade**pr Leandro 20120304

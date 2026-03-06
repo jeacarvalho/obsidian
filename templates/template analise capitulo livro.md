@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:10.503340+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: resumo_ideias_principais
+    weight: 8
+    confidence: 0.9
+  - name: acoes_praticas_cotidianas
+    weight: 9
+    confidence: 0.95
+  - name: exercicios_reflexivos_aplicados
+    weight: 7
+    confidence: 0.85
+  - name: jornada_comparativa_autores
+    weight: 8
+    confidence: 0.9
+  - name: analise_pontos_fortes_fracos
+    weight: 7
+    confidence: 0.88
+  - name: solucoes_teoricas_praticas
+    weight: 8
+    confidence: 0.92
+  - name: ideia_pensar_hoje
+    weight: 6
+    confidence: 0.8
+  - name: acao_realizar_hoje
+    weight: 6
+    confidence: 0.8
+  - name: integracao_conhecimento_livros
+    weight: 7
+    confidence: 0.85
+  - name: aplicacao_vida_normal
+    weight: 9
+    confidence: 0.93
+  cdu_primary: '005.3'
+  cdu_secondary:
+  - '004.9'
+  - '159.9'
+  cdu_description: Gestão do conhecimento, organização e aplicação prática de ideias, com foco em desenvolvimento pessoal e reflexão.
+---
 # Capítulo
 -fonte pdf
 - links chats

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:20.958453+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: priorizar_vontade_deus
+    weight: 9
+    confidence: 0.9
+  - name: alegrar_deus
+    weight: 8
+    confidence: 0.85
+  - name: familia_esposa_filha_neta
+    weight: 10
+    confidence: 0.95
+  - name: membros_igreja
+    weight: 6
+    confidence: 0.7
+  - name: criancas_familias_projeto
+    weight: 6
+    confidence: 0.7
+  - name: inspiracao_irmao_pastor
+    weight: 8
+    confidence: 0.8
+  - name: inspiracao_esposa_luta_cancer
+    weight: 9
+    confidence: 0.9
+  - name: inspiracao_filha_universidade
+    weight: 8
+    confidence: 0.85
+  - name: inspiracao_mae_resiliencia
+    weight: 8
+    confidence: 0.8
+  - name: inspiracao_pai_sobrevivencia
+    weight: 7
+    confidence: 0.75
+  cdu_primary: '200'
+  cdu_secondary:
+  - '159.9'
+  - '305.4'
+  - '305.8'
+  cdu_description: Religião e Teologia (200), Psicologia (159.9), Estudos sobre a Mulher (305.4), Estudos sobre Grupos Sociais (305.8)
+---
 #  O que mais importa na sua vida?
 - Acho, realmente, que quero priorizar a vontade de Deus. A luta é que isso é muito amplo. Deus pode querer que eu faça/seja um bocado de coisa. Há um básico, mas esse básico é estendido para cada um de nós em nossa vocação pessoal
 - Mas posso dizer que o que mais importa na minha vida é viver de forma que eu alegre a Deus

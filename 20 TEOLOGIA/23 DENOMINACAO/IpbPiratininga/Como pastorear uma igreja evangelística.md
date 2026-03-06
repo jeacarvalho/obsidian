@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:20:06.874232+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: evangelismo_cristao
+    weight: 10
+    confidence: 0.98
+  - name: compartilhamento_fe
+    weight: 9
+    confidence: 0.95
+  - name: lideranca_pastoral
+    weight: 8
+    confidence: 0.92
+  - name: engajamento_evangelistico
+    weight: 7
+    confidence: 0.9
+  - name: pratica_crista
+    weight: 6
+    confidence: 0.88
+  - name: pesquisa_cristianismo
+    weight: 5
+    confidence: 0.85
+  - name: vida_crista
+    weight: 7
+    confidence: 0.87
+  - name: missao_igreja
+    weight: 8
+    confidence: 0.91
+  - name: disciplina_eclesiastica
+    weight: 6
+    confidence: 0.86
+  - name: transformacao_pessoal
+    weight: 5
+    confidence: 0.84
+  cdu_primary: 27-28
+  cdu_secondary:
+  - '273.2'
+  - '248.1'
+  cdu_description: Religião cristã; História e geografia da igreja cristã; Teologia prática; Vida e prática cristã
+---
 Como [[pastorear]] uma igreja evangelística
 
 Pessoal

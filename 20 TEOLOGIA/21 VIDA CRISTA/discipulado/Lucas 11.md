@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:13.704782+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: perdao_reciproco_pecados
+    weight: 9
+    confidence: 0.98
+  - name: importunacao_oracao
+    weight: 8
+    confidence: 0.95
+  - name: dons_espirituais_pai_celestial
+    weight: 7
+    confidence: 0.92
+  - name: divindade_jesus
+    weight: 10
+    confidence: 0.99
+  - name: portadores_luz_cristo
+    weight: 8
+    confidence: 0.96
+  - name: vida_transformada_integral
+    weight: 7
+    confidence: 0.93
+  - name: prestacao_contas_geracao
+    weight: 6
+    confidence: 0.9
+  - name: ataques_palavras_proprias
+    weight: 5
+    confidence: 0.88
+  - name: luta_contra_satanas
+    weight: 8
+    confidence: 0.94
+  - name: arrependimento_pregacao_jonas
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '226.7'
+  cdu_secondary: []
+  cdu_description: Evangelho segundo Lucas, capítulo 11
+---
 LC11-15
 
 Lucas 11:4

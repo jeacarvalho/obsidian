@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:03.472230+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_pastoral_meditacoes_cristo
+    weight: 8
+    confidence: 0.9
+  - name: teologia_reformada_cristocentrismo
+    weight: 9
+    confidence: 0.95
+  - name: exegese_marcos_15_24_crucificacao
+    weight: 10
+    confidence: 0.98
+  - name: interpretacao_simplicidade_relato_crucificacao
+    weight: 7
+    confidence: 0.85
+  - name: reflexao_espiritual_sacralidade_momento
+    weight: 6
+    confidence: 0.8
+  - name: dimensao_corporal_cristo_redencao
+    weight: 7
+    confidence: 0.88
+  - name: proposta_homiletica_sermao_cruz
+    weight: 8
+    confidence: 0.92
+  - name: contexto_historico_cultural_crucificacao
+    weight: 9
+    confidence: 0.93
+  - name: analise_comportamental_fe_relacional
+    weight: 6
+    confidence: 0.75
+  - name: cristo_novo_adao_simbolismo_nudismo
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - '273.6'
+  - '226.3'
+  - '203.3'
+  cdu_description: Teologia cristã. A pessoa e obra de Cristo. A crucificação e redenção. Teologia reformada. Exegese do Novo Testamento. História e cultura do cristianismo.
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Marcos 15]]-24
 Obrigado por compartilhar essa poderosa meditação, Karl. Abaixo, sigo as instruções conforme solicitado, trazendo minha análise pastoral, teológica e homilética a partir do texto de Marcos 15:24 e das meditações que você escreveu.
 

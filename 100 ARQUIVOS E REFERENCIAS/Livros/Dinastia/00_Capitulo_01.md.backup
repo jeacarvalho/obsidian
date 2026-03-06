@@ -1,0 +1,1699 @@
+---
+author: null
+book_title: Unknown
+chapter_number: 1
+chapter_pages: 29-66
+chapter_title: Chapter 1
+processed_date: 2026-03-05
+rerank_threshold: 0.75
+tags:
+- null
+- null
+- null
+- null
+thematic_connections:
+- matched_topics: []
+  note: 80 COMUNIDADE/E possivel uma transformacao de vida
+  score: 0.0
+- matched_topics: []
+  note: 80 COMUNIDADE/acessibilidade
+  score: 0.0
+- matched_topics: []
+  note: 80 COMUNIDADE/Brasil tem mais homicidios do que quase todo hemisferio norte
+    somado em 2015
+  score: 0.0
+- matched_topics: []
+  note: 80 COMUNIDADE/Justiça Social - Perfil de pobreza muda em dez anos do programa
+    Bolsa Familia
+  score: 0.0
+topic_classification:
+  cdu_description: História da Roma Antiga, com ênfase no período imperial, expansão
+    e figuras chave como Augusto. Inclui também elementos de história militar e social.
+  cdu_primary: 937
+  cdu_secondary:
+  - '940'
+  - '930.2'
+  extraction_date: 2026-03-05
+  topics:
+  - confidence: 0.98
+    name: figura_de_augusto_como_princeps
+    weight: 10
+  - confidence: 0.95
+    name: reconciliacao_passado_futuro_roma
+    weight: 9
+  - confidence: 0.92
+    name: paz_restaurada_por_augusto
+    weight: 8
+  - confidence: 0.9
+    name: relacao_augusto_com_os_deuses
+    weight: 7
+  - confidence: 0.88
+    name: horacio_e_o_veredicto_sobre_augusto
+    weight: 6
+  - confidence: 0.85
+    name: agradecimentos_a_editores_e_colaboradores
+    weight: 5
+  - confidence: 0.8
+    name: dedicatoria_do_livro_a_katy
+    weight: 5
+  - confidence: 0.93
+    name: cenario_do_prefacio_imperador_caio_germanico
+    weight: 7
+  - confidence: 0.94
+    name: expansao_militar_romana_e_britania
+    weight: 8
+  - confidence: 0.96
+    name: fundacao_de_roma_e_dominio_global
+    weight: 9
+translation_cached: false
+validation_engine: gemini
+validation_model: gemini-2.5-flash-lite
+---
+
+# Capítulo 1: Chapter 1
+
+## Conteúdo Traduzido
+
+de inspiração para servir Roma. Descendia deles de uma
+forma tão clara como da família de Júlio César. Nada do
+que corporizava era estranho, ou estava, por mais remoto
+que fosse, em desacordo com os melhores costumes
+romanos. Indubitavelmente, que o mesmo seria verdade
+para aqueles «que se lhe seguissem como Princeps »[116] .
+Não tinha havido nenhuma revolução. O passado e o futuro
+de Roma encontraram-se e foram reconciliados na ﬁgura de
+um único homem.
+Imperador, Augusto, Pai da Pátria: aquele que fora Caio
+Otaviano tinha o direito de sentir, ao presidir à consagração
+do esplêndido complexo do seu novo templo, que era muito
+pouco o que ainda tinha para provar. Quem é que poderia
+agora duvidar que ele era, como sempre acreditara, o
+favorito dos céus? «Tu és o mais grandioso de todos os
+Princeps .»[117]  Assim escreveu Horácio pouco antes de
+morrer. Este veredicto não tinha sido bajulação — apenas
+um óbvio testemunho dos factos. Augusto tinha dado a paz
+aos seus concidadãos, reconciliara-os com os deuses, e
+restaurara-lhes a esperança.
+O que é que agora podia correr mal?
+
+
+Para a Katy
+«at simul heroum laudes et facta parentis
+iam legere…»
+AGRADECIMENTOS
+Como em todos os meus livros, tenho uma enorme dívida
+de gratidão para com muitas pessoas, pela sua ajuda.
+Agradeço aos meus vários editores, Richard Beswick, Gerry
+Howard, Frits van der Meij e Christoph Selzer, pelo seu
+apoio, colaboração e conselhos. A Ian Hunt, pelo cuidado e
+paciência com que desembaraçou os nós do meu
+manuscrito — mapas, cronologias, notas e tudo o mais. A
+Susan de Soissons, a melhor e mais carinhosa diretora de
+publicidade que um escritor pode desejar. A Patrick Walsh,
+o melhor dos agentes, e a todos na Conville and Walsh. A
+Guy de la Bédoyère, Paul Cartledge, Catharine Edwards,
+Llewelyn Morgan e Andrew Wallace-Hadrill, por terem
+generosamente iluminado o meu manuscrito com os seus
+conhecimentos, expondo alguns erros. A Dan Snow, que
+mais do que compensou o ter-me distraído da política do
+século I durante a campanha pelo referendo pela
+independência da Escócia em 2014, com a leitura da
+primeira versão de Dinastia ,com um efeito de inestimável
+valor. A Jamie Muir, que (como tem feito desde que escrevi
+Rubicão: o Triunfo e a Tragédia da República Romana ) leu
+cada capítulo à medida que os ia imprimindo — e ainda se
+dispôs a ir mais além, acompanhando-me até às
+profundezas da Floresta de Teutoburgo. A Gareth Blayney,
+pelas suas maravilhosas ilustrações da Roma antiga, e por
+ter oferecido todo o seu talento para a elaboração da capa
+deste livro [*]. A Sophie Hay, pela sua bondade,
+generosidade e entusiasmo, pelas suas fotograﬁas, a sua
+companhia na viagem para Nemi e Spelunca, e o seu
+cuidadoso acompanhamento da evolução do avatar do meu
+Twitter. A Laura Jeﬀrey, pelo sincero prazer com que
+investigou os luxuosos barcos de Calígula. A Stephen Key,
+pela forma abnegada como nos conduziu, a Sophie, a Laura
+e a mim, pelas estradas entre Roma, Nemi e Spelunca. A
+Mattia Buondonno, pela sua hospitalidade exuberante em
+Pompeia. A Charlie Campbell, por me ter dado a
+oportunidade de fazer um «três em um», jogar bowling  com
+o príncipe herdeiro de Udaipur, jogar críquete no Lord’s, e
+fazer-me sentir o que seria estar na posição de Augusto.
+Aos meus gatos, Edith  e Tostig , por apenas periodicamente
+se sentarem no teclado. À minha querida mulher, Sadie, por
+ter vivido nestes últimos anos com os Césares e comigo. À
+minha ﬁlha mais nova, Eliza, por ter (e tão perversamente)
+escolhido Nerva como o seu imperador preferido. À minha
+ﬁlha mais velha, Katy, a quem, com todo o meu amor,
+dedico este livro.
+
+PREFÁCIO
+Ano 40. Primórdios do ano. Caio Júlio César Augusto
+Germânico está sentado numa plataforma elevada junto ao
+Oceano. Olha o mar, enquanto as ondas rebentam na costa
+e uma maresia paira no ar. Ao longo dos anos, muitos
+navios romanos se perderam nas suas profundezas. Diz-se
+que monstros estranhos se escondem nas suas águas
+cinzentas e que, para lá do horizonte, existe uma ilha
+repleta de selvagens de bigode caçadores de cabeças: a
+Britânia. Perigos como estes, à espreita nas próprias
+margens da civilização, estão aptos a desaﬁar o herói mais
+ousado e com a mais férrea vontade.
+Mas a história do povo romano sempre teve sobre si uma
+aura de epopeia. Os Romanos emergiram da obscuridade
+sombria e provincial para o comando do mundo: um feito
+inigualável na história. Repetidamente julgada,
+repetidamente a sobreviver triunfante, Roma preparou-se
+bem para o domínio global. Agora, 792 anos depois da sua
+fundação, o homem que considera como seu imperador
+detém um poder digno de um deus. A seu lado, alinhadas
+na praia do norte, estão ﬁleira após ﬁleira das forças de
+combate mais temíveis do planeta: legionários de
+armadura, catapultas, artilharia de campanha. O imperador
+Caio analisa a sua extensão. Dá ordem de comando. De
+imediato, ouvem-se as trombetas estridentes. É o sinal para
+a batalha. Depois, silêncio. O imperador eleva a voz.
+«Soldados!», grita. «Ordeno-vos que apanhem conchas.
+Encham os vossos capacetes com os despojos do
+oceano.» [1] E os legionários, obedecendo à ordem do seu
+imperador, assim o fazem.
+Essa é, pelo menos, a história que se conta. Mas será
+verdade? Será que os soldados apanharam realmente
+conchas? E se o ﬁzeram, qual foi a razão? Este é um dos
+episódios mais famosos na vida de um homem cuja carreira
+permanece até hoje como algo de infame. Calígula, o nome
+pelo qual o imperador Caio é mais conhecido, é uma das
+poucas ﬁguras da história antiga conhecida tanto por
+pornógrafos como por classicistas. Os pormenores
+escandalosos do seu reinado provocaram sempre um
+fascínio lascivo. «Chega de imperador; passemos ao
+monstro.» [2] Assim escreveu Caio Suetónio Tranquilo, um
+estudioso e arquivista no palácio imperial, e biógrafo dos
+Césares nos seus tempos livres, cuja vida de Calígula é a
+mais antiga que possuímos. Escrita quase um século depois
+da morte do imperador, cataloga uma série de depravações
+e crimes bastante sensacionalistas. Dormia com as irmãs!
+Vestia-se como a deusa Vénus! Planeou conceder ao seu
+cavalo a mais alta magistratura de Roma! Perante tais
+façanhas, o comportamento de Calígula na costa do Canal
+deixa de parecer tão surpreendente. Suetónio certamente
+não teve nenhum problema em explicar o seu
+comportamento: «Ele estava doente no corpo e na
+mente.» [3]
+Mas se Calígula estava doente, então Roma também
+estava. Os poderes que um imperador tinha sobre a vida e
+a morte teriam sido abomináveis para uma geração
+anterior. Quase um século antes de Calígula ter reunido as
+suas legiões nas margens do Oceano e olhado para a
+Britânia, o seu tetra tio-avô tinha feito o mesmo — e,
+depois, na verdade, atravessado o Canal. As façanhas de
+Caio Júlio César tinham sido tão espetaculares quanto
+outras na história da sua cidade: não apenas duas invasões
+da Britânia, mas a anexação permanente da Gália, como os
+Romanos chamavam ao que hoje é a França. Porém, tinha
+alcançado os seus feitos como cidadão de uma república —
+em que era dado como certo pela maioria que a morte era a
+única e concebível alternativa à liberdade. Quando Júlio
+César, pisoteando esta presunção, reclamou a primazia
+sobre os seus concidadãos, deu origem, primeiro, a uma
+guerra civil, e, mais tarde, depois de ter esmagado os seus
+inimigos domésticos como tinha feito com os gauleses, ao
+seu próprio assassinato. Só depois de mais dois episódios
+de massacres sangrentos pôde o povo romano, ﬁnalmente,
+acostumar-se à sua servidão. A submissão ao domínio de
+um único homem tinha resgatado a sua cidade e o seu
+império da autodestruição — mas a própria cura tinha sido
+uma espécie de doença.
+Augusto, o seu novo senhor, intitulava-se «o favorito dos
+deuses». Sobrinho-neto de Júlio César, tinha garantido o
+comando de Roma e do seu império através do
+derramamento de sangue e depois — após livrar-se dos
+seus rivais —, friamente, adotou a postura de um príncipe
+da paz. Tão astuto quanto cruel, tão paciente quanto
+decisivo, Augusto conseguiu manter a sua supremacia ao
+longo de décadas, morrendo na sua cama. A chave para tal
+conquista tinha sido a sua capacidade de governar com e
+não contra a essência da tradição romana: ao ﬁngir não ser
+um autocrata, levou os seus concidadãos a acreditar que
+ainda eram livres. Um sedutor véu de subtileza cintilante
+tinha sido drapeado sobre os contornos mais duros do seu
+domínio. Porém, o tempo encarregar-se-ia de tornar este
+véu cada vez mais ﬁno. Com a morte de Augusto, no ano
+14, os poderes que ele tinha acumulado ao longo da sua
+longa e falsa carreira seriam revelados, não como
+expedientes temporários, mas sim como um pacote
+preparado para ser entregue a um herdeiro. O sucessor por
+si escolhido era um homem criado desde a infância na sua
+própria casa, um aristocrata chamado Tibério. As muitas
+qualidades do novo César, que iam de uma origem
+aristocrática exemplar ao registo de um trajeto como o
+melhor general de Roma, tinham contado menos do que o
+seu estatuto de ﬁlho adotivo de Augusto — e todos sabiam
+disso.
+Tibério, um homem que sempre viveu comprometido com
+as virtudes da República desaparecida, foi um monarca
+infeliz; mas Calígula, que lhe sucedeu após um reinado de
+23 anos, não tinha esses constrangimentos. Governar o
+mundo romano não em virtude da idade ou da experiência,
+mas por ser o bisneto de Augusto, não o incomodava
+minimamente. «A natureza, na minha opinião, produziu-o
+para demonstrar quão longe a depravação sem limites pode
+chegar quando combinada com o poder ilimitado.» [4] Este
+foi o obituário que Séneca, um ﬁlósofo que o conheceu
+bem, lhe atribuiu. No entanto, o julgamento não foi apenas
+acerca de Calígula, mas dos próprios pares de Séneca, que
+se tinham submetido e humilhado diante do Imperador
+enquanto ele viveu, e sobre o povo romano como um todo.
+Aqueles foram tempos de podridão: doentes, aviltados,
+degradados.
+Ou assim muitos acreditavam. Nem todos concordavam.
+O regime estabelecido por Augusto nunca teria resistido se
+tivesse falhado em proporcionar o que o povo romano tão
+desesperadamente ansiava após décadas de guerra civil:
+paz e ordem. A grande aglomeração de províncias
+governadas por Roma, que se estendiam desde o Mar do
+Norte ao Deserto do Sara e do Atlântico ao Crescente
+Fértil, também beneﬁciaram. Três séculos depois, quando a
+natividade do mais célebre homem nascido no reinado de
+Augusto se tornou inﬁnitamente mais clara do que tinha
+sido na época, um bispo chamado Eusébio viu nas
+realizações do Imperador a orientadora mão de Deus. «Não
+foi apenas como consequência da ação humana», declarou,
+«que a maior parte do mundo ﬁcou sob o domínio romano
+no preciso momento em que Jesus nasceu. A coincidência
+que viu o nosso Salvador começar a sua missão contra tal
+cenário foi inegavelmente organizada pela intercessão
+divina. Aﬁnal de contas, se o mundo ainda estivesse em
+guerra, e não unido sob uma única forma de governo, bem
+mais difícil teria sido para os discípulos empreenderem as
+suas viagens.» [5]
+Eusébio conseguiu ver, numa perspetiva distanciada, o
+quão impressionante foi o feito da globalização levado a
+cabo por Augusto e os seus sucessores. Por mais brutais
+que tenham sido os métodos usados para a defender, a
+imensidão das regiões paciﬁcadas pelas armas romanas
+não tinha precedentes. «Aceitar um presente», dizia um
+antigo ditado, «é vender a liberdade.» Roma taxava as suas
+conquistas; mas a paz concedida em troca não deve ser
+necessariamente desprezada. Fosse nos subúrbios da
+própria capital, que sob os Césares cresceu ao ponto de se
+tornar na maior cidade que o mundo já tinha visto, ou em
+toda a extensão do Mediterrâneo, unida agora pela
+primeira vez sob uma única potência, ou nos cantos mais
+afastados de um império cujo alcance global não tinha
+precedentes, a pax romana  trouxera benefícios a milhões
+de pessoas. Os habitantes das províncias bem podiam estar
+gratos. «Ele limpou o mar de piratas, e encheu-o com
+navios mercantes.» Assim escreveu um judeu da grande
+metrópole egípcia de Alexandria, entusiasmado, em louvor
+de Augusto. «Ele deu a liberdade a cada cidade, trouxe
+ordem onde havia caos, e civilizou os povos selvagens.» [6]
+Hinos similares de louvor terão sido — e foram — dirigidos
+a Tibério e a Calígula. As depravações pelas quais os dois
+acabariam por se tornar famosos, raramente tiveram
+grande impacto no mundo em geral. Nas províncias, pouco
+importava quem governava como imperador — desde que o
+centro do Império se mantivesse.
+No entanto, mesmo nos lugares mais distantes do
+Império, César era uma presença constante. Como poderia
+não ser? «Em todo o mundo, não há nada que lhe
+escape.» [7] Um exagero, é claro — e, contudo, o devido
+reﬂexo do medo misturado com o temor que um imperador
+diﬁcilmente deixava de suscitar nos seus súbditos. Era ele
+quem detinha o monopólio do comando da violência de
+Roma: as legiões e todo o ameaçador aparato do governo
+provincial, que existiam para garantir que os impostos
+eram pagos, os rebeldes massacrados e os malfeitores
+atirados às feras ou cruciﬁcados. Não era necessário que o
+imperador mostrasse constantemente a sua mão para que o
+medo ao seu poder arbitrário fosse universal em todo o
+mundo. Não admira, por isso, que o rosto de César se tenha
+tornado para os milhões dos seus súbditos o rosto de Roma.
+Rara era a cidade que não possuía alguma imagem dele:
+uma estátua, um busto, um friso. Mesmo na mais distante e
+diminuta província, lidar com dinheiro era uma forma de
+estar familiarizado com o perﬁl de César. Durante a vida de
+Augusto, nenhum cidadão vivo aparecera em qualquer
+moeda romana; mas logo que assumiu o controlo do
+mundo, rapidamente o seu rosto passou a ser cunhado em
+todos os lugares, estampado em ouro, prata e bronze. [*]
+«Que rosto e inscrição são estes?» Até mesmo um pregador
+de rua itinerante, nos conﬁns da Galileia, que erguesse
+uma moeda nos dedos e perguntasse qual era o rosto nela
+retratado, poderia conﬁar que a resposta seria: «César.» [8]
+Assim, não surpreende que o caráter de um imperador, as
+suas realizações, os seus relacionamentos e as suas
+fraquezas fossem temas que fascinassem os seus súbditos
+de forma obsessiva. «O seu destino é viver como num
+teatro onde o seu público é o mundo inteiro.» [9] Tal era a
+advertência atribuída por um historiador Romano a
+Mecenas, um conﬁdente no qual Augusto conﬁava de forma
+particular. Tenha-o ou não dito, tal sentimento era verdade
+quanto à pura teatralidade da performance do seu senhor.
+Segundo Suetónio, o próprio Augusto, deitado no seu leito
+de morte, terá perguntado aos seus amigos se tinha
+desempenhado bem o seu papel na comédia da vida; e, em
+seguida, depois de ser assegurado de que assim tinha sido,
+teria exigido aplausos para a sua partida. Um bom
+imperador não tinha outra opção que não ser também um
+bom ator — assim como todos os outros que pertenciam ao
+elenco. César, aﬁnal, nunca estava sozinho no palco. Os
+seus potenciais sucessores eram ﬁguras públicas pelo
+simples facto de se relacionarem com ele. Até mesmo a
+mulher, a sobrinha ou a neta de um imperador podiam ter o
+seu papel a desempenhar. Se falhassem, poderiam pagar
+um preço terrível; mas se tivessem sucesso, o seu rosto
+podia acabar por aparecer em moedas ao lado do próprio
+César. Nenhuma família na história havia alguma vez sido
+escrutinada como a de Augusto. As modas e os penteados
+dos seus membros mais proeminentes, reproduzidos com
+requintados pormenores por escultores por todo o Império,
+deﬁniam tendências da Síria à Espanha. Os seus feitos
+eram comemorados com monumentos espetacularmente
+vistosos, e os seus escândalos repetidos com deleite de
+porto em porto. A propaganda e os mexericos, que se
+alimentavam mutuamente, deram à dinastia de Augusto
+uma celebridade que pode classiﬁcar-se, pela primeira vez,
+como continental.
+Porém, até que ponto todos os alardeados créditos
+vistosamente esculpidos em mármore e todos os rumores
+sussurrados nos mercados e botequins se aproximavam do
+que realmente se passava no palácio de César? É certo que,
+no momento em que Suetónio escreveu as suas biograﬁas
+dos imperadores, não havia falta de material ao qual
+recorrer. Havia de tudo: desde inscrições oﬁciais a
+mexericos deturpadores. Contudo, quando os analistas
+mais perspicazes tentaram dar algum sentido a Augusto e
+aos seus herdeiros, reconheciam que no coração da história
+da dinastia existia uma área obscura que ridicularizava e
+desaﬁava os seus esforços. Em tempos, durante a
+República, os assuntos de Estado eram debatidos em
+público, e os discursos dos líderes de Roma eram
+transcritos para que os historiadores os estudassem; mas
+com a chegada de Augusto ao poder, tudo isso tinha
+mudado. «Pois, a partir de então, as coisas começaram a
+ser feitas de forma secreta, e de tal forma que não eram
+tornadas públicas.» [10] Sim, os antigos ritmos do ano
+político, o ciclo anual de eleições e as magistraturas que
+em tempos, nos dias da República, tinham proporcionado a
+ambiciosos Romanos uma genuína oportunidade para
+inﬂuenciar o destino da sua cidade, ainda persistiam — mas
+como um espetáculo em grande parte irrelevante. A
+cadeira do poder estava agora noutro lugar. O mundo
+passou a ser governado, não em assembleias dos grandes e
+bons, mas em aposentos privados. Os sussurros de uma
+mulher no ouvido de um imperador, um documento
+discretamente entregue por um escravo, qualquer deles
+podia ter um impacto maior do que a mais altissonante
+oratória pública. A implicação, para qualquer biógrafo dos
+Césares, era sombria, mas inevitável: «Mesmo quando se
+trata de acontecimentos importantes, estamos às
+escuras.» [11]
+O historiador que fez esta advertência, embora um
+contemporâneo próximo de Suetónio, era-lhe
+incomensuravelmente superior como patologista da
+autocracia — na verdade, talvez o maior que já existiu.
+Cornélio Tácito conseguia ter uma profunda compreensão
+de como Roma e o seu império funcionavam. Ao longo de
+uma carreira brilhante, interveio nos tribunais, governou
+províncias, e exerceu as mais altas magistraturas a que um
+cidadão poderia aspirar; mas também demonstrou um
+sagaz, se bem que inglório, instinto de sobrevivência. A
+dinastia que governava Roma no seu tempo já não era a de
+Augusto, que tinha expirado no meio de um caos de sangue
+no ano 68 — mas nem por isso era potencialmente menos
+assassina. Ao invés de se manifestar contra os seus
+excessos, Tácito tinha optado por manter a cabeça baixa e
+desviar o olhar. Os crimes de omissão, nos quais se sentia
+ele próprio cúmplice, parecem nunca ter deixado a sua
+consciência por completo. Quanto mais se distanciava da
+vida pública, mais obsessivamente procurava sondar as
+profundezas do regime sob o qual fora obrigado a viver, e
+acompanhar a sua evolução. Primeiro, narrou os
+acontecimentos da sua juventude e idade adulta; e, em
+seguida, no seu trabalho ﬁnal e maior, a história que desde
+o século XVI é conhecida como Os Anais , pousou o seu
+olhar sobre a dinastia de Augusto. Quanto a Augusto e à
+sua fatídica primazia, Tácito optou apenas por uma análise
+mais oblíqua: concentrando-se, não sobre o homem, mas
+nos seus herdeiros. Sucessivamente, quatro Césares
+ocupariam o centro do palco: primeiro, Tibério; depois,
+Calígula; em seguida, o tio de Calígula, Cláudio; e, por ﬁm,
+Nero, o último governante da dinastia, que era tetraneto de
+Augusto. A sua morte marcaria o ﬁm da linhagem. Uma e
+outra vez, os membros da família imperial viriam a ter um
+ﬁnal funesto. No ano 68, não havia um único descendente
+de Augusto vivo. Era esta a dimensão da história que Tácito
+tinha para contar.
+E, outra coisa ainda: o desaﬁo de contar a história em si.
+De forma mordaz, no primeiro parágrafo de Os Anais ,
+Tácito expôs o problema. «As histórias de Tibério e
+Calígula, de Cláudio e Nero, foram falsiﬁcadas enquanto
+eles viveram, devido ao medo. E em seguida, depois das
+suas mortes, foram elaboradas sob a inﬂuência de ódios
+ainda purulentos.» [12] Assim, só a investigação mais
+diligente e o estudo mais objetivo seria bem-sucedido.
+Esforçando-se meticulosamente no estudo dos registos
+oﬁciais do reinado de cada imperador, Tácito assegurou-se
+igualmente de nunca conﬁar neles em absoluto. [*] As
+palavras, no tempo dos Césares, tornaram-se
+escorregadias, traiçoeiras. «Era uma época contaminada,
+degradada pela sua bajulação.» [13] Este juízo desolado,
+gerado pela sua experiência pessoal, garantiu que o
+amargo ceticismo de Tácito acabasse por corroer tudo
+aquilo em que tocava. Em Os Anais , não descreve um César
+que alegasse agir no melhor interesse do povo romano, mas
+sim um hipócrita; nem que tenha tentado permanecer ﬁel
+às tradições da cidade, mas sim uma farsa; nenhum
+sentimento verdadeiro, mas sim mentiras. A história de
+Roma é retratada como um pesadelo, assombrado pelo
+terror e pelo sangue, do qual os seus cidadãos não
+conseguem despertar. É um retrato de despotismo que
+muitas gerações subsequentes, que testemunharam a
+diminuição das suas liberdades, viriam rapidamente a
+reconhecer. Onde quer que uma tirania se constitua sobre
+as ruínas de uma ordem anteriormente livre, e sempre que
+é utilizada uma capciosa propaganda para mascarar os
+crimes sancionados pelo Estado, isso é recordado. A
+dinastia de Augusto continua a ser a deﬁnição da aparência
+do poder autocrático.
+Assim, não surpreende que assombre a imaginação
+pública. Quando as pessoas pensam na Roma imperial, é
+provável que seja a cidade dos primeiros Césares a que
+lhes vem à mente. Não há nenhum outro período da
+história antiga que se compare, em inquietante e puro
+fascínio, à galeria das suas personagens principais. O seu
+escabroso glamour resultou em eles próprios se tornarem
+os arquétipos de dinastias violentas e assassinas. Monstros,
+como os que encontramos nas páginas de Tácito e
+Suetónio, parecem saídos de um romance fantástico ou de
+uma série de televisão: Tibério, desagradável, paranoico e
+com um gosto particular em ter os seus testículos lambidos
+por jovens rapazes, nas piscinas; Calígula, que lamentava
+que o povo romano não tivesse um único pescoço, para que
+o pudesse cortar de um só golpe; Agripina, a mãe de Nero,
+cujas manobras levaram o ﬁlho ao poder, acabaria por
+morrer por ordem dele; Nero, que pontapeou a mulher
+grávida até à morte, que se casou com um eunuco, e que
+ergueu um palácio do prazer no centro dos escombros de
+uma Roma destruída pelo fogo. Para os que gostam das
+narrativas de traições dinásticas, temperadas com veneno e
+perversões exóticas extremas, esta história parece ter tudo.
+Matriarcas assassinas, casais poderosos incestuosos,
+machos submissos e oprimidos que, no entanto, acabam
+por exercer o poder sobre a vida e a morte: todos estes
+elementos de dramas recentes podem ser encontrados nas
+fontes da época. Os nomes dos primeiros césares, mais do
+que em qualquer outra dinastia, continuam a ser
+conhecidos. A sua celebridade mantém-se.
+Pode facilmente admitir-se que tudo isto possa ter
+causado algum embaraço aos historiadores dessa época.
+Relatos de envenenamentos e depravação, precisamente
+por serem tão melodramáticos, tendem a fazê-los sentirem-
+se desconfortáveis. Aﬁnal, quanto mais sensacional é a
+narrativa, mais suscetível é de não parecer plausível. A
+verdade das alegações apresentadas contra os Júlio-
+Claudianos — como a dinastia de Augusto é
+convencionalmente conhecida pelos estudiosos — tem, por
+esta razão e desde há muito, provocado desacordo. Poderia
+Calígula, por exemplo, ter sido realmente tão louco quanto
+Suetónio e outros autores antigos alegaram? Talvez, ao
+invés de insanas, as suas maiores extravagâncias tenham
+sido simplesmente adulteradas quando foram transmitidas?
+Seria possível, por exemplo, que por detrás da loucura
+aparente da sua ordem para apanhar conchas houvesse, de
+facto, uma explicação perfeitamente racional? Muitos
+estudiosos o têm sugerido. Ao longo dos tempos, têm sido
+propostas muitas teorias. Talvez — apesar de nenhuma
+fonte o mencionar — tenha havido um motim, e Calígula
+estivesse a punir os seus soldados, dando-lhes uma tarefa
+humilhante? Ou talvez quisesse que eles procurassem
+pérolas, ou então conchas que poderia vir a utilizar como
+elementos decorativos em fontes? Ou, quiçá, «concha»
+fosse usada por Calígula no seu étimo latino, signiﬁcando
+algo completamente diferente: uma espécie de barco, ou
+até mesmo os órgãos genitais de uma prostituta? Qualquer
+uma destas sugestões é possível; nenhuma delas é
+deﬁnitiva. Como um sonho vívido, o episódio parece
+assombrado pelo sentimento de alguma lógica
+incompreensível, algum signiﬁcado que todos os nossos
+esforços para o compreender se veem condenados a nunca
+o entenderem completamente. Assim é o que nos frustra,
+muitas vezes, na história antiga: haver coisas das quais
+nunca se tem absoluta certeza.
+Nenhuma delas deve necessariamente ser motivo de
+desespero. As incógnitas conhecidas não deixam de ter
+valor para os historiadores dos primeiros Césares. A
+questão sobre o que é que Calígula pretenderia exatamente
+naquela praia gaulesa nunca será resolvida de forma
+decisiva; mas o que sabemos com certeza é que os
+historiadores romanos não sentiram que fosse
+particularmente necessária uma explicação. Assumiam que
+ordenar aos soldados que apanhassem conchas era o tipo
+de coisas que um imperador mau e louco faria. As histórias
+que se contaram de Calígula — que insultou os deuses, que
+tinha prazer na crueldade, que se deleitava com todo o tipo
+de desvios sexuais — não eram exclusivas dele. Em vez
+disso, eram parte dos rumores quotidianos que surgiam
+sempre que um César ofendia as virtudes da época. «Deixai
+as horrendas sombras sozinhas, escondidas no seu abismo
+de vergonha» [14]: esta exortação, feita por um antologista
+dado a melhorar as narrativas durante o reinado de Tibério,
+era uma que poucos dos seus concidadãos se mostraram
+inclinados a seguir. Adoravam demasiado os mexericos. Os
+episódios que se contavam da dinastia imperial espelhavam
+os mais profundos preconceitos e terrores de quem as
+contava, transportando-nos para o cerne da psique romana.
+É por isso que qualquer estudo da dinastia de Augusto
+nunca pode ser apenas isso, devendo também servir para
+algo mais: um retrato do povo romano.
+É também por isso que uma narrativa histórica,
+abrangendo todo o período Júlio-Claudiano, oferece talvez a
+forma mais segura de se encontrar um caminho entre a
+Cila de uma branda credulidade e a Caríbdis  de um
+ceticismo excessivamente musculado. [*] É claro que nem
+todas as histórias contadas sobre os primeiros Césares são
+conﬁáveis; mas, de igual modo, muitas delas propiciam-nos
+a noção do que é provável que os tenha inspirado.
+Episódios anedóticos que podem parecer absolutamente
+fantásticos quando lidos isoladamente, com a perspetiva
+que uma narrativa fornece, acabam, muitas vezes, por não
+parecer tanto assim. A evolução da autocracia em Roma foi
+um empreendimento demorado e contingente. Augusto,
+embora classiﬁcado pelos historiadores como o primeiro
+imperador da cidade, nunca foi oﬁcialmente instituído
+como monarca. Em vez disso, governou por força dos
+direitos e honras que, de forma gradativa, lhe foram
+concedidos. Nunca existiu nenhum procedimento formal
+para gerir a sucessão; e isso, por sua vez, assegurava que a
+cada imperador chegado ao poder lhe restavam poucas
+opções além de testar os limites do que podia e não podia
+fazer. Como resultado, a dinastia Júlio-Claudiana presidiu
+um longo e contínuo processo de experimentação. É por
+essa razão que optei neste livro pela análise da dinastia
+desde a sua fundação até ao seu sangrento ﬁnal. O reinado
+de cada imperador compreende-se melhor, não nos seus
+próprios termos, mas no contexto daquilo que o precedeu e
+que a ele se seguiu.
+Mais ainda porque o estudo da época, como
+invariavelmente acontece no que concerne à história
+antiga, pode assemelhar-se por vezes à frustração de ouvir
+rádio num carro antigo, com várias estações sempre a
+atropelaram-se uma às outras. Tivéssemos nós, por
+exemplo, o relato de Tácito das ações de Calígula naquela
+praia junto ao Canal — mas, infelizmente, não temos.
+Perdeu-se tudo o que Os Anais  relataram acerca dos anos
+que decorreram entre a morte de Tibério e a primeira
+metade do reinado de Cláudio. Que Calígula, o membro
+mais célebre da sua dinastia, seja também aquele cujas
+fontes do seu reinado são as mais fragmentadas, não será
+certamente coincidência. Embora dois mil anos de
+repetições nos possam dar a impressão de que a narrativa
+da época há muito está estabelecida, em muitos casos não
+está. É importante, quando se estuda história antiga,
+reconhecer quer o que não sabemos como desaﬁar o que
+sabemos. Os leitores devem estar cientes de que grande
+parte das narrativas deste livro, tal como a ponte de barcas
+que Calígula construiu entre dois promontórios na Baía de
+Nápoles, abrange turbulentas profundezas. A controvérsia
+e a discordância são endémicas ao estudo da época. No
+entanto, é aí que reside o seu fascínio. Ao longo das últimas
+décadas, a gama e a vitalidade das pesquisas académicas
+sobre a dinastia Júlio-Claudiana revolucionaram a nossa
+compreensão desse tempo. Se este livro conseguir dar aos
+leitores, por pequena que seja, uma ideia de como é
+emocionante estudar a primeira dinastia imperial de Roma,
+então ele não terá falhado o seu objetivo. Dois milénios
+depois, os exemplos primordiais da tirania no Ocidente
+continuam a instruir e a intimidar.
+«Nada poderia ser mais débil do que aquelas tochas que
+nos permitem, não romper a escuridão, mas vislumbrá-
+la.»[15] Assim escreveu Séneca, pouco antes da sua morte,
+no ano 65. O contexto da sua observação fora um atalho
+que ele tinha tomado pouco tempo antes quando, ao viajar
+ao longo da Baía de Nápoles, atravessou um túnel sombrio
+e empoeirado. «Mas que prisão foi, e demorada. Nada se
+lhe comparava.» Sendo um homem que tinha passado
+muitos anos a observar a corte imperial, Séneca sabia tudo
+acerca da escuridão. Calígula, ressentido com o seu
+brilhantismo, por pouco não era dissuadido de o condenar à
+morte; Cláudio, ofendido pelo seu relacionamento adúltero
+com uma das irmãs de Calígula, baniu-o para a Córsega;
+Agripina, que procurava alguém que controlasse os
+instintos cruéis do seu ﬁlho, nomeou-o tutor de Nero.
+Séneca, que acabaria por ser obrigado pelo seu antigo
+aluno a cortar as veias, não tinha ilusões quanto à natureza
+do regime que servia. Mesmo a paz que tinha trazido ao
+mundo, declararia, em última instância tinha sido fundada
+em nada mais nobre do que «no esgotamento de
+crueldade.» [16]. Desde o seu início que o despotismo
+estava implícito na nova ordem.
+No entanto, Séneca adorava aquilo que detestava. O
+desprezo pelo poder não o inibiu de se deleitar com ele. A
+escuridão de Roma foi iluminada pelo ouro. Dois mil anos
+depois, também nós, olhando para trás, para Augusto e os
+seus herdeiros, podemos reconhecer na sua mistura de
+tirania e de proezas, sadismo e glamour , poder luxuriante e
+celebridade, uma qualidade áurea tal que nenhuma dinastia
+desde então conseguiu igualar.
+«César e o Estado são uma e a mesma coisa.» [17]
+Como isso veio a ser assim é uma história não menos
+convincente, não menos notável e não menos salutar do
+que alguma vez foi nos últimos dois mil anos.
+Guardar, preservar e proteger o modo como as coisas estão: a paz de que
+usufruímos, e o nosso imperador. E quando ele tiver concluído o seu trabalho,
+depois de uma vida que, rogo, possa ser tão longa quanto possível, concedei-lhe
+a graça de ter sucessores cujos ombros se revelem suﬁcientemente fortes para
+suportar a carga do nosso império global tal como foram os dele .
+Veleio Patérculo ( c. 20 a.C. — c. 31 d.C.)
+A mancha dos erros cometidos por estes homens nos tempos antigos nunca
+desaparecerá dos livros de história. Até ao ﬁm dos tempos, os atos monstruosos
+da Casa de César serão condenados .
+Claudiano ( c. 370 — 404)
+
+I
+PADRONE
+1
+OS FILHOS DA LOBA
+A construção de uma superpotência
+A história de Roma começou com um estupro. Uma
+princesa, uma virgem consagrada, foi surpreendida e
+violada. Foram dadas várias versões do fatídico ataque.
+Alguns disseram que aconteceu durante o sono, quando ela
+sonhava que um homem de grande beleza a levava até a
+uma sombra na margem do rio, abandonando-a ali, perdida
+e sozinha. Outros diziam que ela fora apanhada no meio de
+uma tempestade, enquanto recolhia água num bosque
+sagrado. Uma das narrativas referia-se até a um misterioso
+falo que surgiu das cinzas da lareira real e que teria
+possuído, não a princesa, mas a sua escrava. Mas todos
+concordavam com a gravidez subsequente; e muitos — com
+exceção de alguns revisionistas mais conservadores — não
+tinham quaisquer dúvidas de que o violador era um deus. [*]
+Marte, o Sanguinário, tinha plantado a sua semente no
+útero de uma mortal.
+Assim, desse estupro, nasceram duas divinas crianças.
+Estes gémeos, a prole da vergonha da sua mãe, logo que
+nasceram foram lançados a um rio próximo, o Tibre. Mas os
+acontecimentos maravilhosos não ﬁcaram por aí.
+Arrastados pelas enchentes do rio, a caixa onde tinham
+sido colocados os dois bebés encalhou junto a uma colina
+íngreme chamada Palatino. Aí, na entrada de uma caverna,
+protegidos da humidade gotejante pelas folhas dos ramos
+de uma ﬁgueira, os gémeos foram descobertos por uma
+loba; e a loba, em vez de os devorar, lambeu-os, limpando-
+lhes a lama, e ofereceu as suas tetas às bocas famintas. Um
+porqueiro que por ali passava, ao testemunhar esta
+milagrosa cena, desceu as escarpas do monte Palatino em
+seu socorro. A loba fugiu. Resgatados pelo porqueiro, os
+dois rapazes, a quem foram dados os nomes de Rómulo e
+Remo, cresceram e viriam a ser guerreiros incomparáveis.
+Numa dada altura, Rómulo viu doze águias a sobrevoar o
+monte Palatino: era um claro sinal dos deuses de que
+deveria fundar, no cimo da colina, a cidade que mais tarde
+ﬁcaria com o seu nome. Seria ele o primeiro rei de Roma.
+Em todo o caso, foi esta a história contada séculos mais
+tarde pelos Romanos para explicar às pessoas as origens da
+sua cidade e a gloriosa dimensão dos seus feitos militares.
+Os estrangeiros, ao ouvi-la, terão certamente achado tudo
+muito plausível. Que Rómulo era ﬁlho de Marte, o deus da
+guerra, e que fora alimentado por uma loba, possibilitava —
+a quem contactava com os aspetos mais negros dos seus
+descendentes — explicar muito do caráter romano. [1]
+Mesmo um povo como os Macedónios, que, sob Alexandre,
+o Grande , tinha conquistado um vasto império, quase até
+onde nasce o sol, sabia que os Romanos eram uma estirpe
+de homens completamente diferente de qualquer outra. Em
+200 a.C., um breve confronto que com eles tiveram fora
+suﬁcientemente perturbador para que regressassem a casa
+com tal convicção. Tinham passado mais de cinco séculos
+desde a era de Rómulo e, no entanto, os Romanos ainda
+mantinham, ou assim o sentiam os seus oponentes,
+algumas das qualidades impressionantes das criaturas
+geradas pelo mito. Os Macedónios, que recuperavam os
+seus mortos no campo de batalha, tinham ﬁcado chocados
+com o caos que por lá descobriram. Corpos mutilados e
+desmembrados pelas espadas romanas tinham encharcado
+a terra com sangue. Braços ainda presos aos ombros,
+cabeças decepadas, poças fétidas com as vísceras: eram
+testemunho de uma violência mais bestial que humana.
+Não pode, pois, censurar-se os Macedónios pelo pânico
+sentido naquele dia, «quando descobriram o tipo de armas
+e o género de homens que tinham de enfrentar.» [2] Aﬁnal,
+o pavor de lobisomens era algo natural em pessoas
+civilizadas. A natureza licantropa dos Romanos, a sugestão
+de garras por baixo das unhas e um olhar ﬁxo e amarelado
+por detrás dos seus olhos, era algo que as pessoas ao longo
+de todo o Mediterrâneo, e até mais longe, tinham
+aprendido a tomar como garantido. «Ora, se até eles
+admitem que os seus fundadores foram amamentados com
+o leite de uma loba!» Era este o grito de guerra
+desesperado de um rei antes de o seu reino ser, também
+ele, arrasado. «É de esperar que todos tenham um coração
+de lobo. Estão inveteradamente sedentos de sangue, e
+insaciáveis na sua ganância. A sua cobiça pelo poder e a
+riqueza não tem limites!» [3]
+É claro que os Romanos viam as coisas de modo
+diferente. Acreditavam que tinham sido os deuses quem
+lhes concedera o domínio do mundo. Era a genialidade de
+Roma que dominava. Sim, pode ter havido quem se
+destacasse noutros campos. Quem, por exemplo, podia
+rivalizar com os Gregos quando se tratava de modelar o
+bronze ou o mármore, de mapear as estrelas ou de redigir
+manuais sexuais? Os Sírios foram preeminentes como
+dançarinos; os Caldeus destacaram-se como astrólogos; os
+Germanos como guarda-costas. Porém, só o povo romano
+possuía os talentos suﬁcientes para conquistar e manter
+um império universal. Os seus feitos não admitiam
+discussão. Quando se tratava de poupar os submetidos, e
+do esmagamento dos altivos, eles reinaram de forma
+superior.
+Acreditavam que as raízes desta grandeza provinham dos
+seus primórdios. «Os assuntos de Roma são fundados nos
+seus antigos costumes e na qualidade dos seus homens.» [4]
+Desde os primeiros tempos, que a medida das proezas da
+cidade tinha sido a vontade dos seus cidadãos de tudo
+sacriﬁcar em prol do bem comum — até mesmo as suas
+vidas. Rómulo construiu uma muralha à volta da cidade que
+fundou, lavrou um sulco, o pomerium , para santiﬁcar tudo
+o que estava dentro dele como solo consagrado a Júpiter,
+rei dos deuses, mas sabia que era preciso mais para tornar
+Roma verdadeiramente inviolável. Foi então que Remo, o
+seu irmão gémeo, se ofereceu para ser sacriﬁcado. Ao
+saltar a fronteira lavrada pelo seu irmão, foi derrubado com
+uma pá; «E, assim, com a sua morte, consagrou as
+fortiﬁcações da nova cidade.» [5] A terra e a argamassa de
+Roma tinham sido fertilizadas pelo sangue do ﬁlho do deus
+da guerra.
+Remo foi o primeiro a morrer pelo bem da cidade, mas,
+por certo não o último. Cinco reis se sucederam a Rómulo
+no trono de Roma; e quando o sexto, Tarquínio, o Soberbo ,
+demonstrou ser um tirano cruel, mais do que merecedor do
+seu apelido, os seus súbditos arriscaram as suas vidas e
+rebelaram-se. Em 509 a.C., a monarquia terminaria
+deﬁnitivamente. O homem que liderou a revolta, um primo
+de Tarquínio chamado Bruto, obrigou o povo romano a um
+juramento coletivo de que «nunca mais permitiriam que um
+único homem reinasse em Roma.» A partir desse momento,
+a palavra «rei» era a mais obscena do vocabulário político.
+Não seriam mais súbditos, passavam a designar-se por
+cives , «cidadãos». Agora, eram livres para mostrar a sua
+impetuosidade. «Começaram a andar de cabeça erguida, e
+a exibir as suas capacidades para delas tirarem todo o
+proveito — pois está na natureza dos reis que suspeitem
+mais dos homens bons do que dos maus, e que tenham
+pavor dos talentos dos outros.» [6] Já não havia qualquer
+necessidade, numa cidade libertada do olhar ciumento de
+um monarca, de encobrir o anseio pela glória dos seus
+cidadãos. A medida das verdadeiras conquistas tornara-se o
+louvor do povo romano. Até mesmo o mais humilde
+camponês, se não se visse reﬂetido no espelho de escárnio
+dos seus companheiros, era obrigado a cumprir os seus
+deveres como cidadão, e provar que era um homem — um
+vir.
+Virtus , a qualidade de um vir, era o grande ideal romano,
+a luminosa fusão da energia e da coragem que os Romanos
+identiﬁcavam como a sua força principal. Até os deuses
+concordavam. Em 362 a.C., um século e meio depois da
+queda de Tarquínio, o Soberbo , um presságio aterrorizador
+atormentou o centro de Roma. Sob o Palatino, na área
+correspondente ao piso pavimentado conhecido como o
+Fórum, abriu-se um abismo. Nada teria infundido tanto
+terror nos corações dos Romanos. O Fórum era o centro da
+vida cívica. Era onde os estadistas se dirigiam ao povo,
+onde os magistrados promoviam a justiça, onde os
+comerciantes vendiam as suas mercadorias, e onde as
+virgens consagradas ao serviço de Vesta, a deusa do lar,
+guardavam a chama eterna. Que uma porta para o
+submundo se abrisse num lugar tão fundamental para a
+vida romana, indicava claramente algo de terrível: a ira dos
+deuses.
+E assim foi. Exigia-se um sacrifício: «a mais preciosa
+coisa que tiverdes.» [7] Mas qual era o bem mais precioso
+de Roma? Esta pergunta provocou muitas dúvidas até que,
+por ﬁm, um jovem chamado Marco Cúrcio falou e disse aos
+seus concidadãos que a virilidade e a coragem eram as
+maiores riquezas do povo romano. Em seguida, vestiu uma
+armadura completa, montou o seu cavalo, incitou-o a seguir
+em frente e cavalgou até ao abismo. Galopou ao longo da
+sua orla e mergulharam os dois nas profundezas. O abismo
+fechou-se. Uma piscina e uma oliveira foram ali deixadas
+para assinalar o local, e respeitar a memória de um cidadão
+que perecera para que os seus concidadãos pudessem
+viver. O povo romano tinha este ideal do bem comum em
+tão alta consideração que a sua designação — res publica
+— consubstanciava a síntese de todo o seu sistema de
+governo. Possibilitava a cada cidadão reverberar o anseio
+individual pela honra, poder decidir testar o corpo e o
+espírito no cadinho da adversidade e sair triunfante de
+cada calvário, e poder coexistir com um férreo sentido da
+disciplina. Para os vizinhos da República, as consequências
+de tudo isto eram invariavelmente devastadoras. Em 200
+a.C., quando os Macedónios experimentaram pela primeira
+vez toda a selvajaria de que as legiões eram capazes, Roma
+já era dona e senhora do Mediterrâneo ocidental. Dois anos
+antes, os seus exércitos tinham desferido um golpe
+devastador no poder que tinha presumido poder rivalizar
+com ela: uma metrópole de príncipes mercadores situada
+na costa do Norte de África com o nome de Cartago. A
+vitória de Roma tinha sido memorável. A luta de morte
+entre as duas cidades durou, de forma intermitente, mais
+de 60 anos. Durante esse tempo, a guerra chegou às portas
+de Roma. A Itália tinha sido embebida em sangue. «A
+convulsiva turbulência do conﬂito tinha feito estremecer o
+mundo inteiro.» [8] Porém, em última análise, depois de
+uma provação em que outros teriam desesperadamente
+tentado chegar a termos, os vencedores tinham emergido
+tão endurecidos pela batalha que pareciam ter sido
+forjados em ferro. Não surpreende por isso, que até mesmo
+os herdeiros de Alexandre, o Grande , tenham achado ser
+impossível enfrentar as legiões. No Mediterrâneo oriental,
+vários reis foram obrigados a rastejar perante os
+magistrados Romanos. Perante o peso de uma república
+livre e disciplinada, a monarquia parecia ter sido
+decisivamente destituída. «As nossas emoções são regidas
+pelas nossas mentes.» Era desta forma severa que se
+informavam os embaixadores de um rei derrotado. «Estas
+nunca se alteram — não importa o que o destino nos
+reserve. Assim como a adversidade nunca nos abateu,
+nunca nos deixámos empolar pelo sucesso.» [9]
+
+O homem que assim falou, Públio Cornélio Cipião, estava
+certamente em posição de o saber. Ele era o epítome do
+sucesso. O seu cognome, «O Africano», era o testemunho
+do seu papel como conquistador do inimigo mortal de
+Roma. Foi ele quem arrancou Espanha do domínio dos
+Cartagineses, quem os derrotou no seu território, e que
+depois os levou a aceitar os termos mais abjetos. Alguns
+anos depois, no rol dos principais cidadãos do Estado, o
+nome de Cipião aparecia, resplandecente, no topo da lista.
+Esta era, para uma sociedade como a romana, uma honra
+como nenhuma outra. A hierarquia era uma obsessão que
+deﬁnia o povo romano. Todos eram oﬁcialmente
+classiﬁcados de acordo com uma escala de valor. O estatuto
+de cidadão era calibrado com enorme precisão. A riqueza, a
+família e as realizações eram conjugadas para identiﬁcar
+onde, de forma precisa, dentro do exigente sistema de
+classes da República, se posicionava cada romano. Mesmo
+no topo da sociedade, o estatuto era ativamente
+escrutinado. Os cidadãos dos escalões mais altos estavam
+incluídos numa categoria exclusiva: o Senado. Tal exigia
+dos seus membros, além da riqueza e posição social, um
+registo de serviço como magistrados que fosse suﬁciente
+para os qualiﬁcar como árbitros do destino de Roma. As
+suas deliberações eram tão delicadas e tão inﬂuentes que
+«durante muitos séculos, nenhum senador disse em público
+uma palavra acerca delas.» [10] Como resultado, a não ser
+que um estadista conseguisse fazer-se ouvir junto dos
+conselheiros, este bem podia ser mudo. No entanto, o
+direito de um senador em poder falar para os seus
+concidadãos não era um dado adquirido. Os primeiros a
+participar nos debates eram sempre aqueles que, em
+virtude do seu nível social, estatuto moral e serviço ao
+Estado, tinham acumulado o maior prestígio. A Auctoritas
+— como os Romanos denominavam essa qualidade — e a
+República, ao posicionarem Cipião no primeiro lugar na
+lista dos seus cidadãos, concediam-lhe o apoio para o
+prodigioso peso da sua autoridade. O conquistador de
+Cartago tinha, por consentimento universal, «alcançado
+uma glória única e deslumbrante.» [11] Não se conhecia,
+mesmo nas ﬁleiras dos maiores triunfadores de Roma,
+quem pudesse rivalizar com Cipião, o Africano . Ele era o
+Princeps Senatus , «o primeiro homem do Senado».
+Porém, o perigo espreitava tal primazia. A sombra
+projetada por Cipião sobre os seus concidadãos era algo
+que não podia deixar de causar ressentimentos. O princípio
+orientador da República permanecia o que sempre tinha
+sido: que nenhum homem devia ter o poder supremo em
+Roma. Para os Romanos, a própria aparência de um
+magistrado servia de lembrete para as seduções e os
+perigos da monarquia. A púrpura que orlava a sua toga
+tinha sido originalmente a cor da realeza. Os «lictores»,
+guarda-costas cujo dever era abrir-lhe caminho por entre a
+multidão, tinham outrora escoltado, de forma semelhante,
+Tarquínio, o Soberbo . As lanças e os machados que cada
+lictor levava nos seus ombros — os fasces , como eram
+conhecidos —, simbolizavam a autoridade de uma
+intimidadora extensão régia: o direito de inﬂigir tanto a
+punição corporal como a capital. [*] Um tal poder era algo
+fantástico e traiçoeiro. Só depois de tomadas as mais
+extremas precauções poderia alguém, numa república livre,
+ser conﬁável para o poder empunhar. Esta era a razão para
+que, na sequência da queda da monarquia, os poderes do
+rei banido tivessem sido atribuídos não a um único
+magistrado, mas a dois: os cônsules. Como um vinho forte,
+o esplendor do consulado e a glória eterna que trazia aos
+que a ganhavam, requeria uma prévia e cuidada diluição.
+Além de ser dado a cada cônsul o poder de vigiar o outro, a
+duração de um consulado era apenas de um ano. Porém, o
+prestígio desfrutado por Cipião desaﬁava qualquer um
+desses limites. Mesmo os mais importantes magistrados
+eleitos da República corriam o risco de se verem
+diminuídos perante isso. Como resultado, no Senado
+começaram a ouvir-se murmúrios contra o Princeps .
+A verdade é que, na República, o esplendor sempre fora
+visto com profunda desconﬁança. As rugas e a seriedade
+eram o que o povo romano esperava dos seus estadistas. A
+própria palavra «senator» deriva do latim para «homem
+velho». Mas a carreira meteórica de Cipião tinha começado
+a traçar-se numa idade escandalosamente jovem. Foi
+nomeado para o comando das legiões contra os
+Cartagineses, em Espanha, quando tinha apenas 26 anos.
+Ganhou o seu primeiro consulado apenas cinco anos
+depois. Mesmo a sua elevação à categoria de Princeps
+Senatus  tinha chegado numa idade em que outros
+senadores, posicionados num patamar muito inferior ao
+seu, ainda procuravam entrar numa magistratura júnior.
+Forjar uma arrojada carreira de conquistas antes de
+começar a amadurecer era, naturalmente, o que Alexandre,
+o Grande , tinha feito de forma tão vibrante. Ressentidos, os
+senadores não se sentiam tranquilizados com este
+pensamento. Alexandre, aﬁnal de contas, tinha sido um
+estrangeiro, e um rei. Reconhecido, como fora, pelas suas
+ambições a uma escala quase divina, para muitos
+senadores era inquietante que a autopromoção de uma
+ﬁgura tão incómoda pudesse ser imitada por um dos seus.
+Dizia-se que Cipião era ﬁlho de uma cobra que fecundara a
+sua mãe; que tinha saído vitorioso em Espanha graças à
+oportuna ajuda de um deus; que bastava atravessar o
+Fórum à noite para que os cães cessassem de ladrar.
+Apesar de ser Princeps , narrativas como estas davam-lhe
+um estatuto incomum. E, como tal, intolerável. Em 187
+a.C., quando Cipião regressou de uma campanha no
+Oriente, os seus inimigos esperavam-no. Acusaram-no de
+peculato. Mostrando os seus livros de contas perante o
+olhar de um Senado repleto, Cipião lembrou, com
+indignação, aos seus acusadores, todos os tesouros que
+tinha ganho para Roma. Mas tal não os demoveu. Para não
+arriscar a humilhação de uma condenação, retirou-se
+deﬁnitivamente para a sua propriedade rural. Destroçado,
+ali morreria, em 183 a.C. O princípio fundamental da vida
+política na República tinha sido ilustrado de forma brutal:
+«que a nenhum cidadão deva ser permitida uma eminência
+tão formidável que o impeça de ser interrogado pelas
+leis.» [12] No ﬁnal, mesmo a um homem tão grande como
+Cipião, o Africano , tinha sido impossível argumentar contra
+isso.
+Os Romanos podiam ter sido criados por lobos, mas o
+futuro da República, e das suas liberdades, parecia
+assegurado.
+O grande jogo
+Mas estaria?
+De facto, Cipião tinha-se submetido às leis da República.
+Apesar disso, o seu enorme carisma dava a entender que a
+caminhada da República para um estatuto de
+superpotência não se faria sem alguns obstáculos. Os
+oponentes de Cipião orgulhavam-se do seu inﬂexível
+provincianismo. Tinham como certo que os antigos usos e
+costumes de Roma eram os melhores. Mas os limites de tal
+conservadorismo eram cada vez mais aparentes. Cipião
+tinha sido meramente um primeiro exemplo. O acentuar do
+emaranhado de compromissos diplomáticos de Roma, a
+proﬁciência incomparável das suas legiões, e a sua recusa
+em tolerar sequer uma sugestão de desrespeito eram a
+combinação perfeita para que os seus líderes se sentissem
+tentados por ambições, literalmente, universais. Mais de
+um século após a morte de Cipião, o novo predileto do povo
+romano tinha ganho uma riqueza e uma celebridade nunca
+sonhadas pelas gerações anteriores. Pompeu Magno —
+«Pompeu, o Grande » — tinha uma carreira fundada na
+ilegalidade e no autoengrandecimento sensacionalista. Aos
+23 anos, já tinha constituído o seu exército privado. Seguiu-
+se uma série de comandos territoriais prestigiantes e
+lucrativos. Uma carreira convencional não era para o
+homem a quem já tinham apelidado de «o jovem
+carniceiro» [13]. Surpreendentemente, conseguiu ganhar o
+seu primeiro consulado, com apenas 36 anos, sem nunca
+ter pertencido ao Senado.
+Piores afrontas estavam para acontecer. O património da
+República seria espezinhado com arrogância. Em 67 a.C.
+foi dado a Pompeu um comando territorial que, pela
+primeira vez, abraçava todo o Mediterrâneo. Um ano mais
+tarde, conseguiria ir ainda mais longe, através da obtenção
+de uma carta-branca para impor o domínio direto sobre
+vastas e tentadoras áreas de territórios não anexados. Os
+limites orientais da Ásia Menor, designação dada pelos
+Romanos ao que hoje é a Turquia, e de toda a Síria foram
+«engolidos». Pompeu foi saudado como «O Conquistador de
+todas as Nações» [14]. Quando ﬁnalmente regressou a
+Itália, em 62 a.C., trazia mais do que glória no seu rasto.
+Reis eram seus clientes, e os seus reinos estavam à sua
+disposição para esmifrar. As suas legiões deviam lealdade,
+não à República, mas ao homem que lhes permitira ﬁcar
+com os despojos do Leste: o seu triunfante general, o seu
+imperator . Quanto a Pompeu, ele não tinha tempo para
+falsas modéstias: vaidoso, cavalgava pelas ruas de Roma,
+numa pose semelhante a Alexandre, o Grande .
+Ninguém, nem mesmo o mais amargurado conservador,
+poderia negar a sua preeminência. «Todos e cada um
+reconhecem o seu inigualável estatuto de Princeps .»[15] Ao
+contrário de Cipião, Pompeu não devia este título a
+qualquer votação do Senado. Em vez disso, como o incenso
+que trouxera do Oriente nas ruidosas caravanas, a sua
+auctoritas  suspendia-se sobre Roma, densa, perfumada e
+intangível. A duração e o âmbito da campanha de Pompeu
+escarneciam dos ritmos tradicionais da política e da vida na
+República. A perspetiva de partilhar os seus comandos com
+um colega, ou de aceitar a sua limitação a um único ano,
+nunca passou pela sua cabeça. Qual era o Senado capaz de
+fazer claudicar «o domador do mundo» [16]? Pompeu tinha
+garantido as suas vitórias, não apesar, mas devido à sua
+criminalidade. As implicações eram bastante inquietantes.
+Leis que tão bem tinham servido Roma nos seus tempos de
+provincianismo, começavam de forma palpável, agora que
+governava o mundo, a serem deformadas. Os mesmos reis
+que rastejavam e se encolhiam nas caravanas de Pompeu,
+apenas serviam para demonstrar que proveitos
+deslumbrantes podiam ser oferecidos a um cidadão
+preparado para desprezar as veneráveis salvaguardas
+contra a monarquia. A grandeza de Roma, muito estimada
+pelos seus cidadãos como o fruto da sua liberdade, parecia
+estar a ameaçar a República com a decadência das suas
+liberdades.
+Só que Pompeu, apesar da sua força, não desejava impor-
+se aos seus concidadãos através da ponta de uma espada.
+Apesar da sua avidez pelo poder e pela fama, havia limites
+que nem ele se atrevia a ultrapassar. Uma preponderância
+que não fosse respaldada pela aprovação dos seus pares
+era uma preponderância que não valia a pena ter. O
+despotismo militar estava fora de questão. A grandeza, na
+República, nada representava a não ser que fosse
+determinada pelo respeito do Senado e do povo romano.
+Pompeu queria tudo isso. E foi isso que proporcionou aos
+seus inimigos a sua oportunidade. Embora demasiado
+intimidados pelos recursos disponíveis do novo Princeps
+para o poderem acusar, podiam no mínimo negar-lhe a
+cooperação. O resultado foi o marasmo. Pompeu, para sua
+surpresa e indignação, viu as suas medidas serem
+bloqueadas no Senado, as suas decisões ﬁcarem por
+ratiﬁcar e os seus feitos ridicularizados e rejeitados. A
+política a funcionar? Era isso o que os inimigos de Pompeu
+ousavam esperar. Mantinha-se a única constante na vida da
+República. Ninguém estava acima do Senado.
+No entanto, alguns dos principais rivais de Pompeu, ao
+analisarem a crise que afetava a cidade, ﬁzeram-no de
+forma mais impiedosa e predatória. À semelhança dos seus
+colegas senadores, o espetáculo de um concidadão que
+mantinha o Leste subjugado despertava amargos
+sentimentos de ciúme e medo; contudo, também
+reconheciam que isso representava o alvorecer de uma
+nova e inebriante era de possibilidades. Num ápice, um
+mero consulado tinha deixado de ser a ambição de um
+Romano. As instituições da República já não chegavam
+para saciar o apetite. As recompensas à escala global
+pareciam estar agora, e de forma tentadora, ao alcance: «o
+mar, a terra, o caminho das estrelas» [17]. Bastava somente
+ter a coragem de estender a mão e agarrá-las. Em 60 a.C.,
+à medida que os inimigos de Pompeu continuavam a rosnar
+e a morder os calcanhares do grande homem, dois dos mais
+formidáveis manipuladores de Roma engendravam uma
+audaciosa manobra. Marco Licínio Crasso e Caio Júlio
+César eram homens cuja inveja do Princeps  apenas era
+superada pela sua determinação em imitá-lo. Ambos tinham
+boas razões para ambicionar algo mais elevado. Crasso há
+muito que era como uma aranha no coração de uma
+monstruosa teia. General com provas dadas e ex-cônsul, a
+sua auctoritas  era, no entanto, produto de cautela e
+brilhantismo. Como Pompeu, tinha-se apercebido de que as
+mais seguras fontes do poder em Roma já não eram as
+tradicionais. Embora perfeitamente à vontade nos palcos
+da vida pública, o seu verdadeiro talento estava nas
+manobras de bastidores. Mais rico do que qualquer
+Romano alguma vez sonhara, e com uma coerente e inﬁnita
+capacidade para o oportunismo, Crasso tinha aplicado a
+sua aparente inesgotável riqueza para ludibriar uma
+geração completa de homens em formação. A maioria dos
+que nela se enredou, depois de aceitar os seus favores,
+rapidamente descobriu que era impossível voltar atrás. Só
+um homem com um raro talento político se conseguiria
+libertar e emergir como jogador de pleno direito. Esse
+homem era César. Em 60 a.C. tinha 40 anos: o herdeiro de
+uma família antiga mas enfraquecida, conhecido pelo luxo
+perdulário e por enormes dívidas. Porém, ninguém, nem
+mesmo seus inimigos — que eram muitos —, negavam os
+seus talentos. Charme fundido com crueldade, com uma
+pitada de determinação, era uma combinação explosiva.
+Apesar de ser claramente inferior a Crasso, e ainda mais a
+Pompeu, no que a recursos e reputação dizia respeito, o
+que César tinha para oferecer era a capacidade de segurar
+com ﬁrmeza as rédeas do poder. Em 59 a.C. foi-lhe
+proporcionado servir como um dos dois cônsules eleitos da
+República. Com o respaldo conjunto de Pompeu e Crasso, e
+recorrendo às suas inefáveis qualidades de encanto e
+ﬁrmeza, conseguiria — mesmo que ilegalmente —
+neutralizar o seu colega consular. O consulado seria, na
+realidade, o de «Júlio e César» [18]. Ele e os seus dois
+aliados seriam então capazes de impor toda uma lista de
+medidas. Pompeu, Crasso, César: um trio propenso a lucrar
+esplendidamente com a sua parceria tricéfala.
+E assim foi. As gerações subsequentes distinguiriam no
+nascimento deste «triunvirato» um desenvolvimento tão
+fatídico quanto sinistro: «O forjar de uma conspiração para
+aprisionar a República.» [19] Na verdade, os três poderosos
+não faziam nada que políticos de maior peso não tivessem
+já feito durante séculos. Em Roma, os assuntos sempre
+foram conduzidos através de alianças e do enfraquecimento
+dos rivais. No entanto, o consulado de Júlio e César
+constituir-se-ia, efetivamente, como uma marca fatal na sua
+história. Quando os capangas de César despejaram um
+balde de fezes sobre o cônsul rival e espancaram os seus
+oﬁciais, levando-o a retirar-se, anunciava-se um ano de tão
+evidentes ilegalidades que nenhum dos conservadores
+jamais esqueceria ou perdoaria. Apesar dos acordos
+impostos por César terem servido tanto os seus interesses
+como os dos seus dois aliados, as culpas viriam a recair
+principalmente sobre o cônsul. Os seus inimigos estavam
+agora visceralmente empenhados na sua destruição. De
+forma não menos apaixonada, César estava empenhado na
+procura de grandeza.
+Compreende-se assim que, enquanto cônsul, se tenha
+assegurado de reservar para si a mais esplêndida apólice
+de seguro possível: uma governação de largo alcance. Na
+primavera de 58 a.C. César dirigiu-se para norte, para
+assumir o comando de três províncias: uma na região dos
+Balcãs, outra na fronteira norte da Itália, e a terceira no
+lado mais distante dos Alpes, no sul da Gália. Aqui, podia
+sentir-se protegido dos seus inimigos. Estava proibido que
+qualquer magistrado do povo romano fosse levado a
+julgamento — e o ultrajante mandato de cinco anos de
+César como governador tinha sido constitucionalmente
+ﬁxado. A seu devido tempo, acabaria por ter o dobro da
+duração. César pode ter sido o parceiro menor de Pompeu
+e Crasso — mas nenhum destes conseguiu tirar proveitos
+mais promissores de tal aliança do que o novo governador
+da Gália. A valia de uma década de imunidade era apenas o
+começo. Igualmente inestimáveis eram as oportunidades
+que se ofereciam para a obtenção de glória. Para lá dos
+Alpes e dos limites do poder romano, estabeleciam-se os
+conﬁns da Gallia Comata , a «Gália dos cabelos compridos».
+Aqui habitavam imensas hordas de bárbaros: guerreiros de
+cabelos eriçados e seminus, muito propensos a espetar as
+cabeças dos seus inimigos em lanças e a beber-lhes o
+sangue. Durante séculos, tinham encarnado os piores
+pesadelos da República; mas César, de forma corajosa,
+brilhante e ilegal, mal chegou à Gália logo se preparou para
+a conquistar. As suas campanhas foram devastadoras. Ao
+que se dizia, um milhão de pessoas terá perecido durante o
+seu curso. Um milhão mais foi escravizado. Durante uma
+década, o sangue e o fumo pairaram sobre toda a Gália. No
+ﬁm do mandato de César como governador, todas as tribos,
+do Reno ao Oceano, tinham sido vergadas sob a sua
+espada. Até mesmo os Germanos e os Bretões, selvagens
+que viviam na orla do mundo e cuja destreza era tão
+proverbial como exótica, tinham aprendido a respeitar as
+armas romanas. Entretanto, na capital, os concidadãos de
+César empolgavam-se com a exuberância da
+magnanimidade do seu novo herói e as sensacionais
+notícias das suas façanhas. O próprio César, enriquecido
+pela fama e pelos saques, e com um exército de legiões
+amadurecidas pelas batalhas à sua retaguarda, ganhou em
+50 a.C. uma auctoritas capaz de rivalizar com a de Pompeu.
+Os seus inimigos no Senado, que contavam os dias que
+faltavam para que deixasse o governo, sabiam agora que,
+mais do que nunca, não podiam dar-se ao luxo de perder a
+sua oportunidade.
+Para César, o conquistador da Gália, era intolerável a
+perspetiva de ser atormentado nos tribunais por um bando
+de pigmeus. Ao invés de sofrer tamanha humilhação, a sua
+intenção era a de passar diretamente do comando
+provincial para um segundo consulado. Mas para o
+conseguir precisaria de aliados, e muito tinha mudado em
+Roma durante sua ausência. A força do Triunvirato estava
+nos seus três pilares e, em 50 a.C., um deles tinha
+desaparecido. Quatro anos antes, Crasso tinha partido para
+a Síria. Desesperado para seguir as pisadas de Pompeu e
+César, conseguira o comando das legiões contra os Partos,
+o único povo no Médio Oriente que ainda tinha presunção
+suﬁciente para desaﬁar a hegemonia romana. A expedição
+prometia esplêndidos saques, suﬁcientes para satisfazer
+mesmo o mais notável dos avarentos de Roma. Os Partos
+governavam um império fabulosamente rico. Estendia-se do
+Oceano Índico, o «mar das pérolas» [20], até às terras altas
+da Pérsia, onde, de acordo com os relatos, havia uma
+montanha inteiramente de ouro, e até à Mesopotâmia, onde
+incontáveis luxos — sedas, perfumes e taças aromáticas —
+estavam disponíveis nos seus bem abastecidos mercados.
+Infelizmente, os Partos não eram apenas ricos, mas
+também dissimulados. Ao invés de combates frontais,
+preferiam atirar ﬂechas a partir da sua cavalaria, em
+permanentes movimentações de rotação, avanços e recuos.
+Os invasores, sobrecarregados e suados, viram-se
+impotentes contra essa tática efeminada. Em 53 a.C., na
+fronteira da Mesopotâmia, encurralado numa planície
+abrasadora nos arredores da cidade de Carras, Crasso e 30
+mil dos seus homens foram dizimados. As águias,
+representações em prata da ave sagrada de Júpiter que
+serviam de símbolo e estandarte de cada legião, tinham
+caído em mãos inimigas. O mesmo aconteceria à cabeça de
+Crasso, que acabaria como troféu na corte do Império
+Parta. Descobriu-se que ousar nem sempre signiﬁcava
+ganhar.
+No que a Roma dizia respeito, os danos sofridos pela
+derrota em Carras foram ainda mais graves do que à
+primeira vista tinha parecido. Tinha sido um duro golpe
+que ameaçava a estabilidade de toda a República. Com o
+desaparecimento de Crasso, o número de jogadores no
+grande jogo da política romana diminuíra num momento
+perigoso. Já não eram apenas os conservadores, decididos a
+preservar o funcionamento do Estado e as suas tradições,
+que se sentiam ameaçados pelo brilho dos feitos de César.
+O mesmo sentia o seu parceiro sobrevivente no Triunvirato
+— Pompeu, o Grande . À medida que César e os seus
+inimigos em Roma manobravam, num crescente desespero,
+para obter vantagem, ambos estavam em concorrência
+direta pelo apoio do Princeps . Esta situação, embora
+contribuísse para alimentar o ego do homem, também o
+deixava subtilmente enfraquecido. César ou os inimigos de
+César? Estes eram os termos da mais difícil escolha a que
+Pompeu alguma vez se obrigara, determinada pelo seu
+antigo e mais jovem parceiro. Assim, no ﬁm, a rutura entre
+os dois homens era, quiçá, inevitável. Em dezembro de 50
+a.C., quando um dos dois cônsules desse ano se deslocou a
+casa de Pompeu nos arredores de Roma, lhe entregou uma
+espada e o incitou a empunhá-la contra César em defesa da
+República, Pompeu respondeu que o faria — «se não
+houver alternativa.» [21] Esta resposta dava a entender que
+não havia. César, entre a escolha de se submeter à lei e
+entregar o seu comando, ou de se manter ﬁrme na defesa
+da sua auctoritas , declarando a guerra civil, nem hesitou. A
+contenção de Cipião não condizia com ele. A 10 de janeiro
+de 49 a.C., com uma das suas legiões, atravessou o
+Rubicão, um pequeno rio que marcava a fronteira da sua
+província com a Itália. Os dados estavam lançados. «O
+reino fora dividido pela espada; e o destino do Império, que
+tinha o mar, a terra e o mundo inteiro na sua posse, era
+inadequado para dois.» [22]
+À espera de um herói
+A aptidão do povo romano para matar, que lhe
+proporcionara o domínio universal, virava-se agora sobre si
+mesmo. As legiões confrontavam-se e «o próprio mundo
+estava a ser mutilado.» [23] A guerra, lançada por César
+com a travessia do Rubicão, duraria mais de quatro anos e
+estender-se-ia entre os dois extremos do Mediterrâneo.
+Nem mesmo a derrota de Pompeu no campo de batalha, e o
+seu subsequente assassinato e decapitação durante a fuga
+ao seu vitorioso rival, puseram ﬁm ao conﬂito. Desde África
+até Espanha, a matança continuou. Pompeu, «o seu tronco
+poderoso decapitado numa praia» [24], era apenas o mais
+proeminente dos muitos que foram transformados em pó
+em terras estrangeiras. A herança das tradições e das leis
+que tinha levado o povo romano a estar unido em torno de
+um propósito comum nada signiﬁcava para os soldados,
+que apenas procuravam recompensas, não de antigas
+noções de bem comum, mas para o comandante que os
+liderava. Cativos foram arremessados das muralhas ou
+viram as suas mãos amputadas. Cadáveres de Romanos
+recém-abatidos eram usados por outros Romanos como
+barreiras defensivas. Os legionários, como se fossem meros
+Gauleses, espetavam as cabeças dos seus compatriotas nas
+lanças. Foi a este ponto que chegaram os laços da
+cidadania.
+Para aqueles cujas terras tinham sido arrasadas, não era
+grande surpresa que essas alcateias rivais se
+canibalizassem umas às outras. Os chefes das províncias há
+muito que tinham formulado a sua opinião acerca das
+origens dos seus superiores. Compreendiam melhor do que
+os herdeiros de Rómulo o que signiﬁcava ser criado por
+uma loba. As histórias, que para o povo romano sempre
+tinham sido um motivo de orgulho, ganhavam agora uma
+luz muito diferente, quando vistas através dos olhos dos
+vencidos. As prolongadas hostilidades tinham servido para
+denegrir cada vez mais as tradições nascidas em Roma.
+Dizia-se que Rómulo, no alto do monte Palatino, não vira
+águias, mas abutres a caminho de se banquetearem de
+cadáveres; que os primeiros Romanos eram «bárbaros e
+vagabundos» [25]; que Remo, em vez de abnegadamente ter
+oferecido a sua própria vida para o bem da cidade, tinha,
+de facto, sido assassinado pelo seu irmão. «Aﬁnal, que tipo
+de pessoas são os Romanos?» [26] A esta pergunta,
+repetidamente formulada por aqueles que os odiavam e
+temiam, já nem os próprios Romanos conseguiam dar uma
+resposta credível. E se os seus inimigos tivessem razão? E
+se Rómulo tivesse mesmo matado o irmão? E se estivesse
+destinado ao povo romano repetir o crime primordial do
+seu fundador, até que a ira dos deuses tivesse sido
+satisfeita e o mundo se afogasse em sangue? Aﬁnal, o
+fratricídio não era fácil de apaziguar. Até os soldados
+embrutecidos por anos de conﬂito sabiam disso. Na
+primavera de 45 a.C., quando César avançava nas planícies
+do sul de Espanha para enfrentar o último dos exércitos
+que se dirigia ao seu encontro, os seus homens capturaram
+um dos inimigos, e descobriram que o prisioneiro tinha
+matado o seu próprio irmão. Os soldados ﬁcaram tão
+revoltados com este crime que o espancaram até à morte.
+Dias depois, numa vitória que podia, ﬁnalmente,
+considerar-se como conclusiva, César massacrou de tal
+forma os seus oponentes, que 30 mil dos seus concidadãos
+foram deixados no campo de batalha para que as moscas
+neles se banqueteassem.
+Contudo, as perdas de Roma não deviam apenas ser
+medidas pelo número de baixas. Tinham sido causados
+incalculáveis danos aos órgãos vitais do Estado. O próprio
+César, cujo temperamento era pouco dado a
+sentimentalismos, reconhecia isso mais claramente do que
+ninguém. Num momento de indiscrição, escarneceu que a
+República não passava de «um mero nome, sem forma ou
+substância» [27]. Apesar de se ter imposto como senhor
+indiscutível do mundo romano, ainda tinha de andar com
+cuidado. As sensibilidades dos seus concidadãos não
+tinham sido ofendidas de forma ligeira. Muitos deles, no
+meio das tempestuosas ruínas daqueles tempos,
+agarraram-se às garantias fornecidas pelas heranças do
+passado como náufragos a destroços. Ao regressar a Roma
+dos campos de extermínio da Espanha, César optou por
+investir dinheiro para enfrentar o problema. Cortejou o
+povo romano com entretenimentos espetaculares e
+promessas de grandes projetos. Promoveu festas públicas
+em que muitos milhares de cidadãos eram presenteados
+com banquetes; um desﬁle noturno de pesados elefantes
+com tochas acesas nos seus dorsos; elaborou um plano
+para redirecionar o rio Tibre. Ao mesmo tempo, César
+trabalhava para cativar os seus inimigos no Senado — não
+tão fáceis de comprar —, com extravagantes gestos de
+perdão. A sua disposição em perdoar os adversários, de os
+apoiar para as magistraturas e de os lisonjear com cargos
+militares, era algo que até os seus mais ferrenhos inimigos
+admiravam. Com afabilidade, ordenou o restauro das
+estátuas de Pompeu, que tinham sido derrubadas e
+destruídas pelos seus partidários. No entanto, havia neste
+exercício de clemência algo mais do que uma lufada
+daquilo que muitos dos seus pares ressentiam e detestavam
+nele. Apesar de ter sido misericordioso, pois a misericórdia
+era, adequadamente, a virtude de um senhor, César não
+sentiu qualquer necessidade de pedir desculpas pelo seu
+domínio. Uma penetrante inteligência, combinada com os
+hábitos criados pelos feitos alcançados sob o seu comando,
+convenciam-no de que só ele possuía a solução para o que,
+de outro modo, parecia ser uma crise insolúvel. As
+tradições da República, onde se presumia que nenhum
+cidadão devia exercer uma permanente supremacia sobre
+os demais, eram claramente difíceis de conciliar com essa
+convicção. César não tinha ganho a predominância de
+Roma para a compartilhar agora com homens que
+desprezava. Assim, procurando encobrir o que, de outro
+modo, corria o risco de parecer abertamente despótico, fez
+o que decisores políticos romanos, não importa quão
+radicais ou audazes, invariavelmente ﬁzeram quando
+confrontados com um desaﬁo: olhou para o passado. Aí,
+enterrado nos venerandos arquivos da República,
+encontraria um precedente potencialmente bem adaptado
+às suas necessidades. De facto, já existiam disposições
+legais para que um cidadão pudesse exercer a autoridade
+suprema sobre o povo romano durante um momento de
+crise. O cargo era designado de Ditactor  (Ditador). César
+dar-lhe-ia uma nova aparência. Seria necessário apenas um
+único ajuste para adequar a ditadura às suas exigências: o
+antigo escrúpulo que decretava que a nenhum cidadão
+devia ser conﬁado o cargo por mais de seis meses, tinha
+naturalmente de desaparecer. Antes de partir para
+Espanha, César já tinha sido nomeado para o cargo por dez
+anos. No início de fevereiro de 44 a.C., conseguiu algo
+ainda melhor. Um decreto do Senado nomeava-o «Ditador
+Vitalício».
+Para os cidadãos esperançosos na renovação das antigas
+virtudes do seu povo e no sarar das feridas da guerra civil,
+este era um momento portentoso e arrepiante. O novo
+cargo de César bem podia ser funcional — mas era isso
+precisamente o que o tornava tão ameaçador. Não eram
+apenas os pares do ditador, cujas perspetivas em atingir os
+píncaros políticos estavam agora deﬁnitivamente
+bloqueadas até que César morresse ou fosse destituído,
+que eram suscetíveis de o considerar funesto. O mesmo
+acontecia com todos aqueles que se sentiam nervosos e
+confusos com as calamidades que tinham desabado sobre a
+sua cidade. Aﬁnal, a ditadura perpétua tinha implícita a
+crise perpétua. «O povo romano, cujos imortais desejam
+que governe o mundo, escravizado? Impossível!» [28]
+Contudo, isso era claramente possível. Perdera-se o favor
+dos deuses. Os ﬁos dourados que ligavam o presente ao
+passado pareciam ter-se quebrado. A providência que tinha
+propiciado a grandeza de Roma parecia agora insubstancial
+e ilusória, e a própria cidade, a sede do Império,
+degradada. A ditadura perpétua negava ao povo romano o
+que parecia ser direito seu desde a nascença, desde que
+Rómulo subira pela primeira vez o Palatino: a
+autoconﬁança.
+É provável que até o próprio César tenha sido vítima de
+uma certa ansiedade. Apesar do seu desdém crescente pela
+República e as suas tradições, não menosprezava a aura
+maravilhosa que rodeava a sua cidade. Além da Casa do
+Senado e da confusão de um Fórum a abarrotar, ele tinha
+usado as riquezas dos saques da Gália para construir um
+segundo fórum mais pequeno; e aqui, no centro da
+vanguarda do desenvolvimento da cidade, abriu um portal
+para a fabulosa pré-história de Roma. Um templo revestido
+a mármore polido, um edifício repleto de assombrosos
+brilhos e invulgares reﬂexos. Em tempos, antes da
+República, antes da monarquia, antes mesmo de Remo e
+Rómulo, tinha havido um príncipe de Troia; e este príncipe
+Troiano era ﬁlho de Vénus, a deusa do amor. A Eneias,
+como convinha a um homem com sangue imortal a correr-
+lhe nas veias, tinha sido conﬁado, pelos deuses, um destino
+verdadeiramente espetacular. Quando Troia, depois de um
+cerco de dez anos, caíra por ﬁm nas mãos dos Gregos e foi
+incendiada, Eneias não se deixou intimidar. Carregou aos
+ombros o seu idoso pai, que fora amante de Vénus, e depois
+de reunir um grupo de compatriotas refugiados, fugiu da
+cidade em chamas. A seu tempo, e depois de inúmeras
+aventuras, ele e o seu grupo de aventureiros troianos
+chegaram à Itália. Aqui criariam novas raízes. Era de
+Eneias que descendia a mãe de Remo e Rómulo. Isso
+signiﬁcava que também os Romanos descendiam dele —
+eram «Eneiadas» [29]. O novo templo de César, dedicado à
+divina mãe do príncipe de Troia, representava para os seus
+desgastados e desmoralizados compatriotas, a
+oportunidade de se tranquilizarem quanto à sua esplêndida
+linhagem.
+Mas era algo mais. Vénus era, na opinião de César, sua
+ancestral — sua genetrix . A sua família, os Julianos,
+reivindicava uma linha direta de consanguinidade. O ﬁlho
+de Eneias, diziam, chamara-se a si mesmo Julus: um
+pormenor genealógico que, naturalmente, consideravam
+ser relevante. Outros não tinham tanta certeza. Mesmo os
+que não o contestavam abertamente estavam inclinados
+para o agnosticismo. «A tal distância temporal, quem
+poderia aﬁnal ter certezas sobre o que aconteceu?» [30]
+César, porém, com o seu templo a Vénus Genetrix, acabaria
+com as discussões. Os Romanos eram o povo escolhido, e
+ele o Romano por excelência.
+Que César era, de facto, um homem cujos talentos
+ultrapassavam «os estreitos limites comuns a qualquer
+homem» [31], e cujas energias, por mais monstruosas que
+fossem, possuíam um poder quase divino, era uma verdade
+tão evidente que nem mesmo os seus mais ferrenhos
+inimigos a podiam negar. O templo a Vénus Genetrix
+espelhava a imagem de César e a dos tempos
+desaparecidos em que os deuses dormiam com os mortais,
+desfocando assustadoramente os limites entre ambos. Perto
+da escadaria, ao lado dos repuxos permanentes de duas
+fontes, erguia-se uma estátua de bronze do seu cavalo. [*]
+Este animal notável, cujos cascos dianteiros eram
+exatamente como as mãos de um homem, só poderia ter
+sido montado por um herói e, de facto, «ter-se-á recusado a
+que mais alguém o montasse» [32]. Depois, no interior do
+templo, brilhando no meio das suas sombras, estava a
+lembrança de outro aspeto épico da carreira de César. Em
+48 a.C., no meio da guerra civil, encontrou-se com o
+governante da única monarquia grega que a República
+permitira subsistir numa independência nominal, mesmo
+que apenas honoríﬁca: Cleópatra, a rainha do Egito. César,
+que acreditava que «a cavalo dado não se olha o dente», de
+pronto a engravidou. Esta conquista, que proporcionaria
+aos seus inimigos sorrisos lascivos, estava agora
+posicionada adequadamente na luminosidade gloriosa do
+templo. Era por isso que, compartilhando o templo de
+Vénus Genetrix com uma estátua da deusa, estava um
+bronze dourado de Cleópatra. Assim como Eneias, o pai do
+povo romano, vivera numa época em que os heróis
+dormiam por direito com rainhas no meio das convulsões
+de grandes guerras e dos destroços das nações, também,
+como se revelava, o ﬁzeram os contemporâneos de César.
+Sendo Ditador, era considerado como algo mais. Na sua
+opinião, o seu desdém pela República proporcionava-lhe
+uma maior antiguidade, conﬁrmando-o como um herói das
+antigas epopeias.
+No dia 15 de fevereiro, poucos dias após a nomeação de
+César como «Ditador Vitalício», surgiu a oportunidade
+perfeita para colocar à prova este conceito. Era uma data
+importante, ao mesmo tempo alegre e assombrada. Como
+tantas no calendário romano, era uma festividade repleta
+de emoções, marcada também pelos mortos, que se
+erguiam dos respetivos túmulos e perambulavam pelas
+ruas. A multidão juntava-se bem cedo. As pessoas
+apinhavam-se ao longo do Fórum, ou então reuniam-se no
+lado mais distante do monte Palatino, junto à caverna onde
+Remo e Rómulo tinham há muito sido alimentados pela
+loba: a «Lupercal» [*]. À entrada da caverna, sob os ramos
+da ﬁgueira sagrada, homens untados conhecidos como
+Luperci , cuja nudez estava coberta apenas por uma tanga
+de pele de cabra, tremiam com a brisa do inverno. Também
+de pele de cabra eram as correias que seguravam nas
+mãos, e à visão das quais as mulheres na multidão mais
+abaixo, muitas delas despidas até à cintura,
+invariavelmente enrubesciam quando eles as acenavam na
+sua direção. Naturalmente, era necessário um bom físico
+para usar tanga, especialmente em fevereiro. E, de facto, a
+maioria dos homens era composta por jovens bem
+constituídos. Mas nem todos. Um dos Luperci  teria quase
+40 anos, e era, nem mais nem menos, um cônsul. O
+espetáculo dado por um magistrado romano «nu, untado e
+bêbado» [33] era suﬁciente para chocar todos os que se
+preocupavam com a dignidade da República. Não que o
+cônsul se importasse muito. Marco António sempre gostara
+de passar os limites do conveniente. Ainda atraente para a
+sua idade, ele era um homem que valorizava os seus
+prazeres. Mas mais signiﬁcativo, era que tinha olho para os
+vencedores. Marco António tão bem servira César na Gália
+e durante a guerra civil, que tinha sido nomeado como
+lugar-tenente do Ditador. Preparava-se agora para prestar
+outro serviço. Marco António sabia que César esperava no
+outro lado do monte Palatino, no Fórum, sentado num trono
+de ouro. Não havia tempo para atrasos. Tudo estava
+preparado. Cabras e um cão tinham sido oferecidos em
+sacrifício. O seu sangue tinha sido besuntado na testa de
+dois rapazes e de imediato limpo; os dois rapazes, como
+lhes tinha sido pedido para fazer, desataram a rir
+selvaticamente. Era hora. Hora de comemorar a
+Lupercália.
+Quando os homens com as suas exíguas tangas
+começaram a espalhar-se a partir do Lupercal e a correr à
+volta dos contrafortes do monte Palatino, o seu trajeto
+levava-os a mergulhar profundamente nos mistérios do
+passado da sua cidade. Chicoteando as mulheres seminuas
+ao passar, fazendo-o com tanta força que lhes provocavam
+vergões ensanguentados, os Luperci agiam em obediência
+a um oráculo com mais de dois séculos. «O bode sagrado
+deve penetrar as mães da Itália» [34]. Caso contrário, toda
+a gravidez estava condenada a acabar em nados-mortos.
+Era por isso que, na Lupercália, as mulheres se ofereciam
+voluntariamente para serem chicoteadas. Aﬁnal, sempre
+era melhor ferir a pele do que ser penetrada por um bode
+de diferente tipo. Contudo, as origens da Lupercália eram
+ainda mais antigas do que o oráculo. Correndo ao longo do
+Fórum, os Luperci  aproximavam-se de uma segunda
+ﬁgueira que servia de marca ao centro nevrálgico da
+política da cidade, um espaço aberto onde os Romanos
+tradicionalmente se reuniam: o Comitium . Era aqui que se
+situava a Casa do Senado; e aqui se erguera, na fundação
+da República, a plataforma dos oradores, a Rostra . Nesse
+tempo, já o Comitium  era incrivelmente antigo. Havia quem
+reivindicasse que a ﬁgueira que estava ao lado da Rostra
+teria sido aquela sob a qual Remo e Rómulo tinham sido
+amamentados pela loba, transplantada de forma mágica do
+Palatino por um taumaturgo do tempo dos reis. A confusão
+era reveladora. As memórias que os Romanos tinham do
+seu passado eram um redemoinho de paradoxos. Agora,
+enquanto os Luperci  corriam com suas tangas de pele de
+cabra de uma ﬁgueira para outra, esses mesmos paradoxos
+voltavam, de forma arrepiante, a ganhar vida. Num dia em
+que os seres humanos se confundiam com os lobos, o
+carnal com o sobrenatural, a Roma ansiosa da ditadura de
+César com a cidade-fantasma dos reis, quem poderia dizer
+o aconteceria?
+Marco António, que corria junto aos restantes Luperci  ao
+longo do Fórum, parou perante o Comitium . Também aqui
+os operários de César tinham andado atarefados. A área da
+Casa do Senado, incendiada durante um motim que
+acontecera oito anos antes, ainda estava coberta de
+andaimes. Outros monumentos, muitos deles antiquíssimos,
+tinham sido arrasados para abrir caminho a um pavimento
+reluzente. A Rostra , que também tinha sido demolida, fora
+completamente reconstruída e revestida com uma elegante
+policromia. Marco António aproximou-se. Era aqui que
+César, sentado, esperava. Enquanto Ditador do povo
+romano, era apropriado que presidisse à Lupercália
+entronizado entre as obras de construção e o mármore
+brilhante, marcos públicos da sua determinação para
+renovar o Estado. O que não signiﬁcava, é claro, que ele
+tivesse como objetivo estabelecê-lo sobre novas fundações
+— muito pelo contrário. Que melhor dia do que a
+Lupercália, quando a juventude de Roma corria como
+lobos, para recordar ao povo romano que as suas raízes
+históricas eram muito anteriores à República? Para o
+assinalar, César vestira-se para a festa com o antigo traje
+dos reis da cidade: toga púrpura e botas de cano alto de
+couro vermelho. Marco António, agora chegado ao
+Comitium , parou em frente ao Ditador, subiu até à Rostra  e
+estendeu o que faltava para completar o conjunto: o
+símbolo ﬁnal da monarquia — um diadema de louro
+entrelaçado.
+Instalou-se um silêncio de chumbo, interrompido por
+alguns aplausos desconexos que saudaram o gesto. Então,
+César, depois de uma pausa, empurrou o diadema para
+longe — e por todo o Fórum ecoou um estrondoso aplauso.
+De novo, Marco António tentou colocar o diadema no
+Ditador; e, novamente, o Ditador recusou. «E assim a
+tentativa fracassou» [35]. E César, erguendo-se, ordenou
+que o diadema fosse entregue a Júpiter — «pois em Roma
+não haveria outro rei.» [36]
+E tinha razão. Apesar das insuﬁciências palpáveis da sua
+agressiva ordem política, e não obstante as muitas
+calamidades que tinham transformado a República em algo
+sangrento e desconﬁgurado, o povo romano nunca iria
+permitir que um mortal o governasse como rei. A palavra
+permanecia inalterada: «não suportariam sequer que fosse
+mencionada» [37]. César, ao reivindicar uma ditadura
+perpétua, e ao obscurecer os seus companheiros senadores
+de forma tão absoluta, assinara a sua própria sentença de
+morte. Exatamente um mês após o festival da Lupercália,
+no dia 15 ou «Idos» de março, foi derrubado por uma chuva
+de punhais numa reunião do Senado. O líder e mentor da
+conspiração era Bruto, um descendente do homem que
+tinha expulsado Tarquínio e acabado com a monarquia.
+Bruto e os seus companheiros assassinos mataram César
+em nome da liberdade, e acreditavam piamente que a sua
+morte seria suﬁciente para salvar a República. Outros,
+vendo com mais clareza, eram mais céticos. Temiam que o
+assassinato de César nada resolvesse. «Se um homem com
+o seu génio foi incapaz de encontrar uma saída», perguntou
+um deles, «quem a vai encontrar agora?» [38] E se a crise
+não tivesse solução? E se a própria Roma estivesse
+acabada? Talvez até mais do que Roma. Nos agitados dias e
+semanas que se seguiram ao assassinato de César, a prova
+de uma desgraça aparentemente cósmica podia observar-se
+nos céus. Os dias começaram a escurecer. O sol perdeu-se
+atrás de uma escuridão ferida e arroxeada. Alguns, como
+Marco António, acreditavam que o astro desviava o olhar,
+horrorizado com «a injustiça cometida contra César.» [39]
+Outros, de forma ainda mais sombria, temiam que fosse a
+retribuição pelos crimes de toda uma era, e o início de uma
+noite eterna. Estas ansiedades intensiﬁcar-se-iam ainda
+mais quando um cometa em chamas foi visível no céu
+durante sete dias seguidos. [*] O que é que isso signiﬁcava?
+Uma vez mais, havia uma variedade de opiniões.
+Imediatamente a seguir à morte de César, multidões em
+pranto tinham erguido no Fórum um altar em sua
+homenagem; e agora, quando a estrela de fogo riscava o
+céu, ganhava peso a convicção de que era a alma do
+Ditador morto que subia aos céus, «onde seria recebida
+entre os espíritos dos deuses imortais.» [40] Outros, porém,
+não ﬁcaram convencidos. Os cometas, aﬁnal, eram coisas
+perniciosas. Os leitores do futuro, experientes na
+interpretação de tais maravilhas, não tinham dúvidas de
+que era o presságio de que algo terrível iria acontecer.
+Terminava uma era, o mundo aproximava-se do ﬁm. Um
+adivinho, que avisava estar proibido à humanidade
+conhecer a dimensão completa dos horrores que
+rapidamente se aproximavam, e que a revelação dos
+mesmos lhe custaria a vida, fez, mesmo assim, os seus
+prognósticos — caindo fulminado, logo a seguir.
+Entretanto, em Roma, nos acampamentos dos legionários
+e em várias cidades do Império, homens decididos
+proferiam belas palavras e, metodicamente, planeavam a
+guerra.
+E o uivar dos lobos, no alto das cidades, ecoava na noite.
+
+---
+
+## Conexões Validadas com o Vault (Top 5)
+
+- [[80 COMUNIDADE/E possivel uma transformacao de vida]] (score: 0.00)
+- [[80 COMUNIDADE/acessibilidade]] (score: 0.00)
+- [[80 COMUNIDADE/Brasil tem mais homicidios do que quase todo hemisferio norte somado em 2015]] (score: 0.00)
+- [[80 COMUNIDADE/Justiça Social - Perfil de pobreza muda em dez anos do programa Bolsa Familia]] (score: 0.00)
+
+---
+---
+---
+---
+*Processado por Obsidian RAG v1.1.1 | Validação: Gemini 2.0 Flash*

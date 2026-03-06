@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:53.335266+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contrato_servicos_nuvem_serpro
+    weight: 10
+    confidence: 0.98
+  - name: licenciamento_software_vmware
+    weight: 9
+    confidence: 0.95
+  - name: gestao_faturamento_nuvem
+    weight: 8
+    confidence: 0.92
+  - name: produtos_vmware_cloud_director
+    weight: 7
+    confidence: 0.9
+  - name: produtos_vmware_vrealize_operations
+    weight: 7
+    confidence: 0.9
+  - name: produtos_vmware_nsx
+    weight: 7
+    confidence: 0.9
+  - name: suporte_tecnico_vmware
+    weight: 6
+    confidence: 0.85
+  - name: monitoramento_tenant_nuvem
+    weight: 6
+    confidence: 0.88
+  - name: politicas_precificacao_servicos_nuvem
+    weight: 5
+    confidence: 0.8
+  - name: protecao_dados_contrato_serpro
+    weight: 5
+    confidence: 0.82
+  cdu_primary: '004.8'
+  cdu_secondary:
+  - '621.3'
+  - '330.1'
+  cdu_description: Gestão de serviços de computação em nuvem, licenciamento de software e contratos de TI.
+---
 [[Serpro Cloud One]]
 [[Billing Cloud One]]
 

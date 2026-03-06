@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:00.971243+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pandemia_doenca_dor_morte_luto
+    weight: 10
+    confidence: 0.98
+  - name: reconhecimento_sentimentos_humanidade
+    weight: 8
+    confidence: 0.95
+  - name: passo_de_fe_crista
+    weight: 9
+    confidence: 0.97
+  - name: esperanca_em_jesus
+    weight: 10
+    confidence: 0.99
+  - name: pensamentos_de_paz_de_deus
+    weight: 9
+    confidence: 0.96
+  - name: futuro_e_esperanca_divina
+    weight: 9
+    confidence: 0.96
+  - name: jesus_trabalhando_pelas_pessoas
+    weight: 8
+    confidence: 0.94
+  - name: superacao_da_morte_e_dor
+    weight: 7
+    confidence: 0.92
+  - name: renovacao_e_novas_coisas
+    weight: 7
+    confidence: 0.91
+  - name: perspectiva_biblica_sobre_sofrimento
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '248.4'
+  - 27-29
+  - '179.7'
+  cdu_description: Teologia cristã; Vida cristã e prática religiosa; Cristianismo e o Antigo Testamento (Jeremias); Ética cristã e sofrimento
+---
 *Ele é por nós*
 
 _[[Jeremias 29]]:11 Eu é que sei que pensamentos tenho a respeito de vocês, diz o Senhor. São pensamentos de paz e não de mal, para dar-lhes um futuro e uma esperança_

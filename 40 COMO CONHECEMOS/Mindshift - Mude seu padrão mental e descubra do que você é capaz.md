@@ -2,7 +2,48 @@
 created: 2021-12-29T15:54:27 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:32.601370+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: transformacao_pessoal
+    weight: 10
+    confidence: 0.98
+  - name: aprendizado_ao_longo_da_vida
+    weight: 9
+    confidence: 0.97
+  - name: neurociencia_cognitiva
+    weight: 8
+    confidence: 0.96
+  - name: exercicios_fisicos_saude_cerebral
+    weight: 8
+    confidence: 0.95
+  - name: pratica_deliberada_aprendizado
+    weight: 9
+    confidence: 0.94
+  - name: mudanca_de_carreira_profissional
+    weight: 7
+    confidence: 0.93
+  - name: tecnicas_de_gestao_tempo
+    weight: 6
+    confidence: 0.92
+  - name: estrategias_memorizacao
+    weight: 7
+    confidence: 0.91
+  - name: desenvolvimento_habilidades_duplas
+    weight: 7
+    confidence: 0.9
+  - name: reestruturacao_cognitiva
+    weight: 8
+    confidence: 0.89
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '37.01'
+  - '613.8'
+  - '159.947'
+  cdu_description: Psicologia da mudança e do aprendizado, com ênfase em desenvolvimento pessoal, técnicas de estudo e bem-estar mental.
 ---
 
 # Mindshift: Mude seu padrão mental e descubra do que você é capaz (Portuguese Edition)

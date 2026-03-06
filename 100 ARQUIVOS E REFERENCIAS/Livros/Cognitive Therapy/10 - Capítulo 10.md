@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:47.930108+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: descentramento_psicologico
+    weight: 9
+    confidence: 0.98
+  - name: ansiedade_em_exames
+    weight: 8
+    confidence: 0.95
+  - name: interpretacao_de_sintomas_fisicos
+    weight: 7
+    confidence: 0.92
+  - name: pensamento_catastrofico
+    weight: 8
+    confidence: 0.93
+  - name: tendencia_a_personalizar_eventos
+    weight: 9
+    confidence: 0.97
+  - name: distorcao_cognitiva
+    weight: 8
+    confidence: 0.94
+  - name: inferencias_arbitrarias
+    weight: 7
+    confidence: 0.9
+  - name: validade_dos_pensamentos
+    weight: 6
+    confidence: 0.88
+  - name: relacao_entre_pensamento_e_realidade
+    weight: 7
+    confidence: 0.91
+  - name: terapia_cognitivo_comportamental
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '159.963'
+  cdu_secondary:
+  - '159.944'
+  - '159.97'
+  cdu_description: Psicologia da percepção e do pensamento. Processos cognitivos. Distorções cognitivas e ansiedade. Técnicas terapêuticas para reestruturação cognitiva.
+---
 # Capítulo 10
 
 cancelled because of rain. An anxious woman sees a burned

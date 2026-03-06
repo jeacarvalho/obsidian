@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:29.577519+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: metodo_zettelkasten
+    weight: 10
+    confidence: 0.98
+  - name: tomada_de_notas
+    weight: 9
+    confidence: 0.97
+  - name: ansiedade_perda_pensamento
+    weight: 8
+    confidence: 0.9
+  - name: formacao_opiniao
+    weight: 7
+    confidence: 0.92
+  - name: escrita_produtiva
+    weight: 8
+    confidence: 0.96
+  - name: conexao_ideias
+    weight: 10
+    confidence: 0.99
+  - name: pensamento_rigoroso
+    weight: 7
+    confidence: 0.91
+  - name: organizacao_conhecimento
+    weight: 9
+    confidence: 0.95
+  - name: geracao_conteudo
+    weight: 8
+    confidence: 0.93
+  - name: niklas_luhmann
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '004.9'
+  cdu_secondary:
+  - '159.9'
+  - '001.8'
+  cdu_description: Processamento de informação e conhecimento; Organização do conhecimento; Psicologia do pensamento e da aprendizagem; Metodologia científica
+---
 fonte: https://feeei.substack.com/p/the-essence-of-the-zettelkasten-method?s=r
 
 [[Idea Compass Resumo]]

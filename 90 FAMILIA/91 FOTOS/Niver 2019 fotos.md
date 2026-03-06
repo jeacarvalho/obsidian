@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:11.193179+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fotografia_aniversario
+    weight: 10
+    confidence: 0.98
+  - name: registro_visual_evento
+    weight: 9
+    confidence: 0.95
+  - name: memoria_fotografica
+    weight: 8
+    confidence: 0.92
+  - name: celebracao_2019
+    weight: 7
+    confidence: 0.9
+  - name: album_digital
+    weight: 6
+    confidence: 0.88
+  - name: compartilhamento_fotos
+    weight: 5
+    confidence: 0.85
+  - name: evento_social
+    weight: 7
+    confidence: 0.87
+  - name: documentacao_fotografica
+    weight: 8
+    confidence: 0.91
+  - name: colecao_imagens
+    weight: 6
+    confidence: 0.86
+  - name: registro_pessoal
+    weight: 5
+    confidence: 0.84
+  cdu_primary: '77'
+  cdu_secondary:
+  - 394.268.2
+  cdu_description: Fotografia de eventos sociais, especificamente aniversários.
+---
 Niver 2019 fotos
 
 ![img-20191027-wa0024.jpg](cec81019111da8d907a80448975aaa9e.jpg)

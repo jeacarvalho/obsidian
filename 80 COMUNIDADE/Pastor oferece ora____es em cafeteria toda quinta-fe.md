@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:50.786870+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ministerio_pastoral_em_espacos_publicos
+    weight: 10
+    confidence: 0.98
+  - name: oracao_em_cafeterias
+    weight: 9
+    confidence: 0.97
+  - name: evangelismo_nao_tradicional
+    weight: 8
+    confidence: 0.95
+  - name: vocacao_pastoral
+    weight: 7
+    confidence: 0.93
+  - name: acolhimento_comunitario
+    weight: 7
+    confidence: 0.92
+  - name: relatos_de_transformacao_pessoal
+    weight: 6
+    confidence: 0.9
+  - name: superacao_de_medos_ministeriais
+    weight: 6
+    confidence: 0.88
+  - name: missao_urbana
+    weight: 5
+    confidence: 0.85
+  - name: inspiracao_crista_cotidiana
+    weight: 5
+    confidence: 0.83
+  - name: impacto_social_da_fe
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '264.1'
+  cdu_secondary:
+  - '254.5'
+  - '230.2'
+  - '284.1'
+  cdu_description: Culto e vida religiosa; Pregação e homilética; Igreja Luterana
+---
 Pastor oferece orações em cafeteria toda quinta-feiraundefined nos EUA - Púlpito Cristão
 
 

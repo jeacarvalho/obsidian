@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:33.626215+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mente_de_amador
+    weight: 10
+    confidence: 0.98
+  - name: mente_de_experiente
+    weight: 8
+    confidence: 0.95
+  - name: aprendizado_continuo
+    weight: 9
+    confidence: 0.97
+  - name: novidade_e_criatividade
+    weight: 9
+    confidence: 0.96
+  - name: medo_de_errar
+    weight: 7
+    confidence: 0.9
+  - name: perguntas_triviais
+    weight: 6
+    confidence: 0.88
+  - name: novas_formas_de_pensamento
+    weight: 8
+    confidence: 0.94
+  - name: exposicao_ao_novo
+    weight: 9
+    confidence: 0.95
+  - name: compreensao_interpessoal
+    weight: 7
+    confidence: 0.92
+  - name: risco_de_heresias
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '230'
+  - '305.8'
+  cdu_description: Psicologia da aprendizagem e do desenvolvimento; Teologia sistemática; Relações sociais
+---
 #### Seja um amador não um especialista
 Amarelo destaque | Local: 82 Nota | Local: 82
 

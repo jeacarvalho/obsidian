@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:16.010461+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: busca_por_deus
+    weight: 10
+    confidence: 0.98
+  - name: vontade_deus
+    weight: 9
+    confidence: 0.95
+  - name: discernimento_espiritual
+    weight: 8
+    confidence: 0.92
+  - name: conhecimento_de_deus
+    weight: 8
+    confidence: 0.9
+  - name: sabedoria_divina
+    weight: 7
+    confidence: 0.88
+  - name: temor_ao_senhor
+    weight: 7
+    confidence: 0.85
+  - name: confianca_em_deus
+    weight: 6
+    confidence: 0.8
+  - name: esperanca_futuro
+    weight: 6
+    confidence: 0.78
+  - name: oracao_eficaz
+    weight: 5
+    confidence: 0.75
+  - name: prosperidade_planos_deus
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '230'
+  cdu_secondary: []
+  cdu_description: Teologia Sistemática e Geral
+---
 Buscar a Deus e sua vontade
 
 se clamares por discernimento e levanta-res tua voz por entendimento; 4 se o buscares como quem busca a prata e o procurares como quem procura tesouros escon-didos; 5 então entenderás o temor do Senhor e acha-rás o [[conhecimento de Deus]]. Pv 2:3-5

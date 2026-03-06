@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:54.729585+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: feedback_assertivo_urgente
+    weight: 9
+    confidence: 0.98
+  - name: gestao_tempo_vida
+    weight: 8
+    confidence: 0.95
+  - name: confianca_relacional_feedback
+    weight: 7
+    confidence: 0.92
+  - name: desmotivacao_equipe_merito
+    weight: 8
+    confidence: 0.96
+  - name: distribuicao_tarefas_desagradaveis
+    weight: 7
+    confidence: 0.93
+  - name: percepcao_preferencia_outras_equipes
+    weight: 8
+    confidence: 0.94
+  - name: valor_contribuicao_avaliacoes
+    weight: 6
+    confidence: 0.9
+  - name: transferencia_conhecimento_entre_sedats
+    weight: 7
+    confidence: 0.91
+  - name: gestao_equipe_tecnica_excelencia
+    weight: 6
+    confidence: 0.88
+  - name: impacto_participacao_reunioes_amplas
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '005.32'
+  - '316.46'
+  cdu_description: Gestão de pessoal. Motivação e desmotivação no trabalho. Feedback e avaliação de desempenho. Relações interpessoais no ambiente de trabalho.
+---
 - A idade vai chegando e vc sente que não tem muito tempo mais a "perder". Então, um feedback assertivo é importante demais, porque tenho pressa: ou corrigir o rumo ou entender que meu lugar é outro.
 - Então o feedback de  hoje talvez seja o mais aprofundado que tenha feito. Pelo meu tempo de vida, certamente. Mas, também, porque encontro em você alguém confiável.
 - Meu intuito é de ajudar. Aos times. A vc. E a mim mesmo.

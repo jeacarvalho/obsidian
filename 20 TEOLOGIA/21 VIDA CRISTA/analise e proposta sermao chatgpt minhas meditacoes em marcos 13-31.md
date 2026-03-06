@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:06.529888+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: soberania_deus_teologia_reformada
+    weight: 9
+    confidence: 0.98
+  - name: imutabilidade_palavra_deus
+    weight: 10
+    confidence: 0.99
+  - name: confianca_em_cristo_tempos_incertos
+    weight: 8
+    confidence: 0.97
+  - name: providencia_divina_eventos_mundiais
+    weight: 7
+    confidence: 0.95
+  - name: responsabilidade_social_crista
+    weight: 8
+    confidence: 0.96
+  - name: engajamento_politico_cristao
+    weight: 7
+    confidence: 0.94
+  - name: fe_e_acao_no_mundo
+    weight: 6
+    confidence: 0.93
+  - name: vocacao_e_trabalho_cristao
+    weight: 6
+    confidence: 0.92
+  - name: paz_em_meio_ao_caos
+    weight: 7
+    confidence: 0.95
+  - name: temporariedade_mundana_vs_eternidade
+    weight: 9
+    confidence: 0.98
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - 27-32
+  - '261.8'
+  - '248.4'
+  cdu_description: Teologia cristã; Teologia sistemática; Doutrinas de Deus; Teologia reformada; Ética social cristã; Vida cristã
+---
 [[Marcos 13]]: 31
 Vamos analisar suas anotações e responder aos pedidos nos três aspectos solicitados: análise comparativa com teólogos reformados, uma contra-argumentação e a elaboração de um sermão de três pontos.
 

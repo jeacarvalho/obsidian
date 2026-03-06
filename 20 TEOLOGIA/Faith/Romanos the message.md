@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:15.402227+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mensagem_de_salvacao_crista
+    weight: 10
+    confidence: 0.98
+  - name: graca_generosa_de_deus
+    weight: 9
+    confidence: 0.95
+  - name: tarefa_de_transmitir_a_mensagem
+    weight: 8
+    confidence: 0.92
+  - name: confianca_obediente_em_jesus
+    weight: 7
+    confidence: 0.9
+  - name: furor_divino_contra_falta_de_confianca
+    weight: 8
+    confidence: 0.88
+  - name: consequencias_da_ignorancia_de_deus
+    weight: 9
+    confidence: 0.93
+  - name: critica_a_outros_e_auto_condenacao
+    weight: 7
+    confidence: 0.85
+  - name: equilibrio_entre_graca_e_lei
+    weight: 6
+    confidence: 0.8
+  - name: pecado_consciente_vs_inconsciente
+    weight: 6
+    confidence: 0.78
+  - name: mudanca_radical_de_vida_pela_bondade_de_deus
+    weight: 7
+    confidence: 0.87
+  cdu_primary: 27-23
+  cdu_secondary:
+  - '232.9'
+  - '241.1'
+  - '241.3'
+  cdu_description: Teologia cristã. Doutrina da salvação. Graça. Pecado. Ética cristã. Relação entre graça e lei.
+---
 Romanos the message
 
 Por meio dele, recebemos:

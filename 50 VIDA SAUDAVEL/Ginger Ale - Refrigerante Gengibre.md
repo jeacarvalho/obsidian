@@ -1,4 +1,45 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:31.495749+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: preparo_ginger_ale
+    weight: 10
+    confidence: 0.98
+  - name: beneficios_gengibre
+    weight: 9
+    confidence: 0.97
+  - name: propriedades_anti_inflamatorias_gengibre
+    weight: 8
+    confidence: 0.96
+  - name: alivio_dor_muscular
+    weight: 7
+    confidence: 0.95
+  - name: aceleracao_metabolismo
+    weight: 7
+    confidence: 0.94
+  - name: desintoxicacao_organismo
+    weight: 6
+    confidence: 0.93
+  - name: propriedades_antioxidantes_gengibre
+    weight: 6
+    confidence: 0.92
+  - name: propriedades_anticoagulantes_gengibre
+    weight: 5
+    confidence: 0.91
+  - name: propriedades_bactericidas_gengibre
+    weight: 5
+    confidence: 0.9
+  - name: consumo_refrigerante_gengibre
+    weight: 8
+    confidence: 0.97
+  cdu_primary: '663.4'
+  cdu_secondary:
+  - '613.2'
+  - '615.32'
+  cdu_description: 663.4 Bebidas fermentadas ou não fermentadas; 613.2 Dietética, regime alimentar; 615.32 Substâncias vegetais como medicamentos
+---
       Aprenda a fazer ginger aleundefined o refrigerante de gengibreundefined que combate dores e estimula o metabolismo | Cura pela Natureza.com.br
     
 

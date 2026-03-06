@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:52.129252+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: processos_de_design_complexos
+    weight: 9
+    confidence: 0.9
+  - name: design_thinking_metodo
+    weight: 10
+    confidence: 0.95
+  - name: empatia_no_design
+    weight: 8
+    confidence: 0.85
+  - name: colaboracao_em_design
+    weight: 7
+    confidence: 0.8
+  - name: experimentacao_e_testes_de_hipoteses
+    weight: 8
+    confidence: 0.85
+  - name: modelos_de_implementacao_design
+    weight: 7
+    confidence: 0.75
+  - name: double_diamond_design
+    weight: 8
+    confidence: 0.88
+  - name: pensamento_divergente_convergente
+    weight: 7
+    confidence: 0.78
+  - name: impacto_design_valor_cliente
+    weight: 9
+    confidence: 0.92
+  - name: metricas_satisfacao_cliente_design
+    weight: 8
+    confidence: 0.87
+  cdu_primary: '004.9'
+  cdu_secondary:
+  - '658.5'
+  - '159.9'
+  cdu_description: 004.9 - Processamento de dados. Gestão de dados. Inteligência artificial. Sistemas de informação. Processos de design e desenvolvimento de software. 658.5 - Gestão da produção. Organização do trabalho. 159.9 - Psicologia.
+---
 Link: https://educa.voce.[[serpro]].gov.br/course/view.php?id=337
 
 ## Introdução

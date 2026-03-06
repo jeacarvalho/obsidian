@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:23.957743+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: relacionamento_familiar_pos_divorcio
+    weight: 10
+    confidence: 0.98
+  - name: impacto_emocional_divorcio_filhos
+    weight: 9
+    confidence: 0.95
+  - name: conflito_entre_pais_divorciados
+    weight: 8
+    confidence: 0.92
+  - name: mediacao_familiar_indesejada
+    weight: 7
+    confidence: 0.9
+  - name: necessidade_de_autonomia_emocional_pais
+    weight: 6
+    confidence: 0.88
+  - name: aceitacao_novos_relacionamentos_pos_divorcio
+    weight: 7
+    confidence: 0.85
+  - name: perspectivas_diferentes_sobre_casamento_terminado
+    weight: 6
+    confidence: 0.82
+  - name: comunicacao_familiar_apos_separacao
+    weight: 5
+    confidence: 0.8
+  - name: definicao_de_limites_emocionais
+    weight: 8
+    confidence: 0.87
+  - name: desejo_de_paz_familiar
+    weight: 9
+    confidence: 0.93
+  cdu_primary: '316.47'
+  cdu_secondary:
+  - '305.8'
+  - '316.34'
+  cdu_description: Sociologia das relações familiares e sociais, com ênfase nas dinâmicas pós-divórcio e na comunicação interpessoal.
+---
 pai e mãe
 
 Pai e mãe (essa mensagem vai para vocês dois)

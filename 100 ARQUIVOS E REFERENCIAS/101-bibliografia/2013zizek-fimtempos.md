@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:59.205754+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desilusao_pos_comunismo
+    weight: 9
+    confidence: 0.98
+  - name: nostalgia_regimes_passados
+    weight: 8
+    confidence: 0.97
+  - name: ascensao_extremismo_politico
+    weight: 7
+    confidence: 0.96
+  - name: critica_transicao_capitalista
+    weight: 8
+    confidence: 0.95
+  - name: aspiracoes_populares_contraditorias
+    weight: 7
+    confidence: 0.94
+  - name: falhas_sistemas_politicos
+    weight: 6
+    confidence: 0.93
+  - name: populismo_direita_reacao
+    weight: 7
+    confidence: 0.92
+  - name: desigualdades_sociais_pos_queda_muro
+    weight: 8
+    confidence: 0.91
+  - name: luto_social_futuro_incerto
+    weight: 6
+    confidence: 0.9
+  - name: necessidade_luta_emancipatoria
+    weight: 9
+    confidence: 0.98
+  cdu_primary: '323.2'
+  cdu_secondary:
+  - '316.4'
+  - '330.5'
+  - '329.1'
+  cdu_description: O tema central aborda a análise política e social da Europa Oriental pós-comunismo, focando na desilusão, nostalgia, ascensão do extremismo e a necessidade de novas lutas. A CDU primária 323.2 (Movimentos sociais e políticos. Agitação. Revolução. Contrarrevolução) abrange a natureza dos movimentos e reações pós-transição. As secundárias incluem 316.4 (Mudança social), 330.5 (Economia política e social) e 329.1 (Movimentos e partidos políticos de direita).
+---
 # Cap 1
 
 ## analise: 

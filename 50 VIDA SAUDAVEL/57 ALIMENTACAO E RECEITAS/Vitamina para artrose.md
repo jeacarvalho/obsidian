@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:52.535163+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: tratamento_dores_articulares
+    weight: 10
+    confidence: 0.98
+  - name: vitamina_aveia_gelatina
+    weight: 9
+    confidence: 0.97
+  - name: alivio_dores_joelho
+    weight: 9
+    confidence: 0.96
+  - name: propriedades_anti_inflamatorias_bromelina
+    weight: 8
+    confidence: 0.95
+  - name: beneficios_colageno_articulacoes
+    weight: 8
+    confidence: 0.94
+  - name: fortalecimento_ossos_tendoes
+    weight: 7
+    confidence: 0.93
+  - name: nutrientes_vitamina_c_manganes
+    weight: 7
+    confidence: 0.92
+  - name: receita_caseira_saude_articular
+    weight: 6
+    confidence: 0.91
+  - name: prevencao_artrite_osteoporose
+    weight: 6
+    confidence: 0.9
+  - name: alimentacao_esportistas_lesoes
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '613.2'
+  cdu_secondary:
+  - '616.7'
+  - '615.854'
+  cdu_description: 613.2 - Dietética. Nutrição. Alimentação. 616.7 - Doenças do aparelho locomotor. 615.854 - Terapias naturais. Medicina alternativa.
+---
 [[Receitas diversas]]
 
   

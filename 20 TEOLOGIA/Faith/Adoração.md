@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:15.807224+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceito_de_adoracao_biblica
+    weight: 10
+    confidence: 0.98
+  - name: fundamento_da_adoracao_em_genesis
+    weight: 9
+    confidence: 0.95
+  - name: adoracao_como_servico_a_deus
+    weight: 8
+    confidence: 0.92
+  - name: adoracao_no_contexto_moderno_e_pos_moderno
+    weight: 7
+    confidence: 0.88
+  - name: manifestacoes_religiosas_no_brasil
+    weight: 6
+    confidence: 0.85
+  - name: adoracao_como_mandamento_divino
+    weight: 7
+    confidence: 0.9
+  - name: adoracao_como_fruto_de_relacionamento
+    weight: 8
+    confidence: 0.93
+  - name: adoracao_como_remedio_para_alma
+    weight: 7
+    confidence: 0.89
+  - name: escatologia_e_adoracao_futura
+    weight: 6
+    confidence: 0.87
+  - name: historia_de_abarao_e_adoracao
+    weight: 9
+    confidence: 0.96
+  cdu_primary: '28'
+  cdu_secondary:
+  - '23'
+  - '24'
+  - '26'
+  cdu_description: Religião. Teologia. Religião cristã. Teologia cristã. Doutrinas cristãs. Prática cristã.
+---
 Estudo adoracao
 
 [[Deuteronômio]] 26:10 E 30:17- diferencas entre versoes: prostaras e adoraras. Josue, Rute nao tem "adora" [[Juízes]] 2 - desvio de Deus sempre descamba para desvio na adoracao genuina

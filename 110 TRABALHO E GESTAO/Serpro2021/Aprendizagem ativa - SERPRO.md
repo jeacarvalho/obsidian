@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:55.208545+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pilares_aprendizagem_continua
+    weight: 10
+    confidence: 0.98
+  - name: aprender_a_conhecer
+    weight: 8
+    confidence: 0.95
+  - name: aprender_a_fazer
+    weight: 8
+    confidence: 0.95
+  - name: aprender_a_conviver
+    weight: 8
+    confidence: 0.95
+  - name: aprender_a_ser
+    weight: 8
+    confidence: 0.95
+  - name: metodologias_ativas_ensino
+    weight: 9
+    confidence: 0.97
+  - name: sala_de_aula_invertida
+    weight: 7
+    confidence: 0.9
+  - name: ensino_hibrido
+    weight: 7
+    confidence: 0.9
+  - name: aprendizagem_baseada_em_projetos
+    weight: 7
+    confidence: 0.9
+  - name: desenvolvimento_carreira_antifragil
+    weight: 9
+    confidence: 0.96
+  cdu_primary: '37.01'
+  cdu_secondary:
+  - 37.018.4
+  - 37.011.3
+  - 37.011.4
+  - 37.011.5
+  - 37.011.6
+  cdu_description: Teoria e prática da educação. Métodos e técnicas de ensino. Educação permanente. Ensino híbrido. Sala de aula invertida. Aprendizagem baseada em projetos. Desenvolvimento de carreira.
+---
 - metodologias + [[estratégia]] a seguir
 - 4 pilares do lifelong learning (Lifelong learning)
 	- Aprender a conhecer

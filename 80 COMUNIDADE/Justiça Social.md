@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:51.671742+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desigualdade_renda_brasil
+    weight: 10
+    confidence: 0.98
+  - name: carga_tributaria_desigual
+    weight: 9
+    confidence: 0.97
+  - name: inflacao_familias_pobres
+    weight: 9
+    confidence: 0.96
+  - name: abismo_social_grande_rio
+    weight: 8
+    confidence: 0.95
+  - name: pobreza_infantil_brasil
+    weight: 8
+    confidence: 0.94
+  - name: ranking_idh_brasil
+    weight: 7
+    confidence: 0.93
+  - name: homicidios_brasil
+    weight: 7
+    confidence: 0.92
+  - name: corrupcao_policial_rio_janeiro
+    weight: 6
+    confidence: 0.91
+  - name: escassez_agua_global
+    weight: 6
+    confidence: 0.9
+  - name: justica_social_biblia
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '316.4'
+  cdu_secondary:
+  - '330.5'
+  - '323.3'
+  - 27-29
+  cdu_description: Sociologia da desigualdade social, estratificação social, pobreza, desenvolvimento humano, criminalidade e religião no contexto brasileiro e global.
+---
 Como ter justiça social no Brasil quando [[Renda media de metade dos trabalhadores brasileiros e inferior a um salario minimo]]? Como o estudo da ONU mostra, [[o Brasil cobra mais impostos de pobres do que dos mais ricos]]. Não é de se estranhar, então, que a [[Inflação para famílias mais pobres é 10 vezes maior que para mais ricas em 2020]]
 
 Dentro do mesmo estado temos esse [[Abismo social marca diferenças entre 21 cidades do Grande Rio]] e um [[Relatório que mostra que 40% das crianças no país vive]]

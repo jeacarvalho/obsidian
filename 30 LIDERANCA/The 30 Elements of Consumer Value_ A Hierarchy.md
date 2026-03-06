@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:03.259211+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: elementos_de_valor_do_consumidor
+    weight: 10
+    confidence: 0.98
+  - name: hierarquia_de_necessidades_de_maslow
+    weight: 9
+    confidence: 0.95
+  - name: valor_funcional
+    weight: 8
+    confidence: 0.92
+  - name: valor_emocional
+    weight: 8
+    confidence: 0.92
+  - name: valor_que_muda_a_vida
+    weight: 7
+    confidence: 0.9
+  - name: impacto_social_do_valor
+    weight: 7
+    confidence: 0.9
+  - name: percepcao_de_valor_do_cliente
+    weight: 6
+    confidence: 0.88
+  - name: analise_de_escolha_discreta
+    weight: 6
+    confidence: 0.85
+  - name: lealdade_do_cliente
+    weight: 5
+    confidence: 0.8
+  - name: crescimento_de_receita
+    weight: 5
+    confidence: 0.78
+  cdu_primary: '658.8'
+  cdu_secondary:
+  - '159.94'
+  - '305.8'
+  cdu_description: Gestão de marketing e vendas, com foco em valor para o consumidor e sua relação com a psicologia e impacto social.
+---
 The 30 Elements of Consumer Value: A Hierarchy
 
 # The 30 Elements of Consumer Value

@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:40.442210+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: experiencia_poder_deus_elias
+    weight: 8
+    confidence: 0.9
+  - name: medo_jezabel_elias
+    weight: 7
+    confidence: 0.85
+  - name: jornada_elias_horebe
+    weight: 9
+    confidence: 0.92
+  - name: comparacao_jesus_deserto
+    weight: 6
+    confidence: 0.75
+  - name: moises_monte_quarenta_dias
+    weight: 7
+    confidence: 0.8
+  - name: manifestacao_deus_vento_terremoto_fogo
+    weight: 10
+    confidence: 0.98
+  - name: presenca_deus_cicio_suave
+    weight: 9
+    confidence: 0.95
+  - name: vocacao_eliseu_profeta_substituto
+    weight: 8
+    confidence: 0.88
+  - name: vocacao_jeu_rei_israel
+    weight: 7
+    confidence: 0.82
+  - name: profeta_destruidor_eliseu
+    weight: 8
+    confidence: 0.87
+  cdu_primary: '222.9'
+  cdu_secondary: []
+  cdu_description: Livros históricos. Antigo Testamento. Livros dos Reis. Livro de Reis I.
+---
 1 Reis 19:3 (Bíblia Almeida Strong) Temendo, pois, Elias, levantou-se, e, para salvar sua vida, se foi, e chegou a Berseba, que pertence a Judá; e ali deixou o seu moço.
 - A vida com Deus não é linear . Elaine acabara de experimentar o poder de Deus. Fogo do céu desceu. Mas, mesmo assim, temeu Jezabel.
 

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:31.331774+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: regra_80_20_produtividade
+    weight: 8
+    confidence: 0.9
+  - name: foco_em_prioridades
+    weight: 9
+    confidence: 0.95
+  - name: definicao_de_resultados
+    weight: 7
+    confidence: 0.85
+  - name: registro_de_ideias
+    weight: 6
+    confidence: 0.8
+  - name: eliminacao_de_tarefas_triviais
+    weight: 7
+    confidence: 0.88
+  - name: tecnica_de_ignorar
+    weight: 5
+    confidence: 0.75
+  - name: superacao_de_bloqueio_criativo_rascunho
+    weight: 8
+    confidence: 0.92
+  - name: valorizacao_do_tempo
+    weight: 10
+    confidence: 0.98
+  - name: visualizacao_do_produto_final
+    weight: 7
+    confidence: 0.87
+  - name: mapa_mental_para_organizacao_de_ideias
+    weight: 6
+    confidence: 0.82
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '005.3'
+  - '65.01'
+  cdu_description: Psicologia da mente. Gestão do tempo e produtividade. Administração e organização.
+---
 - [[2020kadavy- Mind Management#^389e75]]
 
 **Mente**

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:02.623494+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_critica_social
+    weight: 10
+    confidence: 0.98
+  - name: pecado_social
+    weight: 9
+    confidence: 0.97
+  - name: salvacao_super_pessoal
+    weight: 9
+    confidence: 0.96
+  - name: reino_de_deus_imanente
+    weight: 8
+    confidence: 0.95
+  - name: igreja_como_graca_social
+    weight: 8
+    confidence: 0.94
+  - name: trabalho_e_santificacao
+    weight: 7
+    confidence: 0.93
+  - name: critica_ao_capitalismo_predatorio
+    weight: 7
+    confidence: 0.92
+  - name: teologia_publica_encarnada
+    weight: 6
+    confidence: 0.91
+  - name: silenciamento_racial_estrutural
+    weight: 6
+    confidence: 0.89
+  - name: influencia_de_walter_rauschenbusch
+    weight: 5
+    confidence: 0.9
+  cdu_primary: 27-29
+  cdu_secondary:
+  - 316.334.2
+  - '322'
+  cdu_description: Teologia cristã com foco em questões sociais e políticas, abordando o conceito de pecado social e a necessidade de transformação das estruturas sociais, com ênfase na crítica ao capitalismo e na atuação da igreja como agente de mudança social. Inclui também a análise da ausência de uma discussão racial estrutural explícita.
+---
 # CURADORIA INTELECTUAL: WALTER RAUSCHENBUSCH & DOROTHY DAY
 ## *Spiritualities of Social Engagement*
 

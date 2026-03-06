@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:32.292377+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: aventura_ciclistica_salvador_nova_york
+    weight: 10
+    confidence: 0.98
+  - name: rubens_pinheiro_biografia
+    weight: 9
+    confidence: 0.97
+  - name: viagem_transcontinental_america
+    weight: 8
+    confidence: 0.96
+  - name: historia_jovem_viajante
+    weight: 7
+    confidence: 0.95
+  - name: superacao_desafios_viagem
+    weight: 7
+    confidence: 0.94
+  - name: cotidiano_ciclista_anos_1920
+    weight: 6
+    confidence: 0.93
+  - name: relatos_jornalisticos_aventura
+    weight: 6
+    confidence: 0.92
+  - name: cultura_baiana_identidade
+    weight: 5
+    confidence: 0.91
+  - name: intercambio_cultural_america
+    weight: 5
+    confidence: 0.9
+  - name: motivacao_competicao_viagem
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '910.4'
+  cdu_secondary:
+  - '070.1'
+  - '379.8'
+  - '981'
+  cdu_description: Viagens e explorações. Relatos de viagens. Biografias de viajantes. Jornalismo. Esportes. História do Brasil.
+---
 A incrível história do adolescente baiano que pedalou de Salvador a Nova York 90 anos atrás
 
 # A incrível história do adolescente baiano que pedalou de Salvador a Nova York 90 anos atrás

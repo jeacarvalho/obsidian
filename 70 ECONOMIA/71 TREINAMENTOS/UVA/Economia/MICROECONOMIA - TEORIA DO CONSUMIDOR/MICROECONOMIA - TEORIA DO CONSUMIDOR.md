@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.296530+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: custo_irrecuperavel
+    weight: 8
+    confidence: 0.9
+  - name: custo_reembolsavel
+    weight: 7
+    confidence: 0.85
+  - name: custo_de_oportunidade
+    weight: 9
+    confidence: 0.95
+  - name: escolhas_racionais
+    weight: 8
+    confidence: 0.9
+  - name: escolhas_irracionais
+    weight: 7
+    confidence: 0.85
+  - name: tomada_de_decisao_economica
+    weight: 9
+    confidence: 0.95
+  - name: aspectos_relevantes_decisao
+    weight: 7
+    confidence: 0.8
+  - name: analise_de_custos
+    weight: 8
+    confidence: 0.9
+  - name: consequencias_decisao_incorreta
+    weight: 7
+    confidence: 0.85
+  - name: microeconomia_aplicada
+    weight: 6
+    confidence: 0.7
+  cdu_primary: '330.1'
+  cdu_secondary:
+  - '330.111'
+  - '330.112'
+  cdu_description: Teoria econômica geral. Microeconomia. Macroeconomia. Teoria da decisão. Teoria dos custos.
+---
 [[Economia]]
 # Referência
 ## Básica

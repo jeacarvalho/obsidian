@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:30.415697+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: tentacao_de_jesus_no_deserto
+    weight: 10
+    confidence: 0.98
+  - name: influencia_do_espirito_santo
+    weight: 9
+    confidence: 0.95
+  - name: resistencia_ao_diabo
+    weight: 8
+    confidence: 0.92
+  - name: importancia_do_discipulado_na_palavra
+    weight: 7
+    confidence: 0.9
+  - name: autoridade_e_gloria_dos_reinos
+    weight: 6
+    confidence: 0.85
+  - name: natureza_do_diabo
+    weight: 5
+    confidence: 0.8
+  - name: poder_do_espirito_em_jesus
+    weight: 7
+    confidence: 0.88
+  - name: consequencias_da_tentacao
+    weight: 6
+    confidence: 0.82
+  - name: oposicao_religiosa_a_jesus
+    weight: 8
+    confidence: 0.87
+  - name: reconhecimento_da_santidade_divina
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - '248.2'
+  - '273.2'
+  cdu_description: Cristologia (Jesus Cristo) - Vida e obra de Jesus - Tentação de Jesus; Espiritualidade cristã - Experiência religiosa; Teologia cristã - Doutrinas sobre o Diabo
+---
 GLuk 4:1 — Luk 4:2
 A tentação de Jesus
 

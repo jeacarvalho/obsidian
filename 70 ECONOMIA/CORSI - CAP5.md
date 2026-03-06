@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:43.019483+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: crise_economica_brasil_1960s
+    weight: 9
+    confidence: 0.98
+  - name: golpe_militar_1964
+    weight: 10
+    confidence: 0.99
+  - name: governo_juscelino_kubitschek
+    weight: 8
+    confidence: 0.95
+  - name: governo_janio_quadros
+    weight: 8
+    confidence: 0.96
+  - name: governo_joao_goulart
+    weight: 8
+    confidence: 0.97
+  - name: substituicao_de_importacoes
+    weight: 7
+    confidence: 0.92
+  - name: crise_politica_brasil_1960s
+    weight: 9
+    confidence: 0.98
+  - name: distribuicao_de_renda_brasil
+    weight: 7
+    confidence: 0.9
+  - name: industrializacao_substitutiva_brasil
+    weight: 7
+    confidence: 0.93
+  - name: eleicao_presidencial_1960
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '323.28'
+  cdu_secondary:
+  - '330.5'
+  - '338.1'
+  - '324.2'
+  - '308.2'
+  cdu_description: 'A CDU primária 323.28 abrange a agitação política e a revolução, que se encaixa no contexto do golpe militar e da crise política. As secundárias incluem: 330.5 (Economia em geral, com ênfase em distribuição de renda), 338.1 (Economia da produção, com foco em industrialização e substituição de importações), 324.2 (Eleições e plebiscitos, especificamente a eleição de 1960) e 308.2 (Estudos sociais e culturais do Brasil, cobrindo o período histórico e social).'
+---
 Introdução
 O período que vai do final do Governo Juscelino Kubitschek (1956-1960) ao golpe militar de abril de 1964 ainda hoje permanece envolto em uma imprecisão interpretativa oriunda de vários fatores. Tenta-se formar um consenso1 de que, a partir do último ano de Kubitschek na presidência, a economia brasileira entrara em uma crise causada por problemas estruturais do processo de substituição de importações. Essa crise segundo os partícipes desse consenso, teria desembocado no golpe e na ditadura que a ele sobreveio.
 

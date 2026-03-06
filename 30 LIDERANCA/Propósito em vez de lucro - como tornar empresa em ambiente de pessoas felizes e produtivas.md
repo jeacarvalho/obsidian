@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:02.281661+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: felicidade_no_trabalho
+    weight: 10
+    confidence: 0.98
+  - name: proposito_empresarial
+    weight: 9
+    confidence: 0.95
+  - name: gestao_de_pessoas
+    weight: 8
+    confidence: 0.92
+  - name: produtividade_corporativa
+    weight: 7
+    confidence: 0.9
+  - name: administracao_organizacional
+    weight: 7
+    confidence: 0.88
+  - name: engajamento_dos_funcionarios
+    weight: 8
+    confidence: 0.93
+  - name: cultura_empresarial
+    weight: 6
+    confidence: 0.85
+  - name: tecnologia_da_informacao
+    weight: 5
+    confidence: 0.7
+  - name: economia_do_bem_estar
+    weight: 7
+    confidence: 0.89
+  - name: significado_no_trabalho
+    weight: 9
+    confidence: 0.94
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '305.8'
+  - '658.3'
+  cdu_description: 331.1 - Relações de trabalho; 658.3 - Gestão de pessoal; 305.8 - Grupos étnicos e nacionais em geral
+---
 '[[Propósito]]' em vez de 'lucro': como tornar empresa em ambiente de pessoas felizes e produtivas
 
 # 'Propósito' em vez de 'lucro': como tornar empresa em ambiente de pessoas felizes e produtivas

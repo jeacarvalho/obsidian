@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:00:36.279898+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_crista
+    weight: 9
+    confidence: 0.98
+  - name: interpretacao_biblica
+    weight: 8
+    confidence: 0.97
+  - name: epistolas_paulinhas
+    weight: 7
+    confidence: 0.96
+  - name: livro_de_romanos
+    weight: 8
+    confidence: 0.95
+  - name: etica_crista
+    weight: 9
+    confidence: 0.94
+  - name: relacoes_interpessoais_cristas
+    weight: 7
+    confidence: 0.93
+  - name: fe_e_obras
+    weight: 6
+    confidence: 0.92
+  - name: doutrina_crista
+    weight: 8
+    confidence: 0.91
+  - name: pratica_crista
+    weight: 7
+    confidence: 0.9
+  - name: unidade_na_igreja
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '227.5'
+  cdu_secondary:
+  - '230'
+  - '241'
+  cdu_description: Epístolas de Paulo. Cartas aos Romanos. Teologia cristã. Ética cristã.
+---
 Romanos 14:1‭-‬3 NAA Acolham quem é fraco na fé, não, porém, para discutir opiniões. Um crê que pode comer de tudo, mas quem é fraco na fé come legumes. Quem come de tudo não deve desprezar o que não come; e o que não come não deve julgar o que come de tudo, porque Deus o acolheu.
 - Nem todos conseguimos debater
 - Não é prioridade entre nós. O debate é bom, traz crescimento, mas para aqueles que já tem alguma [[experiência]].

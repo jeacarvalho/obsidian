@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:46.670760+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: usos_especiais_tempos_verbais
+    weight: 10
+    confidence: 0.98
+  - name: presente_do_indicativo_valor_preterito
+    weight: 8
+    confidence: 0.95
+  - name: presente_do_indicativo_valor_futuro
+    weight: 7
+    confidence: 0.93
+  - name: preterito_imperfeito_valor_futuro_preterito
+    weight: 8
+    confidence: 0.94
+  - name: mais_que_perfeito_valor_futuro_preterito
+    weight: 7
+    confidence: 0.92
+  - name: mais_que_perfeito_valor_preterito_imperfeito_subjuntivo
+    weight: 7
+    confidence: 0.91
+  - name: mais_que_perfeito_oracoes_optativas
+    weight: 6
+    confidence: 0.9
+  - name: futuro_do_presente_valor_presente_duvida
+    weight: 7
+    confidence: 0.93
+  - name: formacao_imperativo_negativo
+    weight: 9
+    confidence: 0.96
+  - name: formacao_imperativo_afirmativo
+    weight: 9
+    confidence: 0.96
+  cdu_primary: '803.1'
+  cdu_secondary: []
+  cdu_description: Língua Portuguesa - Gramática - Morfologia Verbal - Tempos e Modos Verbais e Formação do Imperativo
+---
 http://eadunil.editoraunesp.com.br/mod/page/view.php?id=20866
 
 # PR-T2101A: TÓPICO DE GRAMÁTICA - Verbo 1

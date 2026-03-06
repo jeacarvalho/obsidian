@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:57.381890+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: oracle_exacc_nuvem_governo
+    weight: 10
+    confidence: 0.98
+  - name: relatorio_final_poc_sunin
+    weight: 8
+    confidence: 0.95
+  - name: billing_poc_oracle
+    weight: 7
+    confidence: 0.92
+  - name: compartment_oracle_serpro
+    weight: 6
+    confidence: 0.88
+  - name: terraform_infraestrutura_nuvem
+    weight: 5
+    confidence: 0.85
+  - name: gestao_identidade_acesso_oracle
+    weight: 7
+    confidence: 0.9
+  - name: modelo_negocio_exacc_csm
+    weight: 9
+    confidence: 0.96
+  - name: seguranca_operacional_nuvem_publica
+    weight: 8
+    confidence: 0.93
+  - name: backup_dados_cliente_serpro
+    weight: 7
+    confidence: 0.91
+  - name: particularidades_exacc_regiao
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '004.77'
+  cdu_secondary:
+  - '351.8'
+  - '658.8'
+  cdu_description: Sistemas de computação em nuvem para governo, com foco em infraestrutura Oracle ExaCC, gestão de identidade e acesso, modelo de negócio e segurança operacional.
+---
 | Histórico de documentos                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [https://git.serpro/CDINO/Iniciativas/stacks-nuvem-de-governo/oracle-exacc/-/issues/1](https://git.serpro/CDINO/Iniciativas/stacks-nuvem-de-governo/oracle-exacc/-/issues/1 "https://git.serpro/cdino/iniciativas/stacks-nuvem-de-governo/oracle-exacc/-/issues/1") |

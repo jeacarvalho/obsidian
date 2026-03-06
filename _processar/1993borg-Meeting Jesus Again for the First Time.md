@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:20:57.759956+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: jesus_historico_politica_judaica
+    weight: 10
+    confidence: 0.98
+  - name: critica_sistema_pureza_poder
+    weight: 9
+    confidence: 0.97
+  - name: economia_moral_reino_alternativa
+    weight: 8
+    confidence: 0.96
+  - name: distincao_conversao_captura_religiosa
+    weight: 7
+    confidence: 0.95
+  - name: spirit_person_jesus_misticismo
+    weight: 6
+    confidence: 0.93
+  - name: politica_compasao_vs_pureza
+    weight: 8
+    confidence: 0.94
+  - name: sabedoria_subversiva_jesus
+    weight: 7
+    confidence: 0.92
+  - name: jesus_sophia_encarnada_cristologia
+    weight: 6
+    confidence: 0.91
+  - name: analise_politico_economica_pureza
+    weight: 7
+    confidence: 0.9
+  - name: critica_jesus_escatologico
+    weight: 5
+    confidence: 0.88
+  cdu_primary: 27-22
+  cdu_secondary:
+  - '230.1'
+  - '261.7'
+  - '305.8'
+  cdu_description: '27-22: História do Cristianismo e da Igreja. 230.1: Teologia Cristã. 261.7: Cristianismo e Sociedade. 305.8: Relações étnicas e raciais; grupos sociais.'
+---
 ### 🔑 PASSO 1: ATIVAÇÃO DA LENTE DISCIPLINAR
 
 **LENTE ATIVADA: MODO TEOLÓGICO-CRÍTICO → Jesus & Evangelhos (História e Política)**  

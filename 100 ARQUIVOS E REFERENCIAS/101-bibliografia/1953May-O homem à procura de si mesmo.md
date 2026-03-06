@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:00.250194+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: vazio_existencial_homem_moderno
+    weight: 10
+    confidence: 0.98
+  - name: solidao_medo_aceitacao_social
+    weight: 9
+    confidence: 0.97
+  - name: ansiedade_ameaca_ao_self
+    weight: 9
+    confidence: 0.96
+  - name: homem_radar_conformidade_social
+    weight: 8
+    confidence: 0.95
+  - name: incapacidade_agir_vida_propria
+    weight: 7
+    confidence: 0.94
+  - name: crise_identidade_autenticidade
+    weight: 7
+    confidence: 0.93
+  - name: impacto_redes_sociais_validacao_externa
+    weight: 8
+    confidence: 0.92
+  - name: precarizacao_trabalho_instabilidade_economica
+    weight: 6
+    confidence: 0.91
+  - name: saude_mental_jovens_era_digital
+    weight: 7
+    confidence: 0.9
+  - name: reforco_autoconsciencia_superacao_crise
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '159.96'
+  cdu_secondary:
+  - '316.6'
+  - '305.8'
+  cdu_description: 159.96 - Estados de ânimo e de espírito. 316.6 - Psicologia social. 305.8 - Sociologia da vida quotidiana. Relações sociais.
+---
 # Capítulo 1. A Solidão E Ansiedade Do Homem Moderno
 
 ## Entendendo o capítulo

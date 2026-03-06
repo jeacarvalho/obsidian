@@ -2,11 +2,48 @@
 created: 2022-02-15T14:58:09 (UTC -03:00)
 tags: []
 source: https://hbr.org/2022/02/we-need-universal-esg-accounting-standards?utm_campaign=hbr&utm_medium=social&utm_source=twitter
-author: by 
-
-Robert G. Eccles
- and 
-Bhakti Mirchandani
+author: by Robert G. Eccles and Bhakti Mirchandani
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T18:43:25.977189+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: padroes_contabilidade_esg
+    weight: 10
+    confidence: 0.98
+  - name: issb_international_sustainability_standards_board
+    weight: 10
+    confidence: 0.97
+  - name: relatorios_sustentabilidade_corporativa
+    weight: 9
+    confidence: 0.96
+  - name: normas_contabilidade_financeira
+    weight: 8
+    confidence: 0.94
+  - name: materialidade_dupla_esg
+    weight: 7
+    confidence: 0.92
+  - name: greenwashing_relatorios_esg
+    weight: 7
+    confidence: 0.91
+  - name: integracao_financeira_sustentabilidade
+    weight: 6
+    confidence: 0.9
+  - name: normas_contabilidade_internacional_ifrs
+    weight: 6
+    confidence: 0.89
+  - name: participacao_empresarial_padroes_esg
+    weight: 5
+    confidence: 0.88
+  - name: auditoria_relatorios_sustentabilidade
+    weight: 5
+    confidence: 0.87
+  cdu_primary: '657.3'
+  cdu_secondary:
+  - '330.14'
+  - '330.32'
+  - 005.336.22
+  cdu_description: Contabilidade e auditoria de relatórios de sustentabilidade e ESG, com foco em normas internacionais e sua integração com relatórios financeiros.
 ---
 
 # We Need Universal [[ESG]] Accounting Standards

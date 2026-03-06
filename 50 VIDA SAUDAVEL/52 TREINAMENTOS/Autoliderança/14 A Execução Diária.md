@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:49.130219+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: execucao_diaria_eficiente
+    weight: 10
+    confidence: 0.98
+  - name: ritmo_circadiano_produtividade
+    weight: 9
+    confidence: 0.95
+  - name: gerenciamento_tempo_picos_vales
+    weight: 8
+    confidence: 0.92
+  - name: otimizacao_tarefas_cronotipo
+    weight: 7
+    confidence: 0.9
+  - name: evitar_multitarefa_foco
+    weight: 6
+    confidence: 0.88
+  - name: gerenciamento_interrupcoes_ilhas_tempo
+    weight: 7
+    confidence: 0.87
+  - name: combate_procrastinacao_divisao_tarefas
+    weight: 8
+    confidence: 0.85
+  - name: planejamento_margem_imprevistos
+    weight: 7
+    confidence: 0.83
+  - name: recarga_energia_pausas_estrategicas
+    weight: 6
+    confidence: 0.8
+  - name: estrategias_foco_hora_ouro
+    weight: 9
+    confidence: 0.88
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '005.32'
+  - 65.012.4
+  cdu_description: Psicologia da produtividade e do desempenho; Gestão do tempo e organização do trabalho
+---
 ### [14  A Execução Diária](https://aartedaautoliderancamod-okbyyx.club.hotmart.com/lesson/37dXRyNM7L/14.-a-execucao-diaria)
 - Eficiência, [[Drucker]] - fazer as coisas certas da maneira certa
 

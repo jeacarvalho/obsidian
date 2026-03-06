@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:59.990800+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_esg_brasil
+    weight: 8
+    confidence: 0.9
+  - name: conceito_esg
+    weight: 10
+    confidence: 1.0
+  - name: tripe_sustentabilidade
+    weight: 9
+    confidence: 0.95
+  - name: pilares_esg_ambiental
+    weight: 7
+    confidence: 0.85
+  - name: pilares_esg_social
+    weight: 7
+    confidence: 0.85
+  - name: pilares_esg_governanca
+    weight: 7
+    confidence: 0.85
+  - name: evolucao_niveis_esg
+    weight: 9
+    confidence: 0.9
+  - name: motivos_adocaao_esg
+    weight: 8
+    confidence: 0.9
+  - name: atores_envolvidos_esg
+    weight: 7
+    confidence: 0.8
+  - name: metodologias_esg
+    weight: 6
+    confidence: 0.75
+  cdu_primary: 330.341.5
+  cdu_secondary:
+  - '316.47'
+  - '005.32'
+  cdu_description: Economia e desenvolvimento. Desenvolvimento sustentável. ESG (Ambiental, Social e Governança). Sociologia do desenvolvimento. Gestão empresarial.
+---
 - https://educa.voce.[[serpro]].gov.br/course/view.php?id=2853
 
 

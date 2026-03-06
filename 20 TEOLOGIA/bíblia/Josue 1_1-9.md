@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:29.623043+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lideranca_divina_em_transicao
+    weight: 9
+    confidence: 0.9
+  - name: promessas_de_deus_ao_povo
+    weight: 8
+    confidence: 0.85
+  - name: conquista_da_terra_prometida
+    weight: 7
+    confidence: 0.8
+  - name: obediencia_a_lei_divina
+    weight: 10
+    confidence: 0.95
+  - name: meditacao_na_palavra_de_deus
+    weight: 9
+    confidence: 0.9
+  - name: coragem_e_forca_em_deus
+    weight: 10
+    confidence: 0.95
+  - name: presenca_de_deus_com_o_povo
+    weight: 8
+    confidence: 0.85
+  - name: chamado_individual_e_comunitario
+    weight: 7
+    confidence: 0.75
+  - name: nova_alianca_e_espirito_santo
+    weight: 6
+    confidence: 0.7
+  - name: sucesso_atraves_da_vontade_deus
+    weight: 8
+    confidence: 0.8
+  cdu_primary: '222.1'
+  cdu_secondary: []
+  cdu_description: Livro de Josué, capítulo 1, versículos 1-9, abordando temas de liderança divina, promessas, conquista territorial, obediência à lei, meditação na palavra, coragem, presença de Deus e o chamado individual e comunitário, com referências à nova aliança e ao Espírito Santo.
+---
 Josue 1:1-9
 
 1 Sucedeu, depois da morte de Moisés, servo do SENHOR, que este falou a Josué, filho de Num, servidor de Moisés, dizendo:

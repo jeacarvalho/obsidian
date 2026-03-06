@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:26.767218+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_igreja_presbiteriana_brasil
+    weight: 10
+    confidence: 0.98
+  - name: biografia_rev_boanerges_ribeiro
+    weight: 9
+    confidence: 0.95
+  - name: trajetoria_joao_dias_araujo
+    weight: 8
+    confidence: 0.92
+  - name: posicao_politica_ipb_ditadura
+    weight: 9
+    confidence: 0.96
+  - name: pronunciamento_politico_social_1962
+    weight: 7
+    confidence: 0.9
+  - name: historia_ipfb
+    weight: 8
+    confidence: 0.93
+  - name: tempos_transicao_era_boanerges
+    weight: 7
+    confidence: 0.91
+  - name: tempos_transicao_1959_1982
+    weight: 7
+    confidence: 0.91
+  - name: periodo_organizacao_ipb_1932_1959
+    weight: 6
+    confidence: 0.88
+  - name: inquisicao_sem_fogueiras
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '284.5'
+  cdu_secondary:
+  - '323.2'
+  - '929'
+  cdu_description: Religião. Cristianismo. Protestantismo. Igrejas Presbiterianas no Brasil. História. Política. Biografias.
+---
 Fwd: Material para 3ª prova
 
 ---------- Mensagem encaminhada ----------

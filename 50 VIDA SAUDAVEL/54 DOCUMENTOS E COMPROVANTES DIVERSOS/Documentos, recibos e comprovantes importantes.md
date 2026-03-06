@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:41.292704+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: comprovantes_pagamento_contas_servicos
+    weight: 9
+    confidence: 0.98
+  - name: recibos_despesas_medicas
+    weight: 8
+    confidence: 0.95
+  - name: documentos_fiscais_imposto_renda
+    weight: 10
+    confidence: 0.99
+  - name: comprovantes_pagamento_impostos_automoveis
+    weight: 8
+    confidence: 0.96
+  - name: cancelamentos_servicos_telecomunicacoes
+    weight: 7
+    confidence: 0.92
+  - name: documentos_pessoais_identificacao
+    weight: 6
+    confidence: 0.85
+  - name: comprovantes_pagamento_iptu
+    weight: 7
+    confidence: 0.9
+  - name: solicitacoes_valores_receber_bcb
+    weight: 6
+    confidence: 0.88
+  - name: documentos_negociacao_servicos
+    weight: 5
+    confidence: 0.8
+  - name: documentos_academicos_pos_graduacao
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '336.2'
+  cdu_secondary:
+  - '336.24'
+  - '657.3'
+  - '351.71'
+  cdu_description: Finanças públicas. Finanças em geral. Tributação. Impostos. Contabilidade. Administração pública.
+---
 ## Recibos e comprovantes diversos
 [[Pagtos antecipados Up g]]
 [[cpf dna vera + ligação água]]

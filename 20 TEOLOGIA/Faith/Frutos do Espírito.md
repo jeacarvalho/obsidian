@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:21.672645+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: frutos_do_espirito
+    weight: 10
+    confidence: 0.98
+  - name: amor
+    weight: 9
+    confidence: 0.95
+  - name: paz
+    weight: 8
+    confidence: 0.92
+  - name: paciencia
+    weight: 8
+    confidence: 0.92
+  - name: bondade
+    weight: 7
+    confidence: 0.9
+  - name: fidelidade
+    weight: 7
+    confidence: 0.9
+  - name: mansidao
+    weight: 6
+    confidence: 0.88
+  - name: dominio_proprio
+    weight: 9
+    confidence: 0.96
+  - name: pecados_natureza_humana
+    weight: 7
+    confidence: 0.91
+  - name: ira
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '242'
+  cdu_secondary: []
+  cdu_description: Vida cristã. Virtudes e vícios. Frutos do Espírito.
+---
 **frutos**
 
 [[Provérbios 19]]:2 Não é bom proceder sem refletir, e peca quem é precipitado.

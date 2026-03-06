@@ -3,6 +3,47 @@ created: 2021-08-02T21:38:12 (UTC -03:00)
 tags: []
 source: https://chamook.lol/rust-web-service/
 author: By Adam Guest - 1 August 2021
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:57.690041+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: servico_web_rust
+    weight: 10
+    confidence: 0.98
+  - name: banco_de_dados_postgres
+    weight: 9
+    confidence: 0.95
+  - name: mensageria_kafka
+    weight: 9
+    confidence: 0.95
+  - name: framework_actix_web
+    weight: 8
+    confidence: 0.92
+  - name: biblioteca_tokio_postgres
+    weight: 7
+    confidence: 0.88
+  - name: pooling_conexao_deadpool
+    weight: 7
+    confidence: 0.85
+  - name: serializacao_deserializacao_serde
+    weight: 6
+    confidence: 0.8
+  - name: geracao_endpoints_http
+    weight: 6
+    confidence: 0.82
+  - name: gerenciamento_dependencias_cargo
+    weight: 5
+    confidence: 0.75
+  - name: estruturas_dados_rust
+    weight: 5
+    confidence: 0.78
+  cdu_primary: '004.77'
+  cdu_secondary:
+  - '004.62'
+  - '004.65'
+  - '004.738'
+  cdu_description: Sistemas de computadores. Redes de computadores. Serviços de rede. Aplicações de rede. Desenvolvimento de aplicações web com Rust, Postgres e Kafka.
 ---
 
 # Building a web service with Rust, Postgres and Kafka

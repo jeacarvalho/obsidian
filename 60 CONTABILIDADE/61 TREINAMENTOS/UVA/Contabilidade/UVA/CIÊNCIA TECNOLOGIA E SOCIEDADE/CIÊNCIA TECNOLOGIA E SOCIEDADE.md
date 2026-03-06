@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:41.837702+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sociedade_tecnologia_era_digital
+    weight: 10
+    confidence: 0.98
+  - name: interdisciplinaridade_ciencia_tecnologia_inovacao
+    weight: 9
+    confidence: 0.95
+  - name: filosofia_ciencia_tecnologia
+    weight: 8
+    confidence: 0.92
+  - name: inovacao_tecnologia_sustentabilidade
+    weight: 7
+    confidence: 0.9
+  - name: teoria_midias_digitais
+    weight: 8
+    confidence: 0.93
+  - name: nativos_digitais
+    weight: 9
+    confidence: 0.96
+  - name: automacao_sociedade_quarta_revolucao_industrial
+    weight: 10
+    confidence: 0.99
+  - name: infossociedade_economia_novo_milenio
+    weight: 7
+    confidence: 0.91
+  - name: relacoes_ciencia_tecnologia_sociedade
+    weight: 10
+    confidence: 0.99
+  - name: influencias_culturais_comportamentais_ciencia_tecnologia
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '303.4'
+  cdu_secondary:
+  - '316.3'
+  - '004'
+  - '608'
+  cdu_description: Metodologia das ciências sociais. Sociologia. Relações entre ciência, tecnologia e sociedade. Meios de comunicação social. Tecnologia da informação. Inovação.
+---
 # Bibliografia
 ## Básica
 - FREIRE, Emerson; BATISTA, Sueli Soares dos Santos. Sociedade e tecnologia na era digital. São Paulo: Érica, 2014. (Minha Biblioteca)  - https://integrada.minhabiblioteca.com.br/reader/books/9788536522531/pageid/0

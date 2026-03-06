@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:05.669030+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_meditacoes
+    weight: 8
+    confidence: 0.9
+  - name: crescimento_pessoal_restauracao_pedro
+    weight: 7
+    confidence: 0.85
+  - name: equilibrio_acao_contemplacao
+    weight: 6
+    confidence: 0.8
+  - name: graca_comunitaria_perdao
+    weight: 7
+    confidence: 0.88
+  - name: pratica_devocional_graca_restauracao
+    weight: 6
+    confidence: 0.82
+  - name: autoavaliacao_reacoes_pressao
+    weight: 5
+    confidence: 0.75
+  - name: engajamento_comunitario_restauracao_feridos
+    weight: 7
+    confidence: 0.87
+  - name: teologia_reformada_soberania_deus
+    weight: 9
+    confidence: 0.92
+  - name: doutrina_depravacao_total
+    weight: 8
+    confidence: 0.89
+  - name: graca_irresistivel_restauracao
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '230.9'
+  cdu_secondary:
+  - '234.2'
+  - '230.1'
+  - '226.7'
+  cdu_description: Teologia cristã; Doutrinas da graça; Teologia reformada; Novo Testamento - Evangelho de Marcos
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Marcos 14]] - 66-72
 ### **Análise Comportamental**
 

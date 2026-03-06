@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:50.385791+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: imigracao_venezuelana_brasil
+    weight: 10
+    confidence: 0.98
+  - name: familia_surda_refugiada
+    weight: 9
+    confidence: 0.97
+  - name: empreendedorismo_imigrante
+    weight: 8
+    confidence: 0.96
+  - name: superacao_deficiencia_auditiva
+    weight: 8
+    confidence: 0.94
+  - name: dificuldades_comunicacao_imigrantes
+    weight: 8
+    confidence: 0.89
+  - name: crise_venezuelana
+    weight: 9
+    confidence: 0.92
+  - name: culinaria_venezuelana_arepas
+    weight: 7
+    confidence: 0.95
+  - name: recomeco_vida_exterior
+    weight: 7
+    confidence: 0.93
+  - name: rotas_migratorias_brasil
+    weight: 7
+    confidence: 0.9
+  - name: integracao_social_imigrantes
+    weight: 6
+    confidence: 0.91
+  cdu_primary: '325.1'
+  cdu_secondary:
+  - '364.6'
+  - '394.1'
+  - '641.5'
+  cdu_description: Imigração e colonização. Imigração para o Brasil. Imigração de venezuelanos. Aspectos sociais e econômicos da imigração. Integração social. Culinária. Famílias de imigrantes. Deficiência auditiva.
+---
 Família de venezuelanos surdos reconstrói a vida vendendo arepas na zona norte do Rio
 
 # Família de venezuelanos surdos reconstrói a vida vendendo arepas na zona norte do Rio

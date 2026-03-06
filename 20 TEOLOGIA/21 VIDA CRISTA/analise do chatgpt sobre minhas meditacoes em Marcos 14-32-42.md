@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:10.470656+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: angustia_de_jesus_no_getsmani
+    weight: 10
+    confidence: 0.98
+  - name: empatia_com_a_humanidade_de_cristo
+    weight: 9
+    confidence: 0.95
+  - name: fraqueza_humana_e_depravacao_total
+    weight: 8
+    confidence: 0.92
+  - name: vigilancia_espiritual_crista
+    weight: 7
+    confidence: 0.9
+  - name: submissao_de_cristo_a_vontade_divina
+    weight: 9
+    confidence: 0.96
+  - name: teologia_reformada_e_cristologia
+    weight: 8
+    confidence: 0.93
+  - name: interpretacao_biblica_de_marcos_14
+    weight: 7
+    confidence: 0.88
+  - name: estudo_teologico_sobre_o_sofrimento_de_cristo
+    weight: 6
+    confidence: 0.85
+  - name: aconselhamento_pastoral_e_empatia
+    weight: 5
+    confidence: 0.8
+  - name: pregacao_baseada_em_textos_biblicos
+    weight: 6
+    confidence: 0.82
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - '230.3'
+  - '273.6'
+  cdu_description: Cristologia (232.9), Teologia Sistemática (230.3), Protestantismo Reformado (273.6)
+---
 #### analise do chatgpt sobre minhas meditações em [[Marcos 14]]:32-42
 
 ### **Análise Comportamental**

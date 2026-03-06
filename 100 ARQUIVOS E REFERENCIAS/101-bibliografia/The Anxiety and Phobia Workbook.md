@@ -1,3 +1,43 @@
+---
+topic_classification:
+  cdu_description: 616.89 Doenças mentais. Psiquiatria. 159.975 Psicologia clínica.
+    Psicopatologia. 615.851 Psicoterapia. Terapia comportamental.
+  cdu_primary: '616.89'
+  cdu_secondary:
+  - '159.975'
+  - '615.851'
+  topics:
+  - confidence: 0.98
+    name: transtornos_de_ansiedade_classificacao
+    weight: 10
+  - confidence: 0.95
+    name: diferenca_ansiedade_medo
+    weight: 8
+  - confidence: 0.92
+    name: sintomas_fisiologicos_ansiedade
+    weight: 7
+  - confidence: 0.96
+    name: transtorno_do_panico_agorafobia
+    weight: 8
+  - confidence: 0.96
+    name: fobia_social_fobia_especifica
+    weight: 8
+  - confidence: 0.96
+    name: tag_t_thlyl_obsessivo_compulsivo
+    weight: 8
+  - confidence: 0.97
+    name: criterios_diagnosticos_dsm_5
+    weight: 9
+  - confidence: 0.98
+    name: tratamento_ansiedade_terapia_cognitivo_comportamental
+    weight: 9
+  - confidence: 0.95
+    name: terapia_exposicao_ansiedade
+    weight: 8
+  - confidence: 0.9
+    name: mindfulness_terapia_aceitacao_compromisso
+    weight: 7
+---
 ## Arquivos
 - ![[The Anxiety and Phobia Workbook.zip]]
 

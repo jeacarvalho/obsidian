@@ -3,6 +3,46 @@ created: 2024-05-16T14:00:41 (UTC -03:00)
 tags: []
 source: https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13
 author: Bre Pettis
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:40.209106+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: manifesto_da_cultura_do_feito
+    weight: 10
+    confidence: 0.98
+  - name: criatividade_desenfreada
+    weight: 9
+    confidence: 0.95
+  - name: superacao_da_procrastinacao
+    weight: 8
+    confidence: 0.92
+  - name: importancia_da_acao
+    weight: 7
+    confidence: 0.9
+  - name: conceito_de_feito
+    weight: 6
+    confidence: 0.88
+  - name: rejeicao_da_perfeicao
+    weight: 5
+    confidence: 0.85
+  - name: colaboracao_na_escrita
+    weight: 5
+    confidence: 0.8
+  - name: licenca_creative_commons
+    weight: 5
+    confidence: 0.75
+  - name: processo_criativo
+    weight: 7
+    confidence: 0.88
+  - name: publicacao_na_internet
+    weight: 5
+    confidence: 0.7
+  cdu_primary: 159.947.2
+  cdu_secondary:
+  - '005.32'
+  - '004.77'
+  cdu_description: Psicologia da motivação e da vontade; Criatividade; Gestão de projetos; Publicação online
 ---
 
 [[bungay2011-The art of action]]

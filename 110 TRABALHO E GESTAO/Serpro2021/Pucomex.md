@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:58.229788+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: melhoria_codigo_cct_exp
+    weight: 8
+    confidence: 0.9
+  - name: otimizacao_scripts_rnf
+    weight: 7
+    confidence: 0.85
+  - name: processamento_assincrono_requisito_negocio
+    weight: 7
+    confidence: 0.8
+  - name: monitoramento_elastic_cnpj
+    weight: 8
+    confidence: 0.9
+  - name: gerenciamento_ibm_mq
+    weight: 9
+    confidence: 0.95
+  - name: migracao_pucomex_tibco
+    weight: 7
+    confidence: 0.8
+  - name: otimizacao_consultas_sedat
+    weight: 6
+    confidence: 0.75
+  - name: evolucao_devops_dides
+    weight: 6
+    confidence: 0.7
+  - name: uso_elastic_base_unica_sistemas
+    weight: 9
+    confidence: 0.95
+  - name: sincronismo_acd_due
+    weight: 8
+    confidence: 0.85
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '004.8'
+  - '004.7'
+  - '004.6'
+  - '004.5'
+  cdu_description: Ciência da computação. Organização e gestão da informação. Processamento de dados. Sistemas de informação. Redes de computadores. Programação. Engenharia de software. Gestão de projetos de TI.
+---
 ___
 ## 20220710 - CCT Exp melhora de código
 - Ver com Paranhos e MOtta alocação do Caçador e Vítor

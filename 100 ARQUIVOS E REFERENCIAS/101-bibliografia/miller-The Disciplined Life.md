@@ -2,7 +2,47 @@
 created: 2021-07-28T10:40:37 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.84/f346a9dcae23/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T23:06:49.142396+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fome_espiritual_por_deus
+    weight: 10
+    confidence: 0.98
+  - name: intimidade_com_cristo
+    weight: 9
+    confidence: 0.97
+  - name: espirito_santo_preenchendo_vazio
+    weight: 8
+    confidence: 0.95
+  - name: competicao_nao_santificada_entre_cristaos
+    weight: 7
+    confidence: 0.92
+  - name: satisfacao_na_vida_com_deus
+    weight: 8
+    confidence: 0.96
+  - name: dedicacao_total_a_deus
+    weight: 9
+    confidence: 0.94
+  - name: oferta_de_dias_como_sacrificio
+    weight: 7
+    confidence: 0.9
+  - name: quietude_e_adoracao_a_deus
+    weight: 8
+    confidence: 0.93
+  - name: tempo_divino_kairos_vs_tempo_humano_chronos
+    weight: 9
+    confidence: 0.91
+  - name: proposito_cristao_glorificar_a_deus
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '230'
+  cdu_secondary:
+  - '248.3'
+  - '273.2'
+  cdu_description: Teologia cristã; Vida e prática cristãs; Movimentos e correntes específicas do cristianismo
 ---
 
 ### The Disciplined Life,

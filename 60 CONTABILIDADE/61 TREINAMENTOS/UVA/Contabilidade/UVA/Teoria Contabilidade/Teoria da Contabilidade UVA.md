@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:41.600440+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_contabilidade_partidas_dobradas
+    weight: 10
+    confidence: 0.98
+  - name: evolucao_pensamento_contabil
+    weight: 9
+    confidence: 0.97
+  - name: lucas_pacioli_divulgador_contabilidade
+    weight: 8
+    confidence: 0.96
+  - name: influencia_economica_contabilidade
+    weight: 7
+    confidence: 0.94
+  - name: escolas_doutrinas_contabilidade
+    weight: 8
+    confidence: 0.95
+  - name: contabilidade_brasil_historico
+    weight: 9
+    confidence: 0.96
+  - name: mercado_trabalho_contador
+    weight: 7
+    confidence: 0.93
+  - name: teoria_contabilidade_origens_recursos
+    weight: 6
+    confidence: 0.9
+  - name: aspectos_cientificos_contabilidade
+    weight: 6
+    confidence: 0.91
+  - name: globalizacao_economia_contabilidade
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '657.09'
+  cdu_secondary:
+  - 008
+  - '330.5'
+  - '338.2'
+  cdu_description: História e evolução da contabilidade, incluindo teorias, escolas e o contexto brasileiro, com ênfase no desenvolvimento econômico e profissional.
+---
 # Bibliografia
 ## Básica 
 - ATHAR, Raimundo Aben. Introdução à Contabilidade. São Paulo: Prentice Hall, 2005 https://plataforma.bvirtual.com.br/Leitor/Publicacao/320/pdf/0?code=ymnZ6dxidMNuF0O16Y5hEMBMJHo+HaFkCwwS4ytOUiIYUbgzLM+3ZXX55O8mAbikb1rt5uaR4pGwrdqNfLbpFA==

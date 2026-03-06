@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:50.445697+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: chatbot_ia_generativa
+    weight: 9
+    confidence: 0.9
+  - name: regua_comunicacao_mensageria
+    weight: 8
+    confidence: 0.85
+  - name: gestao_redes_sociais_publico
+    weight: 7
+    confidence: 0.8
+  - name: solucao_crm_marketing_digital
+    weight: 9
+    confidence: 0.92
+  - name: tecnologias_overview
+    weight: 6
+    confidence: 0.75
+  - name: portal_web_transparencia_dados
+    weight: 8
+    confidence: 0.88
+  - name: desmaterializacao_padroes_ux_ui
+    weight: 7
+    confidence: 0.82
+  - name: multicanal_transferencia_contexto
+    weight: 7
+    confidence: 0.81
+  - name: canal_app_totem_multiplataforma
+    weight: 9
+    confidence: 0.91
+  - name: integracao_perifericos_totem
+    weight: 6
+    confidence: 0.78
+  cdu_primary: '004.77'
+  cdu_secondary:
+  - '004.894'
+  - '302.23'
+  - '659.2'
+  cdu_description: Sistemas de informação e comunicação; Redes de computadores; Inteligência artificial; Interação humano-computador; Marketing e publicidade; Gestão de redes sociais; Portais web; Aplicações móveis; Totens interativos.
+---
 ## 20250721 - Alinhamento
 -  Todo mundo perdido quanto às ações técnicas
 - Pendência de aditivo contratual quanto ao código fonte

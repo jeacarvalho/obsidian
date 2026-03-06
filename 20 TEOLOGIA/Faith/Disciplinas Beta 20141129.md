@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:14.860332+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: disciplina_espiritual
+    weight: 10
+    confidence: 0.98
+  - name: amor_a_deus_e_ao_proximo
+    weight: 9
+    confidence: 0.95
+  - name: fruto_do_espirito
+    weight: 8
+    confidence: 0.92
+  - name: dominio_proprio
+    weight: 8
+    confidence: 0.9
+  - name: perseveranca_na_fe
+    weight: 7
+    confidence: 0.88
+  - name: reconciliacao_com_deus
+    weight: 7
+    confidence: 0.85
+  - name: esforco_pessoal_na_piedade
+    weight: 6
+    confidence: 0.82
+  - name: sabedoria_divina
+    weight: 6
+    confidence: 0.8
+  - name: oracao_e_jejum
+    weight: 5
+    confidence: 0.75
+  - name: missao_apostolica
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '248.4'
+  cdu_secondary:
+  - '230.3'
+  - '241.4'
+  cdu_description: Vida cristã e prática religiosa; Doutrinas gerais da teologia cristã; Ética cristã
+---
 Disciplinas Beta 20141129
 
 [[Romanos]] 5:10

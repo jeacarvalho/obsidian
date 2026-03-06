@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:28.947403+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: escrita_testemunho_evangelho
+    weight: 7
+    confidence: 0.9
+  - name: nascimento_virginal_jesus
+    weight: 10
+    confidence: 1.0
+  - name: jesus_filho_altissimo
+    weight: 9
+    confidence: 1.0
+  - name: poder_altissimo_envolve_maria
+    weight: 6
+    confidence: 0.85
+  - name: espiritosanto_forma_pomba
+    weight: 7
+    confidence: 0.9
+  - name: doutrina_jesus_autoridade
+    weight: 8
+    confidence: 0.95
+  - name: jesus_santo_deus
+    weight: 8
+    confidence: 0.95
+  - name: jesus_filho_deus_demonios
+    weight: 9
+    confidence: 1.0
+  - name: cantico_magnificat_maria
+    weight: 7
+    confidence: 0.9
+  - name: jesus_redentor_pecados
+    weight: 9
+    confidence: 0.95
+  cdu_primary: '226.4'
+  cdu_secondary:
+  - '232.1'
+  - '231.7'
+  - '273.2'
+  cdu_description: Evangelho de Lucas, Cristologia, Teologia do Espírito Santo, Mariologia
+---
 Luk 1:3 — Luk 1:4 igualmente a mim me pareceu bem, depois de acurada investigação de tudo desde sua origem, dar-te por escrito, excelentíssimo Teófilo, uma exposição em ordem, para que tenhas plena certeza das verdades em que foste instruído.
 - Palavra escrita pra testemunho!!
 

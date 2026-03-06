@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:37.512259+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: autoconhecimento_e_reflexao
+    weight: 10
+    confidence: 0.98
+  - name: relacionamentos_interpessoais
+    weight: 9
+    confidence: 0.95
+  - name: emocoes_humanas
+    weight: 9
+    confidence: 0.97
+  - name: gestao_de_conflitos
+    weight: 8
+    confidence: 0.9
+  - name: amor_e_desilusao
+    weight: 8
+    confidence: 0.92
+  - name: teimosia_e_persistencia
+    weight: 7
+    confidence: 0.88
+  - name: compreensao_do_outro
+    weight: 7
+    confidence: 0.91
+  - name: medo_e_incerteza
+    weight: 6
+    confidence: 0.85
+  - name: raiva_e_frustracao
+    weight: 6
+    confidence: 0.87
+  - name: inveja_e_comparacao
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '177.6'
+  - '305.8'
+  cdu_description: Psicologia. Psicologia social. Psicologia das relações sociais. Psicologia da vida familiar. Psicologia da vida afetiva. Psicologia da vida social.
+---
 E se a gente começasse sempre do início? Sempre buscando desenrolar as coisas até poder ver onde começaram? E se a gente tivesse paciência suficiente para não correr pela vida, mas caminhar passeando? O que veríamos?  
   
 Talvez a gente percebesse mais vezes que no fundamento de todo esse rolo tem a gente. Nós mesmos, sim. Nossos desejos, nossas certezas, nossa teimosia.  

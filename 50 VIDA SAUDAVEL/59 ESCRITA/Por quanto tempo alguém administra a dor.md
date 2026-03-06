@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:46.843038+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: violencia_domestica_psicologica
+    weight: 10
+    confidence: 0.98
+  - name: relacionamento_abusivo
+    weight: 9
+    confidence: 0.97
+  - name: trauma_emocional
+    weight: 8
+    confidence: 0.96
+  - name: arrependimento_conjugal
+    weight: 7
+    confidence: 0.95
+  - name: esperanca_emocional
+    weight: 6
+    confidence: 0.94
+  - name: auto_aversao
+    weight: 7
+    confidence: 0.93
+  - name: memoria_afetiva
+    weight: 6
+    confidence: 0.92
+  - name: ciclos_de_violencia
+    weight: 8
+    confidence: 0.91
+  - name: reconciliacao_conjugal
+    weight: 5
+    confidence: 0.9
+  - name: superacao_pessoal
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '305.4'
+  cdu_secondary:
+  - '305.8'
+  - '159.947'
+  - '364.152'
+  cdu_description: Estudos sobre a mulher e relações de gênero; Psicologia social; Violência doméstica
+---
 [[Sobre escrever]]
 
 Por quanto tempo alguém administra a luta? A dor?  

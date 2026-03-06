@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:17.491042+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ajuda_humanitaria_moradores_de_rua
+    weight: 10
+    confidence: 0.98
+  - name: cristianismo_missao_urbana
+    weight: 9
+    confidence: 0.95
+  - name: construcao_barracas_solidarias
+    weight: 8
+    confidence: 0.92
+  - name: pastor_renato_barbosa_projeto
+    weight: 7
+    confidence: 0.9
+  - name: dizimos_e_ofertas_aplicacao_social
+    weight: 7
+    confidence: 0.88
+  - name: dificuldades_moradores_rua
+    weight: 8
+    confidence: 0.93
+  - name: preconceito_contra_moradores_rua
+    weight: 6
+    confidence: 0.85
+  - name: politicas_publicas_assistencia_social
+    weight: 5
+    confidence: 0.8
+  - name: evangelismo_abordagem_social
+    weight: 7
+    confidence: 0.89
+  - name: contribuicao_financeira_projetos_sociais
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '261.8'
+  cdu_secondary:
+  - '364.1'
+  - 27-78
+  cdu_description: 261.8 - Relações da religião com a sociedade. Religião e vida social. 364.1 - Assistência social. 27-78 - Cristianismo. Missões. Trabalho social.
+---
 Pastor usa dízimos e ofertas para contruir barracas para moradores de rua - Púlpito Cristão
 
 #  Pastor usa dízimos e ofertas para contruir barracas para moradores de rua

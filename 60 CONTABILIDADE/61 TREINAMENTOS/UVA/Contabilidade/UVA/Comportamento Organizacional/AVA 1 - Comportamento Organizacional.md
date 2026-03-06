@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:41.136205+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_departamento_producao_eventos
+    weight: 10
+    confidence: 0.98
+  - name: mudanca_sede_organizacional_salvador_sao_paulo
+    weight: 9
+    confidence: 0.97
+  - name: formacao_equipe_nova_sede
+    weight: 8
+    confidence: 0.96
+  - name: demissao_colaboradores_antiga_sede
+    weight: 8
+    confidence: 0.95
+  - name: contratacao_novos_profissionais_sede_atual
+    weight: 7
+    confidence: 0.94
+  - name: desafios_ambiente_trabalho_diferente
+    weight: 7
+    confidence: 0.93
+  - name: conceitos_comportamento_organizacional
+    weight: 6
+    confidence: 0.9
+  - name: trabalho_remoto_flexibilidade_geografica
+    weight: 6
+    confidence: 0.88
+  - name: gestao_projetos_eventos
+    weight: 5
+    confidence: 0.85
+  - name: manutencao_clima_organizacional_transicao
+    weight: 5
+    confidence: 0.82
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '658.3'
+  - '005.32'
+  cdu_description: Gestão de pessoal. Administração de pessoal. Comportamento organizacional.
+---
 [[Comportamento Organizacional]]
 # Entrega da Avaliação - Fórum de Discussão [AVA 1]
 

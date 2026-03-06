@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:36.526223+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: estado_de_fluxo
+    weight: 10
+    confidence: 0.98
+  - name: engajamento_fisico_em_atividades
+    weight: 8
+    confidence: 0.9
+  - name: clareza_de_objetivos_em_tarefas
+    weight: 9
+    confidence: 0.95
+  - name: feedback_imediato_sobre_progresso
+    weight: 9
+    confidence: 0.92
+  - name: equilibrio_desafio_habilidade
+    weight: 10
+    confidence: 0.97
+  - name: perda_de_concentracao_tarefa_facil
+    weight: 7
+    confidence: 0.85
+  - name: ansiedade_tarefa_dificil
+    weight: 7
+    confidence: 0.88
+  - name: envolvimento_profundo_e_sem_esforco
+    weight: 9
+    confidence: 0.93
+  - name: sensacao_de_controle_em_situacoes
+    weight: 8
+    confidence: 0.91
+  - name: ajuste_de_desempenho_para_manter_atencao
+    weight: 8
+    confidence: 0.89
+  cdu_primary: '159.944'
+  cdu_secondary:
+  - '305.8'
+  - '796.01'
+  cdu_description: Psicologia da performance. Estados de consciência. Psicologia do esporte e da atividade física.
+---
 #### Condições para entrar em [[Estado de Fluxo]]
 
 1.  The activity involves the use of the body. Even though it is possible to achieve flow during activities, such as reading or playing cognitive games, that are physically engaging tend to lead to deeper states of flow.

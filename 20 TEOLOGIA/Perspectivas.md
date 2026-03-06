@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:02.081695+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: missao_transcultural_crista
+    weight: 10
+    confidence: 0.98
+  - name: obedincia_apostolica
+    weight: 9
+    confidence: 0.97
+  - name: reino_de_deus_revelacao
+    weight: 8
+    confidence: 0.96
+  - name: evangelizacao_gentios
+    weight: 8
+    confidence: 0.95
+  - name: formacao_discipulos
+    weight: 7
+    confidence: 0.94
+  - name: oracao_como_rebeliao
+    weight: 7
+    confidence: 0.93
+  - name: teologia_da_gloria_de_deus
+    weight: 6
+    confidence: 0.92
+  - name: conversao_mudanca_cosmovisao
+    weight: 6
+    confidence: 0.91
+  - name: superacao_obstaculos_culturais
+    weight: 5
+    confidence: 0.9
+  - name: autoridade_apostolica
+    weight: 5
+    confidence: 0.89
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '230.1'
+  - '266'
+  - '273.2'
+  cdu_description: Teologia cristã. Doutrinas gerais. História eclesiástica. Missões. Vida e prática cristãs.
+---
 #### [LIÇÃO 04. Uma Igreja para Todos os Povos](https://ead.perspectivasbrasil.com/curso-perspectivas-online/13/#content_rptModulos_collapse_12_12)
 
 

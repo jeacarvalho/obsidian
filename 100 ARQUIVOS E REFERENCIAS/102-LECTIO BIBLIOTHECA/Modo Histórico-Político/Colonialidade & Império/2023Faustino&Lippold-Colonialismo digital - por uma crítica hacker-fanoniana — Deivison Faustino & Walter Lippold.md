@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:03.927995+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: colonialismo_digital
+    weight: 10
+    confidence: 0.98
+  - name: racismo_algoritmico
+    weight: 9
+    confidence: 0.97
+  - name: capitalismo_informacional
+    weight: 8
+    confidence: 0.96
+  - name: desnaturalizacao_era_digital
+    weight: 7
+    confidence: 0.95
+  - name: mercantilizacao_intimidade
+    weight: 7
+    confidence: 0.94
+  - name: colonialidade_do_poder
+    weight: 8
+    confidence: 0.93
+  - name: hierarquias_raciais_brasil
+    weight: 6
+    confidence: 0.92
+  - name: branquitude_tecnologica
+    weight: 7
+    confidence: 0.91
+  - name: exploracao_sul_global
+    weight: 8
+    confidence: 0.9
+  - name: historia_tecnologia
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '305.8'
+  cdu_secondary:
+  - '004'
+  - '323.1'
+  - '316.3'
+  cdu_description: 305.8 - Estudos de relações raciais e étnicas; 004 - Ciência da computação, tecnologia e organização; 323.1 - Movimentos sociais e políticos de grupos raciais ou étnicos específicos; 316.3 - Estrutura e organização social
+---
 # Meditações
 ## 20260226
 ### Leitura de hoje — A ilusão imaterial e a codificação do racismo

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:59.791964+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: arquitetura_de_seguranca_aws
+    weight: 10
+    confidence: 0.98
+  - name: protecao_de_dados_na_nuvem
+    weight: 9
+    confidence: 0.95
+  - name: gerenciamento_identidade_acesso_aws
+    weight: 8
+    confidence: 0.92
+  - name: analise_logs_seguranca_aws
+    weight: 7
+    confidence: 0.88
+  - name: seguranca_rede_aws
+    weight: 8
+    confidence: 0.9
+  - name: seguranca_instancia_aws
+    weight: 7
+    confidence: 0.87
+  - name: criptografia_dados_aws
+    weight: 9
+    confidence: 0.93
+  - name: backup_recuperacao_dados_aws
+    weight: 8
+    confidence: 0.91
+  - name: defesa_em_profundidade_aws
+    weight: 7
+    confidence: 0.85
+  - name: servicos_seguros_aws
+    weight: 9
+    confidence: 0.94
+  cdu_primary: 004.414.2
+  cdu_secondary:
+  - '004.65'
+  - '004.7'
+  - '004.8'
+  cdu_description: Segurança de sistemas de computadores. Segurança de redes. Segurança de dados. Gerenciamento de sistemas de computadores. Segurança em nuvem.
+---
 Architecting for Security on AWS | Pluralsight
 
 ### [Course Overview](https://app.pluralsight.com/player?course=architecting-security-aws&author=ben-piper&name=57666e95-fd68-4643-9262-7c1dfcc597c2&clip=0&mode=live)

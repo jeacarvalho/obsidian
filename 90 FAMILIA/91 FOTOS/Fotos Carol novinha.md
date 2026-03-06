@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:06.452238+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fotografia_pessoal
+    weight: 10
+    confidence: 0.98
+  - name: retratos_femininos
+    weight: 9
+    confidence: 0.97
+  - name: juventude_feminina
+    weight: 8
+    confidence: 0.96
+  - name: colecao_de_fotos
+    weight: 7
+    confidence: 0.95
+  - name: arquivo_fotografico
+    weight: 6
+    confidence: 0.94
+  - name: memoria_visual
+    weight: 5
+    confidence: 0.93
+  - name: imagens_digitais
+    weight: 5
+    confidence: 0.92
+  - name: registro_fotografico
+    weight: 5
+    confidence: 0.91
+  - name: documentacao_visual
+    weight: 5
+    confidence: 0.9
+  - name: arte_fotografica
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '77'
+  cdu_secondary: []
+  cdu_description: Fotografia
+---
 Fotos Carol novinha
 
 ![sossego 016.jpg](61557621dd97281410276ed711a585f9.jpg)

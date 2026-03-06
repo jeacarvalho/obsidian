@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:50.236813+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: renda_media_trabalhadores_inferior_salario_minimo
+    weight: 10
+    confidence: 0.98
+  - name: desigualdade_salarial_brasil
+    weight: 9
+    confidence: 0.97
+  - name: rendimento_trabalhadores_informais
+    weight: 8
+    confidence: 0.95
+  - name: concentracao_renda_1_por_cento
+    weight: 8
+    confidence: 0.96
+  - name: rendimento_medio_por_regiao_brasil
+    weight: 7
+    confidence: 0.94
+  - name: impacto_perda_emprego_renda
+    weight: 6
+    confidence: 0.92
+  - name: dados_pnad_continua_ibge
+    weight: 7
+    confidence: 0.93
+  - name: rendimento_trabalhadores_sul_nordeste
+    weight: 6
+    confidence: 0.91
+  - name: distribuicao_renda_populacao_brasileira
+    weight: 7
+    confidence: 0.94
+  - name: salario_minimo_brasil_2016
+    weight: 5
+    confidence: 0.9
+  cdu_primary: '331.2'
+  cdu_secondary:
+  - '316.42'
+  - '330.5'
+  cdu_description: Salários e remunerações; Desigualdade social; Economia. Distribuição de riqueza.
+---
 fonte: https://oglobo.globo.com/economia/renda-media-de-metade-dos-trabalhadores-brasileiros-inferior-um-salario-minimo-22124873
 
 ---

@@ -1,4 +1,47 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:54.062102+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: memorias_infancia_ditadura_grega
+    weight: 9
+    confidence: 0.98
+  - name: contexto_historico_ditadura_militar_grega
+    weight: 8
+    confidence: 0.97
+  - name: critica_uniao_monetaria_europeia
+    weight: 7
+    confidence: 0.96
+  - name: relacoes_grecia_alemanha_crise_divida
+    weight: 10
+    confidence: 0.99
+  - name: narrativas_morais_crise_divida_grega
+    weight: 8
+    confidence: 0.95
+  - name: identidade_europeia_nacionalismo_xenofobia
+    weight: 7
+    confidence: 0.94
+  - name: historia_esperanca_evitar_erros
+    weight: 6
+    confidence: 0.93
+  - name: papel_estados_unidos_historia_europeia
+    weight: 7
+    confidence: 0.92
+  - name: comunicacao_resistencia_ditadura
+    weight: 8
+    confidence: 0.96
+  - name: solidariedade_europeia_contra_totalitarismo
+    weight: 7
+    confidence: 0.94
+  cdu_primary: 94(495)
+  cdu_secondary:
+  - '321.7'
+  - '330.5'
+  - '327.4'
+  - 308(4)
+  cdu_description: História da Grécia (ditadura militar), com ênfase nas relações com a Alemanha e a Europa, crise da dívida, identidade europeia e papel dos EUA. Inclui aspectos de memória, comunicação e resistência.
+---
 # Capítulo 1: 
 A análise do texto revela uma rica e profunda narrativa que explora não apenas a história pessoal do autor, mas também um contexto político e econômico mais amplo que abrange a Grécia, a Alemanha e a própria Europa. O texto é revelador sobre a experiência de viver sob uma ditadura e como a comunicação com o exterior, simbolizada pela transmissão de rádio da Deutsche Welle, se torna um ato de resistência e esperança para uma família grega.
 

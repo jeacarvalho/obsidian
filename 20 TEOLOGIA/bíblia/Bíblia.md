@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:36.814691+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: livros_genesis
+    weight: 7
+    confidence: 0.9
+  - name: livros_exodo
+    weight: 7
+    confidence: 0.9
+  - name: livros_levitico
+    weight: 7
+    confidence: 0.9
+  - name: livros_numeros
+    weight: 7
+    confidence: 0.9
+  - name: livros_deuteronomio
+    weight: 7
+    confidence: 0.9
+  - name: livros_josue
+    weight: 7
+    confidence: 0.9
+  - name: livros_juizes
+    weight: 7
+    confidence: 0.9
+  - name: livros_rute
+    weight: 6
+    confidence: 0.85
+  - name: livros_samuel
+    weight: 7
+    confidence: 0.9
+  - name: livros_reis
+    weight: 7
+    confidence: 0.9
+  cdu_primary: '220.1'
+  cdu_secondary: []
+  cdu_description: A lista fornecida contém os nomes dos livros que compõem a Bíblia, tanto o Antigo quanto o Novo Testamento. A classificação CDU primária para a Bíblia como um todo é 220.1.
+---
 1. [[Gênesis]]
 2. [[Êxodo]]
 3. [[Levítico]]

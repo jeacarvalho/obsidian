@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:09.944565+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: perigo_no_ministerio
+    weight: 9
+    confidence: 0.98
+  - name: disciplinas_presbiteriais
+    weight: 8
+    confidence: 0.95
+  - name: funcao_do_presbiterio
+    weight: 7
+    confidence: 0.9
+  - name: burocracia_eclesiastica
+    weight: 6
+    confidence: 0.85
+  - name: gestao_eclesiastica
+    weight: 8
+    confidence: 0.92
+  - name: papel_do_pastor
+    weight: 10
+    confidence: 0.99
+  - name: vocacao_pastoral
+    weight: 9
+    confidence: 0.97
+  - name: cuidado_com_pessoas
+    weight: 10
+    confidence: 0.99
+  - name: gestao_financeira_igreja
+    weight: 7
+    confidence: 0.88
+  - name: burnout_pastoral
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '284.5'
+  cdu_secondary:
+  - 27-73
+  - '331.1'
+  cdu_description: Teologia prática. Vida e ministério pastoral. Gestão eclesiástica. Organização eclesiástica. Trabalho e vocação.
+---
 Excelente
 
 Tenho experimentado exatamente esse perigo, em todos os detalhes do artigo, inclusive o " full-time job outside the church walls."

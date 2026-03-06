@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:56.758955+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: servicos_rede_aws
+    weight: 9
+    confidence: 0.95
+  - name: seguranca_aws_iam
+    weight: 9
+    confidence: 0.93
+  - name: servicos_computacao_aws
+    weight: 8
+    confidence: 0.92
+  - name: armazenamento_aws_s3
+    weight: 8
+    confidence: 0.9
+  - name: gerenciamento_custos_aws
+    weight: 7
+    confidence: 0.88
+  - name: arquitetura_aws_well_architected
+    weight: 7
+    confidence: 0.85
+  - name: recuperacao_desastres_aws
+    weight: 6
+    confidence: 0.82
+  - name: suporte_aws_planos
+    weight: 6
+    confidence: 0.8
+  - name: escalabilidade_aws_ec2
+    weight: 7
+    confidence: 0.88
+  - name: serveless_aws_lambda
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '004.8'
+  cdu_secondary:
+  - '621.3'
+  - '007'
+  - '658.4'
+  cdu_description: Sistemas de computação em nuvem, com foco em serviços de rede, segurança, computação, armazenamento, gerenciamento de custos, arquitetura, recuperação de desastres, planos de suporte, escalabilidade e computação sem servidor na plataforma AWS.
+---
 [[AWS]] Certified Cloud Practitioner: All You Need to Know - PluralSight
 
 Regiões, Zonas de disponibilidade e Edge

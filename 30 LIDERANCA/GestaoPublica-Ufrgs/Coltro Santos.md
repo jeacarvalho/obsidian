@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:05.895411+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: racionalidade_instrumental
+    weight: 10
+    confidence: 0.98
+  - name: racionalidade_funcional
+    weight: 9
+    confidence: 0.95
+  - name: racionalidade_substancial
+    weight: 9
+    confidence: 0.96
+  - name: capitalismo_racional
+    weight: 8
+    confidence: 0.9
+  - name: contabilidade_racional
+    weight: 7
+    confidence: 0.88
+  - name: tecnica_administrativa
+    weight: 8
+    confidence: 0.92
+  - name: industrializacao_e_racionalidade
+    weight: 7
+    confidence: 0.91
+  - name: massificacao_e_robotizacao
+    weight: 6
+    confidence: 0.85
+  - name: etica_da_responsabilidade
+    weight: 7
+    confidence: 0.89
+  - name: dominacao_e_racionalidade_tecnologica
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '101.8'
+  cdu_secondary:
+  - '330.14'
+  - '331.1'
+  - '005.32'
+  cdu_description: Filosofia da ciência e do conhecimento; Teoria do conhecimento; Epistemologia; Racionalidade; Ética; Administração; Sociologia do trabalho; Capitalismo; Industrialização
+---
 Coltro Santos
 
 #### Racionalidade Instrumental

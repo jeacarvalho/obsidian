@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:33.243074+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: medo_de_seguir_a_vocacao_da_alma
+    weight: 10
+    confidence: 0.98
+  - name: criatividade_como_ato_de_adoracao
+    weight: 9
+    confidence: 0.95
+  - name: talento_recebido_de_deus
+    weight: 8
+    confidence: 0.92
+  - name: desejo_de_composicao_musical
+    weight: 7
+    confidence: 0.88
+  - name: desejo_de_escrita_criativa
+    weight: 7
+    confidence: 0.87
+  - name: medo_de_sustento_financeiro_com_a_criacao
+    weight: 9
+    confidence: 0.93
+  - name: integracao_da_criatividade_no_trabalho
+    weight: 8
+    confidence: 0.9
+  - name: assinatura_divina_no_trabalho
+    weight: 7
+    confidence: 0.85
+  - name: planejamento_evolutivo_de_sistemas
+    weight: 6
+    confidence: 0.75
+  - name: auto_reflexao_semanal
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '235.3'
+  - '701'
+  - '005.3'
+  cdu_description: 159.9 - Psicologia. 235.3 - Teologia cristã sobre a relação entre Deus e o homem. 701 - Princípios gerais das belas artes. 005.3 - Processos de trabalho.
+---
 [[Quem sou eu]]
 
 #### tenho medo ate de nomear o que minha alma me diz pra fazer

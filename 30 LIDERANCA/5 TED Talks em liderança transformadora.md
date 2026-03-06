@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:04.314986+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lideranca_transformacional
+    weight: 10
+    confidence: 0.98
+  - name: inovacao_organizacional
+    weight: 9
+    confidence: 0.95
+  - name: gestao_mudanca
+    weight: 8
+    confidence: 0.92
+  - name: pensamento_longo_prazo
+    weight: 7
+    confidence: 0.88
+  - name: criatividade_coletiva
+    weight: 8
+    confidence: 0.93
+  - name: motivacao_intrinsica
+    weight: 9
+    confidence: 0.94
+  - name: lideranca_tribal
+    weight: 7
+    confidence: 0.89
+  - name: desenvolvimento_lideranca
+    weight: 6
+    confidence: 0.85
+  - name: transformacao_digital
+    weight: 7
+    confidence: 0.87
+  - name: cultura_organizacional
+    weight: 6
+    confidence: 0.82
+  cdu_primary: '658.3'
+  cdu_secondary:
+  - '005.32'
+  - '159.947'
+  - '303.446'
+  cdu_description: Gestão de pessoal. Administração de empresas. Organização do trabalho. Liderança. Motivação. Inovação. Mudança organizacional.
+---
 5 TED Talks on transformational leadership to watch
 
 # 5 TED Talks on transformational leadership to watch

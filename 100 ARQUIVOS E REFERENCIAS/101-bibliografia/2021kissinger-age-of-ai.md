@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:56.048614+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: revolucao_inteligencia_artificial
+    weight: 10
+    confidence: 0.98
+  - name: capacidades_ia_alem_humanas
+    weight: 9
+    confidence: 0.95
+  - name: ia_aprendizado_maquina_vs_classica
+    weight: 8
+    confidence: 0.92
+  - name: impacto_filosofico_ia
+    weight: 9
+    confidence: 0.96
+  - name: etica_responsabilidade_ia
+    weight: 8
+    confidence: 0.93
+  - name: transformacao_social_ia
+    weight: 9
+    confidence: 0.94
+  - name: interacao_humano_maquina
+    weight: 7
+    confidence: 0.9
+  - name: natureza_conhecimento_compreensao_ia
+    weight: 8
+    confidence: 0.91
+  - name: impacto_ia_tomada_decisao
+    weight: 7
+    confidence: 0.88
+  - name: descobertas_medicas_ia
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '004.8'
+  cdu_secondary:
+  - '111.85'
+  - '305.8'
+  - '174'
+  cdu_description: Inteligência Artificial (004.8), com ênfase em suas implicações filosóficas (111.85), sociais (305.8) e éticas (174).
+---
 JSON Data:
 # Capítulo 1
 

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:46.470924+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: amor_eterno_deus
+    weight: 10
+    confidence: 0.98
+  - name: reino_de_deus_inclusivo
+    weight: 8
+    confidence: 0.95
+  - name: deus_como_pai
+    weight: 9
+    confidence: 0.97
+  - name: transformacao_lamento_em_alegria
+    weight: 7
+    confidence: 0.93
+  - name: jesus_messias
+    weight: 6
+    confidence: 0.9
+  - name: filho_prodigo_arrependimento
+    weight: 8
+    confidence: 0.94
+  - name: ansiedade_divina_compreensao
+    weight: 7
+    confidence: 0.92
+  - name: sonhos_revelacao_divina
+    weight: 6
+    confidence: 0.88
+  - name: nova_alianca_lei_no_coracao
+    weight: 10
+    confidence: 0.99
+  - name: perdao_pecados_divino
+    weight: 9
+    confidence: 0.96
+  cdu_primary: '224.1'
+  cdu_secondary:
+  - '231.1'
+  - '248.2'
+  - '273.2'
+  cdu_description: Profetas do Antigo Testamento (Jeremias), Teologia Cristã (Deus Pai, Nova Aliança), Vida Cristã (Perdão, Arrependimento)
+---
 o Senhor lhe apareceu no passado, dizendo: “Eu a amei com amor eterno; com amor leal a atraí. Jeremias 31:3 NVI
 - Amor eterno e leal!!
 

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:09.011863+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_em_meditacao
+    weight: 7
+    confidence: 0.9
+  - name: profundidade_emocional_intelectual_na_fe
+    weight: 8
+    confidence: 0.85
+  - name: autenticidade_humildade_na_busca_espiritual
+    weight: 9
+    confidence: 0.92
+  - name: paradoxos_misterios_da_fe_crista
+    weight: 7
+    confidence: 0.88
+  - name: autocritica_na_relacao_com_deus
+    weight: 6
+    confidence: 0.87
+  - name: teologia_reformada_soberania_divina
+    weight: 10
+    confidence: 0.95
+  - name: sacrificio_de_cristo_plano_redencao
+    weight: 9
+    confidence: 0.93
+  - name: amor_e_justica_deus_teologia_reformada
+    weight: 8
+    confidence: 0.91
+  - name: interpretacao_biblica_marcos_14_27
+    weight: 7
+    confidence: 0.89
+  - name: proposta_sermao_pastor_ferido_ovelhas_dispersas
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '232.9'
+  - '273.6'
+  cdu_description: Teologia cristã. Teologia da redenção. Teologia reformada.
+---
 ## analise do chatgpt sobre minhas meditacoes em [[Marcos 14]]-27
 
 ### **1. Análise Comportamental**

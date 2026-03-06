@@ -2,7 +2,47 @@
 created: 2023-11-01T11:34:31 (UTC -03:00)
 tags: []
 source: https://www1.folha.uol.com.br/folha/sinapse/ult1063u146.shtml
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:28.664950+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pedagogia_da_fome
+    weight: 9
+    confidence: 0.98
+  - name: desejo_como_motor_do_pensamento
+    weight: 10
+    confidence: 0.99
+  - name: arte_de_produzir_fome
+    weight: 8
+    confidence: 0.97
+  - name: aprendizagem_afetiva
+    weight: 7
+    confidence: 0.95
+  - name: eros_platonico
+    weight: 6
+    confidence: 0.9
+  - name: pensamento_como_ponte_para_o_desejo
+    weight: 9
+    confidence: 0.98
+  - name: realizacao_do_desejo_e_aborto_do_pensamento
+    weight: 8
+    confidence: 0.96
+  - name: ensinar_respostas_antes_das_perguntas
+    weight: 7
+    confidence: 0.94
+  - name: conhecimentos_como_extensao_do_corpo
+    weight: 9
+    confidence: 0.97
+  - name: desejo_e_necessidade_de_conhecimento
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '37.01'
+  cdu_secondary:
+  - '111.85'
+  - '159.923'
+  cdu_description: Educação. Pedagogia. Teoria da educação. Filosofia da educação. Psicologia da aprendizagem. Motivação.
 ---
 
 # Folha Online - Sinapse - Rubem Alves: A arte de produzir fome - 29/10/2002

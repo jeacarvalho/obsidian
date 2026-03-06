@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:10.411565+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_judas
+    weight: 8
+    confidence: 0.9
+  - name: compreensao_motivacoes_humanas
+    weight: 7
+    confidence: 0.85
+  - name: reflexao_soberania_divina_responsabilidade_humana
+    weight: 9
+    confidence: 0.92
+  - name: autopercepcao_projetada_em_personagens
+    weight: 6
+    confidence: 0.8
+  - name: inseguranca_discipulos_fe_comunitaria
+    weight: 7
+    confidence: 0.88
+  - name: contemplacao_sacrificio_jesus
+    weight: 8
+    confidence: 0.91
+  - name: teologia_reformada_providencia_divina
+    weight: 9
+    confidence: 0.95
+  - name: comentario_joao_calvino_evangelhos
+    weight: 6
+    confidence: 0.82
+  - name: comentario_matthew_henry_fragilidades
+    weight: 6
+    confidence: 0.81
+  - name: proposta_sermao_mesa_traicao_redencao
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '226.5'
+  - '273.6'
+  cdu_description: Teologia cristã; Teologia bíblica; Teologia sistemática; Novo Testamento - Evangelhos; Protestantismo - Reforma
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Marcos 14]]-21
 **Análise Comportamental**
 

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T20:46:17.425645+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: auto_percepcao_vs_hetero_percepcao
+    weight: 9
+    confidence: 0.98
+  - name: crencas_impulsionadoras
+    weight: 8
+    confidence: 0.95
+  - name: crencas_limitantes
+    weight: 8
+    confidence: 0.95
+  - name: escada_da_inferencia
+    weight: 7
+    confidence: 0.9
+  - name: estilos_de_interacao_reflexivos
+    weight: 8
+    confidence: 0.92
+  - name: sentido_do_trabalho
+    weight: 9
+    confidence: 0.97
+  - name: proposito_profissional
+    weight: 10
+    confidence: 0.99
+  - name: identidade_social_e_autoimagem
+    weight: 7
+    confidence: 0.93
+  - name: dinamicas_de_grupo_e_personalidades
+    weight: 6
+    confidence: 0.85
+  - name: desenvolvimento_pessoal_e_autoconhecimento
+    weight: 9
+    confidence: 0.96
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '316.6'
+  - '305.8'
+  cdu_description: Psicologia. Psicologia social. Psicologia do trabalho e das organizações. Psicologia da personalidade. Psicologia da percepção. Psicologia das crenças. Psicologia do desenvolvimento.
+---
 - Grupo de cinco, tentar ver as características de cada um e falar a nossa também
 - Cadu: piadista, Ricardo: questionador, Geison: piadista
 - Eu: descontraído, questionador, tranquilo, 

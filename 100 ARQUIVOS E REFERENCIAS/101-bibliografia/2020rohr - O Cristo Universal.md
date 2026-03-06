@@ -2,7 +2,48 @@
 created: 2023-09-12T09:56:11 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:40:03.385336+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cristo_universal_e_onipresente
+    weight: 10
+    confidence: 0.98
+  - name: significado_e_proposito_da_vida_em_cristo
+    weight: 9
+    confidence: 0.97
+  - name: unicidade_na_percepcao_iluminada
+    weight: 8
+    confidence: 0.95
+  - name: amor_e_presenca_do_criador_no_mundo_criado
+    weight: 8
+    confidence: 0.94
+  - name: cristo_como_luz_do_mundo
+    weight: 7
+    confidence: 0.93
+  - name: encarnacao_divina_na_humanidade
+    weight: 7
+    confidence: 0.92
+  - name: distincao_entre_natural_e_sobrenatural
+    weight: 6
+    confidence: 0.9
+  - name: criacao_como_primeira_biblia
+    weight: 6
+    confidence: 0.89
+  - name: visao_de_mundo_ligada_a_encarnacao
+    weight: 5
+    confidence: 0.88
+  - name: cristianismo_universal_catolico
+    weight: 5
+    confidence: 0.87
+  cdu_primary: '230.01'
+  cdu_secondary:
+  - '261.8'
+  - '232.9'
+  - '201.6'
+  cdu_description: Teologia cristã; Cristologia; Encarnação; Relação entre o divino e o natural; Universalismo cristão
 ---
 
 # O Cristo Universal: Como uma realidade esquecida pode mudar tudo o que vemos, esperamos e acreditamos

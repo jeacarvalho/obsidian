@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:11.823685+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teorias_conspiracao_cristaos
+    weight: 10
+    confidence: 0.98
+  - name: credibilidade_crista
+    weight: 9
+    confidence: 0.95
+  - name: impacto_teorias_conspiracao_igreja
+    weight: 8
+    confidence: 0.92
+  - name: assalto_pastor_sutherland_springs
+    weight: 7
+    confidence: 0.9
+  - name: motivacoes_teorias_conspiracao
+    weight: 7
+    confidence: 0.88
+  - name: pesquisa_lifeway_conspiracao
+    weight: 6
+    confidence: 0.85
+  - name: persecucao_cristaos_teorias_conspiracao
+    weight: 6
+    confidence: 0.82
+  - name: verdade_cristianismo
+    weight: 5
+    confidence: 0.8
+  - name: psicologia_crenca_conspiracao
+    weight: 5
+    confidence: 0.78
+  - name: relacao_entre_palavras_eternidade
+    weight: 5
+    confidence: 0.75
+  cdu_primary: 27-28
+  cdu_secondary:
+  - '316.48'
+  - '305.8'
+  cdu_description: '27-28: História geral do cristianismo. História eclesiástica. 316.48: Movimentos sociais e coletivos. Teorias da conspiração. 305.8: Grupos étnicos. Minorias. Relações raciais. (Aplicado a grupos religiosos).'
+---
 https://lifewayresearch.com/2021/02/01/christians-conspiracy-theories-and-credibility-why-our-words-today-matter-for-eternity/
 
 

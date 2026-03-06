@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:54.926056+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: migracao_maquinas_ambientes_codigo_testes
+    weight: 7
+    confidence: 0.85
+  - name: devops_openspace_serpro
+    weight: 9
+    confidence: 0.95
+  - name: norma_solicitacao_certificados_estaleiro
+    weight: 8
+    confidence: 0.9
+  - name: meta_qualidade_serpro
+    weight: 6
+    confidence: 0.8
+  - name: iac_serpro
+    weight: 7
+    confidence: 0.88
+  - name: token_safenet_ubuntu
+    weight: 6
+    confidence: 0.75
+  - name: plano_evolucao_devops_serpro_2021
+    weight: 9
+    confidence: 0.92
+  - name: automacao_serpro_2022
+    weight: 7
+    confidence: 0.87
+  - name: assinatura_digital_codigo_serpro
+    weight: 8
+    confidence: 0.9
+  - name: alteracao_cnpj_certificados_icp_brasil
+    weight: 6
+    confidence: 0.78
+  cdu_primary: '004.45'
+  cdu_secondary:
+  - '351.84'
+  - '338.48'
+  cdu_description: 004.45 - Gestão de sistemas de informação; 351.84 - Segurança pública; 338.48 - Serviços de certificação digital
+---
 1. [[Migração máquinas ambdes no código de testes]]
 2. [[Devops OpenSpace Serpro]]
 3. [[Estaleiro#20201211 - Nova norma para solicitação certificados estaleiro]]

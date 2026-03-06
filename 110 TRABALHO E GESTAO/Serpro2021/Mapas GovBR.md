@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:52.879285+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: projeto_mapas_gov_br
+    weight: 10
+    confidence: 0.98
+  - name: painel_desmatamento
+    weight: 9
+    confidence: 0.97
+  - name: dados_geograficos
+    weight: 8
+    confidence: 0.95
+  - name: portal_geo
+    weight: 7
+    confidence: 0.93
+  - name: serpro
+    weight: 8
+    confidence: 0.96
+  - name: urc_supai_supse
+    weight: 7
+    confidence: 0.94
+  - name: sinaflor
+    weight: 6
+    confidence: 0.9
+  - name: mma_mcti_inpe
+    weight: 7
+    confidence: 0.92
+  - name: contrato_aditivo
+    weight: 5
+    confidence: 0.85
+  - name: catalogo_metadados
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '004.9'
+  cdu_secondary:
+  - 351.823.2
+  - '528.9'
+  cdu_description: 004.9 - Tratamento de dados e informação. Processamento de dados. Gestão de dados. Arquivos de dados. Bases de dados. Sistemas de informação. Mapas digitais. Sistemas de informação geográfica. 351.823.2 - Proteção do ambiente. Proteção contra a poluição. Proteção contra o desmatamento. 528.9 - Cartografia temática. Mapas temáticos.
+---
 ___
 ## 20230228 - URC, SUPSE e SUPAI - como anda o projeto
 - Qual o time? Qual o cliente? Tem contrato?

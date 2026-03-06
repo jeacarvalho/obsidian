@@ -2,7 +2,47 @@
 created: 2021-06-15T16:57:01 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.42.4/b393d742cdd2/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:56.860439+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: autodisciplina_definicao
+    weight: 10
+    confidence: 0.98
+  - name: autocontrole_gerenciamento_desejos
+    weight: 9
+    confidence: 0.97
+  - name: construcao_habitos_disciplina
+    weight: 8
+    confidence: 0.96
+  - name: motivacao_interna_objetivos
+    weight: 7
+    confidence: 0.95
+  - name: foco_tarefas_disciplina
+    weight: 7
+    confidence: 0.94
+  - name: desenvolvimento_autodisciplina
+    weight: 6
+    confidence: 0.93
+  - name: ritualizacao_habitos
+    weight: 8
+    confidence: 0.92
+  - name: superacao_habitos_ruins
+    weight: 7
+    confidence: 0.91
+  - name: disciplina_beneficio_outros
+    weight: 6
+    confidence: 0.9
+  - name: estrategias_disciplina_exercicio
+    weight: 7
+    confidence: 0.89
+  cdu_primary: 159.947.2
+  cdu_secondary:
+  - 37.015.3
+  - 65.012.46
+  cdu_description: Psicologia da vontade e da autodisciplina; desenvolvimento de hábitos e rotinas; motivação e foco para atingir objetivos; estratégias práticas para a autodisciplina.
 ---
 
 # Kindle: Your Notes and Highlights

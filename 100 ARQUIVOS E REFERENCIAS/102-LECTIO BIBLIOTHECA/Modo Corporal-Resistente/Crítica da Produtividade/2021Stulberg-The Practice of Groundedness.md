@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:04.666051+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: individualismo_heroico
+    weight: 10
+    confidence: 0.98
+  - name: otimizacao_corporal
+    weight: 9
+    confidence: 0.97
+  - name: cultura_de_performance
+    weight: 8
+    confidence: 0.95
+  - name: saude_mental_e_fisica
+    weight: 7
+    confidence: 0.93
+  - name: limites_corporais
+    weight: 8
+    confidence: 0.94
+  - name: violencia_estrutural_contra_o_corpo
+    weight: 9
+    confidence: 0.96
+  - name: exaustao_e_burnout
+    weight: 7
+    confidence: 0.92
+  - name: autocuidado_gentil
+    weight: 6
+    confidence: 0.9
+  - name: critica_ao_norte_global
+    weight: 7
+    confidence: 0.91
+  - name: corpo_como_lugar_de_sabedoria
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '305.8'
+  - '613.8'
+  cdu_description: 159.947 - Motivação e comportamento de realização; 305.8 - Grupos étnicos e raciais; 613.8 - Saúde mental e bem-estar.
+---
 # Meditações
 
 ## 20260210

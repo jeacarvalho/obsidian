@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:10.320284+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: perda_encanto_pessoas
+    weight: 7
+    confidence: 0.9
+  - name: critica_avaliativa_pessoas
+    weight: 8
+    confidence: 0.92
+  - name: referencia_cristo
+    weight: 10
+    confidence: 0.98
+  - name: arrebatamento_coracao_cristo
+    weight: 9
+    confidence: 0.95
+  - name: desejo_viver_como_cristo
+    weight: 8
+    confidence: 0.93
+  - name: exemplo_cristo_imitacao
+    weight: 7
+    confidence: 0.91
+  - name: revestir_de_cristo
+    weight: 10
+    confidence: 0.99
+  - name: identificacao_jovens_roupas
+    weight: 6
+    confidence: 0.85
+  - name: justica_propria_vs_justica_de_deus
+    weight: 9
+    confidence: 0.96
+  - name: comunhao_sofrimentos_cristo
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '248.2'
+  - 27-29
+  cdu_description: Teologia cristã; Vida e prática cristãs; Período patrístico e medieval
+---
 - [[Perdemos o encanto com as pessoas]]. Reconhecemos os seus erros assim como elas reconhecem nossas falhas. Com isso, nossos exemplos vão ficando escassos. Sim, temos exemplos. Mas vivemos dias em que sabemos analisar, avaliar mais as pessoas. E mais: conhecemos mais fatos, na maior parte dos casos. 
 - Perdemos a capacidade de nos encantar com as pessoas. Não é que não as tenhamos como referência. Não é que não reconhecamos o seu valor. Sim, nós conseguismo fazer isso. Mas nossa atitude crítica tende a fechar nossos corações para permitir que ele seja arrebatado por elas. E o que se objetiva com "habitar em Cristo"? Que Ele arrebate nossos corações e que nosso desejo por viver como Ele viveu se torne algo incontrolável!
 	- [[João 13]]:15 Porque eu vos dei o exemplo, para que, como eu vos fiz, façais vós também

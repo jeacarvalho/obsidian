@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:25.967371+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: dados_pessoais_viajantes
+    weight: 10
+    confidence: 0.98
+  - name: informacoes_passaporte
+    weight: 9
+    confidence: 0.95
+  - name: codigos_reserva_aerea
+    weight: 8
+    confidence: 0.9
+  - name: documentos_seguro_viagem
+    weight: 7
+    confidence: 0.85
+  - name: detalhes_viagem_portugal
+    weight: 6
+    confidence: 0.8
+  - name: dados_nacionalidade_brasileira
+    weight: 7
+    confidence: 0.88
+  - name: datas_nascimento_viajantes
+    weight: 7
+    confidence: 0.87
+  - name: informacoes_cadastro_viajantes
+    weight: 8
+    confidence: 0.92
+  - name: dados_identificacao_pessoal
+    weight: 9
+    confidence: 0.94
+  - name: planejamento_viagem_internacional
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '338.48'
+  cdu_secondary:
+  - '005.32'
+  - 316.334.2
+  - '342.7'
+  cdu_description: Gestão de viagens e turismo, com ênfase em dados pessoais, reservas e documentação. Inclui aspectos de organização de viagens, dados de identificação e seguros.
+---
 # Dados viajantes
 | nome                                 | email                             | cpf         | Passaporte |
 | ------------------------------------ | --------------------------------- | ----------- | ---------- |

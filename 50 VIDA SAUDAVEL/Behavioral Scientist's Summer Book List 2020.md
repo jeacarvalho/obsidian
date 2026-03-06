@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:37.896613+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: psicologia_comportamental
+    weight: 10
+    confidence: 0.98
+  - name: tomada_de_decisao
+    weight: 9
+    confidence: 0.92
+  - name: influencia_social
+    weight: 8
+    confidence: 0.88
+  - name: mudanca_comportamental
+    weight: 9
+    confidence: 0.9
+  - name: poder_e_relacionamentos
+    weight: 7
+    confidence: 0.85
+  - name: historia_da_ciencia_e_tecnologia
+    weight: 7
+    confidence: 0.8
+  - name: design_comportamental
+    weight: 8
+    confidence: 0.87
+  - name: percepcao_e_motivacao
+    weight: 8
+    confidence: 0.89
+  - name: linguagem_e_comunicacao
+    weight: 6
+    confidence: 0.75
+  - name: inteligencia_emocional
+    weight: 7
+    confidence: 0.82
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '316.6'
+  - '001.891'
+  - '305.8'
+  cdu_description: Psicologia. Comportamento. Influência social. Ciência e tecnologia. Linguagem.
+---
 Behavioral Scientist's Summer Book List 2020 - Behavioral Scientist
 
 # Behavioral Scientist’s Summer Book List 2020

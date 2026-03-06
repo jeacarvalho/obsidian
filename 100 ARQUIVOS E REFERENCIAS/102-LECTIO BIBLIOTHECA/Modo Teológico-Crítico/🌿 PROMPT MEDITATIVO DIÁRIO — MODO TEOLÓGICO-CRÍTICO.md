@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:02.555987+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: meditacao_teologico_critica
+    weight: 9
+    confidence: 0.98
+  - name: discernimento_conversao_captura_religiosa
+    weight: 10
+    confidence: 0.99
+  - name: leitura_lenta_discernimento
+    weight: 8
+    confidence: 0.95
+  - name: formacao_consciencia_crista
+    weight: 7
+    confidence: 0.92
+  - name: dialogo_autores_teologicos
+    weight: 8
+    confidence: 0.96
+  - name: brueggemann_profecia_vs_imperio
+    weight: 7
+    confidence: 0.9
+  - name: boer_colonialidade_biblica
+    weight: 7
+    confidence: 0.9
+  - name: keller_reforma_pastoral
+    weight: 6
+    confidence: 0.88
+  - name: critica_identidade_religiosa_fortaleza
+    weight: 9
+    confidence: 0.97
+  - name: pratica_espiritual_anti_captura
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '200.1'
+  cdu_secondary:
+  - '230'
+  - '270'
+  - '260'
+  cdu_description: Religião. Teologia. Filosofia da religião. Teologia sistemática. Teologia cristã. Prática religiosa. Teologia pastoral.
+---
 #### 🌿 PROMPT MEDITATIVO DIÁRIO — MODO TEOLÓGICO-CRÍTICO
 *(Compacto para NotebookLM — 480 palavras)*
 

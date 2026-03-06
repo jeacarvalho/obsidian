@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:27.057802+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: superficialidade_do_conhecimento
+    weight: 10
+    confidence: 0.98
+  - name: pressao_social_por_rapidez
+    weight: 9
+    confidence: 0.97
+  - name: falta_de_profundidade_intelectual
+    weight: 9
+    confidence: 0.96
+  - name: desmotivacao_para_aprendizado
+    weight: 8
+    confidence: 0.95
+  - name: mudanca_constante_de_prioridades
+    weight: 8
+    confidence: 0.94
+  - name: impacto_no_desenvolvimento_de_habilidades
+    weight: 7
+    confidence: 0.93
+  - name: pensamento_critico_limitado
+    weight: 7
+    confidence: 0.92
+  - name: busca_por_conhecimento_facil
+    weight: 6
+    confidence: 0.91
+  - name: sabedoria_contextual
+    weight: 6
+    confidence: 0.9
+  - name: resistencia_a_mudancas_culturais
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '303.4'
+  cdu_secondary:
+  - '37.01'
+  - '159.94'
+  cdu_description: Métodos de pesquisa social e investigação; Teoria e filosofia da educação; Psicologia da motivação
+---
 #### O mundo nos acelera e nos priva de sermos profundos
 Amarelo destaque | Página: 86
 

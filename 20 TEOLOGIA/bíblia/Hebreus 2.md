@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:40.088386+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: filho_de_deus_aperfeicoamento_sofrimento
+    weight: 10
+    confidence: 0.98
+  - name: autor_da_salvacao_aperfeicoamento_sofrimento
+    weight: 9
+    confidence: 0.97
+  - name: desobediencia_castigo_novo_testamento
+    weight: 8
+    confidence: 0.95
+  - name: palavra_falada_anjos_firmeza
+    weight: 7
+    confidence: 0.93
+  - name: cristo_fiel_casa_deus
+    weight: 6
+    confidence: 0.92
+  - name: esperanca_ousadia_exultacao
+    weight: 5
+    confidence: 0.9
+  - name: sacerdocio_jesus_sofrimento
+    weight: 9
+    confidence: 0.96
+  - name: qualificacao_divina_jesus_sacerdocio
+    weight: 8
+    confidence: 0.94
+  - name: missao_redentora_jesus_sofrimento
+    weight: 9
+    confidence: 0.95
+  - name: conducao_filhos_gloria_deus
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '227.1'
+  cdu_secondary:
+  - '232.9'
+  - '234.2'
+  - '262.1'
+  cdu_description: Epístola aos Hebreus, capítulo 2. Teologia da salvação, sofrimento de Cristo, sacerdócio de Cristo, esperança cristã.
+---
 [[HB_2_13 Message]]
 Hebreus 2:1 NAA
 

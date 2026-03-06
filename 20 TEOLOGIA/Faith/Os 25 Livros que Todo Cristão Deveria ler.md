@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:07.057275+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_crista_antiga
+    weight: 9
+    confidence: 0.9
+  - name: patristica
+    weight: 8
+    confidence: 0.85
+  - name: espiritualidade_crista
+    weight: 10
+    confidence: 0.95
+  - name: literatura_religiosa
+    weight: 7
+    confidence: 0.8
+  - name: teologia_reformada
+    weight: 8
+    confidence: 0.88
+  - name: misticismo_cristao
+    weight: 9
+    confidence: 0.92
+  - name: vida_monastica
+    weight: 7
+    confidence: 0.75
+  - name: filosofia_religiosa
+    weight: 6
+    confidence: 0.7
+  - name: apologetica_crista
+    weight: 7
+    confidence: 0.78
+  - name: teologia_contemplativa
+    weight: 9
+    confidence: 0.91
+  cdu_primary: '27'
+  cdu_secondary:
+  - '230'
+  - '240'
+  - '260'
+  cdu_description: 27 - História geral do cristianismo e de suas denominações. 230 - Teologia cristã. 240 - Teologia moral e ascética cristãs. 260 - Teologia pastoral. Teologia prática.
+---
 # Os 25 livros
 
 *Sobre a Encarnação*, Santo Atanásio;

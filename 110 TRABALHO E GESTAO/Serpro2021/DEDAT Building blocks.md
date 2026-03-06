@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:53.990867+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: computacao_em_nuvem_multicloud
+    weight: 10
+    confidence: 0.98
+  - name: arquitetura_de_solucoes_em_nuvem
+    weight: 9
+    confidence: 0.95
+  - name: seguranca_da_informacao_em_nuvem
+    weight: 8
+    confidence: 0.92
+  - name: gerenciamento_de_custos_em_nuvem
+    weight: 7
+    confidence: 0.88
+  - name: infraestrutura_como_servico_aws
+    weight: 8
+    confidence: 0.93
+  - name: servicos_de_computacao_em_nuvem
+    weight: 7
+    confidence: 0.9
+  - name: politicas_de_seguranca_em_nuvem
+    weight: 6
+    confidence: 0.85
+  - name: contratacao_de_servicos_de_nuvem
+    weight: 6
+    confidence: 0.82
+  - name: integracao_de_sistemas_em_nuvem
+    weight: 7
+    confidence: 0.89
+  - name: desenvolvimento_de_software_em_nuvem
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '004.7'
+  cdu_secondary:
+  - '004.8'
+  - '004.5'
+  - '004.6'
+  cdu_description: 004.7 - Redes de computadores. Comunicações de dados. Redes de telecomunicações. Internet. Serviços de rede. Computação em nuvem. Multicloud. Segurança da informação em nuvem. Arquitetura de soluções em nuvem. Gerenciamento de custos em nuvem. Infraestrutura como serviço (IaaS). Serviços de computação em nuvem. Políticas de segurança em nuvem. Contratação de serviços de nuvem. Integração de sistemas em nuvem. Desenvolvimento de software em nuvem.
+---
 # Descrição:
 
 | links                                                                                                                                                                                                         | Arquivos |

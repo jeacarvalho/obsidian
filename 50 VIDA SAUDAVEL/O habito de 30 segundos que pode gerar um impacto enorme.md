@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:23.895388+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_pessoal_habito
+    weight: 10
+    confidence: 0.98
+  - name: tecnicas_aprendizagem_rapida
+    weight: 9
+    confidence: 0.95
+  - name: priorizacao_informacao
+    weight: 8
+    confidence: 0.92
+  - name: tomada_decisao_estrategica
+    weight: 7
+    confidence: 0.88
+  - name: gestao_conhecimento_pessoal
+    weight: 8
+    confidence: 0.9
+  - name: comunicacao_eficaz_reunioes
+    weight: 7
+    confidence: 0.85
+  - name: inteligencia_emocional_aplicada
+    weight: 6
+    confidence: 0.8
+  - name: produtividade_executiva
+    weight: 7
+    confidence: 0.87
+  - name: pensamento_critico_sintese
+    weight: 9
+    confidence: 0.93
+  - name: melhoria_continua_aprendizado
+    weight: 8
+    confidence: 0.91
+  cdu_primary: 159.947.5
+  cdu_secondary:
+  - '005.32'
+  - 37.018.4
+  cdu_description: Psicologia da aprendizagem e da memória. Técnicas de estudo e memorização. Desenvolvimento pessoal e autoaperfeiçoamento.
+---
 The 30 Second Habit That Can Have a Big Impact On Your Life
 
 # The 30 Second Habit That Can Have a Big Impact On Your Life

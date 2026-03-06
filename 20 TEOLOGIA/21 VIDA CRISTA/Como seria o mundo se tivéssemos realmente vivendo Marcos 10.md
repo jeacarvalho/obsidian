@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:14:41.742591+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cristianismo_servico_humildade
+    weight: 10
+    confidence: 0.98
+  - name: politica_descentralizada_servidora
+    weight: 9
+    confidence: 0.95
+  - name: economia_justica_distributiva
+    weight: 9
+    confidence: 0.94
+  - name: trabalho_vocacao_comunidade
+    weight: 8
+    confidence: 0.93
+  - name: cultura_arte_cotidiano
+    weight: 7
+    confidence: 0.92
+  - name: igreja_descentralizada_autonoma
+    weight: 8
+    confidence: 0.91
+  - name: educacao_empoderamento_servico
+    weight: 8
+    confidence: 0.9
+  - name: relacoes_internacionais_colaborativas
+    weight: 7
+    confidence: 0.89
+  - name: relacao_harmoniosa_ambiente
+    weight: 7
+    confidence: 0.88
+  - name: etica_crista_transformacao_social
+    weight: 9
+    confidence: 0.96
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '321.1'
+  - '330.5'
+  - '305.8'
+  - '37.01'
+  - '341.2'
+  cdu_description: História e geografia. Religião. Ciências sociais. Economia. Política. Educação. Relações internacionais. Ética cristã.
+---
 Fonte: https://chatgpt.com/share/09874a4e-afdf-4b2e-988c-eac87168297f
 
 [[Marcos 10]]

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:26.094609+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: chocolate_com_canela_e_gengibre
+    weight: 10
+    confidence: 0.98
+  - name: receita_de_chocolate_saudavel
+    weight: 9
+    confidence: 0.95
+  - name: oleo_de_coco_na_culinaria
+    weight: 8
+    confidence: 0.9
+  - name: cacau_em_po_beneficios
+    weight: 7
+    confidence: 0.88
+  - name: canela_em_po_uso
+    weight: 7
+    confidence: 0.87
+  - name: gengibre_em_po_propriedades
+    weight: 7
+    confidence: 0.86
+  - name: adocantes_saudaveis_estervia
+    weight: 6
+    confidence: 0.85
+  - name: adocantes_saudaveis_mel
+    weight: 6
+    confidence: 0.84
+  - name: atividade_termogenica_alimentos
+    weight: 8
+    confidence: 0.92
+  - name: historia_do_chocolate_mexico
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '641.4'
+  cdu_secondary:
+  - '664.1'
+  - '613.2'
+  cdu_description: 641.4 - Conservação e preparação de alimentos. 664.1 - Açúcares, confeitaria. 613.2 - Dietética. Regimes alimentares.
+---
 # Como fazer o "chocangibre", o saudável e delicioso chocolate com canela e gengibre
 
 Queríamos um chocolate diferente, especial e supersaudável.

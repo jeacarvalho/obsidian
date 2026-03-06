@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:05.995368+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_autocritica
+    weight: 8
+    confidence: 0.9
+  - name: desenvolvimento_empatia_reflexiva
+    weight: 7
+    confidence: 0.85
+  - name: exame_motivacoes_pessoais
+    weight: 6
+    confidence: 0.8
+  - name: teologia_reformada_pecado_original
+    weight: 9
+    confidence: 0.95
+  - name: conceito_totus_peccator
+    weight: 7
+    confidence: 0.88
+  - name: critica_joao_calvino_fabrica_idolos
+    weight: 8
+    confidence: 0.92
+  - name: interpretacao_matthew_henry_devocao
+    weight: 7
+    confidence: 0.87
+  - name: sermao_devocao_desafia_preconceito
+    weight: 10
+    confidence: 0.98
+  - name: jesus_transformacao_marginalidade
+    weight: 8
+    confidence: 0.91
+  - name: justica_amor_teologia_reformada
+    weight: 9
+    confidence: 0.94
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '273.6'
+  - '261.8'
+  - '305.4'
+  cdu_description: 230.0 Teologia Cristã; 273.6 Teologia Reformada; 261.8 Relações entre Religião e Sociedade; 305.4 Mulheres (aspectos sociais)
+---
 ### Análise Comportamental
 
 As anotações demonstram profunda sensibilidade à injustiça e à discriminação, especialmente em relação a grupos marginalizados, como mulheres e leprosos. A pessoa que meditou reflete com honestidade sobre sua própria tendência a julgar rapidamente e reconhece a necessidade de desenvolver mais empatia. Há um forte senso de autocrítica saudável, indicando consciência de suas limitações humanas e da inclinação ao preconceito.

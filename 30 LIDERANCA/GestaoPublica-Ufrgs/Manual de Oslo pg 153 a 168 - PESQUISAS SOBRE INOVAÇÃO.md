@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:06.151584+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: inovacao_em_paises_em_desenvolvimento
+    weight: 10
+    confidence: 0.98
+  - name: competitividade_baseada_em_recursos_naturais
+    weight: 8
+    confidence: 0.9
+  - name: organizacao_informal_da_inovacao
+    weight: 7
+    confidence: 0.85
+  - name: fatores_sistemicos_exogenos_inovacao
+    weight: 9
+    confidence: 0.92
+  - name: instabilidade_macroeconomica_inovacao
+    weight: 7
+    confidence: 0.88
+  - name: fragilidade_institucional_inovacao
+    weight: 6
+    confidence: 0.8
+  - name: empresas_estatais_e_inovacao
+    weight: 8
+    confidence: 0.87
+  - name: influencia_multinacionais_inovacao
+    weight: 9
+    confidence: 0.93
+  - name: papel_do_governo_em_p_e_d
+    weight: 9
+    confidence: 0.91
+  - name: fragmentacao_fluxos_informacao_sistemas_inovacao
+    weight: 7
+    confidence: 0.86
+  cdu_primary: '608.1'
+  cdu_secondary:
+  - '330.5'
+  - '338.2'
+  - '338.45'
+  - '339.9'
+  cdu_description: Inovação e desenvolvimento econômico em países em desenvolvimento, considerando fatores sistêmicos, institucionais e a influência de empresas estatais e multinacionais.
+---
 Manual de Oslo pg 153 a 168 - PESQUISAS SOBRE [[INOVAÇÃO]] EM PAÍSES EM DESENVOLVIMENTO
 
 Em países em desenvolvimento A competitividade é baseada majoritariamente na exploração de recursos naturais ou no trabalho barato, e não na eficiência ou em produtos diferenciados. Isso conduz a uma organização informal da inovação e em menos projetos de P&D

@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.826619+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: macroeconomia_conceitos_basicos
+    weight: 10
+    confidence: 0.98
+  - name: produto_interno_bruto_pib
+    weight: 9
+    confidence: 0.95
+  - name: atividade_economica
+    weight: 8
+    confidence: 0.92
+  - name: teoria_crescimento_economico
+    weight: 7
+    confidence: 0.9
+  - name: oferta_agregada
+    weight: 8
+    confidence: 0.93
+  - name: demanda_agregada
+    weight: 8
+    confidence: 0.93
+  - name: inflacao_taxa
+    weight: 7
+    confidence: 0.88
+  - name: politica_macroeconomica
+    weight: 6
+    confidence: 0.85
+  - name: contabilidade_nacional
+    weight: 7
+    confidence: 0.9
+  - name: paises_desenvolvidos_vs_em_desenvolvimento
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '330.1'
+  - '330.35'
+  - '330.51'
+  - '330.54'
+  cdu_description: Economia. Economia e desenvolvimento. Economia nacional. Contabilidade nacional. Produto nacional. Renda nacional.
+---
 # Bibliografia
 ## Básicas
 - Livro disciplina : [[MGE_ebook.pdf]]

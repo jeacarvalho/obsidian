@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:39.386487+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceitos_fundamentais_estatistica
+    weight: 10
+    confidence: 0.98
+  - name: estatistica_descritiva
+    weight: 9
+    confidence: 0.97
+  - name: estatistica_inferencial
+    weight: 8
+    confidence: 0.96
+  - name: tipos_de_variaveis_estatisticas
+    weight: 8
+    confidence: 0.95
+  - name: coleta_organizacao_dados
+    weight: 7
+    confidence: 0.94
+  - name: apresentacao_resultados_estatisticos
+    weight: 7
+    confidence: 0.93
+  - name: medidas_posicao_dispersao
+    weight: 8
+    confidence: 0.92
+  - name: tabelas_graficos_estatisticos
+    weight: 7
+    confidence: 0.91
+  - name: probabilidade_estatistica
+    weight: 6
+    confidence: 0.9
+  - name: indices_indicadores_estatisticos
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '519.2'
+  cdu_secondary: []
+  cdu_description: Probabilidade e Estatística
+---
 [[Contabilidade]]
 [[Economia]]
 # Bibliografia

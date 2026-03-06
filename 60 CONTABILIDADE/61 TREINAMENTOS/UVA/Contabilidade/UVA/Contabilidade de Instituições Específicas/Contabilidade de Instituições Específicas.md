@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:38.113382+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contabilidade_entidades_sem_fins_lucrativos
+    weight: 10
+    confidence: 0.98
+  - name: terceiro_setor_gestao
+    weight: 9
+    confidence: 0.95
+  - name: controladoria_estrategica
+    weight: 8
+    confidence: 0.9
+  - name: terceiro_setor_legislacao_tributaria
+    weight: 9
+    confidence: 0.96
+  - name: contabilidade_social
+    weight: 7
+    confidence: 0.85
+  - name: contabilidade_avancada
+    weight: 7
+    confidence: 0.88
+  - name: evolucao_terceiro_setor_brasil
+    weight: 8
+    confidence: 0.92
+  - name: tipos_entidades_terceiro_setor
+    weight: 8
+    confidence: 0.93
+  - name: imunidade_tributaria_entidades
+    weight: 9
+    confidence: 0.94
+  - name: isencao_tributaria_entidades
+    weight: 9
+    confidence: 0.94
+  cdu_primary: '336.22'
+  cdu_secondary:
+  - '366.1'
+  - '061.2'
+  - '061.7'
+  cdu_description: Finanças públicas. Finanças. Tributação. Impostos. Taxas. Contribuições. Imunidade e isenção tributária aplicadas a entidades sem fins lucrativos e do terceiro setor. Organizações sem fins lucrativos, associações e fundações.
+---
 [[Contabilidade]]
 # REFERÊNCIAS
 ## BÁSICA 

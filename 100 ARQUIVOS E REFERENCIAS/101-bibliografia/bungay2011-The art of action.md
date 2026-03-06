@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:57.414957+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: friccao_organizacional
+    weight: 10
+    confidence: 0.98
+  - name: gestao_de_planos_e_resultados
+    weight: 9
+    confidence: 0.95
+  - name: incerteza_em_organizacoes
+    weight: 9
+    confidence: 0.93
+  - name: efeitos_da_teoria_do_caos
+    weight: 8
+    confidence: 0.9
+  - name: limitacoes_da_informacao_disponivel
+    weight: 8
+    confidence: 0.92
+  - name: desalinhamento_organizacional
+    weight: 7
+    confidence: 0.88
+  - name: impacto_da_finitude_humana
+    weight: 7
+    confidence: 0.85
+  - name: motivacao_e_moral_corporativo
+    weight: 6
+    confidence: 0.8
+  - name: critica_a_centralizacao_excessiva
+    weight: 6
+    confidence: 0.78
+  - name: analise_de_estrategias_militares
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '658.01'
+  cdu_secondary:
+  - '007.52'
+  - '316.46'
+  - '303.7'
+  cdu_description: Gestão e organização. Teoria da gestão. Gestão de operações. Gestão de sistemas. Gestão de pessoal. Motivação. Teoria do caos. Sistemas complexos. Comunicação organizacional.
+---
 Bungay, Stephen. _The Art of Action How Leaders Close the Gaps between Plans, Actions and Results_. London: Nicholas Brealey, 2011.
 
 ![[gapsPlanejamento.png]]

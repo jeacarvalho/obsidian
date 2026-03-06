@@ -1,11 +1,56 @@
 ---
 title: Claude Code e o fim do desenvolvimento como conhecemos
 date: 2026-02-27
-tags: [ia, programação, claude, tool-ai, desenvolvimento]
+tags:
+- ia
+- programação
+- claude
+- tool-ai
+- desenvolvimento
 author: Marco Souza (oprogramador)
 source: https://www.tabnews.com.br/oprogramador/claude-code-e-o-fim-do-desenvolvimento-como-conhecemos
 type: artigo
 status: para-revisar
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:33.232622+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ferramentas_ia_desenvolvimento_software
+    weight: 10
+    confidence: 0.98
+  - name: claude_code_uso_efetivo
+    weight: 9
+    confidence: 0.97
+  - name: planejamento_acao_ia_programacao
+    weight: 8
+    confidence: 0.95
+  - name: divulgacao_progressiva_documentacao_ia
+    weight: 7
+    confidence: 0.93
+  - name: testes_unidade_autocorrecao_ia
+    weight: 8
+    confidence: 0.94
+  - name: qualidade_codigo_legibilidade_ia
+    weight: 7
+    confidence: 0.92
+  - name: principios_clean_code_ia
+    weight: 6
+    confidence: 0.9
+  - name: automacao_escrita_codigo_ia
+    weight: 9
+    confidence: 0.96
+  - name: custo_ferramentas_ia_programacao
+    weight: 7
+    confidence: 0.91
+  - name: futuro_programacao_inteligencia_artificial
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '004.8'
+  - '005.3'
+  cdu_description: 004.4 - Programação de computadores; 004.8 - Inteligência artificial; 005.3 - Processamento de dados
 ---
 
 # Claude Code e o fim do desenvolvimento como conhecemos

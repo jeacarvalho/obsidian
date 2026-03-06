@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:08.952951+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: compreensao_impacto_falhas_pessoais
+    weight: 8
+    confidence: 0.9
+  - name: reflexao_presenca_espirito_santo
+    weight: 7
+    confidence: 0.85
+  - name: busca_cosmovisao_centrada_deus
+    weight: 7
+    confidence: 0.88
+  - name: soberania_deus_uso_falhas_humanas
+    weight: 9
+    confidence: 0.95
+  - name: acao_espirito_santo_transformacao
+    weight: 8
+    confidence: 0.92
+  - name: cosmovisao_renovada_em_cristo
+    weight: 7
+    confidence: 0.9
+  - name: fracasso_pedro_soberania_deus
+    weight: 8
+    confidence: 0.85
+  - name: poder_transformador_espirito_santo
+    weight: 7
+    confidence: 0.88
+  - name: meditacao_escrituras_lectio_divina
+    weight: 6
+    confidence: 0.75
+  - name: teologia_reformada_aplicada
+    weight: 9
+    confidence: 0.93
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '234.2'
+  - '231.7'
+  - '232.9'
+  - '273.6'
+  cdu_description: Teologia cristã. Teologia sistemática. Doutrinas sobre Deus. Doutrinas sobre o Espírito Santo. Doutrinas sobre a salvação. Teologia reformada.
+---
 ## analise do chatgpt sobre minhas meditacoes em [[Marcos 14]]-28-31
 
 ### Análise Comportamental

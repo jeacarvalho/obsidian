@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:51.467146+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: automacao_catalogo_servicos
+    weight: 8
+    confidence: 0.9
+  - name: armazenamento_objetos
+    weight: 7
+    confidence: 0.85
+  - name: fila_mensageria
+    weight: 7
+    confidence: 0.85
+  - name: database_as_a_service
+    weight: 7
+    confidence: 0.85
+  - name: backup_as_a_service
+    weight: 6
+    confidence: 0.75
+  - name: compliance_services
+    weight: 6
+    confidence: 0.75
+  - name: broker_as_a_service
+    weight: 6
+    confidence: 0.75
+  - name: infraestrutura_nuvem_serpro
+    weight: 9
+    confidence: 0.95
+  - name: roadmap_projetos_ti
+    weight: 8
+    confidence: 0.9
+  - name: cursos_online_tecnologia
+    weight: 5
+    confidence: 0.6
+  cdu_primary: '004.7'
+  cdu_secondary:
+  - '004.4'
+  - '004.6'
+  - '004.77'
+  - '004.78'
+  - '004.73'
+  cdu_description: Redes de computadores. Sistemas de computadores. Gestão de sistemas. Serviços de rede. Serviços de computação em nuvem.
+---
 # Cursos
 - https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+1T2022/block-v1:LinuxFoundationX+LFS158x+1T2022+type@sequential+block@f0d11db04aff45479f54a3075d2286c1/block-v1:LinuxFoundationX+LFS158x+1T2022+type@vertical+block@42047bd89f89466cbd2d4b8f5144c564
 - https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS151.x+3T2021/home

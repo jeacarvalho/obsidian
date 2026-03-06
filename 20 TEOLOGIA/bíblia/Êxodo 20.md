@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:42.098957+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: resgate_do_servico_forcado
+    weight: 7
+    confidence: 0.85
+  - name: servico_a_deus_verdadeiro
+    weight: 8
+    confidence: 0.9
+  - name: conteudo_constituicao_nacional
+    weight: 6
+    confidence: 0.75
+  - name: conceito_de_amor_lealdade_ativa
+    weight: 9
+    confidence: 0.95
+  - name: lei_de_cristo_nova_alianca
+    weight: 10
+    confidence: 0.98
+  - name: lei_escrita_no_coracao_espirito_santo
+    weight: 9
+    confidence: 0.96
+  - name: compreensao_dos_mandamentos_divinos
+    weight: 8
+    confidence: 0.92
+  - name: manifestacao_da_presenca_deus_sinai
+    weight: 7
+    confidence: 0.88
+  - name: responsabilidade_geracional_pecados
+    weight: 6
+    confidence: 0.7
+  - name: sabado_como_sinal_da_alianca
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '222.11'
+  cdu_secondary:
+  - '230.2'
+  - '241.1'
+  - '262.1'
+  cdu_description: O livro de Êxodo (222.11) trata da libertação do povo de Israel da escravidão no Egito e da recepção da Lei no Monte Sinai, incluindo os Dez Mandamentos. A teologia cristã (230.2) aborda a Nova Aliança e a Lei de Cristo, mediada pelo Espírito Santo. A ética (241.1) é explorada nos conceitos de amor, lealdade e obediência aos mandamentos. A organização social e religiosa (262.1) é vista na estrutura da aliança e na observância do sábado como sinal.
+---
 EX_20
 
 Thus the first half of Exodus is all about rescue from forced service to a pagan nation, and the second half is all about proper service for the one true God by keeping his covenant.

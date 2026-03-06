@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:57.475172+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: linguagem_rust_para_windows
+    weight: 10
+    confidence: 0.98
+  - name: unificacao_api_windows
+    weight: 9
+    confidence: 0.95
+  - name: crate_windows
+    weight: 8
+    confidence: 0.92
+  - name: desenvolvimento_windows
+    weight: 7
+    confidence: 0.9
+  - name: metadados_win32
+    weight: 6
+    confidence: 0.88
+  - name: acessibilidade_api_windows
+    weight: 7
+    confidence: 0.85
+  - name: documentacao_api_windows_rust
+    weight: 6
+    confidence: 0.87
+  - name: exemplos_desenvolvimento_rust
+    weight: 5
+    confidence: 0.8
+  - name: win32_apis
+    weight: 7
+    confidence: 0.89
+  - name: winrt
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '004.43'
+  cdu_secondary:
+  - '004.62'
+  - 004.773.2
+  cdu_description: Programação em linguagem Rust para desenvolvimento de aplicações Windows, focando na unificação e acessibilidade das APIs do sistema operacional.
+---
 Rust for Windows – Kenny Kerr
 
 # Rust for Windows

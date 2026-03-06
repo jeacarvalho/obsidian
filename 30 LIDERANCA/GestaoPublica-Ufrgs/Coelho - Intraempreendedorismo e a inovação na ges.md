@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:06.558169+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: intraempreendedorismo_gestao_publica
+    weight: 10
+    confidence: 0.98
+  - name: inovacao_organizacoes_publicas
+    weight: 9
+    confidence: 0.97
+  - name: obstaculos_inovacao_publica
+    weight: 8
+    confidence: 0.95
+  - name: empreendedorismo_criativo_schumpeter
+    weight: 7
+    confidence: 0.93
+  - name: fontes_inovacao_drucker
+    weight: 7
+    confidence: 0.92
+  - name: agente_inovacao_intraempreendedor
+    weight: 8
+    confidence: 0.96
+  - name: caracteristicas_organizacao_publica
+    weight: 6
+    confidence: 0.9
+  - name: cultura_empreendedora_administracao_publica
+    weight: 9
+    confidence: 0.94
+  - name: desafios_intraempreendedor_publico
+    weight: 7
+    confidence: 0.91
+  - name: melhoria_servicos_publicos_inovacao
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '351.712'
+  cdu_secondary:
+  - '005.32'
+  - 330.142.2
+  cdu_description: Administração pública; Gestão pública; Inovação; Intraempreendedorismo; Cultura organizacional; Empreendedorismo
+---
 Coelho - Intraempreendedorismo e a inovação na gestão pública federal
 
 As ***organizações públicas*** são semelhantes às demais; no entanto, possuem características próprias (rotinas, hierarquia excessiva, descontinuidade, paternalismo etc) ***que constituem verdadeiros obstáculos às inovações e mudanças e que se opõem ao empreendedorismo**  *([[Drucker]], 2008;PIRES & MACEDO, 2006; THOENIG, 2007; DAL’BÓ, 2008).

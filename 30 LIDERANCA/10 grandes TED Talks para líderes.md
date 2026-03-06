@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:00.950337+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lideranca_inspiracional
+    weight: 10
+    confidence: 0.98
+  - name: motivacao_no_trabalho
+    weight: 9
+    confidence: 0.95
+  - name: desenvolvimento_de_lideres
+    weight: 8
+    confidence: 0.92
+  - name: criacao_de_movimentos
+    weight: 7
+    confidence: 0.88
+  - name: marketing_de_ideias
+    weight: 7
+    confidence: 0.85
+  - name: gestao_de_pessoas
+    weight: 6
+    confidence: 0.8
+  - name: comunicacao_estrategica
+    weight: 6
+    confidence: 0.78
+  - name: mudanca_organizacional
+    weight: 5
+    confidence: 0.75
+  - name: tribos_digitais
+    weight: 5
+    confidence: 0.72
+  - name: aprendizagem_continua
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '658.3'
+  cdu_secondary: []
+  cdu_description: Gestão de pessoal. Administração de pessoal. Recursos humanos
+---
 10 Great TED Talks for Leaders
 
 - [Home](http://www.georgeambler.com/)

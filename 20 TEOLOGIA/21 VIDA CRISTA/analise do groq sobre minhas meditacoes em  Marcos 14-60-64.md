@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:10.743684+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_julgamento_jesus_marcos_14
+    weight: 10
+    confidence: 0.98
+  - name: ilegalidade_processo_judicial_religioso
+    weight: 9
+    confidence: 0.95
+  - name: manipulacao_lei_interesses_politicos
+    weight: 9
+    confidence: 0.94
+  - name: hipocrisia_lideres_religiosos
+    weight: 8
+    confidence: 0.92
+  - name: critica_estruturas_poder_religioso
+    weight: 8
+    confidence: 0.91
+  - name: teologia_reformada_escrituras
+    weight: 7
+    confidence: 0.88
+  - name: justica_social_perspectiva_biblica
+    weight: 7
+    confidence: 0.87
+  - name: contexto_historico_ocupacao_romana
+    weight: 6
+    confidence: 0.85
+  - name: proposta_sermao_cristao
+    weight: 6
+    confidence: 0.84
+  - name: interpretacao_biblica_calvino
+    weight: 5
+    confidence: 0.8
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '232.9'
+  - '323.2'
+  - '305.8'
+  cdu_description: '27-29: Cristianismo. 232.9: Jesus Cristo. 323.2: Luta política, revolução. 305.8: Grupos étnicos e nacionais. Relações raciais.'
+---
 #### analise do groq sobre minhas meditacoes em  [[Marcos 14]]-60-64
 Ao ler o texto bíblico em Marcos 14:60-64 e as anotações sobre ele, podemos perceber uma profunda reflexão sobre a natureza do julgamento de Jesus e as motivações por trás das ações dos líderes religiosos da época. As anotações destacam a ilegalidade do julgamento, a manipulação da lei para atender a interesses políticos e a hipocrisia dos líderes religiosos.
 

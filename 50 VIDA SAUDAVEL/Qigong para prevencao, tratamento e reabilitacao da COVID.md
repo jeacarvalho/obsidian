@@ -2,7 +2,48 @@
 created: 2021-05-14T18:48:53 (UTC -03:00)
 tags: []
 source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7227578/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:38.282338+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: qigong_para_idosos_covid19
+    weight: 10
+    confidence: 0.98
+  - name: prevencao_covid19_idosos
+    weight: 9
+    confidence: 0.95
+  - name: tratamento_covid19_idosos
+    weight: 9
+    confidence: 0.95
+  - name: reabilitacao_covid19_idosos
+    weight: 9
+    confidence: 0.95
+  - name: medicina_tradicional_chinesa_covid19
+    weight: 8
+    confidence: 0.92
+  - name: exercicios_mente_corpo_idosos
+    weight: 7
+    confidence: 0.9
+  - name: saude_respiratoria_idosos
+    weight: 7
+    confidence: 0.88
+  - name: funcao_imune_qigong
+    weight: 6
+    confidence: 0.85
+  - name: reducao_estresse_qigong
+    weight: 6
+    confidence: 0.85
+  - name: ba_duan_jin_covid19
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '616.98'
+  cdu_secondary:
+  - '613.7'
+  - '615.8'
+  - '615.851'
+  cdu_description: Doenças infecciosas e parasitárias; Exercício físico; Terapias alternativas; Medicina tradicional chinesa
 ---
 
 # Qigong for the Prevention, Treatment, and Rehabilitation of COVID-19 Infection in Older Adults

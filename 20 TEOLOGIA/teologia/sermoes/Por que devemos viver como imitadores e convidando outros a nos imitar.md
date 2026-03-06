@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:04.340286+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: imitacao_de_cristo
+    weight: 10
+    confidence: 0.98
+  - name: crescimento_espiritual_cristao
+    weight: 9
+    confidence: 0.95
+  - name: exemplo_positivo_cristao
+    weight: 8
+    confidence: 0.92
+  - name: edificacao_comunidade_fe
+    weight: 7
+    confidence: 0.9
+  - name: amor_e_santidade_crista
+    weight: 8
+    confidence: 0.93
+  - name: servico_cristao
+    weight: 7
+    confidence: 0.88
+  - name: missao_de_deus_no_mundo
+    weight: 9
+    confidence: 0.94
+  - name: discipulado_cristao
+    weight: 8
+    confidence: 0.91
+  - name: compartilhamento_fe
+    weight: 6
+    confidence: 0.85
+  - name: luz_e_sal_no_mundo
+    weight: 7
+    confidence: 0.89
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '232.9'
+  - '248.4'
+  - '267.2'
+  cdu_description: '27-29: História, geografia, biografias da Igreja Cristã; 232.9: Vida e ensinamentos de Jesus Cristo; 248.4: Vida cristã, prática; 267.2: Comunidades e associações religiosas'
+---
 #### **Por que** devemos viver como imitadores e convidando outros a nos imitar?
 
 Tema: Por que devemos ser imitadores de Cristo e também abertos a convidar outros a serem nossos imitadores?

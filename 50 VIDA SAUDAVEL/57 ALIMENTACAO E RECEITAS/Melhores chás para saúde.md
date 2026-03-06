@@ -1,8 +1,53 @@
 ---
 created: 2021-05-04T09:51:39 (UTC -03:00)
-tags: [chás,saúde,perder peso,perda de peso,stress]
+tags:
+- chás
+- saúde
+- perder peso
+- perda de peso
+- stress
 source: https://www.holmesplace.com/pt/pt/blog/nutricao/quais-os-7-melhores-chas-para-a-sua-saude
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:52.467029+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: beneficios_cha_hortela_pimenta
+    weight: 8
+    confidence: 0.9
+  - name: cha_preto_antioxidante
+    weight: 7
+    confidence: 0.85
+  - name: cha_oolong_saude_cardiaca
+    weight: 7
+    confidence: 0.85
+  - name: cha_camomila_sono
+    weight: 9
+    confidence: 0.95
+  - name: cha_verde_perda_peso
+    weight: 9
+    confidence: 0.95
+  - name: cha_branco_rejuvenescedor
+    weight: 8
+    confidence: 0.9
+  - name: cha_equinacea_imunidade
+    weight: 8
+    confidence: 0.9
+  - name: propriedades_antioxidantes_chas
+    weight: 7
+    confidence: 0.8
+  - name: chas_saude_digestiva
+    weight: 6
+    confidence: 0.75
+  - name: chas_reducao_stress
+    weight: 6
+    confidence: 0.75
+  cdu_primary: '613.88'
+  cdu_secondary:
+  - '613.2'
+  - '615.32'
+  cdu_description: Saúde e bem-estar; Nutrição e alimentação; Medicina natural e terapêutica
 ---
 
 # Quais os 7 melhores chás para a sua saúde?

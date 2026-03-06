@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:53.666672+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: superacao_pessoal_empreendedor
+    weight: 10
+    confidence: 0.98
+  - name: empreendedorismo_venda_amendoim
+    weight: 9
+    confidence: 0.97
+  - name: acesso_educacao_superior_bolsa
+    weight: 9
+    confidence: 0.96
+  - name: mudanca_de_vida_apos_historia_viral
+    weight: 8
+    confidence: 0.95
+  - name: historia_inspiradora_vendedor_ambulante
+    weight: 8
+    confidence: 0.94
+  - name: motivacao_familiar_suporte_esposa
+    weight: 7
+    confidence: 0.93
+  - name: estudo_direito_apos_oportunidade
+    weight: 7
+    confidence: 0.92
+  - name: juventude_dificil_interrupcao_estudos
+    weight: 6
+    confidence: 0.91
+  - name: vida_em_maceio_trabalho_ambulante
+    weight: 6
+    confidence: 0.9
+  - name: conciliacao_estudo_trabalho_informal
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '378.1'
+  cdu_secondary:
+  - '331.5'
+  - '305.8'
+  cdu_description: Acesso ao ensino superior, bolsas de estudo, educação para adultos, trabalho informal, histórias de vida inspiradoras, direito.
+---
 Vendendo amendoimundefined ambulante muda de vida e ganha bolsa para cursar direito
 
 # Vendendo amendoim, ambulante muda de vida e ganha bolsa para cursar direito

@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:43.233653+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceitos_freudianos_infancia
+    weight: 8
+    confidence: 0.9
+  - name: complexo_de_edipo
+    weight: 7
+    confidence: 0.85
+  - name: fases_psicossexuais
+    weight: 7
+    confidence: 0.85
+  - name: bullying_infantil_consequencias
+    weight: 9
+    confidence: 0.95
+  - name: sentimentos_impotencia_inadequacao
+    weight: 9
+    confidence: 0.95
+  - name: autoestima_baixa_adulto
+    weight: 8
+    confidence: 0.9
+  - name: busca_validacao_externa
+    weight: 8
+    confidence: 0.9
+  - name: sentimentos_abandono_desconfianca
+    weight: 9
+    confidence: 0.95
+  - name: transtorno_ansiedade_generalizada_risco
+    weight: 7
+    confidence: 0.8
+  - name: terapia_humanista_abordagens
+    weight: 6
+    confidence: 0.75
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - 159.922.3
+  - '159.942'
+  - '159.947'
+  - 159.964.2
+  cdu_description: Psicologia. Psicologia do desenvolvimento. Psicologia da personalidade. Psicologia clínica. Psicologia humanista. Psicologia freudiana. Ansiedade.
+---
 Um psicólogo da linha freudiana provavelmente analisaria esses eventos à luz dos conceitos freudianos, como o complexo de Édipo, o desenvolvimento da personalidade através das fases psicossexuais e a importância das experiências infantis na formação do indivíduo.
 
 Vamos analisar cada evento e suas possíveis consequências na vida adulta do paciente:

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:49.632798+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contratacao_elastic_subscricao
+    weight: 10
+    confidence: 0.98
+  - name: monitoramento_ambiente_elastic
+    weight: 9
+    confidence: 0.95
+  - name: modelagem_dados_nosql
+    weight: 8
+    confidence: 0.9
+  - name: migracao_cluster_elastic_ece
+    weight: 8
+    confidence: 0.92
+  - name: uso_elastic_siem
+    weight: 7
+    confidence: 0.85
+  - name: consultoria_servicos_elastic
+    weight: 7
+    confidence: 0.88
+  - name: planilha_clusters_elastic_serpro
+    weight: 6
+    confidence: 0.8
+  - name: kibana_auditoria
+    weight: 6
+    confidence: 0.82
+  - name: negociacao_contrato_elastic
+    weight: 9
+    confidence: 0.93
+  - name: documentacao_elastic_nosql
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '004.77'
+  cdu_secondary:
+  - '004.62'
+  - '004.78'
+  - '004.42'
+  cdu_description: Sistemas de computadores distribuídos; Redes de computadores; Gestão de dados; Software de sistemas
+---
 ### Descrição:
 
 | links                                                                                        | Arquivos |

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:31.215969+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: evolucao_artistica_van_gogh
+    weight: 10
+    confidence: 0.98
+  - name: transicao_cores_vibrantes
+    weight: 9
+    confidence: 0.97
+  - name: influencia_impressionismo_paris
+    weight: 9
+    confidence: 0.96
+  - name: influencia_realismo_holandes
+    weight: 8
+    confidence: 0.9
+  - name: relacao_theo_van_gogh
+    weight: 8
+    confidence: 0.92
+  - name: influencia_alphonse_monticelli
+    weight: 8
+    confidence: 0.91
+  - name: influencia_anton_mauve
+    weight: 7
+    confidence: 0.85
+  - name: periodo_nuenen_pinturas_camponeses
+    weight: 7
+    confidence: 0.88
+  - name: influencia_peter_paul_rubens
+    weight: 7
+    confidence: 0.87
+  - name: estudo_academico_belgica
+    weight: 6
+    confidence: 0.8
+  cdu_primary: '75.04'
+  cdu_secondary:
+  - '75.01'
+  - '75.03'
+  cdu_description: Pintura. História da pintura. Pintura holandesa. Pintura francesa. Estilos e movimentos artísticos.
+---
 https://twitter.com/culturaltutor/status/1651067998793265152?s=20
 
 [![The Cultural Tutor Profile picture](https://pbs.twimg.com/profile_images/1524409613558464513/GeaYexsJ_bigger.jpg)](https://threadreaderapp.com/user/culturaltutor)

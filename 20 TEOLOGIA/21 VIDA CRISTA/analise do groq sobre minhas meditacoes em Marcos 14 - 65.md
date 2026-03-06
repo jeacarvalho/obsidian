@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:06.054252+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_meditacoes_marcos_14_65
+    weight: 10
+    confidence: 0.98
+  - name: reflexao_crueldade_desumanizacao
+    weight: 9
+    confidence: 0.95
+  - name: natureza_humana_pecado
+    weight: 8
+    confidence: 0.92
+  - name: empatia_compaixao_crista
+    weight: 7
+    confidence: 0.9
+  - name: teologia_reformada_calvino
+    weight: 8
+    confidence: 0.93
+  - name: teologia_reformada_lutero
+    weight: 7
+    confidence: 0.91
+  - name: exegese_marcos_14_65
+    weight: 8
+    confidence: 0.94
+  - name: contexto_historico_jesus_paixao
+    weight: 7
+    confidence: 0.88
+  - name: evolucao_pessoal_auto_reflexao
+    weight: 6
+    confidence: 0.85
+  - name: proposta_sermao_paixao_jesus
+    weight: 7
+    confidence: 0.9
+  cdu_primary: '230.9'
+  cdu_secondary:
+  - '226.7'
+  - '273.6'
+  - '179.7'
+  cdu_description: Teologia cristã; Teologia sistemática; Teologia reformada; Novo Testamento; Evangelho de Marcos; Ética cristã; Ética aplicada; Comportamento humano
+---
 #### analise do groq sobre minhas meditacoes em [[Marcos 14]] - 65
 **Leitura das anotações**
 

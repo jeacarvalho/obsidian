@@ -1,54 +1,84 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:49.664350+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: modelo_cognitivo_emocoes
+    weight: 10
+    confidence: 0.98
+  - name: relacao_pensamento_sentimento
+    weight: 9
+    confidence: 0.95
+  - name: transtornos_emocionais_cognicao
+    weight: 8
+    confidence: 0.92
+  - name: modelo_comportamental_emocoes
+    weight: 7
+    confidence: 0.9
+  - name: modelo_psicanalitico_emocoes
+    weight: 7
+    confidence: 0.9
+  - name: condicionamento_emocional
+    weight: 6
+    confidence: 0.88
+  - name: impulsos_inconscientes_ansiedade
+    weight: 6
+    confidence: 0.85
+  - name: mecanismos_defesa_psicanalise
+    weight: 5
+    confidence: 0.82
+  - name: significado_subjetivo_emocao
+    weight: 9
+    confidence: 0.93
+  - name: introspeccao_observacao_emocional
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '159.946'
+  cdu_secondary:
+  - '159.964'
+  - '159.942'
+  cdu_description: Psicologia das emoções. Psicologia cognitiva das emoções. Psicologia psicanalítica das emoções.
+---
 # Capítulo 3
 
-2
-Assim como Adão foi expulso do Paraíso, toda a sua Posteridade nasceu fora dele, fora do alcance da Árvore da Vida, todos como seu Pai Adão em estado de Mortalidade, desprovidos da Tranquilidade e da Felicidade do Paraíso.[1]
+2  
+John Locke e o Problema com Adão  
+Assim como Adão foi expulso do Paraíso, toda a sua Posteridade nasceu fora dele, fora do alcance da Árvore da Vida, todos como seu Pai Adão em um estado de Mortalidade, desprovidos da Tranquilidade e Felicidade do Paraíso.  
 
-Em comparação com Grotius, John Locke teve uma vida um tanto menos emocionante. Em vez de naufrágios,[2] Locke abandonou um cargo universitário para ser tutor dos filhos de um Whig obscenamente rico e ligeiramente progressista; em vez de ocupar um cargo de embaixador, optou por ficar tranquilamente em casa e escrever; em vez de lutar vigorosamente por uma causa, escondeu a autoria de qualquer obra que suspeitasse que pudesse ser um pouco controversa; em vez da vida pública, permaneceu excessivamente secreto.[3] Locke era conhecido por ser pedante, rápido em se ofender e singularmente carente de senso de humor. Apesar de tudo isso, ele oferece uma abundância de riquezas quando se trata da Bíblia e da teoria econômica.
-
-Nós nos concentramos em seus dois "Tratados sobre o Governo", extraindo (quando apropriado) de seu curioso A Razoabilidade do Cristianismo.[4] As questões centrais para nossa análise de Locke dizem respeito à natureza humana e às origens do trabalho e da propriedade privada.[5] Em ambos os casos, seus esforços teóricos se baseiam e muitas vezes são frustrados pelo texto bíblico de Gênesis 1–3.[6] Por que este texto? Se alguém desejasse desenvolver uma nova teoria da natureza humana na época de Locke (embora ele já estivesse trabalhando em uma tradição que remonta a Grotius), então a pessoa óbvia com quem começar era aquele torrão primordial,[7] Adão. Aqui, certamente, está o paradigma da natureza humana, pois Deus o criou diretamente (Eva mal é mencionada).[8] O problema é que a preocupação quase obsessiva em identificar uma natureza humana eterna ocorreu em um momento em que a própria natureza humana estava mudando com a disseminação do capitalismo. Quanto ao trabalho e à propriedade privada, os primeiros capítulos de Gênesis também foram onde se começou a análise. O trabalho é claramente uma das maldições da Queda (Gn 3:17-19), então, se alguém desejasse desenvolver um mito alternativo, partes de Gênesis precisavam ser reinterpretadas e reescritas. À luz desses temas - natureza humana e propriedade - organizamos a seguinte análise em duas seções: a primeira se concentra em Adão e a segunda na reelaboração de Locke do mito da origem da propriedade e do trabalho. Na seção inicial, traçamos a forma como as ideias de Locke sobre liberdade, razão e interesse próprio emergem de suas deliberações sobre Adão. Mais explicitamente, elas emergem de seus debates com Robert Filmer, que procurou argumentar que a monarquia absoluta deriva de Adão.[9] Locke discordou e, no processo, desenvolveu suas posições. Embora possam ser declaradas (muitas vezes repetidamente) no celebrado segundo tratado sobre o governo, elas são inicialmente formuladas no primeiro tratado, onde o debate com Filmer e o envolvimento próximo com Gênesis ocorrem. A seção seguinte de nossa análise se concentra no mito de Locke sobre as origens da propriedade e do trabalho. Esse mito não é apenas uma recontagem da história da Queda em Gênesis 1–3, mas também serve como uma reelaboração e extensão da versão anterior do mito de Grotius. Neste ponto, também recorremos a A Razoabilidade do Cristianismo, no qual Locke enfrenta diretamente o problema da Queda. Em uma ousada reinterpretação da Queda, ele restringe suas consequências a um único homem: Adão traz a mortalidade ao mundo. Locke, assim, apaga as outras consequências, especialmente no que diz respeito ao trabalho como punição pela desobediência. Isso lhe deixa muito espaço para desenvolver uma história alternativa em que o trabalho e, portanto, a propriedade, são o resultado da ordem de Deus para subjugar a terra. Continuamos a prestar muita atenção a este mito fundador da teoria econômica clássica, pois ele seria recontado e reformulado por aqueles que vieram depois de Locke.
-
-Como tratamos extensivamente dos argumentos teológicos, ou melhor, bíblicos de Locke, deve-se fazer um comentário preliminar sobre suas preferências teológicas. A posição de Locke pode parecer inicialmente uma mistura teológica, sem aderir a uma única direção. Seu desejo de basear seus pensamentos apenas na Bíblia o faz parecer um tanto Reformado, mas ele tinha pouco interesse nos "sistemas da Divindade". Locke escreveu famoso: "A Sagrada Escritura é para mim, e sempre será, o guia constante do meu assentimento; e sempre a ouviremos, por conter a verdade infalível, relativa às coisas da maior importância."[10] No entanto, ele tinha ideias específicas sobre como esse guia deveria ser lido: a "direção do discurso" em vez de textos-prova; o suposto contexto histórico em que os textos foram escritos em vez de elaboradas formulações teológicas; o significado "simples e inteligível" (isto é, "razoabilidade") do texto, compreensível pelos pobres e pelo homem comum, em vez das "distinções superficiais das escolas".[11] O resultado foi uma abordagem que considerava a fé como assentimento intelectual e moral a proposições básicas encontradas na Bíblia, especialmente aquelas seções que Locke considerava mais históricas.[12] Sob esta abordagem distinta e (para sua época) razoavelmente moderna da Bíblia, reside uma corrente subjacente que o liga a ninguém menos que Hugo Grotius. Um dos dois teólogos favoritos de Locke foi Philipp van Limborch.[13] Um importante remonstrante da geração seguinte a Grotius, Limborch (1633–1712) também era membro da classe dominante. Depois de estudar teologia, ele ministrou em paróquias remonstrantes em Gouda e mais tarde em Amsterdã, onde também se tornou professor de teologia no colégio remonstrante. Nessa função, ele foi frequentemente chamado a lidar com questões de teologia prática e organização eclesial, mas também correspondia (em latim) com intelectuais importantes na Alemanha, França e, especialmente, Inglaterra. Além de escrever com frequência para Locke, seu amigo pessoal e intelectual, Limborch conseguiu escrever várias obras importantes de teologia remonstrante, incluindo a primeira exposição sistemática dessa teologia.[14] No trabalho de Limborch, Locke parecia mais em casa; ou melhor, ele descobriu que suas próprias conclusões concordavam bem com as de Limborch.[15] Estes incluem: oposição à doutrina calvinista da eleição; abominação da ideia de que Deus poderia ser o autor do pecado; a posição de que a fé exige obediência a proposições básicas, sobre as quais todos os cristãos podem concordar - especialmente que Jesus Cristo é Senhor e Messias; um desejo de encontrar unidade e tolerância entre as muitas formas de cristianismo por meio dessas proposições simples;[16] propensões da classe dominante que incluíam uma abominação da revolução; mas especialmente - para nossos propósitos - sua tendência de limitar os efeitos da Queda, atribuindo assim grande importância à agência humana em termos de liberdade. De fato, o posicionamento de Locke como um cristão independente que busca uma mensagem bíblica simples como base para a paz e o entendimento o aproximou dos arminianos.[17]
-
-Algo sobre Adão
-
-Todo homem tinha direito às criaturas pelo mesmo título que Adão tinha, a saber, pelo direito que cada um tinha de cuidar e prover sua subsistência: e assim os homens tinham um direito em comum, os filhos de Adão em comum com ele.[18]
-
-O tema é a natureza humana, e o foco é Adão. Locke busca uma nova teoria da natureza humana, embora uma que ele procurasse reforçar e desenvolver, em vez de criar ex nihilo. Em Adão, pode-se, sente Locke, encontrar insights sobre liberdade, razão, interesse próprio, propriedade e trabalho. No entanto, Adão não é tão cooperativo quanto Locke gostaria, torcendo para um lado e para outro enquanto Locke tenta prendê-lo. A razão? Adão está preso entre o paradigma e a exceção. Assim, a suposição de Locke é que, como o primeiro, Adão fornece insights sobre a verdade da natureza humana, oferecendo um paradigma para toda a sua posteridade. Ele é todo homem, comum a todos. Ao mesmo tempo, Adão é a exceção, aquele que é diferente de todos nós. Ele foi criado diretamente, andou com Deus, experimentou um estado de perfeição que ninguém conseguiu igualar.[19] Mais importante, Ada
-
+Em comparação com Grotius, John Locke levou uma vida um tanto menos emocionante. Em vez de naufrágios, Locke abriu mão de um cargo universitário para ensinar os filhos de um Whig obscenamente rico e levemente progressista; em vez de ocupar um cargo de embaixador, optou por permanecer tranquilamente em casa e escrever; em vez de lutar robustamente por uma causa, escondeu sua autoria de qualquer obra que suspeitasse que pudesse ser um tanto controversa; em vez de vida pública, permaneceu excessivamente secreto. Locke era conhecido por ser pedante, rápido em se ofender e singularmente carente de senso de humor. Apesar de tudo isso, ele oferece uma abundância de riquezas quando se trata da Bíblia e da teoria econômica. Focamos em seus dois "Tratados de Governo", extraindo (quando apropriado) de seu curioso A Razoabilidade do Cristianismo. As questões centrais para nossa análise de Locke dizem respeito à natureza humana e às origens do trabalho e da propriedade privada. Em ambos os casos, seus esforços teóricos giram em torno e muitas vezes são atrapalhados pelo texto bíblico de Gênesis 1–3. Por que esse texto? Se alguém desejasse desenvolver uma nova teoria da natureza humana na época de Locke (embora ele já estivesse trabalhando em uma tradição que remonta a Grotius), então a pessoa óbvia com quem começar era aquele bloco primal, Adão. Aqui, certamente, está o paradigma da natureza humana, pois Deus o criou diretamente (Eva mal merece uma menção). O problema é que a preocupação quase obsessiva em identificar uma natureza humana eterna ocorreu em um momento em que a própria natureza humana estava mudando com a disseminação do capitalismo. Quanto ao trabalho e à propriedade privada, os primeiros capítulos de Gênesis também eram onde se começava a análise. O trabalho é claramente uma das maldições da Queda (Gên. 3:17-19), então, se alguém desejasse desenvolver um mito alternativo, partes de Gênesis precisavam ser reinterpretadas e reescritas. À luz desses temas—natureza humana e propriedade—organizamos a seguinte análise em duas seções: a primeira foca em Adão e a segunda na reinterpretação de Locke do mito da origem da propriedade e do trabalho. Na seção inicial, traçamos a maneira como as ideias de Locke sobre liberdade, razão e interesse próprio emergem de suas deliberações sobre Adão. Mais explicitamente, elas emergem de seus debates com Robert Filmer, que buscou argumentar que a monarquia absoluta deriva de Adão. Locke discordou e, no processo, desenvolveu suas posições. Embora possam ser afirmadas (muitas vezes repetidamente) no celebrado segundo tratado sobre governo, elas são inicialmente formuladas no primeiro tratado, onde ocorre o debate com Filmer e o envolvimento próximo com Gênesis. A seção seguinte de nossa análise foca no mito de Locke sobre as origens da propriedade e do trabalho. Não apenas esse mito é uma recontagem da história da Queda em Gênesis 1–3, mas também serve como uma reinterpretação e extensão da versão anterior do mito de Grotius. Neste ponto, também nos baseamos em A Razoabilidade do Cristianismo, no qual Locke enfrenta de frente o problema da Queda. Em uma ousada reinterpretação da Queda, ele restringe suas consequências a um único homem: Adão traz a mortalidade ao mundo. Locke, assim, apaga as outras consequências, especialmente no que diz respeito ao trabalho como punição pela desobediência. Isso lhe deixa bastante espaço para desenvolver uma história alternativa na qual o trabalho, e portanto a propriedade, são o resultado do comando de Deus para subjugar a terra. Continuamos a dar atenção cuidadosa a esse mito fundacional da teoria econômica clássica, pois ele seria recontado e reformulado por aqueles que vieram depois de Locke.  
+Como lidamos extensivamente com os argumentos teológicos, ou melhor, bíblicos, de Locke, um comentário preliminar sobre suas preferências teológicas deve ser feito. A posição de Locke pode parecer inicialmente
 
 ## Notas Relacionadas
-- [[60 CONTABILIDADE/61 TREINAMENTOS/UVA/Contabilidade/UVA/Auditoria/AuditoriaUVA-Aulas]]
+- [[80 COMUNIDADE/O problema do Rio nao sao os bandidos, sao os mocinhos]]
   - **Similaridade:** 100.0%
-  - **Trecho do capítulo:** _2
-Assim como Adão foi expulso do Paraíso, toda a sua Posteridade nasceu fora dele, fora do alcance da Árvore da Vida, todos como seu Pai Adão em estad..._
-  - **Trecho da nota:** _em claro que auditoria consiste em um instrumento de investigação e análise._
-  - ⚠️ _Match questionável: o trecho do capítulo parece referir-se à origem de adão e sua posteridade, enquanto a nota do vault parece estar discutindo conceitos contábeis e auditoria. os dois contextos são completamente diferentes e não há conexão lógica entre eles._
-- [[50 VIDA SAUDAVEL/confiança]]
-  - **Similaridade:** 99.9%
-  - **Trecho do capítulo:** _Em vez de naufrágios,[2] Locke abandonou um cargo universitário para ser tutor dos filhos de um Whig obscenamente rico e ligeiramente progressista; em..._
-  - **Trecho da nota:** _Se todos estão bem intencionados quanto ao resultado do time, então todos podem ser vulneráveis, humanos._
-  - ⚠️ _Match questionável: - não válido: a nota "50 vida saudavel/confiança" parece ser uma instrução de segurança ou um código para acesso, enquanto o trecho do capítulo descre_
-- [[30 LIDERANCA/GestaoPublica-Ufrgs/Forum Semana II - Vídeo 1 - Para Começar_ Max Webe]]
-  - **Similaridade:** 99.9%
-  - **Trecho do capítulo:** _Se alguém desejasse desenvolver uma nova teoria da natureza humana na época de Locke (embora ele já estivesse trabalhando em uma tradição que remonta ..._
-  - **Trecho da nota:** _Sem essas características seria, conforme a prfa ceci em sua aula, impossível a manutenção do modo capitalista de produção._
-  - ⚠️ _Match questionável: o trecho do capítulo fala sobre a natureza humana, enquanto o trecho da nota fala sobre a manutenção do modo capitalista de produção, temas completamente diferentes e sem conexão lógica._
-- [[30 LIDERANCA/GestaoPublica-Ufrgs/Coelho - Intraempreendedorismo e a inovação na ges]]
-  - **Similaridade:** 99.9%
-  - **Trecho do capítulo:** _Seu desejo de basear seus pensamentos apenas na Bíblia o faz parecer um tanto Reformado, mas ele tinha pouco interesse nos "sistemas da Divindade"._
-  - **Trecho da nota:** _Esta – denominada mudança societal – não encontra correspondência nas empresas e associações voluntárias._
-  - ⚠️ _Match questionável: o capítulo se refere a uma pessoa que tem pouco interesse nas "sistemas da divindade", enquanto a nota se refere a uma mudança societal, o que parece semelhante, mas não explícita em relação ao sistema divino._
-- [[20 TEOLOGIA/Faith/Reunião conselho diaconos 20150503]]
-  - **Similaridade:** 99.9%
-  - **Trecho do capítulo:** _Além de escrever com frequência para Locke, seu amigo pessoal e intelectual, Limborch conseguiu escrever várias obras importantes de teologia remonstr..._
-  - **Trecho da nota:** _- marcar com Elson durante a semana a noite, ate terça ou quarta
-
-Marcos Bria
-
-- Enxugar e trabalhar com realidade
-- voluntários!_
-  - ⚠️ _Match questionável: válido
-raizin: o trecho da nota parece ser uma agenda de reuniões e tarefas, enquanto o capítulo do livro fala sobre teologia remonstrante e limborch._
+  - **Trecho do capítulo:** _2  
+John Locke e o Problema com Adão  
+Assim como Adão foi expulso do Paraíso, toda a sua Posteridade nasceu fora dele, fora do alcance da Árvore da V..._
+  - **Trecho da nota:** _‘O problema do Rio não são os bandidosundefined são os mocinhos’undefined diz ex-chefe da Polícia Civil._
+  - ⚠️ _Match questionável: a semântica é diferente, "problema do rio" em uma nota de vault refere-se ao tráfico de drogas no rio, enquanto no capítulo 3 se refere à questão da natureza humana e a responsabilidade dos seres humanos._
+- [[30 LIDERANCA/problemas são complexos porque se autoalimentam]]
+  - **Similaridade:** 100.0%
+  - **Trecho do capítulo:** _Focamos em seus dois "Tratados de Governo", extraindo (quando apropriado) de seu curioso A Razoabilidade do Cristianismo._
+  - **Trecho da nota:** _O amor pelo dinheiro gera paixão pelo lucro, que gera mais desigualdade (paga-se muito ao topo e pouco à base).._
+  - ⚠️ _Match questionável: ambas as referências se concentram na questão da riqueza e sua relação com a desigualdade social._
+- [[30 LIDERANCA/Ecossistema de problemas difíceis ou perversos]]
+  - **Similaridade:** 100.0%
+  - **Trecho do capítulo:** _O problema é que a preocupação quase obsessiva em identificar uma natureza humana eterna ocorreu em um momento em que a própria natureza humana estava..._
+  - **Trecho da nota:** _Por exemplo, a grande igreja como uma forma de corrupção, local de lavagem de dinheiro e de constante lobby por redução ou isenção de impostos._
+  - ⚠️ _Match questionável: a nota do vault refere-se a uma forma específica de corrupção, enquanto o trecho do capítulo se referia à natureza humana em geral._
+- [[20 TEOLOGIA/Locked Out of Heaven - Bruno Mars]]
+  - **Similaridade:** 100.0%
+  - **Trecho do capítulo:** _Na seção inicial, traçamos a maneira como as ideias de Locke sobre liberdade, razão e interesse próprio emergem de suas deliberações sobre Adão._
+  - **Trecho da nota:** _Never wanna put my heart on the line (ooh)  
+But swimmin' in your water's something spiritual (ooh)  
+I'm born again every time you spend the night (o..._
+  - ⚠️ _Match questionável: o trecho do capítulo de livro fala sobre ideias de locke, enquanto a nota do vault é uma música, sem nenhuma conexão lógica entre as duas._
+- [[20 TEOLOGIA/Faith/a revolução começa na afirmação de que somos todos iguais]]
+  - **Similaridade:** 100.0%
+  - **Trecho do capítulo:** _Quanto ao trabalho e à propriedade privada, os primeiros capítulos de Gênesis também eram onde se começava a análise._
+  - **Trecho da nota:** _This is the only answer to totalitarian ideologies, that is, to ‘social sciences’, when they are tempted to become all-embracing and reductionist._
+  - ⚠️ _Match questionável: o trecho do capítulo e a nota do vault apresentam conceitos muito específicos e técnicos, como análise teológica e totalitarismo, o que dificulta uma conexão direta e semântica entre eles._
 
 ---
-*Processado automaticamente em: 2026-02-27 21:18*
+*Processado automaticamente em: 2026-02-28 13:20*

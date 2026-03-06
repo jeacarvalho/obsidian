@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:39.010438+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contentamento_com_o_presente
+    weight: 9
+    confidence: 0.98
+  - name: insatisfacao_e_desejo
+    weight: 8
+    confidence: 0.95
+  - name: vaidade_e_efemeridade_da_vida
+    weight: 10
+    confidence: 0.99
+  - name: busca_por_desejos_mundanos
+    weight: 7
+    confidence: 0.92
+  - name: desejo_divino_e_vontade_de_deus
+    weight: 8
+    confidence: 0.96
+  - name: sabedoria_biblica_eclesiastes
+    weight: 9
+    confidence: 0.97
+  - name: alegria_na_vida_dada_por_deus
+    weight: 7
+    confidence: 0.93
+  - name: reflexao_sobre_a_vida_e_morte
+    weight: 6
+    confidence: 0.9
+  - name: equilibrio_entre_desejo_e_realidade
+    weight: 7
+    confidence: 0.94
+  - name: valor_do_conhecimento_sensorial
+    weight: 5
+    confidence: 0.88
+  cdu_primary: '223.9'
+  cdu_secondary: []
+  cdu_description: Livros sapienciais e poéticos. Eclesiastes.
+---
 Melhor é o que os olhos veem do que aquilo que a alma deseja. Também isto é vaidade e correr atrás do vento. Eclesiastes 6:9 NAA
 
 - O que vc tem hoje é melhor do que aquilo que vc não tem, e deseja. Porque um te satisfaz e outro te angustia.

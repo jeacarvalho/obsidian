@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:14.021542+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sabedoria_biblica
+    weight: 10
+    confidence: 0.98
+  - name: proverbios_de_salomao
+    weight: 9
+    confidence: 0.97
+  - name: conselhos_praticos
+    weight: 8
+    confidence: 0.95
+  - name: falar_com_prudencia
+    weight: 9
+    confidence: 0.96
+  - name: controle_da_linguagem
+    weight: 8
+    confidence: 0.94
+  - name: importancia_da_palavra
+    weight: 7
+    confidence: 0.93
+  - name: discernimento_verbal
+    weight: 7
+    confidence: 0.92
+  - name: evitar_ira
+    weight: 6
+    confidence: 0.9
+  - name: comunicacao_eficaz
+    weight: 8
+    confidence: 0.91
+  - name: sabedoria_no_falar
+    weight: 9
+    confidence: 0.95
+  cdu_primary: '222.2'
+  cdu_secondary: []
+  cdu_description: Livros sapienciais e poéticos da Bíblia Hebraica (Antigo Testamento), especificamente o livro de Provérbios.
+---
 [[Provérbios]]
 
 ## Não seja afobado: 

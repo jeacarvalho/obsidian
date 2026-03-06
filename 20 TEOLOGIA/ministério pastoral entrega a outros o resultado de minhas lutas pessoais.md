@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:05.439862+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sofrimento_como_fonte_de_ensinamento
+    weight: 9
+    confidence: 0.98
+  - name: cura_pessoal_e_compartilhamento
+    weight: 8
+    confidence: 0.95
+  - name: empatia_atraves_da_dor_compartilhada
+    weight: 7
+    confidence: 0.92
+  - name: consolo_cristao_em_aflicoes
+    weight: 10
+    confidence: 0.99
+  - name: aprendizado_com_lutas_pessoais
+    weight: 8
+    confidence: 0.96
+  - name: esperanca_em_meio_as_tribulacoes
+    weight: 7
+    confidence: 0.93
+  - name: testemunho_de_superacao
+    weight: 6
+    confidence: 0.9
+  - name: interdependencia_no_sofrimento_e_consolo
+    weight: 7
+    confidence: 0.91
+  - name: orientacao_espiritual_pela_experiencia
+    weight: 6
+    confidence: 0.88
+  - name: resiliencia_e_transformacao
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '248.4'
+  cdu_secondary:
+  - '232.9'
+  - '242'
+  cdu_description: Vida cristã. Vida espiritual. Experiência cristã. Consolo e esperança em Cristo.
+---
 [[Proeschold-Bell2018]], p. 43, fala sobre isso.
 - Se temos algo a oferecer aos outros é sempre algo mediado por nossa própria dor
 - Não é que devamos fazer do púlpito nossa terapia. Não, as pessoas não devem adoecer conosco

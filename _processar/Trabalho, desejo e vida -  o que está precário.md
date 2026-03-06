@@ -1,13 +1,54 @@
 ---
-title: "Trabalho, desejo e vida: o que está precário? (Um segundo tempo na série Ruptura)"
-source: "https://sul21.com.br/opiniao/2025/04/trabalho-desejo-e-vida-o-que-esta-precario-um-segundo-tempo-na-serie-ruptura/"
+title: 'Trabalho, desejo e vida: o que está precário? (Um segundo tempo na série Ruptura)'
+source: https://sul21.com.br/opiniao/2025/04/trabalho-desejo-e-vida-o-que-esta-precario-um-segundo-tempo-na-serie-ruptura/
 author:
-  - "[[Sul 21]]"
+- '[[Sul 21]]'
 published: 2025-04-14
 created: 2025-04-14
-description: "Os sintomas se espalham: ansiedade crônica, fadiga sem fim, angústia difusa, desalento generalizado. E, no entanto, tudo segue funcionando"
+description: 'Os sintomas se espalham: ansiedade crônica, fadiga sem fim, angústia difusa, desalento generalizado. E, no entanto, tudo segue funcionando'
 tags:
-  - "clippings"
+- clippings
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:33.528156+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: precariedade_existencial
+    weight: 10
+    confidence: 0.98
+  - name: capitalismo_tardio
+    weight: 9
+    confidence: 0.97
+  - name: cisao_memoria_trabalho_vida
+    weight: 8
+    confidence: 0.96
+  - name: alienacao_experiencia
+    weight: 8
+    confidence: 0.95
+  - name: temporalidade_sequestrada
+    weight: 9
+    confidence: 0.94
+  - name: sociedade_desempenho
+    weight: 9
+    confidence: 0.93
+  - name: autoexploracao_subjetividade
+    weight: 8
+    confidence: 0.92
+  - name: burnout_colapso_sujeito
+    weight: 7
+    confidence: 0.91
+  - name: jornada_trabalho_6x1
+    weight: 7
+    confidence: 0.9
+  - name: desejo_capturado_producao
+    weight: 8
+    confidence: 0.89
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '305.4'
+  - '141.3'
+  - '316.6'
+  cdu_description: Economia política e social; Sociologia do trabalho; Filosofia social; Sociologia da vida quotidiana
 ---
 
 Série Ruptura fala sobre a divisão do tempo do trabalho e da casa | Foto: Divulgação

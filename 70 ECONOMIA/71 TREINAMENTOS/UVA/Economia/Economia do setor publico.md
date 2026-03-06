@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:43.990089+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: economia_setor_publico
+    weight: 8
+    confidence: 0.9
+  - name: economia_brasileira
+    weight: 9
+    confidence: 0.95
+  - name: economia_fundamental
+    weight: 7
+    confidence: 0.85
+  - name: macroeconomia_teorias
+    weight: 9
+    confidence: 0.95
+  - name: politica_macroeconomica_brasil
+    weight: 8
+    confidence: 0.9
+  - name: macroeconomia_aplicada
+    weight: 8
+    confidence: 0.9
+  - name: livros_didaticos_economia
+    weight: 6
+    confidence: 0.7
+  - name: publicacoes_economicas_2016
+    weight: 5
+    confidence: 0.6
+  - name: publicacoes_economicas_2017
+    weight: 5
+    confidence: 0.6
+  - name: publicacoes_economicas_2013
+    weight: 5
+    confidence: 0.6
+  cdu_primary: '330'
+  cdu_secondary:
+  - '336'
+  - '330.5'
+  - '338.2'
+  cdu_description: Economia. Relações econômicas. Economia e finanças públicas. Macroeconomia.
+---
 # REFERÊNCIA  
 ## BÁSICA  
 - Livro disciplina: - [[ESP_ebook.pdf]]

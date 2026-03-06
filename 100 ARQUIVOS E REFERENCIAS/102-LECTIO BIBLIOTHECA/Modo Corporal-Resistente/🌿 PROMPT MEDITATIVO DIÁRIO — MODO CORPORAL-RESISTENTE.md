@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:04.495406+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: meditacao_corporal_resistente
+    weight: 9
+    confidence: 0.98
+  - name: corpo_sabedoria_vs_maquina_extracao
+    weight: 10
+    confidence: 0.99
+  - name: aceleracao_capitalista_colonizacao_corporal
+    weight: 8
+    confidence: 0.97
+  - name: resistencia_corporal_etica
+    weight: 7
+    confidence: 0.96
+  - name: leitura_lenta_corporal
+    weight: 6
+    confidence: 0.95
+  - name: atencao_plena_politica
+    weight: 7
+    confidence: 0.94
+  - name: otimizacao_do_self_vs_cuidado_corporal
+    weight: 8
+    confidence: 0.93
+  - name: privilegio_corporal_classe_racial
+    weight: 7
+    confidence: 0.92
+  - name: saude_performatica_vs_resistencia
+    weight: 8
+    confidence: 0.91
+  - name: dialogo_com_autores_filosoficos
+    weight: 6
+    confidence: 0.9
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '305.8'
+  - '170'
+  - '330.5'
+  cdu_description: Psicologia da vida quotidiana e do comportamento. Relações entre corpo, mente e sociedade, com ênfase na resistência à exploração capitalista e na ética do cuidado corporal.
+---
 #### 🌿 PROMPT MEDITATIVO DIÁRIO — MODO CORPORAL-RESISTENTE
 *(Compacto para NotebookLM — 480 palavras)*
 

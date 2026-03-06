@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:56.758567+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_de_tempo_crista
+    weight: 10
+    confidence: 0.95
+  - name: principios_biblicos_produtividade
+    weight: 9
+    confidence: 0.92
+  - name: proposito_no_trabalho
+    weight: 8
+    confidence: 0.9
+  - name: trabalho_como_adoracao
+    weight: 7
+    confidence: 0.88
+  - name: reino_de_deus_e_trabalho
+    weight: 8
+    confidence: 0.85
+  - name: glorificar_a_deus_no_trabalho
+    weight: 9
+    confidence: 0.87
+  - name: identidade_crista_antes_da_acao
+    weight: 7
+    confidence: 0.8
+  - name: ambicao_no_trabalho_cristao
+    weight: 6
+    confidence: 0.78
+  - name: produtividade_crista
+    weight: 9
+    confidence: 0.91
+  - name: relacao_entre_fe_e_trabalho
+    weight: 8
+    confidence: 0.86
+  cdu_primary: '248.4'
+  cdu_secondary:
+  - '261.8'
+  - 27-29
+  cdu_description: Vida cristã. Prática religiosa. Trabalho e vocação. Relação entre fé e trabalho. Ética cristã no trabalho.
+---
 ![Kindle](https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/img/Kindle_Logo_RGB.png)
 
 Livros com notas em sua biblioteca

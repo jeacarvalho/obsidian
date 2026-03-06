@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:15.007358+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_calvinista
+    weight: 10
+    confidence: 0.98
+  - name: vida_centrada_no_evangelho
+    weight: 9
+    confidence: 0.97
+  - name: salvacao_em_jesus_cristo
+    weight: 10
+    confidence: 0.96
+  - name: justificacao_pela_fe
+    weight: 8
+    confidence: 0.95
+  - name: transformacao_pelo_evangelho
+    weight: 9
+    confidence: 0.94
+  - name: identidade_em_cristo
+    weight: 8
+    confidence: 0.93
+  - name: riquezas_espirituais
+    weight: 7
+    confidence: 0.92
+  - name: disciplinas_espirituais
+    weight: 6
+    confidence: 0.91
+  - name: vitoria_sobre_morte_e_inferno
+    weight: 7
+    confidence: 0.9
+  - name: contentamento_nas_circunstancias
+    weight: 8
+    confidence: 0.89
+  cdu_primary: 27-31
+  cdu_secondary:
+  - '230.3'
+  - '248.3'
+  cdu_description: Teologia cristã. Reforma. Protestantismo. Doutrinas cristãs. Vida cristã. Práticas e exercícios espirituais.
+---
 - Linda descrição de [[Calvino]] sobre a vida centrada no [[evangelho]]
 
 John Calvin’s Beautiful Description of the Gospel-Centered Life | TGC

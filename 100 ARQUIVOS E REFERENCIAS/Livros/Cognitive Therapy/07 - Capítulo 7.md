@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:48.025566+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fobia_situacional
+    weight: 9
+    confidence: 0.98
+  - name: medo_irracional
+    weight: 8
+    confidence: 0.95
+  - name: ansiedade_desproporcional
+    weight: 8
+    confidence: 0.94
+  - name: risco_real_em_situacoes_comuns
+    weight: 7
+    confidence: 0.92
+  - name: fobias_infantis
+    weight: 7
+    confidence: 0.9
+  - name: mecanismo_de_identificacao
+    weight: 9
+    confidence: 0.96
+  - name: fobia_de_observar_sofrimento
+    weight: 8
+    confidence: 0.93
+  - name: profissionais_de_saude_e_fobia
+    weight: 7
+    confidence: 0.88
+  - name: superacao_de_medos
+    weight: 6
+    confidence: 0.85
+  - name: percepcao_de_perigo
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '159.942'
+  cdu_secondary:
+  - '159.97'
+  - '616.89'
+  cdu_description: Psicologia das emoções. Medos e fobias. Ansiedade. Mecanismos de defesa. Psicopatologia.
+---
 # Capítulo 7
 
 “which becomes attached to objects or situations which

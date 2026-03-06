@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:03.766952+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: liturgia_da_submissao_digital
+    weight: 9
+    confidence: 0.98
+  - name: smartphone_como_objeto_de_devocao
+    weight: 8
+    confidence: 0.97
+  - name: analise_religiosa_da_tecnologia
+    weight: 7
+    confidence: 0.96
+  - name: vigilancia_digital_e_autocontrole
+    weight: 8
+    confidence: 0.95
+  - name: critica_ao_sistema_de_likes
+    weight: 7
+    confidence: 0.94
+  - name: substituicao_de_deus_por_tecnologia
+    weight: 6
+    confidence: 0.93
+  - name: autonomia_digital_e_obediencia
+    weight: 8
+    confidence: 0.92
+  - name: consumismo_induzido_por_algoritmos
+    weight: 7
+    confidence: 0.91
+  - name: uso_de_ia_como_fonte_de_sabedoria
+    weight: 6
+    confidence: 0.9
+  - name: discernimento_espiritual_na_era_digital
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '305.8'
+  cdu_secondary:
+  - '316.77'
+  - '20'
+  - '004.9'
+  cdu_description: Sociologia da tecnologia, comunicação social, religião, tecnologia da informação e computação
+---
 ## 20260129 
 
 ### Leitura de hoje — A Liturgia da Submissão

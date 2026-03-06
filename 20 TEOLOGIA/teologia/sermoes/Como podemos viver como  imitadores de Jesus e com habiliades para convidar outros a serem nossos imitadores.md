@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:04.048780+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: imitacao_de_cristo
+    weight: 10
+    confidence: 0.98
+  - name: mudanca_de_coracao_crista
+    weight: 9
+    confidence: 0.95
+  - name: vida_de_obediencia_crista
+    weight: 9
+    confidence: 0.94
+  - name: convidar_outros_a_seguir_cristo
+    weight: 8
+    confidence: 0.93
+  - name: amor_e_humildade_no_cristianismo
+    weight: 8
+    confidence: 0.92
+  - name: despojamento_do_velho_homem
+    weight: 7
+    confidence: 0.88
+  - name: crescimento_em_santidade
+    weight: 7
+    confidence: 0.87
+  - name: orientacao_do_espirito_santo
+    weight: 6
+    confidence: 0.85
+  - name: testemunho_cristao
+    weight: 6
+    confidence: 0.84
+  - name: relacionamentos_cristaos
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '248.4'
+  - '273.2'
+  cdu_description: Teologia cristã geral; Vida e prática cristãs; Doutrinas sobre a santificação e a vida cristã
+---
 #### **Como** podemos viver como  imitadores de Jesus e com habiliades para convidar outros a serem nossos imitadores?
 
 Tema: Como devemos ser imitadores de Cristo e também abertos a convidar outros a serem nossos imitadores?

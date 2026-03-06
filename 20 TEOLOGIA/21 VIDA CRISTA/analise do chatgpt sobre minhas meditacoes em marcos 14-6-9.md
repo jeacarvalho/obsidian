@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:07.167262+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_criticas_mesquinhas
+    weight: 7
+    confidence: 0.85
+  - name: gratidao_ativa_receber_dadiivas
+    weight: 8
+    confidence: 0.9
+  - name: equilibrio_doacao_autocompaixao
+    weight: 6
+    confidence: 0.75
+  - name: teologia_reformada_soberania_divina
+    weight: 9
+    confidence: 0.92
+  - name: adoracao_sincera_vs_formalismo
+    weight: 10
+    confidence: 0.98
+  - name: intencao_do_coracao_adoracao
+    weight: 9
+    confidence: 0.95
+  - name: proposta_sermao_legado_atos
+    weight: 8
+    confidence: 0.88
+  - name: valor_da_adoracao_sincera
+    weight: 9
+    confidence: 0.93
+  - name: gratidao_oportunidade_honrar_cristo
+    weight: 7
+    confidence: 0.8
+  - name: legado_gloria_deus_atos
+    weight: 8
+    confidence: 0.87
+  cdu_primary: '234.2'
+  cdu_secondary:
+  - '248.3'
+  - '264.2'
+  cdu_description: Teologia da graça; Vida cristã; Adoração
+---
 **1. Análise comportamental:**  
 As anotações revelam uma reflexão pessoal sobre a tensão entre religiosidade legalista e a graça que permite desfrutar das dádivas divinas. Há um reconhecimento de que atitudes críticas e mesquinhas, disfarçadas de piedade, podem roubar a alegria e a liberdade de quem se dispõe a servir e adorar a Deus. A ideia de que receber com gratidão também é um ato espiritual é significativa, bem como o entendimento de que atos têm mais valor do que a busca pela imortalização do nome.
 

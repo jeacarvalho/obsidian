@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:11.975183+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reflexao_sobre_traicao_de_judas
+    weight: 8
+    confidence: 0.9
+  - name: compreensao_motivacoes_judas
+    weight: 7
+    confidence: 0.85
+  - name: questionamento_reacao_discipulos
+    weight: 7
+    confidence: 0.85
+  - name: reflexao_submissao_jesus_morte
+    weight: 9
+    confidence: 0.95
+  - name: natureza_deus_relacao_homem
+    weight: 8
+    confidence: 0.9
+  - name: teologia_reformada_aspectos
+    weight: 7
+    confidence: 0.8
+  - name: teologia_reformada_limitacoes
+    weight: 6
+    confidence: 0.75
+  - name: proposta_sermao_submissao_jesus
+    weight: 8
+    confidence: 0.9
+  - name: comentarios_reformados_calvino_lutero
+    weight: 7
+    confidence: 0.85
+  - name: textos_biblicos_apoio_marcos_14
+    weight: 6
+    confidence: 0.8
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - '273.6'
+  - '226.7'
+  cdu_description: Cristologia (Jesus Cristo) - Paixão e Morte; Teologia Reformada; Evangelho de Marcos
+---
 #### analise do groq sobre minhas meditacoes em [[Marcos 14]]-17-21
 **Análise comportamental:**
 

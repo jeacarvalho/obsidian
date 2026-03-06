@@ -2,7 +2,48 @@
 created: 2024-02-02T17:50:10 (UTC -03:00)
 tags: []
 source: https://d3iqo9kw2lsf1n.cloudfront.net/static/kp/2.54.00/6a7dbe98ae2b/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:55.420684+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gerenciamento_mental_produtividade
+    weight: 10
+    confidence: 0.98
+  - name: criatividade_trabalho_humano
+    weight: 9
+    confidence: 0.95
+  - name: estado_de_espirito_fluxo
+    weight: 8
+    confidence: 0.92
+  - name: inteligencia_artificial_empregos
+    weight: 7
+    confidence: 0.9
+  - name: pensamento_vs_rapidez
+    weight: 7
+    confidence: 0.88
+  - name: gerenciamento_emocional_tarefas
+    weight: 6
+    confidence: 0.85
+  - name: procrastinacao_superacao
+    weight: 6
+    confidence: 0.82
+  - name: adaptacao_mercado_trabalho
+    weight: 5
+    confidence: 0.8
+  - name: exercicios_mind_management
+    weight: 5
+    confidence: 0.78
+  - name: condicionamento_humor_produtivo
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '004.78'
+  - '331.1'
+  - '159.944'
+  cdu_description: Psicologia da produtividade e do desempenho; Gestão da mente e do estado de espírito para otimizar a criatividade e o trabalho, considerando o impacto da IA e a necessidade de adaptação profissional.
 ---
 
 #  Mind Management, Not Time Management: Productivity When Creativity Matters (Getting Art Done Book 2) (English Edition)

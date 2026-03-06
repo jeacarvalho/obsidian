@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:40:03.393433+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: proposito_e_significado_da_vida
+    weight: 8
+    confidence: 0.9
+  - name: jornada_de_autodescoberta
+    weight: 9
+    confidence: 0.95
+  - name: importancia_da_narrativa_pessoal
+    weight: 10
+    confidence: 0.98
+  - name: storytelling_como_ferramenta_terapeutica
+    weight: 7
+    confidence: 0.85
+  - name: superacao_de_barreiras_pessoais
+    weight: 6
+    confidence: 0.8
+  - name: transformacao_atraves_da_arte_de_contar_historias
+    weight: 9
+    confidence: 0.92
+  - name: construcao_de_pontes_entre_pessoas
+    weight: 7
+    confidence: 0.88
+  - name: melhoria_de_habilidades_de_comunicacao
+    weight: 8
+    confidence: 0.91
+  - name: conexao_interpessoal_e_autoconhecimento
+    weight: 10
+    confidence: 0.97
+  - name: busca_por_sentido_na_vida
+    weight: 8
+    confidence: 0.89
+  cdu_primary: 159.947.5
+  cdu_secondary:
+  - '305.8'
+  - '808.5'
+  cdu_description: 159.947.5 - Criatividade; 305.8 - Grupos sociais; 808.5 - Oratória, retórica, declamação
+---
 # CAp 1
 
 ## analise: 

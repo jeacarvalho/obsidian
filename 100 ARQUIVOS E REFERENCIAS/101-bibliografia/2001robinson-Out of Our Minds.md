@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:56.437410+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: potencial_criativo_humano
+    weight: 10
+    confidence: 0.98
+  - name: desenvolvimento_criatividade_educacao
+    weight: 9
+    confidence: 0.97
+  - name: imaginacao_criatividade_inovacao
+    weight: 8
+    confidence: 0.96
+  - name: reforma_educacional_padronizada
+    weight: 7
+    confidence: 0.95
+  - name: cultivo_criatividade_ambiente_trabalho
+    weight: 7
+    confidence: 0.94
+  - name: mudanca_percepcao_criatividade_infancia_adulto
+    weight: 6
+    confidence: 0.93
+  - name: adaptacao_inovacao_mundo_mudanca
+    weight: 6
+    confidence: 0.92
+  - name: desafios_mundo_moderno_tecnologia
+    weight: 5
+    confidence: 0.91
+  - name: lideranca_pensamento_fora_caixa
+    weight: 5
+    confidence: 0.9
+  - name: valorizacao_criatividade_diversas_formas
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '159.954'
+  cdu_secondary:
+  - 37.011.3
+  - 004.032.26
+  cdu_description: Psicologia da criatividade; Educação e tecnologia; Inovação
+---
 # CAp 1
 
 ## analise:

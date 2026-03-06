@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:37.469544+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: periodicos_contabeis_nacionais
+    weight: 10
+    confidence: 0.98
+  - name: associacao_nacional_pesquisa_contabilidade
+    weight: 9
+    confidence: 0.97
+  - name: qualificacao_periodicos_contabeis
+    weight: 8
+    confidence: 0.96
+  - name: publicacoes_cientificas_contabilidade
+    weight: 8
+    confidence: 0.94
+  - name: instituicoes_ensino_superior_contabilidade
+    weight: 7
+    confidence: 0.95
+  - name: revistas_contabilidade_financas
+    weight: 7
+    confidence: 0.92
+  - name: revistas_gestao_contabilidade
+    weight: 7
+    confidence: 0.91
+  - name: editorias_ppgs_contabeis
+    weight: 6
+    confidence: 0.93
+  - name: revistas_contabilidade_organizacoes
+    weight: 6
+    confidence: 0.9
+  - name: revistas_contabilidade_negocios
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '657'
+  cdu_secondary:
+  - '050'
+  - '336.1'
+  - '336.6'
+  cdu_description: Contabilidade. Periódicos. Publicações em série. Revistas. Finanças públicas. Finanças empresariais.
+---
 fonte: https://anpcont.org.br/periodicos-de-contabilidade/
 
 ## Periódicos de Contabilidade

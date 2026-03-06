@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:21.307835+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desidroepiandrosterona
+    weight: 10
+    confidence: 1.0
+  - name: hormonio_esteroide
+    weight: 9
+    confidence: 0.98
+  - name: precursor_testosterona
+    weight: 9
+    confidence: 0.95
+  - name: precursor_estrogenos
+    weight: 9
+    confidence: 0.95
+  - name: producao_adrenal
+    weight: 8
+    confidence: 0.97
+  - name: variacao_producao_idade
+    weight: 8
+    confidence: 0.96
+  - name: acao_androgenica
+    weight: 7
+    confidence: 0.9
+  - name: efeitos_adversos_dhea
+    weight: 7
+    confidence: 0.92
+  - name: hormonio_masculino
+    weight: 6
+    confidence: 0.85
+  - name: hormonio_feminino
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '612.6'
+  cdu_secondary:
+  - '615.36'
+  - '616.45'
+  cdu_description: Fisiologia da reprodução e desenvolvimento sexual; Hormônios sexuais e seus derivados; Doenças das glândulas endócrinas
+---
 fonte: https://pt.wikipedia.org/wiki/Desidroepiandrosterona
 > A desidroepiandrosterona[a 1],[1] deidroepiandrosterona,[2][3] prasterona[4] (ou DHEA, do inglês dehydroepiandrosterone) é um hormônio esteróide produzido a partir do colesterol pelas glândulas adrenais (ou suprarrenais), gônadas, tecido adiposo, cérebro e pele (por um mecanismo autócrino).
 > A DHEA é o precursor da androstenediona - este, por sua vez precursor da testosterona e dos estrógenos estrona e estradiol, aos quais a DHEA é quimicamente similar. É convertida em andrógeno (hormônio masculino) ou estrógeno (hormônio feminino) dependendo do sexo da pessoa, idade e outros fatores individuais. A DHEA é o precursor quase direto da testosterona e do estradiol, mas ela própria possui fraca ação androgênica. Embora 50% dos hormônios masculinos e 70 % dos hormônios femininos sejam derivados da DHEA, ela não é o mais importante precursor da testosterona e do estradiol. Em maior quantidade, os principais precursores da testosterona são a pregnenolona, progesterona e hidroxiprogesterona.[5]

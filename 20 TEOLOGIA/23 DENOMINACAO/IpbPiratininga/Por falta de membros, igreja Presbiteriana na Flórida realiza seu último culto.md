@@ -1,8 +1,53 @@
 ---
 created: 2022-05-04T18:27:26 (UTC -03:00)
-tags: [gospel,igreja,Flórida,declínio,igreja fechada]
+tags:
+- gospel
+- igreja
+- Flórida
+- declínio
+- igreja fechada
 source: https://guiame.com.br/gospel/noticias/por-falta-de-membros-igreja-na-florida-realiza-seu-ultimo-culto.html
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:24.891098+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fechamento_igreja_presbiteriana
+    weight: 10
+    confidence: 0.98
+  - name: declinio_membros_igreja
+    weight: 9
+    confidence: 0.97
+  - name: impacto_pandemia_covid_19_igrejas
+    weight: 8
+    confidence: 0.96
+  - name: igreja_presbiteriana_gulfport
+    weight: 7
+    confidence: 0.95
+  - name: falta_de_membros_igrejas
+    weight: 8
+    confidence: 0.94
+  - name: estrategias_atrair_membros_igreja
+    weight: 6
+    confidence: 0.93
+  - name: envelhecimento_congregacao
+    weight: 7
+    confidence: 0.92
+  - name: religiao_estados_unidos
+    weight: 6
+    confidence: 0.91
+  - name: comunidade_religiosa_florida
+    weight: 5
+    confidence: 0.9
+  - name: ultimo_culto_igreja
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '284.5'
+  cdu_secondary:
+  - '316.3'
+  - '305.8'
+  cdu_description: 284.5 - Protestantismo (Presbiterianismo); 316.3 - Sociologia da religião; 305.8 - Grupos étnicos e nacionais
 ---
 
 # Por falta de membros, igreja na Flórida realiza seu último culto - Guiame

@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:11.394045+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: inteligencia_artificial_estrategias_gerenciais
+    weight: 9
+    confidence: 0.9
+  - name: automatizacao_tarefas_ia
+    weight: 8
+    confidence: 0.85
+  - name: analise_pensamento_economico_social_calvino
+    weight: 10
+    confidence: 0.98
+  - name: humanismo_social_calvino
+    weight: 10
+    confidence: 0.98
+  - name: acesso_plataforma_serpro_educa
+    weight: 7
+    confidence: 0.8
+  - name: navegacao_redes_sociais_x
+    weight: 6
+    confidence: 0.75
+  - name: compra_milhas_smiles
+    weight: 7
+    confidence: 0.8
+  - name: acesso_documentos_google
+    weight: 6
+    confidence: 0.7
+  - name: pesquisa_anna_archive
+    weight: 8
+    confidence: 0.88
+  - name: relatorio_estagio_academico
+    weight: 7
+    confidence: 0.78
+  cdu_primary: '004.8'
+  cdu_secondary:
+  - '271.7'
+  - '330.1'
+  - '305.8'
+  - '374.7'
+  cdu_description: 004.8 - Inteligência artificial; 271.7 - Protestantismo (Reforma Protestante); 330.1 - Teorias econômicas; 305.8 - Grupos sociais; 374.7 - Educação continuada e profissional
+---
 # 📝 Dossiê Diário - 2025-11-21
 
 Este é o ponto de partida para a sua curadoria e criação de notas no Obsidian.

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:09.283710+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: equalizacao_de_baixo_em_mixagem
+    weight: 10
+    confidence: 0.98
+  - name: tecnicas_de_equalizacao_musical
+    weight: 9
+    confidence: 0.95
+  - name: producao_musical_de_audio
+    weight: 8
+    confidence: 0.92
+  - name: mixagem_de_audio_profissional
+    weight: 8
+    confidence: 0.9
+  - name: engenharia_de_som_para_musicos
+    weight: 7
+    confidence: 0.88
+  - name: estudio_caseiro_de_gravacao
+    weight: 6
+    confidence: 0.85
+  - name: processamento_de_sinais_de_audio
+    weight: 6
+    confidence: 0.82
+  - name: frequencias_graves_em_mixagem
+    weight: 7
+    confidence: 0.8
+  - name: ajuste_de_instrumentos_em_mixagem
+    weight: 7
+    confidence: 0.78
+  - name: gravacao_musical_em_casa
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '781.6'
+  cdu_secondary:
+  - 621.395.6
+  - '004.9'
+  cdu_description: 781.6 - Técnicas de composição e arranjo musical; 621.395.6 - Equipamento de telecomunicações e áudio; 004.9 - Processamento de dados e informação em áreas específicas
+---
 (10) How to EQ Bass to Sit Perfectly in the Mix - YouTube
 
 How to EQ Bass to Sit Perfectly in the Mix

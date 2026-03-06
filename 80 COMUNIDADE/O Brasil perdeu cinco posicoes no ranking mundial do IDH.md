@@ -3,6 +3,46 @@ created: 2021-03-08T20:25:18 (UTC -03:00)
 tags: []
 source: hhttps://noticias.uol.com.br/internacional/ultimas-noticias/2020/12/15/com-avanco-lento-brasil-cai-5-posicoes-em-ranking-de-qualidade-de-vida.htm?cmpid=copiaecola
 author: Felipe Amorim      Do UOL, em Brasilia      15/12/2020 02h05Atualizada em 15/12/2020 08h46
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:50.329609+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: indice_desenvolvimento_humano_brasil
+    weight: 10
+    confidence: 0.98
+  - name: ranking_qualidade_vida_onu
+    weight: 9
+    confidence: 0.97
+  - name: queda_posicoes_idh_brasil
+    weight: 8
+    confidence: 0.96
+  - name: pnud_relatorio_desenvolvimento
+    weight: 7
+    confidence: 0.95
+  - name: comparacao_idh_america_sul
+    weight: 7
+    confidence: 0.94
+  - name: fatores_componentes_idh
+    weight: 6
+    confidence: 0.93
+  - name: crescimento_lento_idh_brasil
+    weight: 6
+    confidence: 0.92
+  - name: impacto_pandemia_idh
+    weight: 8
+    confidence: 0.91
+  - name: idh_ajustado_pressao_ambiental
+    weight: 5
+    confidence: 0.9
+  - name: desenvolvimento_humano_global
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '316.47'
+  cdu_secondary:
+  - '330.5'
+  - '305.8'
+  cdu_description: Sociologia do desenvolvimento. Indicadores sociais. Desenvolvimento humano. Indicadores de qualidade de vida. Comparação internacional.
 ---
 
 # IDH: Com avanço lento, Brasil cai 5 posições em ranking da ONU

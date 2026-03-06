@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:26.286422+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_igreja_presbiteriana_brasil
+    weight: 10
+    confidence: 0.98
+  - name: apostila_historia_ipb
+    weight: 9
+    confidence: 0.95
+  - name: organizacao_sinodo_ipb
+    weight: 8
+    confidence: 0.9
+  - name: era_boanerges_ribeiro
+    weight: 9
+    confidence: 0.96
+  - name: modernizacao_ipb_1982_2016
+    weight: 7
+    confidence: 0.85
+  - name: slides_aulas_historia_ipb
+    weight: 6
+    confidence: 0.8
+  - name: periodo_cooperacao_erasmo_braga
+    weight: 8
+    confidence: 0.92
+  - name: pronunciamento_social_ipb
+    weight: 7
+    confidence: 0.88
+  - name: biografia_rev_boanerges_ribeiro
+    weight: 7
+    confidence: 0.87
+  - name: ipb_anos_de_chumbo
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '284.5'
+  cdu_secondary:
+  - 27(81)
+  - '929'
+  cdu_description: 'Religião e Teologia: Protestantismo: Presbiterianismo. História: Brasil. Biografias.'
+---
 História da IPB 8undefined9undefined10undefined11undefined12
 
 ---------- Forwarded message ----------

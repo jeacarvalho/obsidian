@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:05.524844+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: formacao_agenda_politicas_publicas
+    weight: 10
+    confidence: 0.98
+  - name: lista_prioridades_governo
+    weight: 9
+    confidence: 0.95
+  - name: competicao_atores_politicos
+    weight: 8
+    confidence: 0.92
+  - name: tipos_agenda_politica
+    weight: 7
+    confidence: 0.9
+  - name: atores_governamentais_na_agenda
+    weight: 7
+    confidence: 0.88
+  - name: atores_nao_governamentais_na_agenda
+    weight: 7
+    confidence: 0.88
+  - name: processo_evidenciacao_temas
+    weight: 6
+    confidence: 0.85
+  - name: tipos_demandas_politicas
+    weight: 6
+    confidence: 0.87
+  - name: arenas_politicas_e_preferencias
+    weight: 8
+    confidence: 0.93
+  - name: arena_distributiva_vs_redistributiva
+    weight: 7
+    confidence: 0.9
+  cdu_primary: '32'
+  cdu_secondary:
+  - '321.1'
+  - '323.3'
+  - '330.5'
+  cdu_description: Ciência Política. Administração Pública. Assuntos Políticos. Política Social. Política Econômica. Política de Comunicação. Política de Transporte. Política de Energia. Política de Meio Ambiente. Política de Habitação. Política de Saúde. Política de Educação. Política de Cultura. Política de Segurança. Política de Justiça. Política de Relações Internacionais. Política de Desenvolvimento. Política de Desenvolvimento Regional. Política de Desenvolvimento Local. Política de Desenvolvimento Sustentável. Política de Desenvolvimento Social. Política de Desenvolvimento Econômico. Política de Desenvolvimento Cultural. Política de Desenvolvimento Ambiental. Política de Desenvolvimento Tecnológico. Política de Desenvolvimento Humano. Política de Desenvolvimento de Infraestrutura. Política de Desenvolvimento de Recursos Naturais. Política de Desenvolvimento de Energia. Política de Desenvolvimento de Transporte. Política de Desenvolvimento de Comunicação. Política de Desenvolvimento
+    de Saúde. Política de Desenvolvimento de Educação. Política de Desenvolvimento de Cultura. Política de Desenvolvimento de Segurança. Política de Desenvolvimento de Justiça. Política de Desenvolvimento de Relações Internacionais. Política de Desenvolvimento de Desenvolvimento. Política de Desenvolvimento de Desenvolvimento Regional. Política de Desenvolvimento de Desenvolvimento Local. Política de Desenvolvimento de Desenvolvimento Sustentável. Política de Desenvolvimento de Desenvolvimento Social. Política de Desenvolvimento de Desenvolvimento Econômico. Política de Desenvolvimento de Desenvolvimento Cultural. Política de Desenvolvimento de Desenvolvimento Ambiental. Política de Desenvolvimento de Desenvolvimento Tecnológico. Política de Desenvolvimento de Desenvolvimento Humano. Política de Desenvolvimento de Desenvolvimento de Infraestrutura. Política de Desenvolvimento de Desenvolvimento de Recursos Naturais. Política de Desenvolvimento de Desenvolvimento de Energia. Política de Desenvolvimento
+    de Desenvolvimento de Transporte. Política de Desenvolvimento de Desenvolvimento de Comunicação. Política de Desenvolvimento de Desenvolvimento de Saúde. Política de Desenvolvimento de Desenvolvimento de Educação. Política de Desenvolvimento de Desenvolvimento de Cultura. Política de Desenvolvimento de Desenvolvimento de Segurança. Política de Desenvolvimento de Desenvolvimento de Justiça. Política de Desenvolvimento de Desenvolvimento de Relações Internacionais.
+---
 RUA - Segunda Parte pg 65-122
 
 FORMAÇÃO DA AGENDA DE POLÍTICAS PÚBLICAS

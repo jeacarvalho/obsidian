@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:40:03.336500+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: autoavaliacao_depressiva_sentimento_de_perda
+    weight: 10
+    confidence: 0.98
+  - name: percepcao_subjetiva_de_perdas_na_depressao
+    weight: 9
+    confidence: 0.95
+  - name: conceito_de_perdas_hipoteticas_e_pseudo_perdas
+    weight: 9
+    confidence: 0.94
+  - name: relacao_entre_perda_e_sintomas_depressivos
+    weight: 8
+    confidence: 0.92
+  - name: cronologia_do_desenvolvimento_da_depressao
+    weight: 7
+    confidence: 0.9
+  - name: depressao_reativa_e_fatores_precipitantes
+    weight: 7
+    confidence: 0.88
+  - name: vulnerabilidade_a_depressao_e_experiencias_adversas
+    weight: 8
+    confidence: 0.91
+  - name: sensibilizacao_a_situacoes_desfavoraveis_na_vida
+    weight: 8
+    confidence: 0.9
+  - name: tendencia_a_julgamentos_extremos_em_depressivos
+    weight: 7
+    confidence: 0.87
+  - name: perfeccionismo_e_desapontamento_na_infancia
+    weight: 6
+    confidence: 0.85
+  cdu_primary: 159.963.3
+  cdu_secondary:
+  - 159.942.3
+  - '159.975'
+  cdu_description: Psicologia da depressão e do humor; Psicologia da personalidade; Psicologia do desenvolvimento
+---
 # Capítulo 5
 
 The term “loser” captures the flavor of the depressive’s

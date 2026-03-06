@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T20:46:17.433963+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: metas_qualidade_software
+    weight: 9
+    confidence: 0.9
+  - name: sonar_qualidade_codigo
+    weight: 10
+    confidence: 0.95
+  - name: automacao_testes_software
+    weight: 8
+    confidence: 0.85
+  - name: gerenciamento_dependencias_software
+    weight: 7
+    confidence: 0.8
+  - name: analise_seguranca_codigo
+    weight: 8
+    confidence: 0.88
+  - name: documentacao_configuracao_projeto
+    weight: 6
+    confidence: 0.75
+  - name: painel_acompanhamento_metas
+    weight: 7
+    confidence: 0.82
+  - name: obsolescencia_tecnologica
+    weight: 6
+    confidence: 0.7
+  - name: evolucao_processos_desenvolvimento
+    weight: 7
+    confidence: 0.78
+  - name: suporte_tecnico_times_desenvolvimento
+    weight: 5
+    confidence: 0.65
+  cdu_primary: '004.41'
+  cdu_secondary:
+  - '004.77'
+  - '005.3'
+  - '005.8'
+  cdu_description: Gestão da qualidade de software, ferramentas de análise estática (Sonar), automação, gerenciamento de dependências e segurança.
+---
 # Descrição:
 
 | links                                                                                                                                                        | Arquivos |

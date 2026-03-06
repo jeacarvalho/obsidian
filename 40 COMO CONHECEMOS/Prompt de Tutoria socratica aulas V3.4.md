@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:32.073853+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: metodologia_tutor_socratico_ai
+    weight: 10
+    confidence: 0.98
+  - name: filosofia_latino_americana_e_brasileira
+    weight: 9
+    confidence: 0.97
+  - name: ensino_construtivista
+    weight: 8
+    confidence: 0.96
+  - name: dialogo_socratico
+    weight: 8
+    confidence: 0.95
+  - name: consciencia_critica
+    weight: 7
+    confidence: 0.94
+  - name: analise_critica_de_vieses
+    weight: 7
+    confidence: 0.93
+  - name: relacoes_de_poder_no_conhecimento
+    weight: 6
+    confidence: 0.92
+  - name: planejamento_de_disciplina
+    weight: 6
+    confidence: 0.91
+  - name: material_didatico_digital
+    weight: 5
+    confidence: 0.9
+  - name: feedback_construtivo_no_aprendizado
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '371.3'
+  cdu_secondary:
+  - '101.1'
+  - '004.9'
+  cdu_description: Métodos e meios de ensino; Ensino em geral; Pedagogia. A filosofia como disciplina e a utilização de recursos digitais para o ensino.
+---
 ### **Prompt de Tutoria V3.4 (Versão Completa)**
 
 ### **PERSONA**

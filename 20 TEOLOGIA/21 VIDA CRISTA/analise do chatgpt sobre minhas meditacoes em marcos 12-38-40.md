@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:08.861924+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: critica_religiosidade_institucionalizada
+    weight: 10
+    confidence: 0.98
+  - name: perigo_autopreservacao_lideranca_religiosa
+    weight: 9
+    confidence: 0.97
+  - name: exibicao_poder_religioso
+    weight: 9
+    confidence: 0.96
+  - name: humildade_vs_orgulho_espiritual
+    weight: 8
+    confidence: 0.95
+  - name: critica_vestes_clerical_e_honrarias
+    weight: 7
+    confidence: 0.94
+  - name: lugares_de_honra_sinagogas_igrejas
+    weight: 7
+    confidence: 0.93
+  - name: analise_historica_reformadores_religiosos
+    weight: 6
+    confidence: 0.92
+  - name: teologia_tomista_lideranca_virtuosa
+    weight: 6
+    confidence: 0.91
+  - name: interpretacao_biblica_marcos_12_38_40
+    weight: 8
+    confidence: 0.9
+  - name: motivacao_coracao_servico_vs_exaltacao
+    weight: 10
+    confidence: 0.99
+  cdu_primary: 27-29
+  cdu_secondary:
+  - 28-29
+  - '232.9'
+  - '273.2'
+  cdu_description: História do Cristianismo e Teologia Cristã, com foco em crítica à religiosidade institucionalizada, liderança e ética cristã.
+---
 Sua meditação sobre [[Marcos 12]]:38-40 toca em um ponto central do ensino de Jesus, que frequentemente denunciou o perigo de a religiosidade se tornar um caminho de autopreservação e exibição de poder, especialmente por parte dos líderes religiosos. Essa crítica está presente nos Evangelhos, e muitos cristãos ao longo da história também refletiram sobre esses riscos.
 
 ### Análise da sua interpretação:

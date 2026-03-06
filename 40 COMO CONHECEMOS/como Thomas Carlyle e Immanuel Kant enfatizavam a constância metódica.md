@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:28.440197+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: filosofia_etica_kantiana
+    weight: 9
+    confidence: 0.98
+  - name: imperativo_categorico_kant
+    weight: 8
+    confidence: 0.97
+  - name: dever_moral_kant
+    weight: 8
+    confidence: 0.97
+  - name: filosofia_social_carlyle
+    weight: 9
+    confidence: 0.98
+  - name: evangelho_do_trabalho_carlyle
+    weight: 9
+    confidence: 0.97
+  - name: heroismo_carlyle
+    weight: 8
+    confidence: 0.96
+  - name: conceito_moderno_grit
+    weight: 10
+    confidence: 0.99
+  - name: perseveranca_longo_prazo
+    weight: 7
+    confidence: 0.95
+  - name: paixao_dedicacao_trabalho
+    weight: 7
+    confidence: 0.95
+  - name: esforco_vs_talento
+    weight: 6
+    confidence: 0.93
+  cdu_primary: '100'
+  cdu_secondary:
+  - '19'
+  - '30'
+  - '316.7'
+  cdu_description: Filosofia. Ética. Psicologia. Sociologia. Filosofia social.
+---
 Ambos, **Immanuel [[Kant]]** e **[[Thomas Carlyle]]**, valorizavam a **constância metódica**, mas a abordavam a partir de perspectivas filosóficas e morais distintas. Essa ênfase na persistência e no dever ressoa profundamente com o conceito moderno de **Grit** ([[garra]]/[[perseverança]]) na psicologia da performance.
 
 ---

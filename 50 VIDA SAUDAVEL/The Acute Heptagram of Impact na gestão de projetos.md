@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:34.077617+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: estrategia_de_projeto
+    weight: 8
+    confidence: 0.9
+  - name: taticas_execucao
+    weight: 7
+    confidence: 0.85
+  - name: reputacao_organizacional
+    weight: 6
+    confidence: 0.8
+  - name: persistencia_em_projetos
+    weight: 9
+    confidence: 0.92
+  - name: desejo_de_sucesso
+    weight: 8
+    confidence: 0.88
+  - name: medo_e_inseguranca
+    weight: 7
+    confidence: 0.82
+  - name: heptagrama_agudo_de_impacto
+    weight: 10
+    confidence: 0.95
+  - name: analise_de_projetos
+    weight: 6
+    confidence: 0.75
+  - name: motivacao_empresarial
+    weight: 7
+    confidence: 0.8
+  - name: desenvolvimento_pessoal_carreira
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '658.4'
+  cdu_secondary:
+  - '159.947'
+  - '302.3'
+  cdu_description: Gestão de projetos e negócios, com ênfase em fatores psicológicos e sociais.
+---
 The Acute Heptagram of Impact
 
 Not as catchy a title as Maslow's Hierarchy of Needs, but I hope you'll walk through this with me:

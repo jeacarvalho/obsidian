@@ -3,6 +3,46 @@ created: 2023-09-14T11:30:11 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
 author: Brendon Burchard
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:54.725177+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: habitos_de_alta_performance
+    weight: 10
+    confidence: 0.98
+  - name: desenvolvimento_pessoal
+    weight: 9
+    confidence: 0.95
+  - name: mudanca_acelerada_no_mundo
+    weight: 8
+    confidence: 0.92
+  - name: adaptacao_a_incerteza
+    weight: 8
+    confidence: 0.9
+  - name: definicao_de_si_mesmo
+    weight: 7
+    confidence: 0.88
+  - name: proposito_de_vida
+    weight: 7
+    confidence: 0.87
+  - name: contribuicao_social
+    weight: 6
+    confidence: 0.85
+  - name: critica_a_cultura_de_influenciadores
+    weight: 6
+    confidence: 0.83
+  - name: busca_por_ferramentas_vs_realizacao
+    weight: 5
+    confidence: 0.8
+  - name: escolhas_conscientes_e_cansaco
+    weight: 5
+    confidence: 0.78
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '305.8'
+  - '316.6'
+  cdu_description: Psicologia da performance e do sucesso; Psicologia social e da personalidade; Mudanças sociais e adaptação.
 ---
 
 # High Performance Habits: How Extraordinary People Become That Way (English Edition)

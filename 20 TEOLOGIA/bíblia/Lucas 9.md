@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:38.397706+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ensinamentos_sobre_missao_e_sustento
+    weight: 8
+    confidence: 0.9
+  - name: importancia_do_descanso_e_acolhimento
+    weight: 7
+    confidence: 0.85
+  - name: multiplicacao_de_alimentos_e_sobra
+    weight: 6
+    confidence: 0.8
+  - name: identidade_messianica_de_jesus
+    weight: 9
+    confidence: 0.95
+  - name: sofrimento_e_morte_de_jesus_para_salvacao
+    weight: 9
+    confidence: 0.95
+  - name: negacao_de_si_mesmo_e_tomar_a_cruz
+    weight: 10
+    confidence: 1.0
+  - name: visao_do_reino_de_deus_e_sua_inauguracao
+    weight: 7
+    confidence: 0.85
+  - name: divindade_de_jesus_e_autoridade_de_sua_palavra
+    weight: 8
+    confidence: 0.9
+  - name: humildade_e_hierarquia_no_reino_de_deus
+    weight: 9
+    confidence: 0.95
+  - name: aceitacao_de_estranhos_e_espiritos_de_amor
+    weight: 8
+    confidence: 0.9
+  cdu_primary: 27-29
+  cdu_secondary: []
+  cdu_description: Teologia cristã. Novo Testamento. Evangelho de Lucas. Doutrina e prática cristã.
+---
 Luk 9:3 — Luk 9:4 E disse-lhes: Nada leveis para o caminho: nem bordão, nem alforje, nem pão, nem dinheiro; nem deveis ter duas túnicas. Na casa em que entrardes, ali permanecei e dali saireis.
 Lucas 10:7 Permanecei na mesma casa, comendo e bebendo do que eles tiverem; porque digno é o trabalhador do seu salário. Não andeis a mudar de casa em casa.
 - Sustento de missionários, de pregadores?

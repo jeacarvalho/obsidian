@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:12:33.271214+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: aprendizado_cristao_anabatista_etica_sermao_monte
+    weight: 7
+    confidence: 0.85
+  - name: aprendizado_cristao_anabatista_comunidade_discipulado
+    weight: 7
+    confidence: 0.85
+  - name: aprendizado_cristao_ortodoxo_leitura_contemplativa_escritura
+    weight: 8
+    confidence: 0.9
+  - name: aprendizado_cristao_ortodoxo_tradicao_pais_igreja
+    weight: 8
+    confidence: 0.9
+  - name: aprendizado_cristao_catolico_interpretacao_comunitaria_biblia
+    weight: 7
+    confidence: 0.85
+  - name: aprendizado_cristao_catolico_biblia_sacramentos
+    weight: 7
+    confidence: 0.85
+  - name: aprendizado_cristao_pentecostal_papel_espirito_iluminacao
+    weight: 8
+    confidence: 0.9
+  - name: aprendizado_cristao_pentecostal_experiencia_transformacional
+    weight: 8
+    confidence: 0.9
+  - name: aprendizado_interreligioso_budista_atencao_plena_leitura
+    weight: 9
+    confidence: 0.95
+  - name: aprendizado_interreligioso_taoista_harmonia_criacao_ecologia
+    weight: 9
+    confidence: 0.95
+  cdu_primary: 27-28
+  cdu_secondary:
+  - 23/28
+  - '297'
+  - '294.3'
+  - '299.5'
+  cdu_description: Relações inter-religiosas e ecumênicas no cristianismo, com foco em aprendizados práticos e espirituais entre diferentes denominações cristãs e religiões não cristãs.
+---
 > 2. **Diversidade Cultural e Religiosa**: Introduzindo experiências de grupos de diversas tradições. Por exemplo, a maneira como a literatura rabínica transmite narrativas e histórias pode contribuir para a prática cristã de leitura bíblica. Isso poderia se refletir em workshops inter-religiosos onde os participantes são convidados a comparar suas abordagens. Tais interações poderiam levar a um entendimento mais profundo da interconexão entre as tradições.
 
 Esse texto do livro linkado chamou minha atenção. Pedi aquela ajuda ao chatgpt: "poderia ampliar o que foi dito? Sendo prático, o que um cristão reformado poderia aprender com um anabatista, com um ortodoxo, com um católico, com um pentecostal?  O que um cristão poderia aprender com um budista, taoísta, muçulmano, judeu?"

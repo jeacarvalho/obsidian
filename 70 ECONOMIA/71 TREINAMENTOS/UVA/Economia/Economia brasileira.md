@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:43.924925+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: economia_brasileira_primeira_republica_governo_lula
+    weight: 8
+    confidence: 0.9
+  - name: fundamentos_economia
+    weight: 7
+    confidence: 0.85
+  - name: politica_economica_brasil_dois_seculos
+    weight: 8
+    confidence: 0.9
+  - name: economia_brasileira_geral
+    weight: 9
+    confidence: 0.95
+  - name: formacao_economica_brasil
+    weight: 9
+    confidence: 0.95
+  - name: economia_e_mercado
+    weight: 7
+    confidence: 0.85
+  - name: era_vargas_desenvolvimentismo
+    weight: 8
+    confidence: 0.9
+  - name: historia_economia_brasil
+    weight: 9
+    confidence: 0.95
+  - name: desenvolvimentismo_economia_sociedade
+    weight: 7
+    confidence: 0.85
+  - name: livros_didaticos_economia
+    weight: 6
+    confidence: 0.7
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '338.1'
+  - '330.8'
+  cdu_description: Economia. Economia brasileira. História econômica.
+---
 [[Economia]]
 # REFERÊNCIA  
 ## BÁSICA  

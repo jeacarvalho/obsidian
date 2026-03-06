@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:03.541974+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desigualdade_social_brasil
+    weight: 10
+    confidence: 0.98
+  - name: historia_escravidao_brasil
+    weight: 9
+    confidence: 0.97
+  - name: corrupcao_narrativa_ideologica
+    weight: 8
+    confidence: 0.95
+  - name: branquitude_construcao_social
+    weight: 7
+    confidence: 0.93
+  - name: violencia_estrutural_historica
+    weight: 8
+    confidence: 0.94
+  - name: genealogia_poder_foucault
+    weight: 6
+    confidence: 0.88
+  - name: elite_financeira_rapina
+    weight: 7
+    confidence: 0.92
+  - name: rale_novos_escravos
+    weight: 9
+    confidence: 0.96
+  - name: violencia_simbolica_midiatica
+    weight: 8
+    confidence: 0.94
+  - name: colonizacao_esfera_publica
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '316.42'
+  cdu_secondary:
+  - '981'
+  - '305.8'
+  - '323.1'
+  cdu_description: Sociologia das relações sociais e de poder no Brasil, com ênfase na desigualdade, raça e história da escravidão.
+---
 ### 🔑 PASSO 1: ATIVAÇÃO DA LENTE
 
 **MODO EPISTEMOLÓGICO PRIMÁRIO ATIVADO: HISTÓRICO-POLÍTICO**  

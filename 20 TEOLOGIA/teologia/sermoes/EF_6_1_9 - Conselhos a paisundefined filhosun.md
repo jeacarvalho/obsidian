@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:03.203765+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: relacao_pais_filhos
+    weight: 10
+    confidence: 0.98
+  - name: obediencia_filhos
+    weight: 9
+    confidence: 0.97
+  - name: disciplina_educacao_crista
+    weight: 9
+    confidence: 0.96
+  - name: relacao_patroes_empregados
+    weight: 10
+    confidence: 0.98
+  - name: obediencia_empregados
+    weight: 9
+    confidence: 0.97
+  - name: tratamento_empregados
+    weight: 9
+    confidence: 0.96
+  - name: integridade_no_trabalho
+    weight: 8
+    confidence: 0.95
+  - name: recompensa_divina
+    weight: 8
+    confidence: 0.94
+  - name: justica_social
+    weight: 7
+    confidence: 0.93
+  - name: etica_crista_cotidiana
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '241.4'
+  cdu_secondary:
+  - '316.35'
+  - '305.8'
+  cdu_description: Ética cristã aplicada às relações familiares e laborais, com ênfase na obediência, disciplina e tratamento justo.
+---
 [[Efésios 6]]:1-9 - Conselhos a paisundefined filhosundefined patrões e empregados
 
 |     |     |     |

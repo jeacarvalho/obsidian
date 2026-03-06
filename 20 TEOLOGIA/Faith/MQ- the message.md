@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:18.883256+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: critica_profetas_corruptos
+    weight: 9
+    confidence: 0.98
+  - name: denuncia_exploracao_economica
+    weight: 8
+    confidence: 0.97
+  - name: exortacao_justica_e_misericordia
+    weight: 7
+    confidence: 0.96
+  - name: esperanca_restauracao_povo_eleito
+    weight: 8
+    confidence: 0.95
+  - name: condenacao_ganancia_e_hipocrisia
+    weight: 9
+    confidence: 0.97
+  - name: reflexao_sobre_pecado_e_arrependimento
+    weight: 6
+    confidence: 0.94
+  - name: promessa_perdao_divino
+    weight: 7
+    confidence: 0.95
+  - name: critica_lideres_politicos_corruptos
+    weight: 8
+    confidence: 0.96
+  - name: exemplo_de_vida_correta
+    weight: 5
+    confidence: 0.93
+  - name: comparacao_deus_com_outras_divindades
+    weight: 6
+    confidence: 0.92
+  cdu_primary: '224.7'
+  cdu_secondary:
+  - '316.3'
+  - '330.1'
+  - '241.1'
+  cdu_description: Livro de Miquéias, profecias contra a corrupção e injustiça social, com exortações à justiça e misericórdia, e promessas de restauração divina.
+---
 [[Miquéias]] the message
 
 - Capítulo 2 extremamente atual. Poderosa palavra contra os aproveitadores, os poderosos que se apropriam de tudo o que veem pela frente...

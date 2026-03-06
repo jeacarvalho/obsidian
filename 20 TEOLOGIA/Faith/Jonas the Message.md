@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:20.840044+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: a_desobediencia_de_jonas
+    weight: 8
+    confidence: 0.9
+  - name: o_proposito_divino_na_incapacidade
+    weight: 9
+    confidence: 0.95
+  - name: a_conversao_do_povo_de_ninive
+    weight: 10
+    confidence: 0.98
+  - name: o_arrependimento_como_resposta_a_deus
+    weight: 9
+    confidence: 0.92
+  - name: a_oracao_em_desespero
+    weight: 7
+    confidence: 0.85
+  - name: a_adoracao_a_deus_em_meio_ao_sofrimento
+    weight: 8
+    confidence: 0.88
+  - name: a_natureza_maligna_da_assiria
+    weight: 6
+    confidence: 0.75
+  - name: o_amor_deus_por_povos_considerados_impios
+    weight: 7
+    confidence: 0.8
+  - name: o_terrorismo_e_suas_consequencias
+    weight: 5
+    confidence: 0.7
+  - name: a_missao_relutante_de_jonas
+    weight: 8
+    confidence: 0.87
+  cdu_primary: '224.9'
+  cdu_secondary:
+  - '230.1'
+  - '264.0'
+  - '271.1'
+  cdu_description: Livros proféticos do Antigo Testamento (Jonas), Teologia cristã (doutrina da salvação), Culto e liturgia, História da Igreja
+---
 Jonas the Message
 
 Enquanto rimos da situação ou de Jonas, baixamos a guarda do cuidado que temos em manter Deus a uma distância segura e, de repente, nos vemos apanhados pelos propósitos e ordens de Deus. Todos nós. Não há exceções.

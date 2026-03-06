@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:54:09.730063+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: plano_collor_medidas_drasticas
+    weight: 9
+    confidence: 0.98
+  - name: bloqueio_contas_bancarias
+    weight: 8
+    confidence: 0.97
+  - name: aumento_recolhimentos_compulsorios
+    weight: 7
+    confidence: 0.96
+  - name: reducao_liquidez_monetaria
+    weight: 10
+    confidence: 0.99
+  - name: funcao_moeda_meio_trocas
+    weight: 8
+    confidence: 0.95
+  - name: funcao_moeda_reserva_valor
+    weight: 8
+    confidence: 0.95
+  - name: impacto_confianca_moeda
+    weight: 7
+    confidence: 0.94
+  - name: politicas_monetarias_formulacao
+    weight: 9
+    confidence: 0.96
+  - name: economia_brasileira_pandemia_covid19
+    weight: 7
+    confidence: 0.92
+  - name: taxa_juros_queda_2020
+    weight: 6
+    confidence: 0.9
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '336.7'
+  - '330.322'
+  cdu_description: Economia. Finanças. Moeda. Política monetária. História econômica do Brasil.
+---
 # REFERÊNCIA
 ## BÁSICA
 - Ebook: [[EMN_ebook.pdf]]

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:01.827180+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: autodescoberta_pessoal
+    weight: 10
+    confidence: 0.98
+  - name: encontrando_vocacao
+    weight: 9
+    confidence: 0.97
+  - name: individualidade_singularidade
+    weight: 8
+    confidence: 0.96
+  - name: criatividade_autonomia
+    weight: 8
+    confidence: 0.95
+  - name: natureza_organica_vida
+    weight: 7
+    confidence: 0.94
+  - name: estrategias_autoconhecimento
+    weight: 7
+    confidence: 0.93
+  - name: meditacao_silenciar_ruido
+    weight: 6
+    confidence: 0.92
+  - name: mudanca_perspectiva_autoimagem
+    weight: 6
+    confidence: 0.91
+  - name: experimentacao_novas_atividades
+    weight: 6
+    confidence: 0.9
+  - name: ferramentas_reflexao_objetivos
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '159.964'
+  cdu_secondary:
+  - '159.947'
+  - '305.8'
+  cdu_description: 159.964 - Autoconhecimento e desenvolvimento pessoal; 159.947 - Motivação e vontade; 305.8 - Grupos sociais e culturais específicos (abordagem de influências externas e sucesso).
+---
 # Cap 1
 
 ## analise: 

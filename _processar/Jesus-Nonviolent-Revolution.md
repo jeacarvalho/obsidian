@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:35.165929+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: revolucao_sociopolitica_jesus
+    weight: 10
+    confidence: 0.98
+  - name: ministerio_jesus_jubileu
+    weight: 9
+    confidence: 0.97
+  - name: contexto_judaico_jesus
+    weight: 8
+    confidence: 0.96
+  - name: discurso_sinagoga_nazare
+    weight: 7
+    confidence: 0.95
+  - name: cancelamento_dividas_jubileu
+    weight: 6
+    confidence: 0.94
+  - name: libertacao_oprimidos_jesus
+    weight: 6
+    confidence: 0.93
+  - name: redistribuicao_capital_jesus
+    weight: 6
+    confidence: 0.92
+  - name: conflito_autoridades_jesus
+    weight: 7
+    confidence: 0.91
+  - name: igreja_primitiva_jubileu
+    weight: 5
+    confidence: 0.9
+  - name: espiritualizacao_mensagem_jesus
+    weight: 5
+    confidence: 0.89
+  cdu_primary: 27-21
+  cdu_secondary:
+  - '232.9'
+  - '330.5'
+  - '323.3'
+  cdu_description: '27-21: História do Cristianismo. 232.9: Jesus Cristo. 330.5: Economia e sociedade. 323.3: Movimentos sociais e políticos.'
+---
 # Diálogo sobre "Jesus e Sua Revolução"
 
 ## Capítulo 01

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:05.801467+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reforma_administrativa_1967
+    weight: 10
+    confidence: 0.98
+  - name: tecnoburocracia_regime_militar
+    weight: 9
+    confidence: 0.95
+  - name: racionalizacao_administracao_federal
+    weight: 8
+    confidence: 0.92
+  - name: introducao_procedimentos_gerenciais_privados
+    weight: 8
+    confidence: 0.9
+  - name: participacao_capital_privado_economia_mista
+    weight: 7
+    confidence: 0.88
+  - name: esvaziamento_dasp
+    weight: 7
+    confidence: 0.85
+  - name: reforma_tributaria_1967
+    weight: 6
+    confidence: 0.8
+  - name: criacao_banco_central
+    weight: 6
+    confidence: 0.78
+  - name: politica_recursos_humanos_eficiencia_empresarial
+    weight: 7
+    confidence: 0.82
+  - name: descentralizacao_administracao_direta_indireta
+    weight: 7
+    confidence: 0.83
+  cdu_primary: '351.71'
+  cdu_secondary:
+  - '330.5'
+  - '321.07'
+  cdu_description: 351.71 - Administração pública. Administração geral. Administração de serviços públicos. Reforma administrativa. 330.5 - Economia. Política econômica. 321.07 - Regimes políticos. Autoritarismo.
+---
 Forum semana Iundefined questão 3
 
 “A Reforma Administrativa de 1967 surge como uma das respostas institucionais da tecnoburocracia às demandas de grupos próximos ao Regime Civil-Militar. Ela representou o desejo de racionalização da administração federal, dessa feita, rejeitando o modelo burocrático que caracterizou a reforma dos anos 1930. A reforma de 1967 introduziu na [[administração pública]] procedimentos gerenciais típicos do setor privado, abriu espaço para a participação do capital privado em sociedade de [[economia]] mista e esvaziou um dos emblemas do Estado populista, o Departamento Administrativo do Serviço Público (DASP)” (SILVA, 2010, p. 66).

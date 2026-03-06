@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:46.978089+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: atitude_e_abordagem_do_escritor
+    weight: 8
+    confidence: 0.9
+  - name: busca_por_feedback_construtivo
+    weight: 7
+    confidence: 0.85
+  - name: prazer_no_processo_de_escrita
+    weight: 7
+    confidence: 0.85
+  - name: satisfacao_com_aprendizado_continuo
+    weight: 6
+    confidence: 0.8
+  - name: oportunidades_de_crescimento_para_escritores
+    weight: 6
+    confidence: 0.8
+  - name: publicacao_de_livros
+    weight: 9
+    confidence: 0.95
+  - name: escrita_de_propostas_de_livros
+    weight: 8
+    confidence: 0.9
+  - name: cartas_de_apresentacao_para_agentes_literarios
+    weight: 8
+    confidence: 0.9
+  - name: marketing_e_promocao_de_livros
+    weight: 9
+    confidence: 0.95
+  - name: construcao_de_plataforma_de_autor
+    weight: 9
+    confidence: 0.95
+  cdu_primary: 82-9
+  cdu_secondary:
+  - 82-3
+  - 82-4
+  - '659.134'
+  cdu_description: '82-9: Escrita e escrita criativa; 82-3: Ficção; 82-4: Não ficção; 659.134: Publicidade e marketing de livros'
+---
 Jane Friedman's Writing Advice Archive
 
 # Jane’s Writing Advice Archive

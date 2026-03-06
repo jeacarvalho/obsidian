@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:39.990441+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contabilidade_empresarial
+    weight: 9
+    confidence: 0.98
+  - name: manual_contabilidade_basica
+    weight: 8
+    confidence: 0.97
+  - name: contabilidade_fundamental
+    weight: 7
+    confidence: 0.96
+  - name: fundamentos_contabilidade_basica
+    weight: 8
+    confidence: 0.97
+  - name: introducao_contabilidade
+    weight: 8
+    confidence: 0.96
+  - name: gestao_contabil
+    weight: 7
+    confidence: 0.95
+  - name: contabilidade_geral_simplificada
+    weight: 6
+    confidence: 0.94
+  - name: convergencia_padrao_internacional_contabilidade
+    weight: 7
+    confidence: 0.93
+  - name: contabilidade_e_financas_nao_especialistas
+    weight: 6
+    confidence: 0.92
+  - name: historia_contabilidade
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '657'
+  cdu_secondary:
+  - 008
+  - '330.1'
+  - '336.7'
+  cdu_description: Contabilidade; História da civilização e cultura; Economia; Finanças
+---
 # BIBLIOGRAFIA 
 ## Livro disciplina
 - [[COG_ebook.pdf]]

@@ -3,6 +3,46 @@ created: 2023-08-08T21:31:10 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
 author: Philip E. Dow
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:52.449497+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_caracter_intelectual
+    weight: 10
+    confidence: 0.98
+  - name: coragem_intelectual
+    weight: 9
+    confidence: 0.97
+  - name: habitos_pensamento_corajosos
+    weight: 8
+    confidence: 0.96
+  - name: crescimento_pessoal_atraves_desafio
+    weight: 7
+    confidence: 0.95
+  - name: importancia_pequenas_decisoes_diarias
+    weight: 6
+    confidence: 0.94
+  - name: cuidado_intelectual_evitar_conclusoes_precipitadas
+    weight: 7
+    confidence: 0.93
+  - name: tenacidade_sucesso
+    weight: 8
+    confidence: 0.92
+  - name: fragilidade_versus_resiliencia
+    weight: 6
+    confidence: 0.91
+  - name: disciplina_longo_prazo_realizacao
+    weight: 9
+    confidence: 0.9
+  - name: interdisciplinaridade_conhecimento
+    weight: 5
+    confidence: 0.89
+  cdu_primary: 159.923.3
+  cdu_secondary:
+  - 17.023.2
+  - 17.023.3
+  cdu_description: Psicologia do desenvolvimento do caráter e da personalidade; desenvolvimento intelectual; virtudes intelectuais; coragem intelectual; tenacidade; hábitos de pensamento.
 ---
 
 # Virtuous Minds: Intellectual Character Development (English Edition)

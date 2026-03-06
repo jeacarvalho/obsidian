@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:33.119408+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: autoconhecimento_profundo
+    weight: 10
+    confidence: 0.98
+  - name: reflexao_sobre_vida
+    weight: 9
+    confidence: 0.97
+  - name: medos_e_insegurancas
+    weight: 8
+    confidence: 0.95
+  - name: valores_pessoais
+    weight: 7
+    confidence: 0.93
+  - name: relacionamentos_interpessoais
+    weight: 6
+    confidence: 0.9
+  - name: sentido_da_vida
+    weight: 10
+    confidence: 0.96
+  - name: saude_financeira_aposentadoria
+    weight: 5
+    confidence: 0.85
+  - name: desenvolvimento_pessoal
+    weight: 8
+    confidence: 0.94
+  - name: impacto_na_vida_de_outros
+    weight: 7
+    confidence: 0.92
+  - name: aceitacao_e_mudanca
+    weight: 6
+    confidence: 0.91
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '17'
+  - '305.8'
+  cdu_description: Psicologia. Filosofia da vida. Ética. Sociologia. Questões existenciais e de autoconhecimento.
+---
 #### Perguntas que podem ajudar para saber quem eu sou
 1. Quem Sou Eu realmente? 
 2. O que mais me preocupa com relação ao futuro?

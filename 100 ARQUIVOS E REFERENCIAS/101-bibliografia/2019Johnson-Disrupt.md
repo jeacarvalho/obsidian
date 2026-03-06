@@ -1,4 +1,45 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:00.743984+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: descoberta_vocacao
+    weight: 10
+    confidence: 0.98
+  - name: sucesso_pessoal_profissional
+    weight: 9
+    confidence: 0.97
+  - name: jobs_to_be_done
+    weight: 10
+    confidence: 0.99
+  - name: autoconhecimento_carreira
+    weight: 8
+    confidence: 0.96
+  - name: tomada_decisao_corajosa
+    weight: 7
+    confidence: 0.95
+  - name: superacao_medo_desconhecido
+    weight: 8
+    confidence: 0.94
+  - name: identificacao_oportunidades_mercado
+    weight: 9
+    confidence: 0.96
+  - name: inovacao_educacional_online
+    weight: 7
+    confidence: 0.93
+  - name: encontrar_nicho_competitivo
+    weight: 8
+    confidence: 0.95
+  - name: motivacao_emocional_funcional
+    weight: 9
+    confidence: 0.97
+  cdu_primary: 159.947.5
+  cdu_secondary:
+  - '331.1'
+  - '005.32'
+  cdu_description: Psicologia da motivação e da vontade; Psicologia do trabalho; Gestão da inovação
+---
 # Cap 1
 
 ## analise: 

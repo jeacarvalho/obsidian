@@ -1,3 +1,49 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:39.081872+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: planejamento_e_gestao_de_tempo
+    weight: 10
+    confidence: 0.98
+  - name: desenvolvimento_pessoal_e_evolucao
+    weight: 9
+    confidence: 0.95
+  - name: motivacao_e_esperanca_no_trabalho
+    weight: 8
+    confidence: 0.92
+  - name: relacionamento_com_deus_e_oracao
+    weight: 10
+    confidence: 0.99
+  - name: vida_crista_e_santidade
+    weight: 9
+    confidence: 0.96
+  - name: organizacao_eclesiastica_e_ministerio
+    weight: 8
+    confidence: 0.93
+  - name: gestao_familiar_e_relacionamentos
+    weight: 7
+    confidence: 0.9
+  - name: saude_fisica_e_bem_estar
+    weight: 8
+    confidence: 0.94
+  - name: gestao_financeira_e_orcamento
+    weight: 7
+    confidence: 0.91
+  - name: lideranca_e_desenvolvimento_de_equipe
+    weight: 8
+    confidence: 0.92
+  cdu_primary: '2'
+  cdu_secondary:
+  - '28'
+  - '24'
+  - '26'
+  - '316.4'
+  - '331.1'
+  - '613'
+  cdu_description: Religião, Teologia, Igreja, Vida Cristã, Planejamento, Liderança, Saúde, Finanças
+---
 - Realizar mais e melhor o que é importante - entregar valor
 - Terminar o dia sentindo que trabalhei bem
 - Terminar a semana sentindo evolução no que fiz

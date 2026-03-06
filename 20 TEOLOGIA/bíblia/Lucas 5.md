@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:26.237920+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: custo_do_discipulado
+    weight: 9
+    confidence: 0.9
+  - name: abandono_de_bens_materiais
+    weight: 8
+    confidence: 0.85
+  - name: fe_em_jesus
+    weight: 7
+    confidence: 0.8
+  - name: milagres_e_sinais_divinos
+    weight: 6
+    confidence: 0.75
+  - name: vida_devocional_de_jesus
+    weight: 9
+    confidence: 0.9
+  - name: disciplinas_espirituais_oracao
+    weight: 8
+    confidence: 0.85
+  - name: perdao_de_pecados
+    weight: 10
+    confidence: 0.95
+  - name: relacionamento_com_pecadores
+    weight: 7
+    confidence: 0.8
+  - name: transformacao_vida_nova
+    weight: 8
+    confidence: 0.85
+  - name: imitacao_de_jesus
+    weight: 10
+    confidence: 0.95
+  cdu_primary: 27-32
+  cdu_secondary:
+  - '232.9'
+  - '248.3'
+  - '261.8'
+  cdu_description: Cristianismo. Teologia cristã. Vida cristã. Prática cristã. Jesus Cristo. Doutrina da pessoa de Cristo. Vida de oração. Relações sociais no cristianismo.
+---
 Lucas 5:11 11 E, arrastando eles os barcos sobre a praia, **deixando tudo, o seguiram**.
 
 - o custo do discipulado!

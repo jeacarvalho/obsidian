@@ -3,6 +3,45 @@ created: 2022-05-18T11:58:32 (UTC -03:00)
 tags: []
 source: https://www.receiteria.com.br/receitas-de-lanches-low-carb/
 author: Luiz Filipe Santos
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:54.143162+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lanches_low_carb
+    weight: 10
+    confidence: 0.98
+  - name: receitas_de_pao_low_carb
+    weight: 9
+    confidence: 0.95
+  - name: receitas_de_torta_low_carb
+    weight: 9
+    confidence: 0.95
+  - name: dieta_low_carb
+    weight: 8
+    confidence: 0.97
+  - name: emagrecimento
+    weight: 7
+    confidence: 0.9
+  - name: ingredientes_low_carb
+    weight: 6
+    confidence: 0.85
+  - name: pao_nuvem_low_carb
+    weight: 5
+    confidence: 0.8
+  - name: pao_de_queijo_low_carb
+    weight: 5
+    confidence: 0.8
+  - name: torta_de_espinafre_low_carb
+    weight: 5
+    confidence: 0.8
+  - name: empadao_low_carb
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '641.5'
+  cdu_secondary:
+  - '613.2'
+  cdu_description: Culinária, gastronomia e alimentação. Dietas. Dietas de emagrecimento. Dietas com restrição de carboidratos.
 ---
 
 # 22 receitas de lanches low carb para se deliciar sem fugir da dieta

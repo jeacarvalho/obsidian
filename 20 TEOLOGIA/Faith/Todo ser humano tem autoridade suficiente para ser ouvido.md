@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:18.772246+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: escuta_ativa
+    weight: 10
+    confidence: 0.98
+  - name: humildade_na_escuta
+    weight: 9
+    confidence: 0.95
+  - name: autoridade_humana_para_ser_ouvido
+    weight: 10
+    confidence: 0.97
+  - name: reconhecimento_do_outro
+    weight: 8
+    confidence: 0.92
+  - name: intimidade_e_escuta
+    weight: 7
+    confidence: 0.88
+  - name: valor_intrinsico_do_ser_humano
+    weight: 9
+    confidence: 0.96
+  - name: urgencia_da_igreja_em_reconhecer_o_outro
+    weight: 7
+    confidence: 0.85
+  - name: comunicacao_interpessoal
+    weight: 6
+    confidence: 0.8
+  - name: empatia
+    weight: 8
+    confidence: 0.9
+  - name: dignidade_humana
+    weight: 9
+    confidence: 0.94
+  cdu_primary: '177.7'
+  cdu_secondary:
+  - 27-29
+  - '316.6'
+  cdu_description: Ética social. Relações sociais. Comunicação. Escuta. Dignidade humana. Papel da igreja.
+---
 #### Todo ser humano tem autoridade suficiente para ser ouvido
 Amarelo destaque | Local: 870
 

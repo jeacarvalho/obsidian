@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:26.639570+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ato_de_criar
+    weight: 10
+    confidence: 0.98
+  - name: existencia_de_novos_significados
+    weight: 8
+    confidence: 0.95
+  - name: producao_de_conteudo_diario
+    weight: 7
+    confidence: 0.92
+  - name: evolucao_do_conhecimento_humano
+    weight: 9
+    confidence: 0.96
+  - name: impacto_das_pequenas_criacoes
+    weight: 8
+    confidence: 0.94
+  - name: desenvolvimento_de_vacinas_covid19
+    weight: 6
+    confidence: 0.85
+  - name: autopercepcao_e_mudanca_diaria
+    weight: 7
+    confidence: 0.93
+  - name: consciencia_do_tempo_e_talentos
+    weight: 6
+    confidence: 0.9
+  - name: medo_de_errar_e_autoaprisionamento
+    weight: 5
+    confidence: 0.88
+  - name: coragem_de_ser_se_mesmo
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '004.8'
+  - '316.6'
+  - '616.97'
+  cdu_description: 159.9 - Psicologia; 004.8 - Inteligência artificial, processamento de dados, sistemas de computação (relacionado à criação de informação); 316.6 - Psicologia social; 616.97 - Doenças infecciosas (Covid-19 e vacinas)
+---
 #### Criar é trazer à existência algo que antes não existia.
 >[!note]
 >Só isso aqui já dá pano para manga. Hoje já escrevi em torno de 671 + 606 + 202 palavras. São números dos arquivos criados hoje, até agora (12:07). Essas palavras existiam como significantes, mas com os significados que dei a elas em minhas frases e parágrafos. 

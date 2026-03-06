@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:38.993154+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: etica_empreendedora
+    weight: 10
+    confidence: 0.98
+  - name: responsabilidade_social_empresarial
+    weight: 9
+    confidence: 0.95
+  - name: comportamento_individual_empreendedor
+    weight: 8
+    confidence: 0.92
+  - name: lideranca_etica_empresarial
+    weight: 7
+    confidence: 0.88
+  - name: transparencia_empresarial
+    weight: 7
+    confidence: 0.85
+  - name: valores_empresariais
+    weight: 6
+    confidence: 0.8
+  - name: relacionamento_com_colaboradores
+    weight: 6
+    confidence: 0.78
+  - name: etica_no_relacionamento_com_fornecedores
+    weight: 5
+    confidence: 0.75
+  - name: etica_no_relacionamento_com_clientes
+    weight: 5
+    confidence: 0.75
+  - name: etica_com_poder_publico
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '174.4'
+  cdu_secondary: []
+  cdu_description: Ética aplicada. Ética nos negócios e na economia
+---
 # [Rádio Empreendedorismo](https://player.vimeo.com/video/369352742)
 ## ética no empreendedorismo
 - Escobar era um empreendedor

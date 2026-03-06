@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:57.023012+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: migracao_acessogov_para_aws
+    weight: 10
+    confidence: 0.98
+  - name: documentacao_de_acoes_e_reunioes
+    weight: 8
+    confidence: 0.95
+  - name: acompanhamento_de_projetos_de_ti
+    weight: 7
+    confidence: 0.92
+  - name: infraestrutura_em_nuvem_aws
+    weight: 9
+    confidence: 0.96
+  - name: gerenciamento_de_sprints_e_iteracoes
+    weight: 6
+    confidence: 0.9
+  - name: migracao_de_banco_de_dados_postgres
+    weight: 7
+    confidence: 0.88
+  - name: servicos_de_ingestao_e_consulta_de_logs
+    weight: 7
+    confidence: 0.85
+  - name: configuracao_de_dns_em_ambiente_nuvem
+    weight: 6
+    confidence: 0.8
+  - name: automacao_de_ci_cd_gitlab
+    weight: 5
+    confidence: 0.75
+  - name: gerenciamento_de_identidade_ldap
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '004.7'
+  - '004.8'
+  - '004.9'
+  cdu_description: 004.4 - Gestão de sistemas de informação; 004.7 - Redes de computadores; 004.8 - Sistemas de computadores; 004.9 - Segurança de sistemas de computadores
+---
 # Descrição:
 - Para acompanhar e documentar ações, reuniões, etc, do trabalho do sedat na migração do acessogov para aws
 

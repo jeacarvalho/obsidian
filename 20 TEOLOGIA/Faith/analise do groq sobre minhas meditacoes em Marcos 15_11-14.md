@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:16.153188+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: manipulacao_da_multidao_religiosa
+    weight: 9
+    confidence: 0.95
+  - name: analise_comportamental_influencia_social
+    weight: 8
+    confidence: 0.9
+  - name: teologia_reformada_depravacao_humana
+    weight: 9
+    confidence: 0.92
+  - name: exegese_biblica_evangelho_de_marcos
+    weight: 8
+    confidence: 0.88
+  - name: contexto_historico_religioso_epoca_de_jesus
+    weight: 7
+    confidence: 0.85
+  - name: comparacao_historica_manipulacao_moderna
+    weight: 7
+    confidence: 0.8
+  - name: etica_crista_escolha_entre_bem_e_mal
+    weight: 8
+    confidence: 0.87
+  - name: teologia_da_salvacao_soberania_divina
+    weight: 9
+    confidence: 0.91
+  - name: reflexao_pastoral_orientacao_espiritual
+    weight: 6
+    confidence: 0.75
+  - name: critica_poder_institucional_religioso
+    weight: 8
+    confidence: 0.89
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '230.2'
+  - '226.4'
+  - '305.8'
+  cdu_description: Teologia cristã (27-29), com foco em teologia sistemática e doutrinas (230.2), exegese do Novo Testamento, Evangelho de Marcos (226.4), e sociologia, comportamento de grupos (305.8).
+---
 #### analise do groq sobre minhas meditacoes em [[Marcos 15]]_11-14
 
 <think>

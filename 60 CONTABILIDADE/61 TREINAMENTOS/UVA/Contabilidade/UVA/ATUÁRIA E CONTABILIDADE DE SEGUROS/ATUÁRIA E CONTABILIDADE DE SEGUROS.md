@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:40.797976+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_do_seguro_antigo
+    weight: 10
+    confidence: 0.98
+  - name: mutualismo_no_seguro
+    weight: 9
+    confidence: 0.95
+  - name: codigo_de_hamurabi_e_seguro
+    weight: 8
+    confidence: 0.92
+  - name: seguro_na_grecia_antiga
+    weight: 8
+    confidence: 0.93
+  - name: leis_de_rodes_direito_comercial_maritimo
+    weight: 7
+    confidence: 0.9
+  - name: seguro_no_imperio_romano
+    weight: 8
+    confidence: 0.94
+  - name: lei_das_12_tabuas_direito_romano
+    weight: 6
+    confidence: 0.88
+  - name: nauticum_foenus_financiamento_maritimo
+    weight: 7
+    confidence: 0.89
+  - name: sociedades_funerarias_romanas_colegia_tenuiorum
+    weight: 7
+    confidence: 0.91
+  - name: primeira_seguradora_inglesa
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '368.1'
+  cdu_secondary: []
+  cdu_description: Seguros contra riscos gerais. História e desenvolvimento do seguro.
+---
 # Bibliografia
 - Livro disciplina; [[ACS_LD_PDF.pdf]]
 

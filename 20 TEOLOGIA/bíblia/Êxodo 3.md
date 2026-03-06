@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:36.906162+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: libertacao_do_povo_de_israel
+    weight: 9
+    confidence: 0.98
+  - name: mocoes_como_tipo_de_cristo
+    weight: 8
+    confidence: 0.95
+  - name: cristo_libertador_do_pecado
+    weight: 8
+    confidence: 0.96
+  - name: eleitos_e_jesus
+    weight: 7
+    confidence: 0.9
+  - name: humildade_de_moises
+    weight: 7
+    confidence: 0.92
+  - name: identificacao_de_deus_com_escravos
+    weight: 6
+    confidence: 0.88
+  - name: revelacao_do_nome_deus
+    weight: 6
+    confidence: 0.85
+  - name: despojo_dos_egipcios
+    weight: 7
+    confidence: 0.93
+  - name: uso_de_bens_mundanos_para_deus
+    weight: 7
+    confidence: 0.91
+  - name: tempo_de_deus_e_preparacao
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '222.11'
+  cdu_secondary:
+  - '232.9'
+  - '261.8'
+  cdu_description: Êxodo, Teologia de Cristo, Escravidão e Libertação
+---
 EX_3_9 - [[nosso sofrimento não passa desapercebido de Deus]]
 
 EX_3_10 Vem, agora, e eu te enviarei a Faraó, para que tires o meu povo, os filhos de Israel, do Egito.

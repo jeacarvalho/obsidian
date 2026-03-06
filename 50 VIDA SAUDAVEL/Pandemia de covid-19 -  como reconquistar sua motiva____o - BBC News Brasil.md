@@ -2,7 +2,47 @@
 created: 2021-05-25T09:20:53 (UTC -03:00)
 tags: []
 source: https://www.bbc.com/portuguese/vert-cap-56524440
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:30.217075+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pandemia_covid19_impacto_motivacional
+    weight: 10
+    confidence: 0.98
+  - name: teoria_autodeterminacao_motivacao
+    weight: 9
+    confidence: 0.95
+  - name: perda_controle_autonomia_pandemia
+    weight: 8
+    confidence: 0.92
+  - name: competencia_afetada_desemprego_pandemia
+    weight: 7
+    confidence: 0.9
+  - name: relacionamentos_tensao_distanciamento_social
+    weight: 7
+    confidence: 0.9
+  - name: estrategias_renovar_motivacao
+    weight: 9
+    confidence: 0.96
+  - name: pequenas_vitorias_aumento_motivacao
+    weight: 8
+    confidence: 0.93
+  - name: mudancas_rotina_animar_disposicao
+    weight: 7
+    confidence: 0.91
+  - name: motivacao_intrinseca_vs_extrinseca
+    weight: 8
+    confidence: 0.94
+  - name: gerenciamento_tempo_motivacao_pandemia
+    weight: 6
+    confidence: 0.88
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '316.4'
+  - '305.4'
+  cdu_description: Psicologia da motivação e da emoção; Influências sociais e culturais na motivação; Psicologia social e da personalidade
 ---
 
 # Pandemia de covid-19: como reconquistar sua [[motivação]] - BBC News Brasil

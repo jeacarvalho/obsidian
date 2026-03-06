@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:31.614031+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: tirania_da_maioria
+    weight: 9
+    confidence: 0.98
+  - name: plutocracia_no_brasil
+    weight: 10
+    confidence: 0.99
+  - name: riscos_da_democracia
+    weight: 8
+    confidence: 0.97
+  - name: respeito_as_minorias
+    weight: 7
+    confidence: 0.95
+  - name: justica_imparcial
+    weight: 7
+    confidence: 0.94
+  - name: estado_de_direito
+    weight: 6
+    confidence: 0.93
+  - name: bem_comum
+    weight: 6
+    confidence: 0.92
+  - name: equilibrio_direitos_deveres
+    weight: 5
+    confidence: 0.91
+  - name: poder_financeiro_concentrado
+    weight: 9
+    confidence: 0.96
+  - name: corrupcao_politica
+    weight: 8
+    confidence: 0.9
+  cdu_primary: '321.1'
+  cdu_secondary:
+  - '330.5'
+  - '323.44'
+  cdu_description: Formas de governo. Democracia. Tirania. Plutocracia. Direitos das minorias. Estado de direito.
+---
 #### A democracia pode se desvirtuar para tirania da maioria ou para a plutocracia dos ricos
 Amarelo destaque | Local: 512 Nota | Local: 512
 

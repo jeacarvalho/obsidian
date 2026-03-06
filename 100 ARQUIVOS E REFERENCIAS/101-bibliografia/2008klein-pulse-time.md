@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:51.461377+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: percepcao_subjetiva_do_tempo
+    weight: 10
+    confidence: 0.98
+  - name: experimentos_privacao_sensorial_tempo
+    weight: 9
+    confidence: 0.97
+  - name: ritmo_biologico_vs_tempo_psicologico
+    weight: 9
+    confidence: 0.96
+  - name: influencia_ambiente_percepcao_temporal
+    weight: 8
+    confidence: 0.95
+  - name: critica_estrutura_social_tempo
+    weight: 8
+    confidence: 0.94
+  - name: fragilidade_nocao_temporal_humana
+    weight: 7
+    confidence: 0.93
+  - name: isolamento_desmantelamento_nocoes_tempo
+    weight: 7
+    confidence: 0.92
+  - name: economia_de_atencao_percepcao_tempo
+    weight: 6
+    confidence: 0.9
+  - name: artificialidade_convencoes_sociais_tempo
+    weight: 6
+    confidence: 0.89
+  - name: ritmos_naturais_vs_tempo_cronologico
+    weight: 5
+    confidence: 0.88
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '316.3'
+  - '305.8'
+  cdu_description: 159.9 - Psicologia; 316.3 - Sociologia da cultura e da civilização; 305.8 - Estudos de grupos sociais
+---
 # Cap 1
 
 ##     analise: ### Análise do Conteúdo

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:55.092246+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: migracao_microsservicos_aws_ecs
+    weight: 10
+    confidence: 0.98
+  - name: configuracao_infraestrutura_rede
+    weight: 9
+    confidence: 0.95
+  - name: desenvolvimento_gateway_api
+    weight: 8
+    confidence: 0.92
+  - name: gerenciamento_dns_dominios
+    weight: 7
+    confidence: 0.88
+  - name: configuracao_proxy_autenticado
+    weight: 6
+    confidence: 0.85
+  - name: resolucao_problemas_redirects
+    weight: 7
+    confidence: 0.87
+  - name: implementacao_allow_deny_list_waf
+    weight: 8
+    confidence: 0.9
+  - name: ajustes_headers_comunicacao_api
+    weight: 7
+    confidence: 0.86
+  - name: padronizacao_nomes_recursos_aws
+    weight: 9
+    confidence: 0.93
+  - name: testes_acompanhamento_logs_microsservicos
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '004.8'
+  cdu_secondary:
+  - '621.394'
+  - 681.3.06
+  cdu_description: Gestão e desenvolvimento de sistemas de informação, infraestrutura de TI, redes e microsserviços em ambiente AWS.
+---
 Rodrigo da Silva Adur
 
 17:36

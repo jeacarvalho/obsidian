@@ -2,7 +2,47 @@
 created: 2021-03-08T20:32:13 (UTC -03:00)
 tags: []
 source: http://metrocosm.com/homicides-brazil-vs-world/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:49.639798+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: taxa_homicidios_brasil_2015
+    weight: 10
+    confidence: 0.98
+  - name: comparativo_homicidios_mundial_brasil
+    weight: 9
+    confidence: 0.97
+  - name: violencia_urbana_brasil_dados
+    weight: 8
+    confidence: 0.95
+  - name: estatisticas_criminais_globais_2015
+    weight: 7
+    confidence: 0.93
+  - name: mapa_visualizacao_homicidios
+    weight: 6
+    confidence: 0.9
+  - name: dados_criminais_internacionais_comparativo
+    weight: 5
+    confidence: 0.88
+  - name: perspectiva_taxa_morte_brasil_global
+    weight: 7
+    confidence: 0.92
+  - name: disparidade_violencia_entre_paises
+    weight: 8
+    confidence: 0.94
+  - name: visualizacao_dados_criminais
+    weight: 6
+    confidence: 0.89
+  - name: fontes_estatisticas_crime_violencia
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '343.61'
+  cdu_secondary:
+  - '316.48'
+  - '308.2'
+  cdu_description: Direito penal. Crimes contra a pessoa. Homicídio. Sociologia. Desvio social. Estudos regionais. América do Sul. Brasil.
 ---
 
 # Brazil has nearly 60,000 murders a year - here's a map to put that number in perspective - Metrocosm

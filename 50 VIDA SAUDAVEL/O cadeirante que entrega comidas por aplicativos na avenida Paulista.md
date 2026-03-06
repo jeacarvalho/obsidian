@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:32.065986+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: entregador_de_aplicativo_cadeirante
+    weight: 10
+    confidence: 0.98
+  - name: trabalho_precario_entregadores
+    weight: 9
+    confidence: 0.92
+  - name: avenida_paulista_logistica_urbana
+    weight: 8
+    confidence: 0.9
+  - name: desafios_acessibilidade_urbana
+    weight: 8
+    confidence: 0.93
+  - name: inclusao_social_trabalhadores_com_deficiencia
+    weight: 7
+    confidence: 0.88
+  - name: economia_de_plataforma_entregadores
+    weight: 7
+    confidence: 0.91
+  - name: superacao_pessoal_trabalhador
+    weight: 6
+    confidence: 0.85
+  - name: historia_de_vida_luciano_oliveira
+    weight: 6
+    confidence: 0.87
+  - name: mercado_de_trabalho_brasil_atual
+    weight: 5
+    confidence: 0.8
+  - name: mobilidade_urbana_pessoas_com_deficiencia
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '331.59'
+  cdu_secondary:
+  - '305.9'
+  - '364.154'
+  cdu_description: Trabalho e emprego de pessoas com deficiência, especialmente em serviços de entrega por aplicativo em contexto urbano, abordando desafios de acessibilidade e precariedade.
+---
 O cadeirante que entrega comidas por aplicativos na avenida Paulista
 
 # O cadeirante que entrega comidas por aplicativos na avenida Paulista

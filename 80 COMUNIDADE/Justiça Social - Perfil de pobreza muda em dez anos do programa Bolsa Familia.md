@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:49.694927+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: impacto_bolsa_familia_transformacao_social
+    weight: 10
+    confidence: 0.98
+  - name: mudanca_perfil_pobreza_brasil_dez_anos
+    weight: 9
+    confidence: 0.97
+  - name: melhoria_condicoes_moradia_beneficiarios_bolsa_familia
+    weight: 8
+    confidence: 0.96
+  - name: acesso_tecnologia_familias_baixa_renda
+    weight: 7
+    confidence: 0.95
+  - name: evolucao_educacional_geracional_programas_sociais
+    weight: 7
+    confidence: 0.94
+  - name: consumo_eletrodomesticos_familias_beneficiadas
+    weight: 6
+    confidence: 0.93
+  - name: inclusao_digital_comunidades_carentes_brasil
+    weight: 6
+    confidence: 0.92
+  - name: efeitos_programas_transferencia_renda_brasil
+    weight: 5
+    confidence: 0.91
+  - name: desigualdade_social_brasil_contemporanea
+    weight: 5
+    confidence: 0.9
+  - name: empreendedorismo_familiar_populacao_vulneravel
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '338.46'
+  cdu_secondary:
+  - '305.8'
+  - '364.1'
+  cdu_description: Economia social. Serviços sociais. Programas de bem-estar social. Transferência de renda. Pobreza. Desigualdade social. Impacto social de programas governamentais.
+---
 # Perfil de pobreza muda em dez anos do programa Bolsa Família - Jornal O Globo
 
 > ## Excerpt

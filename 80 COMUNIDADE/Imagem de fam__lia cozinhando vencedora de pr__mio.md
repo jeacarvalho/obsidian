@@ -2,7 +2,47 @@
 created: 2021-04-28T09:11:23 (UTC -03:00)
 tags: []
 source: https://www.bbc.com/portuguese/geral-56913172
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:53.724702+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fotografia_gastronomica_internacional
+    weight: 10
+    confidence: 0.98
+  - name: premio_pink_lady_food_photographer_of_the_year
+    weight: 9
+    confidence: 0.97
+  - name: fotografia_familiar_na_china
+    weight: 8
+    confidence: 0.95
+  - name: tecnica_fotografica_luz_composicao
+    weight: 7
+    confidence: 0.92
+  - name: narrativa_emocional_fotografia
+    weight: 8
+    confidence: 0.93
+  - name: fotografia_isolamento_pandemia
+    weight: 7
+    confidence: 0.9
+  - name: fotografia_colheita_turquia
+    weight: 6
+    confidence: 0.85
+  - name: fotografia_casamento_momentos_inesperados
+    weight: 6
+    confidence: 0.88
+  - name: fotografia_natureza_morta_inverno
+    weight: 6
+    confidence: 0.87
+  - name: fotografia_producao_alimentos_macarrao_arroz
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '77.04'
+  cdu_secondary:
+  - '061.7'
+  - '394.1'
+  cdu_description: Fotografia artística e de eventos, com menção a exposições e eventos culturais e culinária.
 ---
 
 # Imagem de família cozinhando vence prêmio internacional de fotos de comida - BBC News Brasil

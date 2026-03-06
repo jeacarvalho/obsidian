@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:54.378812+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: receita_bolo_banana_sem_farinha
+    weight: 10
+    confidence: 0.98
+  - name: bolo_banana_light
+    weight: 9
+    confidence: 0.95
+  - name: dieta_emagrecimento_receitas
+    weight: 8
+    confidence: 0.9
+  - name: ingredientes_bolo_banana_aveia
+    weight: 7
+    confidence: 0.85
+  - name: substitutos_farinha_receitas
+    weight: 7
+    confidence: 0.8
+  - name: uso_bananas_maduras_culinaria
+    weight: 6
+    confidence: 0.75
+  - name: receitas_sobremesa_saudavel
+    weight: 6
+    confidence: 0.7
+  - name: aditivos_bolo_banana_nozes
+    weight: 5
+    confidence: 0.65
+  - name: aditivos_bolo_banana_mel
+    weight: 5
+    confidence: 0.65
+  - name: aditivos_bolo_banana_canela
+    weight: 5
+    confidence: 0.65
+  cdu_primary: '641.563'
+  cdu_secondary:
+  - '613.26'
+  - '641.5'
+  cdu_description: Culinária. Preparação de alimentos. Receitas específicas. Bolos. Alimentos dietéticos. Alimentos para emagrecimento.
+---
 10 Receitas de Bolo de Banana Sem Farinha Light - MundoBoaForma.com.br
 
 # 10 Receitas de Bolo de Banana Sem Farinha Light

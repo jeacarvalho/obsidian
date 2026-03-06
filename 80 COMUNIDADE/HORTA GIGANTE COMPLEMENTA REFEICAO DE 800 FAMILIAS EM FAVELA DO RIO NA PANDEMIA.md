@@ -2,7 +2,48 @@
 created: 2021-05-24T08:55:39 (UTC -03:00)
 tags: []
 source: http://cesarmaia.frontmta.srv.br/index.php/campaigns/oy426wlfm722d/web-version/bo4103ng9n3a0
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:50.181449+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: horta_comunitaria_manguinhos
+    weight: 10
+    confidence: 0.98
+  - name: seguranca_alimentar_pandemia
+    weight: 9
+    confidence: 0.97
+  - name: hortas_cariocas
+    weight: 8
+    confidence: 0.96
+  - name: impacto_social_hortas
+    weight: 8
+    confidence: 0.95
+  - name: resgate_de_vidas_horta
+    weight: 7
+    confidence: 0.94
+  - name: empregabilidade_horta_comunitaria
+    weight: 7
+    confidence: 0.93
+  - name: transformacao_espacos_urbanos
+    weight: 6
+    confidence: 0.92
+  - name: desafios_seguranca_favela
+    weight: 6
+    confidence: 0.91
+  - name: objetivos_desenvolvimento_sustentavel_onu
+    weight: 5
+    confidence: 0.9
+  - name: autossustentabilidade_projetos_sociais
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '308.2'
+  cdu_secondary:
+  - '331.5'
+  - '364.1'
+  - '631.5'
+  cdu_description: Sociologia urbana e regional; Desenvolvimento social e econômico; Segurança alimentar; Emprego e trabalho; Agricultura urbana e comunitária
 ---
 
 

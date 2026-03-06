@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:21.267804+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: livros_para_pregadores
+    weight: 10
+    confidence: 0.98
+  - name: habilidades_de_pregacao
+    weight: 9
+    confidence: 0.97
+  - name: comunicacao_eficaz
+    weight: 9
+    confidence: 0.96
+  - name: tecnicas_de_apresentacao
+    weight: 8
+    confidence: 0.95
+  - name: oratoria
+    weight: 8
+    confidence: 0.94
+  - name: desenvolvimento_de_sermoes
+    weight: 7
+    confidence: 0.93
+  - name: comunicacao_visual
+    weight: 7
+    confidence: 0.92
+  - name: retorica
+    weight: 6
+    confidence: 0.91
+  - name: teologia_pastoral
+    weight: 6
+    confidence: 0.9
+  - name: historia_da_pregacao
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '264.1'
+  cdu_secondary:
+  - '004.777'
+  - '808.5'
+  cdu_description: 264.1 - Culto. Liturgia. Sermão. Pregação. Homilética. 004.777 - Apresentações multimídia. 808.5 - Oratória. Retórica.
+---
 # The 2018 Effective Preacher's Reading List
 
 > ## Excerpt

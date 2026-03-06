@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:10.975079+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sacerdocio_universal_dos_crentes
+    weight: 10
+    confidence: 0.98
+  - name: missao_integral_crista
+    weight: 10
+    confidence: 0.97
+  - name: reino_de_deus
+    weight: 9
+    confidence: 0.95
+  - name: transformacao_social_crista
+    weight: 9
+    confidence: 0.94
+  - name: evangelizacao_e_acao_social
+    weight: 8
+    confidence: 0.93
+  - name: pacto_de_lausanne
+    weight: 8
+    confidence: 0.92
+  - name: justica_e_reconciliacao
+    weight: 7
+    confidence: 0.9
+  - name: dignidade_humana_crista
+    weight: 7
+    confidence: 0.89
+  - name: ministerio_da_reconciliacao
+    weight: 6
+    confidence: 0.88
+  - name: igreja_como_agente_de_mudanca
+    weight: 6
+    confidence: 0.87
+  cdu_primary: 27-42
+  cdu_secondary:
+  - '267.2'
+  - '266'
+  - '261.8'
+  cdu_description: Teologia cristã. Sacerdócio universal dos crentes e missão integral da igreja, incluindo evangelização, ação social e transformação. Pacto de Lausanne.
+---
 Aula Seminário - [[Sacerdócio]] Universal e Missão Integral
 
 - Apresentação pessoal

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:06.919427+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: processos_interativos_de_inovacao_empresarial
+    weight: 10
+    confidence: 0.98
+  - name: motivacoes_para_inovacao_empresarial
+    weight: 9
+    confidence: 0.97
+  - name: destruicao_criadora_schumpeteriana
+    weight: 8
+    confidence: 0.95
+  - name: inovacoes_radicais_vs_incrementais
+    weight: 7
+    confidence: 0.94
+  - name: impacto_organizacional_na_inovacao
+    weight: 8
+    confidence: 0.96
+  - name: apropriacao_e_protecao_da_inovacao
+    weight: 7
+    confidence: 0.93
+  - name: incerteza_e_financiamento_em_inovacao
+    weight: 8
+    confidence: 0.95
+  - name: aprendizado_organizacional_e_inovacao
+    weight: 7
+    confidence: 0.94
+  - name: teorias_de_marketing_e_inovacao
+    weight: 6
+    confidence: 0.92
+  - name: difusao_de_conhecimento_e_tecnologia
+    weight: 7
+    confidence: 0.93
+  cdu_primary: '658.5'
+  cdu_secondary:
+  - '001.895'
+  - '330.342'
+  cdu_description: Gestão da produção e da empresa. Inovação e desenvolvimento. Economia do desenvolvimento.
+---
 Manual de Oslo pg 34 a 74
 
 Aumento de iteração entre empresas para aquisição de [[conhecimento]]

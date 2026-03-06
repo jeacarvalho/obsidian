@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:49.741454+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: oferta_da_viuva_pobre
+    weight: 10
+    confidence: 0.98
+  - name: logica_divina_vs_humana
+    weight: 8
+    confidence: 0.9
+  - name: valorizacao_nas_igrejas
+    weight: 7
+    confidence: 0.85
+  - name: destruicao_do_templo
+    weight: 6
+    confidence: 0.8
+  - name: orgulho_e_dever_cumprido
+    weight: 7
+    confidence: 0.88
+  - name: perseucao_por_causa_de_jesus
+    weight: 9
+    confidence: 0.95
+  - name: testemunho_cristao
+    weight: 8
+    confidence: 0.92
+  - name: perseveranca_na_fe
+    weight: 10
+    confidence: 0.99
+  - name: fim_dos_tempos_e_redencao
+    weight: 9
+    confidence: 0.96
+  - name: preocupacoes_mundanas_e_aviso
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - 27-31
+  - '241.6'
+  cdu_description: Teologia cristã; Doutrinas gerais; Escatologia; Ética cristã; Comportamento cristão
+---
 Lc 21:1 — Lc 21:4
 A oferta da viúva pobre
 

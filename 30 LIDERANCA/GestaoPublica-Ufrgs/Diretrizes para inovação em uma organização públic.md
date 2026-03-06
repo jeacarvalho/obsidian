@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:05.322359+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_publica_inovacao
+    weight: 10
+    confidence: 0.98
+  - name: mudanca_cultura_organizacional
+    weight: 9
+    confidence: 0.95
+  - name: empreendedorismo_setor_publico
+    weight: 8
+    confidence: 0.92
+  - name: reforma_administrativa_publica
+    weight: 7
+    confidence: 0.88
+  - name: contratacao_demissao_servidores
+    weight: 7
+    confidence: 0.85
+  - name: corporativismo_servico_publico
+    weight: 6
+    confidence: 0.8
+  - name: retencao_premiacao_talentos
+    weight: 6
+    confidence: 0.78
+  - name: governo_aberto_transparencia
+    weight: 5
+    confidence: 0.75
+  - name: inovacao_aberta_gestao_publica
+    weight: 5
+    confidence: 0.72
+  - name: intraempreendedorismo_federal
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '351.71'
+  cdu_secondary:
+  - '005.35'
+  - 330.341.3
+  - '338.2'
+  - '338.46'
+  cdu_description: Administração pública. Administração geral. Administração de empresas. Inovação e empreendedorismo no setor público.
+---
 Diretrizes para [[inovação]] em uma organização pública que atende ao Estado
 
 Nos parece que, muito mais do que técnicas a serem aplicadas, mecanismos e projetos, temos diante de nós a árdua tarefa de pavimentar o solo para que a inovação se torne algo comum em empresas públicas. Pelo que discutimos até aqui, podemos dizer que em primeiro lugar temos que administrar uma mudança de cultura nas empresas públicas, que perpassa a forma de contratar, a possibilidade mais célere em demitir, a valorização do empreendedor,

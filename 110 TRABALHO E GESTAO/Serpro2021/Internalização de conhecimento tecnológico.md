@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:53.081838+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: internalizacao_conhecimento_tecnologico
+    weight: 10
+    confidence: 0.98
+  - name: processo_pgcvt
+    weight: 9
+    confidence: 0.95
+  - name: catalogo_tecnologias
+    weight: 8
+    confidence: 0.92
+  - name: gestao_conhecimento
+    weight: 7
+    confidence: 0.88
+  - name: desenvolvimento_ferramentas_livres
+    weight: 7
+    confidence: 0.85
+  - name: contratacao_tecnologias
+    weight: 6
+    confidence: 0.8
+  - name: arquitetura_de_software
+    weight: 6
+    confidence: 0.75
+  - name: gerenciamento_projetos_ti
+    weight: 5
+    confidence: 0.7
+  - name: capacitacao_tecnologica
+    weight: 5
+    confidence: 0.65
+  - name: colaboracao_equipes_ti
+    weight: 5
+    confidence: 0.6
+  cdu_primary: '004.06'
+  cdu_secondary:
+  - '005.32'
+  - '004.77'
+  cdu_description: Gestão da tecnologia da informação e comunicação. Gestão de projetos. Gestão do conhecimento.
+---
 ### Descrição: 
 
 Para tratar a proposta de processo de internalização de conhecimento tecnológico

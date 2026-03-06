@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:59.876303+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: comunicacao_empresarial_diplomatica
+    weight: 9
+    confidence: 0.9
+  - name: tecnicas_apresentacao_oral
+    weight: 8
+    confidence: 0.85
+  - name: uso_preposicoes_tempo_ingles
+    weight: 7
+    confidence: 0.8
+  - name: gerenciamento_reunioes_formais
+    weight: 8
+    confidence: 0.88
+  - name: linguagem_corporativa_abreviacoes
+    weight: 7
+    confidence: 0.75
+  - name: cold_calling_tecnicas
+    weight: 8
+    confidence: 0.82
+  - name: emails_formais_contracoes
+    weight: 7
+    confidence: 0.78
+  - name: terminologia_financeira_empresarial
+    weight: 9
+    confidence: 0.92
+  - name: feedback_construtivo_formula
+    weight: 8
+    confidence: 0.87
+  - name: gestao_turnover_funcionarios
+    weight: 9
+    confidence: 0.91
+  cdu_primary: '651.37'
+  cdu_secondary:
+  - '658.3'
+  - '005.57'
+  - 37.018.4
+  cdu_description: Comunicação empresarial, gestão de pessoas, treinamento e desenvolvimento, e terminologia financeira.
+---
 # Dados de acesso e aulas
 - Login: BSB042865
 - Pass: 0123BsoSrm**

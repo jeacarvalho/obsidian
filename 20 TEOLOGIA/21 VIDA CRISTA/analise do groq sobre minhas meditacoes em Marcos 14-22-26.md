@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:08.099703+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: amor_deus_sacrificio_jesus
+    weight: 10
+    confidence: 0.98
+  - name: teologia_reformada_amor_divino
+    weight: 9
+    confidence: 0.95
+  - name: humanidade_jesus_cristo
+    weight: 8
+    confidence: 0.92
+  - name: reflexao_biblica_marcos_14
+    weight: 7
+    confidence: 0.88
+  - name: analise_comportamental_fe
+    weight: 6
+    confidence: 0.85
+  - name: proposta_sermao_cristao
+    weight: 7
+    confidence: 0.9
+  - name: teologia_encarnacao_jesus
+    weight: 8
+    confidence: 0.93
+  - name: interpretacao_biblica_romanos_8
+    weight: 6
+    confidence: 0.87
+  - name: conceito_pecado_redencao
+    weight: 7
+    confidence: 0.89
+  - name: meditacao_crista_amor_incondicional
+    weight: 9
+    confidence: 0.94
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '232.9'
+  - '231.7'
+  - '226.7'
+  cdu_description: Teologia cristã; Teologia da redenção; Teologia da encarnação; Teologia da cruz; Teologia bíblica. Novo Testamento. Evangelho de Marcos.
+---
 #### analise do groq sobre minhas meditacoes em [[Marcos 14]]-22-26
 **Análise comportamental:**
 

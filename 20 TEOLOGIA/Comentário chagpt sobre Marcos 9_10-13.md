@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T21:56:16.053706+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: comentario_biblico_marcos
+    weight: 10
+    confidence: 0.98
+  - name: interpretacao_evangelho_marcos
+    weight: 9
+    confidence: 0.97
+  - name: teologia_crista
+    weight: 8
+    confidence: 0.96
+  - name: exegese_biblica
+    weight: 7
+    confidence: 0.95
+  - name: estudo_novo_testamento
+    weight: 6
+    confidence: 0.94
+  - name: passagem_marcos_9_10-13
+    weight: 10
+    confidence: 0.99
+  - name: reflexao_teologica
+    weight: 7
+    confidence: 0.93
+  - name: compreensao_escrituras
+    weight: 6
+    confidence: 0.92
+  - name: cristianismo
+    weight: 5
+    confidence: 0.91
+  - name: analise_texto_sagrado
+    weight: 8
+    confidence: 0.9
+  cdu_primary: '226.7'
+  cdu_secondary:
+  - '230'
+  cdu_description: 226.7 - Evangelho de Marcos; 230 - Teologia cristã
+---
 Sua observação é interessante e válida. A questão de Jesus pode ser vista como uma maneira de provocar reflexão nos discípulos sobre a natureza do cumprimento das profecias. Vamos explorar essa possibilidade mais detalhadamente.  
   
 ### Marcos 9:12 no Contexto das Profecias  

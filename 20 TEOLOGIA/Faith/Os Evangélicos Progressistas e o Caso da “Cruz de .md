@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:08.106700+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: evangelicos_progressistas
+    weight: 9
+    confidence: 0.98
+  - name: caso_cruz_de_espinal
+    weight: 10
+    confidence: 0.99
+  - name: confusao_hermeneutica_teologica
+    weight: 7
+    confidence: 0.9
+  - name: evangelho_da_cruz
+    weight: 8
+    confidence: 0.95
+  - name: evangelho_da_vitima
+    weight: 8
+    confidence: 0.95
+  - name: adoracao_a_cristo_ressurreto
+    weight: 7
+    confidence: 0.92
+  - name: justica_divina_vs_vitimizacao
+    weight: 8
+    confidence: 0.93
+  - name: identificacao_de_jesus_com_vitimas
+    weight: 7
+    confidence: 0.9
+  - name: falacia_do_ressentimento
+    weight: 6
+    confidence: 0.85
+  - name: etica_crista_e_resposta_a_vitimas
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '284.5'
+  cdu_secondary:
+  - '232.9'
+  - '231.7'
+  - '201.6'
+  cdu_description: Teologia cristã, especialmente a evangélica, com foco na interpretação da cruz, a natureza da vítima e a resposta ética às vítimas, dentro do contexto do progressismo evangélico e um caso específico.
+---
 Os Evangélicos Progressistas e o Caso da “Cruz de Espinal”
 
 # Os Evangélicos Progressistas e o Caso da “Cruz de Espinal”

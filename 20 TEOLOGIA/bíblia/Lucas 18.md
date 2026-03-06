@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:52.267442+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: perseveranca_na_oracao
+    weight: 9
+    confidence: 0.98
+  - name: importancia_da_fe
+    weight: 8
+    confidence: 0.95
+  - name: justica_divina
+    weight: 7
+    confidence: 0.9
+  - name: dependencia_de_deus
+    weight: 8
+    confidence: 0.92
+  - name: simplicidade_infantil
+    weight: 7
+    confidence: 0.88
+  - name: critica_aos_ritos_religiosos
+    weight: 6
+    confidence: 0.85
+  - name: natureza_deus
+    weight: 6
+    confidence: 0.8
+  - name: relacao_riqueza_reino_deus
+    weight: 9
+    confidence: 0.96
+  - name: compreensao_espiritual
+    weight: 5
+    confidence: 0.75
+  - name: salvacao_e_riquezas
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '230'
+  cdu_secondary:
+  - '226.4'
+  - '241.1'
+  - '248.3'
+  cdu_description: Teologia cristã; Doutrina cristã; Evangelhos; Atos dos Apóstolos; Epístolas; Vida cristã; Prática cristã
+---
 Lc 18:7 — Lc 18:8 Não fará Deus justiça aos seus escolhidos, que a ele clamam dia e noite, embora pareça demorado em defendê-los? Digo-vos que, depressa, lhes fará justiça. Contudo, quando vier o Filho do Homem, achará, porventura, fé na terra?
 - Insista sempre!!
 - Mas interessante: Jesus fala logo em seguida da fé na terra. Será que vamos.perdendo a capacidade de insistir e precisamos nos lembrar sempre?

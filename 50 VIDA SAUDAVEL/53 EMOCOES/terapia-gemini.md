@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:45.431169+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: impacto_traumas_infancia_vida_adulta
+    weight: 10
+    confidence: 0.98
+  - name: analise_freudiana_bullying
+    weight: 9
+    confidence: 0.95
+  - name: inseguranca_baixa_autoestima_adulto
+    weight: 8
+    confidence: 0.92
+  - name: dependencia_emocional_relacionamentos
+    weight: 7
+    confidence: 0.88
+  - name: judo_defesa_empoderamento_fuga
+    weight: 7
+    confidence: 0.85
+  - name: trauma_abandono_confianca_tio
+    weight: 8
+    confidence: 0.9
+  - name: dificuldades_relacionamentos_adultos
+    weight: 9
+    confidence: 0.93
+  - name: consequencias_profissionais_academicas
+    weight: 7
+    confidence: 0.87
+  - name: ansiedade_depressao_adulto
+    weight: 8
+    confidence: 0.91
+  - name: comportamento_passivo_submisso
+    weight: 6
+    confidence: 0.8
+  cdu_primary: '159.963'
+  cdu_secondary:
+  - '159.923'
+  - '159.943'
+  - '305.8'
+  cdu_description: Psicologia do desenvolvimento e da idade; Psicologia da personalidade; Psicologia social; Psicologia da educação
+---
 # Conversation with Gemini
 
 

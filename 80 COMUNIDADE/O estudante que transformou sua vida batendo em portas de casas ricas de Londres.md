@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:51.181902+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: superacao_pessoal_jovem_londres
+    weight: 10
+    confidence: 0.98
+  - name: mentorias_carreira_financeira
+    weight: 9
+    confidence: 0.95
+  - name: oportunidades_mercado_trabalho
+    weight: 8
+    confidence: 0.92
+  - name: iniciativa_proativa_jovem
+    weight: 9
+    confidence: 0.96
+  - name: diversidade_setor_corporativo
+    weight: 7
+    confidence: 0.88
+  - name: educacao_superior_reino_unido
+    weight: 7
+    confidence: 0.85
+  - name: desenvolvimento_habilidades_carreira
+    weight: 8
+    confidence: 0.9
+  - name: mudanca_perspectiva_vida
+    weight: 7
+    confidence: 0.87
+  - name: networking_estrategico
+    weight: 8
+    confidence: 0.93
+  - name: superacao_barreiras_socioeconomicas
+    weight: 9
+    confidence: 0.94
+  cdu_primary: '331.54'
+  cdu_secondary:
+  - '378.2'
+  - '305.8'
+  cdu_description: Emprego e trabalho. Condições de trabalho. Oportunidades de emprego e carreira. Educação superior. Minorias étnicas e raciais.
+---
 O estudante que transformou sua vida batendo em portas de casas ricas de Londres
 
 # O estudante que transformou sua vida batendo em portas de casas ricas de Londres

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:27.823492+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: arte_de_viver_bem
+    weight: 10
+    confidence: 0.98
+  - name: longevidade_e_bem_estar
+    weight: 9
+    confidence: 0.95
+  - name: sabedoria_e_disciplina
+    weight: 8
+    confidence: 0.92
+  - name: busca_por_entendimento
+    weight: 7
+    confidence: 0.9
+  - name: temor_a_deus
+    weight: 8
+    confidence: 0.93
+  - name: valor_do_trabalho_e_gozo_da_vida
+    weight: 7
+    confidence: 0.88
+  - name: controle_da_linguagem
+    weight: 6
+    confidence: 0.85
+  - name: pratica_do_bem_e_busca_da_paz
+    weight: 6
+    confidence: 0.87
+  - name: natureza_divina_e_dons_cristaos
+    weight: 9
+    confidence: 0.91
+  - name: unidade_entre_crentes
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '200'
+  cdu_secondary:
+  - '170'
+  - '230'
+  - '240'
+  cdu_description: Religião. Teologia. Ética. Filosofia da religião. Vida cristã. Sabedoria prática.
+---
 a [[arte de viver]]
 
 [[Salmos 34]]_12_14 Quem é o homem que ama a vida e quer longevidade para ver o bem? Refreia a língua do mal e os lábios de falarem dolosamente. Aparta-te do mal e pratica o que é bom; procura a paz e empenha-te por alcançá-la.

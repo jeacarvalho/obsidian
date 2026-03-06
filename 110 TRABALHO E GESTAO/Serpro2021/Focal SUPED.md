@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:55.782854+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: treinamento_lideranca_serpro
+    weight: 10
+    confidence: 0.98
+  - name: seguranca_psicologica_lideranca
+    weight: 9
+    confidence: 0.97
+  - name: capacitacao_corporativa
+    weight: 8
+    confidence: 0.95
+  - name: desenvolvimento_liderancas
+    weight: 8
+    confidence: 0.96
+  - name: gestao_de_pessoas
+    weight: 7
+    confidence: 0.94
+  - name: cultura_organizacional
+    weight: 7
+    confidence: 0.93
+  - name: comunicacao_lideranca
+    weight: 6
+    confidence: 0.92
+  - name: inovacao_corporativa
+    weight: 6
+    confidence: 0.91
+  - name: feedback_lideranca
+    weight: 5
+    confidence: 0.9
+  - name: planejamento_sucessorio
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '159.94'
+  - '005.32'
+  cdu_description: Gestão de pessoal; Administração de empresas; Psicologia social; Segurança psicológica; Liderança; Desenvolvimento de competências; Inovação.
+---
 Essa ação tem relação com o [[Treinamento SERPRO]]
 
 | links                                                                          | Arquivos                                                               |

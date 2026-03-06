@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:30.657880+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: previsoes_tecnologicas_futuro
+    weight: 10
+    confidence: 0.98
+  - name: transformacao_digital
+    weight: 9
+    confidence: 0.95
+  - name: inteligencia_artificial_tendencias
+    weight: 8
+    confidence: 0.92
+  - name: internet_das_coisas_impacto
+    weight: 7
+    confidence: 0.9
+  - name: big_data_analise
+    weight: 7
+    confidence: 0.9
+  - name: inovacao_tecnologica_estrategias
+    weight: 8
+    confidence: 0.93
+  - name: adaptacao_mudancas_aceleradas
+    weight: 9
+    confidence: 0.96
+  - name: livros_sobre_futuro_tecnologia
+    weight: 10
+    confidence: 0.99
+  - name: mit_media_lab_principios
+    weight: 7
+    confidence: 0.88
+  - name: reflexoes_sobre_futuro_digital
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '004'
+  cdu_secondary:
+  - '305.8'
+  - '316.77'
+  cdu_description: 004 - Ciência da computação. Sistemas. Processamento de dados. Tecnologia da informação. Computadores. Processamento eletrônico de dados. Tecnologia da informação. 305.8 - Grupos étnicos. Minorias. Relações étnicas. 316.77 - Influência dos meios de comunicação de massa na sociedade. Mudança social. Tendências sociais.
+---
 Lendo o Amanhã | finito
 
 # Lendo o Amanhã

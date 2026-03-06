@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:19.457506+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pregacao_fiel_a_textos_biblicos
+    weight: 10
+    confidence: 0.98
+  - name: autoridade_da_palavra_de_deus_na_pregacao
+    weight: 9
+    confidence: 0.97
+  - name: interpretacao_biblica_na_pregacao
+    weight: 8
+    confidence: 0.96
+  - name: relevancia_da_pregacao_para_a_vida
+    weight: 7
+    confidence: 0.95
+  - name: desonrar_a_biblia_na_pregacao
+    weight: 8
+    confidence: 0.94
+  - name: pregacao_expositiva
+    weight: 9
+    confidence: 0.93
+  - name: perigos_da_pregacao_desconectada_do_texto
+    weight: 7
+    confidence: 0.92
+  - name: fraquezas_do_pregador_na_exposicao_biblica
+    weight: 6
+    confidence: 0.91
+  - name: autoridade_do_pastor_derivada_da_palavra
+    weight: 8
+    confidence: 0.9
+  - name: compreensao_do_misterio_de_cristo_na_pregacao
+    weight: 7
+    confidence: 0.89
+  cdu_primary: 27-28
+  cdu_secondary:
+  - '230'
+  - '264'
+  cdu_description: Teologia Cristã. Doutrinas. Pregação. Homilética. História do Cristianismo. Reforma Protestante.
+---
 [[Pregação]]
 
 Six Common Ways Preachers Dishonor God’s Word

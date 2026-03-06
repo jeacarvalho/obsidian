@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:30.595810+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: superacao_obstaculos_motivacionais
+    weight: 10
+    confidence: 0.98
+  - name: metodo_woop_motivacao
+    weight: 9
+    confidence: 0.97
+  - name: psicologia_motivacional
+    weight: 8
+    confidence: 0.95
+  - name: tecnicas_anti_tedio
+    weight: 7
+    confidence: 0.92
+  - name: pandemia_impacto_motivacao
+    weight: 8
+    confidence: 0.96
+  - name: definicao_objetivos_pessoais
+    weight: 7
+    confidence: 0.93
+  - name: planejamento_acao_motivacional
+    weight: 9
+    confidence: 0.94
+  - name: resiliencia_psicologica
+    weight: 6
+    confidence: 0.9
+  - name: exercicio_fisico_pandemia
+    weight: 6
+    confidence: 0.88
+  - name: gerenciamento_emocoes_obstaculos
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '159.943'
+  - '316.6'
+  cdu_description: Psicologia da motivação e da emoção; Psicologia social
+---
 #### Concentre-se nos obstáculos
 
 Gabriele Oettingen, professora de psicologia da Universidade de Nova York, nos EUA, diz que há maneiras de combater o tédio escolhendo algo que você deseja alcançar e identificando o obstáculo que está no seu caminho.

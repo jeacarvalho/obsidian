@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T23:02:06.870784+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceito_moderno_controladoria
+    weight: 9
+    confidence: 0.98
+  - name: origem_historica_controladoria_eua
+    weight: 7
+    confidence: 0.95
+  - name: origem_historica_controller_inglaterra
+    weight: 6
+    confidence: 0.92
+  - name: funcoes_controller_visao_ampla
+    weight: 8
+    confidence: 0.96
+  - name: funcoes_controller_subordinacao_presidencia
+    weight: 5
+    confidence: 0.9
+  - name: funcoes_controller_informacoes_quantitativas
+    weight: 5
+    confidence: 0.91
+  - name: controle_gerencial_eficiencia_eficacia
+    weight: 10
+    confidence: 0.99
+  - name: finalidade_controladoria_suporte_decisorio
+    weight: 10
+    confidence: 0.99
+  - name: funcoes_principais_controladoria_planejamento_controle_reporte_contabilidade
+    weight: 9
+    confidence: 0.97
+  - name: atuacao_controladoria_relatorios_custos_planejamento_orcamentario_sistemas_informacao_esg
+    weight: 8
+    confidence: 0.96
+  cdu_primary: '658.15'
+  cdu_secondary:
+  - '657.4'
+  - '005.31'
+  cdu_description: Gestão financeira e contabilidade de gestão. Controladoria, planejamento e controle gerencial.
+---
 [[Contabilidade]]
 # REFERÊNCIAS 
 ## BÁSICA 

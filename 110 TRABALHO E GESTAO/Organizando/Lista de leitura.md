@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:48.348033+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ordem_pessoal_e_critica_social
+    weight: 8
+    confidence: 0.9
+  - name: busca_significado_vs_conveniencia
+    weight: 7
+    confidence: 0.85
+  - name: importancia_da_verdade_na_comunicacao
+    weight: 9
+    confidence: 0.92
+  - name: presuncao_de_conhecimento_alheio
+    weight: 6
+    confidence: 0.75
+  - name: precisao_na_linguagem
+    weight: 7
+    confidence: 0.8
+  - name: valor_da_paixao_no_trabalho
+    weight: 10
+    confidence: 0.95
+  - name: desempenho_superior_e_talento
+    weight: 9
+    confidence: 0.93
+  - name: pratica_deliberada_para_alto_desempenho
+    weight: 10
+    confidence: 0.96
+  - name: aplicacao_de_principios_no_trabalho
+    weight: 8
+    confidence: 0.88
+  - name: inovacao_e_criatividade_alem_dos_mitos
+    weight: 7
+    confidence: 0.82
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - 159.947.5
+  - '005.32'
+  - '316.6'
+  cdu_description: Psicologia do desempenho e da motivação; prática deliberada; desenvolvimento pessoal; ética na comunicação; organização pessoal.
+---
 ## Checklist
 
 ## Paixão pela [[verdade]] [[paixão pelo que se faz]]

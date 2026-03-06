@@ -3,6 +3,46 @@ created: 2021-06-10T18:09:29 (UTC -03:00)
 tags: []
 source: https://www.vidalowcarb.com.br/pizzalowcarb/
 author: Mariana Montezzana
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:51.190633+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: receita_pizza_low_carb_frango
+    weight: 10
+    confidence: 0.98
+  - name: massa_pizza_proteica
+    weight: 9
+    confidence: 0.97
+  - name: ingredientes_pizza_low_carb
+    weight: 8
+    confidence: 0.96
+  - name: preparo_pizza_low_carb
+    weight: 8
+    confidence: 0.95
+  - name: recheios_pizza_low_carb
+    weight: 7
+    confidence: 0.94
+  - name: farinha_oleaginosas_pizza
+    weight: 6
+    confidence: 0.93
+  - name: substituicoes_farinha_pizza
+    weight: 6
+    confidence: 0.92
+  - name: estilo_vida_low_carb
+    weight: 7
+    confidence: 0.91
+  - name: receitas_com_frango_desfiado
+    weight: 7
+    confidence: 0.9
+  - name: alimentacao_saudavel_familia
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '641.5'
+  cdu_secondary:
+  - '613.2'
+  - '664.7'
+  cdu_description: Culinária. Preparo de alimentos. Dietas. Alimentos com baixo teor de carboidratos. Alimentos à base de frango.
 ---
 
 # Pizza Low Carb: A melhor massa de pizza do mundo! - Vida Low Carb

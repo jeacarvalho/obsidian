@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:34.367094+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: religiao_crista_espiritualidade_secularidade
+    weight: 8
+    confidence: 0.9
+  - name: conceito_legalismo_cristao
+    weight: 7
+    confidence: 0.85
+  - name: voluntariedade_trabalho_cristao
+    weight: 6
+    confidence: 0.8
+  - name: motivacoes_obra_de_deus
+    weight: 9
+    confidence: 0.95
+  - name: prioridades_vida_crista
+    weight: 10
+    confidence: 1.0
+  - name: gestao_tempo_cristao
+    weight: 7
+    confidence: 0.88
+  - name: viver_prioridades_deus
+    weight: 8
+    confidence: 0.92
+  - name: perfeccionismo_cristao
+    weight: 6
+    confidence: 0.75
+  - name: luta_carne_espirito
+    weight: 7
+    confidence: 0.82
+  - name: ansiedade_controle_deus
+    weight: 9
+    confidence: 0.93
+  cdu_primary: '2'
+  cdu_secondary:
+  - '27'
+  - '24'
+  - '23'
+  cdu_description: Religião. Teologia. Cristianismo. Vida e prática cristã. Doutrina cristã.
+---
 Fwd: Ajuda - urgente
 
 Tempo curto é o meu nome. Trabalho com TI. :-)

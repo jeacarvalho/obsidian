@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:14.132855+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: organizacao_de_notas
+    weight: 8
+    confidence: 0.9
+  - name: gerenciamento_de_informacao
+    weight: 7
+    confidence: 0.85
+  - name: captura_de_dados
+    weight: 6
+    confidence: 0.8
+  - name: arquivamento_digital
+    weight: 7
+    confidence: 0.82
+  - name: fotografia_digital
+    weight: 5
+    confidence: 0.75
+  - name: armazenamento_de_imagens
+    weight: 5
+    confidence: 0.7
+  - name: indexacao_de_conteudo
+    weight: 8
+    confidence: 0.88
+  - name: ferramentas_de_produtividade
+    weight: 6
+    confidence: 0.78
+  - name: registro_visual
+    weight: 5
+    confidence: 0.72
+  - name: organizacao_pessoal
+    weight: 9
+    confidence: 0.92
+  cdu_primary: '004.9'
+  cdu_secondary:
+  - '004.7'
+  - '003.3'
+  cdu_description: 004.9 - Representação e apresentação de dados; 004.7 - Gestão de dados; 003.3 - Sistemas de representação gráfica
+---
 [[Índice fotos notas evernote]]
 
 Fotos

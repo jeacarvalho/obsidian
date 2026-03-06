@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:43.559333+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: prioridade_governo_chines_no_povo
+    weight: 10
+    confidence: 0.98
+  - name: estrategias_estatais_de_controle_de_precos
+    weight: 9
+    confidence: 0.95
+  - name: enriquecimento_do_povo_como_objetivo_de_governo
+    weight: 8
+    confidence: 0.92
+  - name: intervencao_estatal_na_economia_chinesa
+    weight: 8
+    confidence: 0.9
+  - name: gestao_de_precos_e_abastecimento_de_alimentos_na_china
+    weight: 7
+    confidence: 0.88
+  - name: politicas_de_apoio_a_pequenos_produtores_rurais
+    weight: 7
+    confidence: 0.85
+  - name: combate_a_fome_e_desigualdade_na_china
+    weight: 6
+    confidence: 0.82
+  - name: influencia_de_latifundiarios_e_agiotas_na_economia
+    weight: 6
+    confidence: 0.8
+  - name: evolucao_da_administracao_publica_chinesa
+    weight: 5
+    confidence: 0.78
+  - name: relacao_entre_poder_politico_e_mercado_na_china
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '330.1'
+  cdu_secondary:
+  - '321.1'
+  - '338.5'
+  - '305.8'
+  cdu_description: Economia e sociedade na China, com foco em políticas de bem-estar social, intervenção estatal e gestão de preços.
+---
 #### Prioridade na china parece ser o povo e o pobre
 Amarelo destaque | Local: 887 Nota | Local: 887
 

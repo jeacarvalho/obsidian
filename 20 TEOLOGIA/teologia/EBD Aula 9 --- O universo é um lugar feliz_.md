@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:00.778866+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: busca_felicidade_realizacao_individualista
+    weight: 9
+    confidence: 0.98
+  - name: realizacao_mundo_antigo_comunidade
+    weight: 8
+    confidence: 0.97
+  - name: pecado_original_adao_evae_autonomia
+    weight: 10
+    confidence: 0.99
+  - name: torre_babel_busca_autoafirmacao
+    weight: 9
+    confidence: 0.98
+  - name: chamado_abraao_submissao_obediencia_deus
+    weight: 8
+    confidence: 0.97
+  - name: fe_crista_iniciativa_deus_salvacao
+    weight: 10
+    confidence: 0.99
+  - name: identidade_humana_em_deus_jesus_cristo
+    weight: 9
+    confidence: 0.98
+  - name: renuncia_tentativas_autodeterminacao_destino
+    weight: 7
+    confidence: 0.96
+  - name: personalidade_divina_base_existencia_humana
+    weight: 8
+    confidence: 0.97
+  - name: trindade_deus_pessoal_felicidade
+    weight: 7
+    confidence: 0.95
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '220.1'
+  - '231.7'
+  - '232.9'
+  - '233.5'
+  cdu_description: Teologia cristã. Doutrinas gerais. Teologia sistemática. Doutrina de Deus. Teologia bíblica. Antigo Testamento. Novo Testamento. Jesus Cristo. Antropologia teológica.
+---
 EBD Aula 9 --- O universo é um lugar feliz?
 
 Busca pela felicidade nos dias de hoje: expectativa de “realização” que não era encontrada no mundo antigo da Bíblia ou nas sociedades pré-técnicas de modo geral.

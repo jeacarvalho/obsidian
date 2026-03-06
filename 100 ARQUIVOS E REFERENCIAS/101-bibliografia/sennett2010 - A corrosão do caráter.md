@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:55.164698+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: corrosao_do_carater_no_novo_capitalismo
+    weight: 10
+    confidence: 0.98
+  - name: consequencias_pessoais_do_trabalho
+    weight: 9
+    confidence: 0.95
+  - name: perda_de_valores_no_trabalho
+    weight: 8
+    confidence: 0.92
+  - name: substituicao_de_empregos_por_projetos
+    weight: 7
+    confidence: 0.9
+  - name: trabalho_temporario_e_crescimento
+    weight: 7
+    confidence: 0.88
+  - name: ansiedade_da_vulnerabilidade_no_trabalho
+    weight: 6
+    confidence: 0.85
+  - name: futuro_do_trabalho
+    weight: 6
+    confidence: 0.83
+  - name: expectativas_do_mercado_por_retorno_rapido
+    weight: 5
+    confidence: 0.8
+  - name: distanciamento_e_cooperatividade_superficial
+    weight: 5
+    confidence: 0.78
+  - name: confianca_em_relacionamentos_estaveis
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '331.5'
+  cdu_secondary:
+  - '316.4'
+  - '305.4'
+  cdu_description: Trabalho e emprego. Condições de trabalho. Mudanças nas relações de trabalho. Sociologia do trabalho. Impacto social do capitalismo.
+---
 Sennett, Richard. A corrosão do caráter: consequências pessoais do trabalho no novo capitalismo. Rio de Janeiro; São Paulo: Record, 2010.
 ----------
 

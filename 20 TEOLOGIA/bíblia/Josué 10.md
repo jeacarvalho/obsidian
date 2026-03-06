@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:49.799484+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ajuda_militar_a_gibeao
+    weight: 9
+    confidence: 0.95
+  - name: alianca_entre_joshua_e_gibeao
+    weight: 7
+    confidence: 0.85
+  - name: intervencao_divina_na_batalha
+    weight: 10
+    confidence: 0.98
+  - name: oracao_de_joshua_a_deus
+    weight: 8
+    confidence: 0.9
+  - name: milagre_do_sol_parado
+    weight: 9
+    confidence: 0.96
+  - name: vitoria_sobre_reis_amorreus
+    weight: 8
+    confidence: 0.92
+  - name: disciplina_militar_e_coragem
+    weight: 7
+    confidence: 0.88
+  - name: justica_divina_contra_inimigos
+    weight: 8
+    confidence: 0.91
+  - name: contexto_cultural_da_epoca
+    weight: 6
+    confidence: 0.75
+  - name: luta_espiritual_contra_maldade
+    weight: 7
+    confidence: 0.8
+  cdu_primary: '222.1'
+  cdu_secondary:
+  - '305.8'
+  - '394.4'
+  cdu_description: 222.1 - Livro de Josué; 305.8 - História militar; 394.4 - Costumes e práticas militares
+---
 Josué 10:6 (RA Strong's)
 Josué socorre a Gibeão
 

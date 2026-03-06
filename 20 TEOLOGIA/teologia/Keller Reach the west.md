@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:01.873862+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: influencia_cultural_crista
+    weight: 8
+    confidence: 0.9
+  - name: compromisso_missionario
+    weight: 9
+    confidence: 0.95
+  - name: cultura_ocidental
+    weight: 7
+    confidence: 0.85
+  - name: fe_crista
+    weight: 8
+    confidence: 0.92
+  - name: projeto_secular
+    weight: 7
+    confidence: 0.88
+  - name: valores_morais_religiosos
+    weight: 6
+    confidence: 0.8
+  - name: associacao_igreja_poder_politico
+    weight: 5
+    confidence: 0.75
+  - name: vida_missionaria
+    weight: 9
+    confidence: 0.93
+  - name: relacionamentos_cotidianos
+    weight: 6
+    confidence: 0.78
+  - name: proclamacao_fe
+    weight: 7
+    confidence: 0.87
+  cdu_primary: 27-28
+  cdu_secondary:
+  - '266'
+  - '273.2'
+  - 316.334.3
+  cdu_description: Missões cristãs no ocidente secularizado, com ênfase na vida missionária e na proclamação da fé em contraste com o projeto secular e a perda de valores morais e religiosos compartilhados.
+---
 Keller Reach the west?
 
 [[missões]]

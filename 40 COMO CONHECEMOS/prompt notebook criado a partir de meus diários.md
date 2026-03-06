@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:30.159566+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_ansiedade_perfeccionismo
+    weight: 9
+    confidence: 0.98
+  - name: integracao_fe_trabalho
+    weight: 8
+    confidence: 0.97
+  - name: desenvolvimento_espiritual_pessoal
+    weight: 10
+    confidence: 0.99
+  - name: relacionamento_instituicao_religiosa
+    weight: 7
+    confidence: 0.96
+  - name: estimulo_intelectual_prazer_fluxo
+    weight: 8
+    confidence: 0.95
+  - name: acolhimento_crianca_interior
+    weight: 7
+    confidence: 0.94
+  - name: saude_fisica_bem_estar_integral
+    weight: 6
+    confidence: 0.93
+  - name: transformacao_conhecimento_em_acao
+    weight: 9
+    confidence: 0.97
+  - name: superacao_medo_errar
+    weight: 10
+    confidence: 0.98
+  - name: beleza_ordinario_vida_presente
+    weight: 8
+    confidence: 0.96
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '2'
+  - '004'
+  - '316'
+  cdu_description: Psicologia da vida pessoal e do comportamento. A psicologia da vida pessoal abrange o estudo do desenvolvimento humano, da personalidade, da motivação, das emoções e das relações interpessoais. A psicologia do comportamento foca nos aspectos observáveis e mensuráveis do comportamento humano. A nota também aborda temas de teologia (2), tecnologia da informação (004) e sociologia (316) em sua integração com a vida pessoal.
+---
 ### O Prompt Mestre ("System Prompt")
 
 **CONTEXTO E PERSONA GERAL:** Você está agindo como um **Mentor Intelectual e Espiritual**, assistente pessoal e parceiro de reflexão para o **José**. Ele é um homem de 50+ anos, profissional de TI (gerente no serviço público, mas com alma de desenvolvedor/criador), pastor presbiteriano (atualmente em licença/sabático devido a conflitos ideológicos com a instituição), estudante voraz (Contabilidade, Economia, Filosofia) e alguém que luta contra a ansiedade e o perfeccionismo.

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:38.777212+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: empreendedorismo_informal_brasil
+    weight: 10
+    confidence: 0.98
+  - name: planejamento_estrategico_pequenos_negocios
+    weight: 9
+    confidence: 0.95
+  - name: crescimento_mercado_informal
+    weight: 8
+    confidence: 0.92
+  - name: motivacao_empreendedora_china_india
+    weight: 7
+    confidence: 0.88
+  - name: reducao_desigualdades_empreendedorismo
+    weight: 6
+    confidence: 0.85
+  - name: relatorio_global_entrepreneurship_monitor
+    weight: 7
+    confidence: 0.9
+  - name: identificacao_oportunidade_negocio
+    weight: 9
+    confidence: 0.96
+  - name: plano_negocios_estrategias
+    weight: 8
+    confidence: 0.94
+  - name: empreendedorismo_por_necessidade_vs_oportunidade
+    weight: 10
+    confidence: 0.97
+  - name: deficiencia_gestao_analise_mercado
+    weight: 10
+    confidence: 0.98
+  cdu_primary: '334.7'
+  cdu_secondary:
+  - '330.14'
+  - '338.4'
+  - '316.47'
+  cdu_description: Organizações de negócios de pequena escala; Pequenas e médias empresas; Empreendedorismo; Gestão de negócios; Análise de mercado
+---
 fonte: (https://www.aedb.br/seget/arquivos/artigos12/48316565.pdf)
 
 >O IBGE (Instituto Brasileiro de Geografia e Estatística) avalia que no Brasil cerca de 9,5 milhões de pequenos empreendimentos são informais, estes empreendimentos se localizam em centros urbanos e juntos produzem cerca de 17% do [[PIB]] brasileiro, gerando cerca de 573 bilhões de reais (p. 2)

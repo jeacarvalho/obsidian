@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:40.051876+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: objetivos_analise_contabil
+    weight: 9
+    confidence: 0.98
+  - name: informacoes_contabeis
+    weight: 8
+    confidence: 0.97
+  - name: caracteristicas_qualitativas_informacao
+    weight: 10
+    confidence: 0.99
+  - name: compreensibilidade_informacao
+    weight: 7
+    confidence: 0.95
+  - name: relevancia_informacao
+    weight: 8
+    confidence: 0.96
+  - name: confiabilidade_informacao
+    weight: 9
+    confidence: 0.97
+  - name: comparabilidade_informacao
+    weight: 7
+    confidence: 0.94
+  - name: limitacoes_informacao_contabil
+    weight: 6
+    confidence: 0.92
+  - name: tecnicas_contabilidade
+    weight: 8
+    confidence: 0.96
+  - name: analise_demonstracoes_contabeis
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '657.3'
+  cdu_secondary: []
+  cdu_description: Análise de demonstrações financeiras
+---
 https://ead.uva.br/disciplinas/grad/publica/cont/abc/adc/re/u1/aula-1.htm
 
 #  Análise das Demonstrações Contábeis

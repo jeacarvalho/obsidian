@@ -1,8 +1,52 @@
 ---
 created: 2021-11-22T09:53:34 (UTC -03:00)
-tags: [artists,creators,patron,sponsor,music,videos]
+tags:
+- artists
+- creators
+- patron
+- sponsor
+- music
+- videos
 source: https://www.patreon.com/posts/my-novel-writing-58996858
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:46.910700+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: processo_escrita_romance
+    weight: 10
+    confidence: 0.98
+  - name: planejamento_escrita_literaria
+    weight: 9
+    confidence: 0.95
+  - name: rascunho_primeira_versao
+    weight: 8
+    confidence: 0.92
+  - name: revisao_literaria
+    weight: 8
+    confidence: 0.9
+  - name: edicao_texto_literario
+    weight: 7
+    confidence: 0.88
+  - name: publicacao_manuscrito
+    weight: 7
+    confidence: 0.85
+  - name: promocao_livro
+    weight: 6
+    confidence: 0.8
+  - name: estrutura_narrativa
+    weight: 6
+    confidence: 0.75
+  - name: desenvolvimento_personagem
+    weight: 5
+    confidence: 0.7
+  - name: feedback_escrita
+    weight: 5
+    confidence: 0.65
+  cdu_primary: '82.02'
+  cdu_secondary: []
+  cdu_description: Processos e técnicas de escrita literária, incluindo planejamento, rascunho, revisão, edição e publicação de romances.
 ---
 
 [[Sobre escrever]]

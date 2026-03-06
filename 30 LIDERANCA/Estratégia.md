@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:04.166247+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: arte_de_agir_sob_pressao
+    weight: 8
+    confidence: 0.9
+  - name: aplicacao_conhecimento_vida_pratica
+    weight: 7
+    confidence: 0.85
+  - name: desenvolvimento_ideia_orientadora_original
+    weight: 7
+    confidence: 0.8
+  - name: pensar_fazer_aprender_adaptar
+    weight: 9
+    confidence: 0.95
+  - name: simplificacao_complexidade_execucao
+    weight: 6
+    confidence: 0.75
+  - name: dominio_habilidade_pratica_por_meio_pratica
+    weight: 8
+    confidence: 0.88
+  - name: fazer_coisa_certa_tomada_decisao
+    weight: 9
+    confidence: 0.92
+  - name: estrategia_framework_tomada_decisao
+    weight: 10
+    confidence: 0.98
+  - name: coerencia_estrategica_capacidade_oportunidades_objetivos
+    weight: 9
+    confidence: 0.93
+  - name: influencia_estrutura_organizacional_execucao_estrategia
+    weight: 10
+    confidence: 0.97
+  cdu_primary: '658.012'
+  cdu_secondary:
+  - '005.32'
+  - '165.7'
+  cdu_description: Gestão e organização de empresas. Teoria e prática da gestão. Planejamento estratégico. Tomada de decisão. Filosofia da ação. Teoria do conhecimento.
+---
 ##### Segundo [[bungay2011-The art of action]]
 
 - é mais do que [[ciência]], é 

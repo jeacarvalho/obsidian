@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:54.976041+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: engenharia_reversa_criativa
+    weight: 10
+    confidence: 0.95
+  - name: desenvolvimento_talento_inato
+    weight: 8
+    confidence: 0.8
+  - name: importancia_pratica_deliberada
+    weight: 9
+    confidence: 0.85
+  - name: criatividade_atraves_copia
+    weight: 9
+    confidence: 0.9
+  - name: reconhecimento_padroes_mercado
+    weight: 7
+    confidence: 0.75
+  - name: estruturas_narrativas_emocionais
+    weight: 6
+    confidence: 0.7
+  - name: analise_obras_admiradas
+    weight: 8
+    confidence: 0.8
+  - name: aplicacao_insights_trabalho_proprio
+    weight: 7
+    confidence: 0.7
+  - name: exercicios_copia_criativa
+    weight: 8
+    confidence: 0.85
+  - name: superacao_plagio_inspiracao
+    weight: 6
+    confidence: 0.65
+  cdu_primary: '159.954'
+  cdu_secondary:
+  - 004.056.1
+  - '7.01'
+  cdu_description: Psicologia da criatividade e da inovação; Engenharia reversa em obras criativas; Teoria da arte e estética.
+---
 # Autores e obras relacionadas
 
 | Autor             | Obra                                                              | Capítulo | Apoio?                                           |

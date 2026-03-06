@@ -1,8 +1,49 @@
 ---
 created: 2021-02-19T14:39:37 (UTC -03:00)
-tags: [viagem]
+tags:
+- viagem
 source: https://oglobo.globo.com/boa-viagem/na-serra-da-mantiqueira-fazendas-de-cafe-artesanal-abrem-suas-portas-com-degustacao-24887367
 author: Carolina Mazzi
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:31.578729+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: turismo_cafe_artesanal_serra_da_mantiqueira
+    weight: 9
+    confidence: 0.98
+  - name: producao_cafe_artesanal
+    weight: 8
+    confidence: 0.95
+  - name: degustacao_cafe
+    weight: 7
+    confidence: 0.92
+  - name: harmonizacao_cafe
+    weight: 6
+    confidence: 0.88
+  - name: plantacoes_cafe
+    weight: 7
+    confidence: 0.9
+  - name: turismo_rural
+    weight: 8
+    confidence: 0.93
+  - name: geografia_serra_da_mantiqueira
+    weight: 7
+    confidence: 0.85
+  - name: historia_economica_cafe
+    weight: 6
+    confidence: 0.8
+  - name: cultura_cafe
+    weight: 5
+    confidence: 0.75
+  - name: paisagens_naturais_serra_da_mantiqueira
+    weight: 6
+    confidence: 0.82
+  cdu_primary: '641.3'
+  cdu_secondary:
+  - '338.48'
+  - '913.81'
+  cdu_description: 641.3 - Café. 338.48 - Turismo. 913.81 - Geografia da América do Sul. Brasil. Regiões específicas. Serra da Mantiqueira.
 ---
 
 # Na Serra da Mantiqueira, fazendas de café artesanal abrem suas portas com degustação - Jornal O Globo

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:10.974213+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fotografia_urbana
+    weight: 9
+    confidence: 0.9
+  - name: arquitetura_residencial
+    weight: 8
+    confidence: 0.85
+  - name: paisagismo_urbano
+    weight: 7
+    confidence: 0.75
+  - name: historia_local
+    weight: 6
+    confidence: 0.7
+  - name: patrimonio_arquitetonico
+    weight: 8
+    confidence: 0.8
+  - name: documentacao_fotografica
+    weight: 9
+    confidence: 0.95
+  - name: cultura_regional
+    weight: 7
+    confidence: 0.72
+  - name: urbanismo
+    weight: 6
+    confidence: 0.65
+  - name: vida_cotidiana
+    weight: 5
+    confidence: 0.6
+  - name: conservacao_urbana
+    weight: 7
+    confidence: 0.78
+  cdu_primary: '778.8'
+  cdu_secondary:
+  - '728.3'
+  - '908'
+  cdu_description: Fotografia de paisagens urbanas e arquitetura residencial, com foco em São Lourenço e a casa Mamo, documentando o patrimônio e a história local.
+---
 fotos São Lourenço e casa mamo
 
 ![Foto.jpeg](95ced5eb94988e9d262513b3e46fad89.jpg)

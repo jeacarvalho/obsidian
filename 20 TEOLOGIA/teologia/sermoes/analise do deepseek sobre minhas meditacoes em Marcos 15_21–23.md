@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:04.261018+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_meditante
+    weight: 8
+    confidence: 0.9
+  - name: curiosidade_historica_literaria_simao_cirene
+    weight: 7
+    confidence: 0.85
+  - name: autorreflexao_critica_espiritualidade
+    weight: 8
+    confidence: 0.88
+  - name: luta_identidade_espiritual_cristo
+    weight: 7
+    confidence: 0.82
+  - name: sentimento_insignificancia_vida_efemera
+    weight: 6
+    confidence: 0.75
+  - name: providencia_divina_chamado_involuntario
+    weight: 9
+    confidence: 0.92
+  - name: teologia_reformada_expiacao_consciente
+    weight: 9
+    confidence: 0.93
+  - name: exegese_marcos_15_21_23
+    weight: 8
+    confidence: 0.89
+  - name: contexto_historico_cultural_religioso
+    weight: 7
+    confidence: 0.8
+  - name: proposta_sermao_cruz_personagens
+    weight: 7
+    confidence: 0.85
+  cdu_primary: 27-23
+  cdu_secondary:
+  - '232.9'
+  - '226.7'
+  cdu_description: 27-23 Teologia cristã. 232.9 Vida e ensinamentos de Jesus Cristo. 226.7 Evangelho de Marcos.
+---
 #### analise do deepseek sobre minhas meditacoes em [[Marcos 15]]_21–23
 **Resposta conforme Instruções:**
 

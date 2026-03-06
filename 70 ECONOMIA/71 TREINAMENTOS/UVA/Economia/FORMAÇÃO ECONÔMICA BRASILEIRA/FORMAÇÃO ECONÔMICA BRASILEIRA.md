@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:43.996976+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: formacao_economica_brasil
+    weight: 10
+    confidence: 0.98
+  - name: historia_economia_brasil
+    weight: 9
+    confidence: 0.97
+  - name: transformacoes_economicas_brasil
+    weight: 9
+    confidence: 0.96
+  - name: era_colonial_economia
+    weight: 8
+    confidence: 0.95
+  - name: industrializacao_brasil
+    weight: 8
+    confidence: 0.94
+  - name: economia_seculo_xix
+    weight: 7
+    confidence: 0.93
+  - name: economia_pos_1945
+    weight: 7
+    confidence: 0.92
+  - name: fatores_transformacao_economica
+    weight: 6
+    confidence: 0.91
+  - name: impacto_transformacao_economica
+    weight: 6
+    confidence: 0.9
+  - name: consequencias_economia_atual
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '338.1'
+  - '330.1'
+  cdu_description: Economia. Economia aplicada. Economia nacional. Economia brasileira.
+---
 # Referências
 - REGO, José M. Formação econômica do Brasil - 1ª edição. Rio de Janeiro: Saraiva, 2011. E-book. p.7. ISBN 9788502122260. Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9788502122260/. Acesso em: 09 out. 2024. [[texto livro formacao economica]]
 - LACERDA, Antônio Corrêa de. Economia brasileira. 6th ed. Rio de Janeiro: Saraiva Uni, 2018. E-book. p.I. ISBN 9788547231798. Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9788547231798/. Acesso em: 09 out. 2024.

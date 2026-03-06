@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:31.859784+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: perdao_divino_em_jesus
+    weight: 10
+    confidence: 0.98
+  - name: confissao_de_pecados
+    weight: 9
+    confidence: 0.95
+  - name: iniquidade_e_transgressao
+    weight: 8
+    confidence: 0.92
+  - name: salmos_32_interpretacao
+    weight: 7
+    confidence: 0.9
+  - name: contexto_historico_biblico
+    weight: 6
+    confidence: 0.85
+  - name: fe_crista_e_emocoes
+    weight: 7
+    confidence: 0.88
+  - name: esperanca_em_tempos_de_pandemia
+    weight: 6
+    confidence: 0.82
+  - name: orientacao_divina_e_conselho
+    weight: 8
+    confidence: 0.91
+  - name: conhecimento_de_deus
+    weight: 7
+    confidence: 0.87
+  - name: seguranca_na_adversidade
+    weight: 9
+    confidence: 0.93
+  cdu_primary: '234.2'
+  cdu_secondary:
+  - '223.2'
+  - '248.3'
+  cdu_description: Teologia cristã - Salvação - Perdão e redenção. Bíblia - Antigo Testamento - Salmos. Vida cristã - Oração e devoção.
+---
 Bem-aventurado aquele cuja transgressão é perdoada, cujo pecado é coberto. Bem-aventurado é aquele a quem o Senhor não atribui iniquidade e em cujo espírito não há engano. Salmos 32:1‭-‬2 NAA  
 - todos pecamos, fato.  
 - mas parece que Davi entendia que o Senhor via alguns corações de maneira diferente  

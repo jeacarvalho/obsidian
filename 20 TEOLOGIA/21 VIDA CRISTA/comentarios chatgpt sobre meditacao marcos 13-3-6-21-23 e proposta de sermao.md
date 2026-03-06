@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:11.764038+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desejo_humano_por_completude_e_eternidade
+    weight: 9
+    confidence: 0.98
+  - name: teologia_reformada_e_anseio_eterno
+    weight: 8
+    confidence: 0.95
+  - name: fe_na_ciencia_vs_revelacao_divina
+    weight: 7
+    confidence: 0.92
+  - name: soberania_deus_interpretacao_cientifica
+    weight: 7
+    confidence: 0.9
+  - name: crises_e_busca_por_messias_politicos
+    weight: 8
+    confidence: 0.96
+  - name: falsos_profetas_e_autoridade_religiosa
+    weight: 7
+    confidence: 0.93
+  - name: desanimo_e_soberania_divina
+    weight: 6
+    confidence: 0.88
+  - name: visao_secular_humanista_ansiedade_morte
+    weight: 7
+    confidence: 0.91
+  - name: critica_teologica_politica_reino_de_deus
+    weight: 8
+    confidence: 0.94
+  - name: discernimento_sinais_fim_tempos
+    weight: 9
+    confidence: 0.97
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '232.9'
+  - '261.7'
+  - '201.6'
+  cdu_description: Teologia Cristã Geral; Cristologia; Teologia Política; Relação entre Religião e Ciência
+---
 A partir das suas anotações sobre[[ Marcos 13]]:3-6 e 21-23, aqui está uma análise detalhada considerando as três solicitações: a) análise com base em teólogos reformados, b) contra-argumentação com outras visões, e c) um sermão de três pontos.
 
 ### a) Análise Teológica à Luz dos Reformados

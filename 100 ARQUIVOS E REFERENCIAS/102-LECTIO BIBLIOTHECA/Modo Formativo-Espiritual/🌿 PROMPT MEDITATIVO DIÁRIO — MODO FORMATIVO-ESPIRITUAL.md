@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:03.087675+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: meditacao_espiritual_cotidiana
+    weight: 8
+    confidence: 0.9
+  - name: formacao_espiritual_profunda
+    weight: 9
+    confidence: 0.95
+  - name: espiritualidade_deslocamento_vs_fortaleza
+    weight: 10
+    confidence: 1.0
+  - name: leitura_lenta_reflexiva
+    weight: 7
+    confidence: 0.85
+  - name: discernimento_espiritual_genuino
+    weight: 9
+    confidence: 0.92
+  - name: interioridade_existencial
+    weight: 8
+    confidence: 0.88
+  - name: dialogo_com_autores_espirituais
+    weight: 7
+    confidence: 0.8
+  - name: questionamento_individualismo_espiritual
+    weight: 8
+    confidence: 0.87
+  - name: resistencia_espiritualidade_performatica
+    weight: 9
+    confidence: 0.93
+  - name: pratica_espiritual_minima_concreta
+    weight: 7
+    confidence: 0.82
+  cdu_primary: '203.3'
+  cdu_secondary:
+  - '203.9'
+  - 27-07
+  cdu_description: Práticas espirituais e religiosas; Meditação e vida interior; Espiritualidade cristã e vida monástica
+---
 #### 🌿 PROMPT MEDITATIVO DIÁRIO — MODO FORMATIVO-ESPIRITUAL
 *(Compacto para NotebookLM — 480 palavras)*
 

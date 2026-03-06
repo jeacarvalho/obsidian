@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:52.271928+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: trajetoria_profissional_ascendente
+    weight: 10
+    confidence: 0.98
+  - name: empreendedorismo_e_superacao
+    weight: 9
+    confidence: 0.97
+  - name: importancia_da_educacao_tecnica
+    weight: 8
+    confidence: 0.95
+  - name: etica_no_trabalho_e_dedicacao
+    weight: 9
+    confidence: 0.96
+  - name: busca_por_orientacao_e_conselhos
+    weight: 7
+    confidence: 0.93
+  - name: tecnologia_para_impacto_social
+    weight: 8
+    confidence: 0.94
+  - name: oportunidades_e_desenvolvimento_de_talentos
+    weight: 9
+    confidence: 0.97
+  - name: inclusao_social_via_tecnologia
+    weight: 8
+    confidence: 0.95
+  - name: legado_e_motivacao_pessoal
+    weight: 7
+    confidence: 0.92
+  - name: patriotismo_e_desenvolvimento_nacional
+    weight: 8
+    confidence: 0.96
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '004.9'
+  - '37.01'
+  - '305.8'
+  cdu_description: Gestão e administração de empresas; relações de trabalho; desenvolvimento profissional e pessoal; uso da tecnologia para fins sociais e educacionais; inclusão social e desenvolvimento nacional.
+---
 Nota Sem Título
 
 # De catador a presidente de empresa

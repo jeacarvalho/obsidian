@@ -3,6 +3,47 @@ created: 2023-09-08T09:22:01 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
 author: Marc Alan Schelske
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:53.234242+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: formacao_espiritual_pratica
+    weight: 10
+    confidence: 0.98
+  - name: neurociencia_formacao_habitos
+    weight: 9
+    confidence: 0.95
+  - name: journaling_crescimento_pessoal
+    weight: 9
+    confidence: 0.97
+  - name: disciplina_espiritual
+    weight: 8
+    confidence: 0.92
+  - name: maturidade_emocional
+    weight: 7
+    confidence: 0.9
+  - name: flexibilidade_graciosa_espiritualidade
+    weight: 7
+    confidence: 0.88
+  - name: metacognicao_escrita
+    weight: 6
+    confidence: 0.85
+  - name: critica_produtividade_excessiva
+    weight: 6
+    confidence: 0.87
+  - name: discernimento_emocional
+    weight: 7
+    confidence: 0.91
+  - name: formacao_do_coracao
+    weight: 8
+    confidence: 0.93
+  cdu_primary: 27-28
+  cdu_secondary:
+  - '159.947'
+  - '005.35'
+  - '248.4'
+  cdu_description: '27-28: História do Cristianismo; Biografias de cristãos. 159.947: Emoções. 005.35: Formação de hábitos. 248.4: Vida e prática cristãs.'
 ---
 
 #  Journaling for Spiritual Growth: Six Weeks to Build a Habit that Fosters Spiritual and Emotional Maturity (English Edition)

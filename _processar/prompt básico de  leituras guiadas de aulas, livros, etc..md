@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:34.810159+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ia_como_tutor_socratic
+    weight: 8
+    confidence: 0.98
+  - name: metodologia_socratic
+    weight: 7
+    confidence: 0.95
+  - name: metodologia_construtivista
+    weight: 7
+    confidence: 0.95
+  - name: psicologia_social_graduacao
+    weight: 9
+    confidence: 0.99
+  - name: antropologia_bacharelado
+    weight: 6
+    confidence: 0.9
+  - name: aprendizado_unidade_a_unidade
+    weight: 8
+    confidence: 0.97
+  - name: protocolo_estudo_capitulo_a_capitulo
+    weight: 9
+    confidence: 0.98
+  - name: compreensao_profunda_sintese
+    weight: 7
+    confidence: 0.96
+  - name: papel_professor_coach
+    weight: 8
+    confidence: 0.97
+  - name: conexao_ideias_aplicacao_conhecimento
+    weight: 7
+    confidence: 0.95
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '004.9'
+  - '37.0'
+  cdu_description: Psicologia social. Aplicações da psicologia social. Métodos de ensino e aprendizagem. Inteligência artificial aplicada à educação.
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <PromptKit version="1.0" language="pt-BR">
   <Metadata>

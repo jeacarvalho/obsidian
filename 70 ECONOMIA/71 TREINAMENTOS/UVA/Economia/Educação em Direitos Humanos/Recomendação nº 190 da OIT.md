@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.528454+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: piores_formas_trabalho_infantil
+    weight: 10
+    confidence: 1.0
+  - name: proibicao_trabalho_infantil
+    weight: 9
+    confidence: 0.98
+  - name: eliminacao_trabalho_infantil
+    weight: 9
+    confidence: 0.97
+  - name: convencao_trabalho_infantil_1999
+    weight: 8
+    confidence: 0.95
+  - name: recomendacao_trabalho_infantil_1999
+    weight: 8
+    confidence: 0.95
+  - name: programas_acao_trabalho_infantil
+    weight: 7
+    confidence: 0.92
+  - name: trabalho_perigoso_infantil
+    weight: 7
+    confidence: 0.9
+  - name: reabilitacao_criancas_trabalhadoras
+    weight: 6
+    confidence: 0.88
+  - name: protecao_criancas_vulneraveis
+    weight: 6
+    confidence: 0.87
+  - name: legislacao_internacional_trabalho_infantil
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '331.3'
+  cdu_secondary: []
+  cdu_description: Trabalho infantil. Legislação e regulamentação. Organização Internacional do Trabalho.
+---
     **RECOMENDAÇÃO Nº 190**  
 RECOMENDAÇÃO SOBRE A PROIBIÇÃO DAS PIORES FORMAS DE TRABALHO INFANTIL E A AÇÃO IMEDIATA PARA A SUA ELIMINAÇÃO  
 

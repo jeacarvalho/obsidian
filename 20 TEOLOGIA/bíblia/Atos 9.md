@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:49.057215+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conversao_de_saulo
+    weight: 10
+    confidence: 0.98
+  - name: tempo_de_meditacao_e_oracao
+    weight: 8
+    confidence: 0.9
+  - name: chamado_divino_para_missao
+    weight: 9
+    confidence: 0.97
+  - name: instrumento_escolhido_por_deus
+    weight: 7
+    confidence: 0.92
+  - name: sofrimento_pelo_nome_de_jesus
+    weight: 8
+    confidence: 0.95
+  - name: importancia_historica_de_paulo
+    weight: 6
+    confidence: 0.88
+  - name: confianca_entre_discipulos
+    weight: 7
+    confidence: 0.91
+  - name: crescimento_da_igreja
+    weight: 8
+    confidence: 0.96
+  - name: conforto_do_espirito_santo
+    weight: 7
+    confidence: 0.93
+  - name: poder_de_resurreicao_em_cristo
+    weight: 6
+    confidence: 0.85
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '232.9'
+  - '262.1'
+  - '273.2'
+  cdu_description: Atos dos Apóstolos, com foco na conversão de Paulo, seu chamado missionário, o sofrimento inerente, o crescimento da igreja primitiva e o poder do Espírito Santo, incluindo a ressurreição de Tabita.
+---
 Atos 9:9
 9 Esteve três dias sem ver, durante os quais nada comeu, nem bebeu.
 

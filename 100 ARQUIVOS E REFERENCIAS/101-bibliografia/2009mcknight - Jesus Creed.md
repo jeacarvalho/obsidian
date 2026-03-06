@@ -2,7 +2,47 @@
 created: 2023-08-03T21:32:43 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.53.88/db2ef15cf9b7/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:57.703052+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: amor_incondicional_cristao
+    weight: 10
+    confidence: 0.98
+  - name: formacao_espiritual_crista
+    weight: 9
+    confidence: 0.97
+  - name: credo_de_jesus
+    weight: 9
+    confidence: 0.96
+  - name: mandamento_de_amar_a_deus_e_ao_proximo
+    weight: 8
+    confidence: 0.95
+  - name: teologia_do_amor_de_deus
+    weight: 8
+    confidence: 0.94
+  - name: justica_divina_versus_amor_divino
+    weight: 7
+    confidence: 0.93
+  - name: vocacao_crista
+    weight: 7
+    confidence: 0.92
+  - name: influencia_da_cultura_na_fe
+    weight: 6
+    confidence: 0.9
+  - name: relacao_entre_fe_e_vida
+    weight: 6
+    confidence: 0.89
+  - name: interpretacao_do_shema_por_jesus
+    weight: 5
+    confidence: 0.88
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '231.3'
+  - '248.2'
+  cdu_description: '27-29: Cristianismo. 231.3: Amor de Deus. 248.2: Formação espiritual e vida cristã.'
 ---
 
 # Jesus Creed: Loving God, Loving Others (English Edition) Scot Mcknight

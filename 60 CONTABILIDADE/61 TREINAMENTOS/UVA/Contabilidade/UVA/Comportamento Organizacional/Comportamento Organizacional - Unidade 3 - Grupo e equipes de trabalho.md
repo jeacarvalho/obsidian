@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:41.067184+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: definicao_lideranca
+    weight: 10
+    confidence: 0.98
+  - name: tipos_lideranca
+    weight: 9
+    confidence: 0.97
+  - name: teorias_lideranca_evolucao
+    weight: 9
+    confidence: 0.96
+  - name: inteligencia_emocional_lideranca
+    weight: 10
+    confidence: 0.99
+  - name: tipos_inteligencia_gardner
+    weight: 8
+    confidence: 0.95
+  - name: processo_lideranca_fatores
+    weight: 7
+    confidence: 0.93
+  - name: definicao_grupo
+    weight: 9
+    confidence: 0.97
+  - name: tipos_grupos_organizacionais
+    weight: 8
+    confidence: 0.94
+  - name: desenvolvimento_grupos_estagios
+    weight: 8
+    confidence: 0.95
+  - name: grupo_vs_equipe_dinamicas
+    weight: 7
+    confidence: 0.92
+  cdu_primary: '316.46'
+  cdu_secondary:
+  - '305.8'
+  - '331.1'
+  cdu_description: Psicologia social. Dinâmica de grupos. Liderança. Comportamento organizacional.
+---
 ## Objetivos
 - Entender a contribuição coletiva, sua estrutura e processo para contribuição no desenvolvimento humano e no êxito organizacional.
 

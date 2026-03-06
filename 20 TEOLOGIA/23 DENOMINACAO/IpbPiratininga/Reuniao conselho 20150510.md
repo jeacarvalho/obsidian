@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:20.492521+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ajuda_financeira_equipe_louvor
+    weight: 7
+    confidence: 0.9
+  - name: solucao_mofo_igreja
+    weight: 8
+    confidence: 0.92
+  - name: mudanca_imovel_igreja
+    weight: 9
+    confidence: 0.95
+  - name: acompanhamento_financeiro_mensal
+    weight: 10
+    confidence: 0.98
+  - name: criacao_novo_banner_igreja
+    weight: 6
+    confidence: 0.85
+  - name: saude_sr_pedro_licenca_inss
+    weight: 7
+    confidence: 0.91
+  - name: aspirantado_dr_edson
+    weight: 5
+    confidence: 0.75
+  - name: revisao_orientacoes_pr_vanderley
+    weight: 5
+    confidence: 0.7
+  - name: assinatura_cheques_igreja
+    weight: 6
+    confidence: 0.8
+  - name: projeto_crescer_aumento_participacao
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '281.9'
+  cdu_secondary:
+  - '336.1'
+  - '364.1'
+  - '005.31'
+  cdu_description: Relaciona-se com a administração e finanças de uma igreja, incluindo questões de pessoal, infraestrutura e projetos sociais.
+---
 Reuniao conselho 20150510
 
      1- Ajuda financeira para a equipe de louvor;

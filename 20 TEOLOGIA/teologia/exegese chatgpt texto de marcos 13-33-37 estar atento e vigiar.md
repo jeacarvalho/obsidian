@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:00.159263+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: exortacao_jesus_vigiar_discipulos
+    weight: 10
+    confidence: 0.98
+  - name: analise_grego_gregoreo_vigiar
+    weight: 9
+    confidence: 0.95
+  - name: analise_grego_agrupneo_ficar_atento
+    weight: 9
+    confidence: 0.95
+  - name: analise_grego_blepo_prestar_atencao
+    weight: 8
+    confidence: 0.93
+  - name: conceito_estar_preparado_noeite
+    weight: 7
+    confidence: 0.9
+  - name: contexto_marcos_13_fim_tempos
+    weight: 8
+    confidence: 0.92
+  - name: parabola_porteiro_responsabilidade_pessoal
+    weight: 7
+    confidence: 0.91
+  - name: prontidao_para_inesperado_retorno_cristo
+    weight: 8
+    confidence: 0.94
+  - name: comprometimento_com_presente_tarefas_deus
+    weight: 7
+    confidence: 0.9
+  - name: vigilancia_ativa_engajamento_espiritual_discernimento
+    weight: 9
+    confidence: 0.96
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '220.2'
+  - '230.2'
+  cdu_description: Teologia cristã. Doutrinas gerais. Escatologia. Novo Testamento. Evangelhos. Vida e ensinamentos de Jesus Cristo.
+---
 A exortação de Jesus para que os discípulos "vigiem" e "fiquem atentos" aparece no final de [[Marcos 13]], um capítulo onde Ele fala sobre a futura destruição de Jerusalém e o fim dos tempos. Esse chamado à vigilância está em Marcos 13:33-37 e resume a atitude que os discípulos devem manter diante da incerteza do "dia e hora" da sua vinda. Vamos analisar as expressões no grego para entender melhor essa exortação.
 
 ### 1. "Vigiem" - γρηγορέω (*grēgoreō*)

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:25.905139+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: constituicao_e_ordem_eclesiastica
+    weight: 10
+    confidence: 0.98
+  - name: atas_de_conselho_eclesiastico
+    weight: 9
+    confidence: 0.95
+  - name: atas_de_presbiterio
+    weight: 9
+    confidence: 0.95
+  - name: relatorios_eclesiasticos
+    weight: 8
+    confidence: 0.9
+  - name: governo_presbiteriano
+    weight: 8
+    confidence: 0.92
+  - name: legislacao_da_igreja_presbiteriana_do_brasil
+    weight: 7
+    confidence: 0.88
+  - name: estudo_de_documentos_eclesiasticos
+    weight: 7
+    confidence: 0.85
+  - name: organizacao_de_igrejas
+    weight: 6
+    confidence: 0.8
+  - name: formacao_pastoral
+    weight: 6
+    confidence: 0.75
+  - name: processos_administrativos_eclesiasticos
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '284.5'
+  cdu_secondary:
+  - '342.1'
+  - '351.71'
+  cdu_description: 284.5 - Protestantismo. Presbiterianismo. 342.1 - Direito Constitucional. 351.71 - Administração Pública. Controle e fiscalização.
+---
 Fwd: Material de Constituição e Ordem
 
 ---------- Mensagem encaminhada ----------

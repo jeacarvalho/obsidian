@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:43.098394+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: crise_saude_mental_adolescentes_eua
+    weight: 10
+    confidence: 0.98
+  - name: aumento_tristeza_desesperanca_jovens
+    weight: 9
+    confidence: 0.97
+  - name: fatores_influenciando_saude_mental_adolescente
+    weight: 8
+    confidence: 0.96
+  - name: depressao_ansiedade_adolescentes
+    weight: 9
+    confidence: 0.95
+  - name: impacto_redes_sociais_saude_mental
+    weight: 7
+    confidence: 0.94
+  - name: tendencias_saude_mental_adolescentes_cdc
+    weight: 8
+    confidence: 0.93
+  - name: suicidio_adolescente_contemplacao
+    weight: 7
+    confidence: 0.92
+  - name: diferencas_saude_mental_grupos_demograficos
+    weight: 6
+    confidence: 0.91
+  - name: pandemia_efeitos_saude_mental_jovens
+    weight: 6
+    confidence: 0.9
+  - name: mudancas_comportamentais_positivas_adolescentes
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '316.3'
+  cdu_secondary:
+  - 159.922.7
+  - '305.4'
+  - '305.8'
+  cdu_description: Sociologia da juventude e adolescência; Psicologia do desenvolvimento; Saúde mental; Impacto das redes sociais; Tendências sociais.
+---
 [[Adolescentes]]
 
 ---

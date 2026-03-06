@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:58.054181+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: inteligencia_positiva_qp
+    weight: 10
+    confidence: 0.98
+  - name: controle_mental
+    weight: 9
+    confidence: 0.95
+  - name: sabotadores_internos
+    weight: 10
+    confidence: 0.97
+  - name: critico_sabotador
+    weight: 8
+    confidence: 0.9
+  - name: insistente_sabotador
+    weight: 7
+    confidence: 0.88
+  - name: prestativo_sabotador
+    weight: 7
+    confidence: 0.88
+  - name: hiper_realizador_sabotador
+    weight: 7
+    confidence: 0.88
+  - name: vitima_sabotador
+    weight: 7
+    confidence: 0.88
+  - name: sabio_poderes
+    weight: 9
+    confidence: 0.92
+  - name: potencial_individual
+    weight: 8
+    confidence: 0.93
+  cdu_primary: '159.94'
+  cdu_secondary:
+  - '159.96'
+  - '159.942'
+  cdu_description: Psicologia. Psicologia da personalidade. Psicologia da motivação. Psicologia da inteligência. Inteligência positiva. Quociente de Inteligência Positiva (QP). Sabotadores internos. O Sábio. Desenvolvimento pessoal.
+---
 Inteligência positiva: Por que só 20% das equipes e dos indivíduos alcançam seu verdadeiro potencial e como você pode alcançar o seu
 
 Shirzad Chamine e Regiane Winarski

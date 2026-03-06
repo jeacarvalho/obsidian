@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.287921+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teoria_da_empresa
+    weight: 10
+    confidence: 0.98
+  - name: natureza_da_firma_e_lucro
+    weight: 9
+    confidence: 0.95
+  - name: funcao_de_producao
+    weight: 9
+    confidence: 0.97
+  - name: produto_medio_e_marginal
+    weight: 8
+    confidence: 0.96
+  - name: isoquantas_e_combinacao_de_fatores
+    weight: 8
+    confidence: 0.96
+  - name: retornos_de_escala_na_producao
+    weight: 8
+    confidence: 0.95
+  - name: elasticidade_de_substituicao_entre_fatores
+    weight: 7
+    confidence: 0.94
+  - name: custos_economicos_e_de_oportunidade
+    weight: 9
+    confidence: 0.97
+  - name: custos_variaveis_fixos_e_totais
+    weight: 8
+    confidence: 0.96
+  - name: custo_marginal_na_tomada_de_decisao
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '330.1'
+  cdu_secondary:
+  - '338.5'
+  - '338.4'
+  cdu_description: Economia. Teoria econômica. Teoria da produção e custos. Custos de produção. Preços.
+---
 [[Economia]]
 # Bibliografia
 - Livro disciplina - [[MIP_ebook_UVA.pdf]]

@@ -1,4 +1,46 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:54.674969+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: direitos_humanos_contexto_global
+    weight: 10
+    confidence: 0.98
+  - name: declaracao_universal_direitos_humanos_1948
+    weight: 9
+    confidence: 0.95
+  - name: direitos_humanos_brasil_racismo_estrutural
+    weight: 8
+    confidence: 0.92
+  - name: direitos_humanos_organizacoes_aplicacao
+    weight: 8
+    confidence: 0.9
+  - name: justica_equidade_diversidade_inclusao_jedi
+    weight: 9
+    confidence: 0.97
+  - name: diversidade_cultural_marcadores_preconceito
+    weight: 7
+    confidence: 0.88
+  - name: vieses_inconscientes_impacto_organizacional
+    weight: 9
+    confidence: 0.96
+  - name: diversidade_performance_inovacao_lucratividade
+    weight: 8
+    confidence: 0.93
+  - name: gestao_ambientes_justos_equitativos_diversos
+    weight: 7
+    confidence: 0.85
+  - name: diversidade_habilidades_profissional_futuro
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '323'
+  cdu_secondary:
+  - '342.7'
+  - '316.34'
+  - '331.1'
+  cdu_description: Ciências sociais. Sociologia. Antropologia. Organização social. Relações sociais. Comunicação. Comportamento social. Grupos sociais. Minorias. Direitos humanos. Igualdade. Diversidade. Inclusão. Gestão de pessoas. Relações de trabalho.
+---
 # Aula 1 - Direitos Humanos: contexto global, Brasil e aplicação nas organizações
 - sec XVII - começa a ser mais sistematizado direitos humanos
 - 1948, após 2a guerra, declaração universal dos direitos humanos

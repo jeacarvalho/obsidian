@@ -1,3 +1,49 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:08.308136+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: saude_intestinal
+    weight: 8
+    confidence: 0.9
+  - name: tratamento_cancer
+    weight: 10
+    confidence: 0.98
+  - name: leucemia_infantil
+    weight: 9
+    confidence: 0.95
+  - name: doencas_cardiacas
+    weight: 7
+    confidence: 0.85
+  - name: transplante_figado
+    weight: 7
+    confidence: 0.88
+  - name: vicios
+    weight: 6
+    confidence: 0.75
+  - name: luto_perda
+    weight: 8
+    confidence: 0.92
+  - name: relacionamentos_familiares
+    weight: 5
+    confidence: 0.7
+  - name: apoio_comunitario_religioso
+    weight: 6
+    confidence: 0.8
+  - name: saude_mental_cuidado_proprio
+    weight: 7
+    confidence: 0.82
+  cdu_primary: '616.34'
+  cdu_secondary:
+  - 616.995.1
+  - '616.12'
+  - 616.992.1
+  - '616.36'
+  - '362.29'
+  - '261.8'
+  cdu_description: Doenças do aparelho digestivo (616.3), com foco em problemas intestinais (616.34). Inclui tratamentos de câncer (616.995.1), doenças cardíacas (616.12), leucemia (616.992.1), transplante de fígado (616.36), vícios (362.29) e apoio religioso/comunitário (261.8).
+---
 # Iniciando
 
 ## 20250710

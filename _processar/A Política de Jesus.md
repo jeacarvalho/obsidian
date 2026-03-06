@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:33.626219+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: etica_messianica_jesus
+    weight: 9
+    confidence: 0.98
+  - name: politica_radical_jesus
+    weight: 8
+    confidence: 0.97
+  - name: etica_crista_tradicional
+    weight: 7
+    confidence: 0.96
+  - name: argumentos_etica_provisoria
+    weight: 6
+    confidence: 0.95
+  - name: contexto_rural_etica_jesus
+    weight: 5
+    confidence: 0.94
+  - name: falta_poder_jesus_sociedade
+    weight: 5
+    confidence: 0.93
+  - name: mensagem_espiritual_vs_social
+    weight: 6
+    confidence: 0.92
+  - name: monoteismo_radical_relativizacao_valores
+    weight: 7
+    confidence: 0.91
+  - name: foco_expiacao_etica_jesus
+    weight: 6
+    confidence: 0.9
+  - name: relevancia_normativa_jesus_etica_social
+    weight: 8
+    confidence: 0.99
+  cdu_primary: 27-23
+  cdu_secondary:
+  - 23-27
+  - '321.1'
+  cdu_description: Teologia cristã. Cristologia. Ética cristã. Relação entre Jesus e a política/ética social. Análise de textos bíblicos (Evangelho de Lucas).
+---
 # Estudo sobre "A Política de Jesus"
 
 Este arquivo compila a análise de vários capítulos do livro, com base em uma série de prompts e respostas geradas.

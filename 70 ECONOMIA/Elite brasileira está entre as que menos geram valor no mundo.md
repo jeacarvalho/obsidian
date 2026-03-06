@@ -2,7 +2,47 @@
 created: 2023-07-25T13:08:16 (UTC -03:00)
 tags: []
 source: https://exame.com/economia/elite-brasileira-esta-entre-as-que-menor-geram-valor-no-mundo/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:42.713907+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: elite_brasileira_geracao_valor
+    weight: 10
+    confidence: 0.98
+  - name: ranking_qualidade_elite
+    weight: 9
+    confidence: 0.95
+  - name: comparacao_elite_internacional
+    weight: 8
+    confidence: 0.92
+  - name: elite_singapura_alemania_reino_unido
+    weight: 7
+    confidence: 0.88
+  - name: elite_brics_baixo_desempenho
+    weight: 8
+    confidence: 0.9
+  - name: fatores_regressividade_tributaria
+    weight: 7
+    confidence: 0.85
+  - name: modelos_negocio_criacao_valor
+    weight: 6
+    confidence: 0.8
+  - name: modelos_negocio_extracao_valor
+    weight: 6
+    confidence: 0.8
+  - name: estudo_universidade_st_gallen
+    weight: 5
+    confidence: 0.75
+  - name: elite_dominancia_economias_politicas
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '323.32'
+  - '316.4'
+  cdu_description: Economia. Economia política. Relações econômicas. Economia social. Economia e sociedade. Classes sociais. Grupos sociais. Elites. Grupos de poder. Estrutura social. Mudança social.
 ---
 ​
 # [[elite brasileira]] está entre as que menos geram valor no mundo | Exame

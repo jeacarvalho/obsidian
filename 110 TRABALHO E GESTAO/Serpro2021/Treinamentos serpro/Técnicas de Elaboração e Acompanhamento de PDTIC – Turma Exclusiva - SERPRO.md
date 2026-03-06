@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:59.320746+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: planejamento_estrategico_empresarial
+    weight: 10
+    confidence: 0.98
+  - name: tecnicas_elaboracao_pdtic
+    weight: 9
+    confidence: 0.95
+  - name: cinco_forcas_porter
+    weight: 8
+    confidence: 0.92
+  - name: matriz_bcg
+    weight: 7
+    confidence: 0.9
+  - name: modelo_vani
+    weight: 8
+    confidence: 0.93
+  - name: transformacao_digital_governo
+    weight: 9
+    confidence: 0.96
+  - name: instrumentos_planejamento_governo
+    weight: 7
+    confidence: 0.88
+  - name: governanca_ti_corporativa
+    weight: 9
+    confidence: 0.94
+  - name: estrategia_ti_serpro
+    weight: 10
+    confidence: 0.99
+  - name: criacao_valor_organizacional
+    weight: 8
+    confidence: 0.91
+  cdu_primary: 658.012.2
+  cdu_secondary:
+  - '004.451'
+  - '338.27'
+  - '351.71'
+  cdu_description: Planejamento estratégico e tático em organizações, com foco em TI, transformação digital e governança corporativa no contexto do governo federal brasileiro.
+---
 # Bibliografia
 - Slides aulas: 
 	- [[IBGP - SERPRO - Aula 1 - Técnicas de Elaboração e Acompanhamento de PDTIC.pdf]]

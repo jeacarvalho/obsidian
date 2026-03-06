@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:03.682322+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: parabola_videira_verdadeira
+    weight: 10
+    confidence: 0.98
+  - name: intimidade_com_deus
+    weight: 9
+    confidence: 0.95
+  - name: relacionamento_com_jesus
+    weight: 8
+    confidence: 0.92
+  - name: frutificacao_espiritual
+    weight: 9
+    confidence: 0.96
+  - name: obediencia_crista
+    weight: 8
+    confidence: 0.93
+  - name: alegria_em_deus
+    weight: 9
+    confidence: 0.94
+  - name: permanencia_em_cristo
+    weight: 8
+    confidence: 0.91
+  - name: santidade_pessoal
+    weight: 7
+    confidence: 0.88
+  - name: discernimento_espiritual
+    weight: 6
+    confidence: 0.85
+  - name: escolha_divina
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - '248.3'
+  - 27-29
+  cdu_description: Cristologia (Jesus Cristo como videira verdadeira), Vida cristã (intimidade, obediência, alegria), Período bíblico (Antigo e Novo Testamento)
+---
 Sermão [[Ziel Machado ]]20130505
 
 “Eu sou a videira verdadeira, e meu Pai é o agricultor. Todo ramo que, estando em mim, não dá fruto, ele corta; e todo que dá fruto ele poda, para que dê mais fruto ainda. Vocês já estão limpos, pela palavra que tenho falado. Permaneçam em mim, e eu permanecerei em vocês. Nenhum ramo pode dar fruto por si mesmo se não permanecer na videira. Vocês também não podem dar fruto se não permanecerem em mim. “Eu sou a videira; vocês são os ramos. Se alguém permanecer em mim e eu nele, esse dará muito fruto; pois sem mim vocês não podem fazer coisa alguma. Se alguém não permanecer em mim, será como o ramo que é jogado fora e seca. Tais ramos são apanhados, lançados ao fogo e queimados. Se vocês permanecerem em mim, e as minhas palavras permanecerem em vocês, pedirão o que quiserem, e será concedido. Meu Pai é glorificado pelo fato de vocês darem muito fruto; e assim serão meus discípulos. “Como o Pai me amou, assim eu os amei; permaneçam no meu amor. Se vocês obedecerem aos meus mandamentos, permanecerão no meu amor, assim como tenho obedecido aos mandamentos de meu Pai e em seu amor permaneço. Tenho dito estas palavras para que a minha alegria esteja em vocês e a alegria de vocês seja completa. ([[João 15]]:1-11 NVI)

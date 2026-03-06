@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:06.746764+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: exegese_biblica_marcos_14_48
+    weight: 10
+    confidence: 0.98
+  - name: contexto_historico_religioso_primeiro_seculo
+    weight: 8
+    confidence: 0.95
+  - name: analise_linguistica_grego_lestes
+    weight: 9
+    confidence: 0.97
+  - name: interpretacao_teologica_prisao_jesus
+    weight: 9
+    confidence: 0.96
+  - name: comparacao_jesus_salteador_revolucionario
+    weight: 8
+    confidence: 0.94
+  - name: injustica_contra_inocentes
+    weight: 7
+    confidence: 0.92
+  - name: soberania_divina_em_meio_a_crise
+    weight: 7
+    confidence: 0.91
+  - name: aplicacao_pratica_crista_injustica
+    weight: 6
+    confidence: 0.89
+  - name: contexto_cultural_judaico_romano
+    weight: 7
+    confidence: 0.93
+  - name: analise_comparativa_barrabas_ladroes
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '226.7'
+  cdu_secondary:
+  - 27-21
+  - '323.27'
+  cdu_description: 226.7 - Evangelho de Marcos; 27-21 - História da Igreja Primitiva; 323.27 - Revoltas, insurreições
+---
 exegese do chatgpt sobre lestes - [[G3027]] - em [[Marcos 14]]-48
 
 A exegese de Marcos 14:48 envolve a análise detalhada do texto bíblico para compreender seu significado original no contexto histórico, cultural e teológico. Aqui está uma abordagem para o versículo:

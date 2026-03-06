@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:58.124846+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: jornada_espiritual_autor
+    weight: 7
+    confidence: 0.9
+  - name: critica_hipocrisia_crista
+    weight: 9
+    confidence: 0.95
+  - name: aplicacao_biblia_cotidiano
+    weight: 10
+    confidence: 0.98
+  - name: interpretacao_seletiva_escrituras
+    weight: 8
+    confidence: 0.92
+  - name: desconexao_crenca_pratica
+    weight: 9
+    confidence: 0.96
+  - name: engajamento_profundo_escrituras
+    weight: 8
+    confidence: 0.93
+  - name: influencia_contexto_cultural_interpretacao
+    weight: 7
+    confidence: 0.88
+  - name: reflexao_etica_moral_biblia
+    weight: 6
+    confidence: 0.85
+  - name: dialogo_sobre_interpretacao_biblica
+    weight: 7
+    confidence: 0.89
+  - name: busca_verdade_jornada_continua
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - 27-29
+  - '201.6'
+  cdu_description: Teologia cristã; Doutrinas cristãs; História eclesiástica; História da igreja cristã; Teologia prática
+---
 # Cap 1
 
 ##    analise:

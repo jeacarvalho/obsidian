@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:48.477346+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reacoes_neuroticas_agudas
+    weight: 9
+    confidence: 0.98
+  - name: ansiedade_intensa
+    weight: 8
+    confidence: 0.97
+  - name: autoconsciencia_exacerbada
+    weight: 7
+    confidence: 0.96
+  - name: atencao_focalizada_em_estimulos
+    weight: 8
+    confidence: 0.95
+  - name: visao_de_tunel_psicologica
+    weight: 7
+    confidence: 0.94
+  - name: dificuldade_de_mobilizacao_de_atencao
+    weight: 8
+    confidence: 0.93
+  - name: reacoes_a_situacoes_ameacadoras
+    weight: 9
+    confidence: 0.92
+  - name: ansiedade_em_exames
+    weight: 6
+    confidence: 0.91
+  - name: bloqueio_mental_em_estresse
+    weight: 7
+    confidence: 0.9
+  - name: vigilancia_aumentada_a_perigos
+    weight: 8
+    confidence: 0.89
+  cdu_primary: '159.942'
+  cdu_secondary:
+  - '159.943'
+  - '159.941'
+  cdu_description: 159.9 Psicologia. 159.94 Processos psicológicos. 159.942 Emoções. 159.943 Vontade, comportamento. 159.941 Atenção.
+---
 # Capítulo 4
 
 he is “going insane,” they are generally associated with

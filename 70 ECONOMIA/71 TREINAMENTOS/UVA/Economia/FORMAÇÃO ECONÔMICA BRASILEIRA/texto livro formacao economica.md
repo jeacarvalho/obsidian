@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:59:19.204052+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: formacao_economica_brasil_colonial
+    weight: 10
+    confidence: 0.98
+  - name: acumulacao_primitiva_capitalismo
+    weight: 9
+    confidence: 0.95
+  - name: escravismo_na_america_portuguesa
+    weight: 10
+    confidence: 0.97
+  - name: expansao_maritima_portuguesa
+    weight: 8
+    confidence: 0.92
+  - name: relacoes_internacionais_brasil_seculos_xvii_xix
+    weight: 7
+    confidence: 0.88
+  - name: colonizacao_portuguesa_no_brasil
+    weight: 9
+    confidence: 0.96
+  - name: capitanias_hereditarias
+    weight: 8
+    confidence: 0.93
+  - name: formacao_do_estado_interventor_brasil
+    weight: 7
+    confidence: 0.85
+  - name: historia_do_brasil_no_atlantico_sul
+    weight: 8
+    confidence: 0.9
+  - name: paradoxo_do_caminho_colonial_brasileiro
+    weight: 6
+    confidence: 0.8
+  cdu_primary: '981.02'
+  cdu_secondary:
+  - 330.564.2
+  - '325.82'
+  - '339.94'
+  - 327(81)
+  cdu_description: História do Brasil Colonial, com ênfase na formação econômica, escravismo, expansão marítima portuguesa, relações internacionais, colonização, capitanias hereditárias e formação do estado.
+---
 O Brasil inicia sua história como membro do império português, inserido na empresa mercantil, colonial e escravocrata, que marcou a expansão ultramarina no período quinhentista. A Península Ibérica transforma-se em um dos agentes mais arrojados e expoentes do capitalismo comercial, no qual a experiência brasileira aparece como uma das etapas mais qualificadas do périplo luso. A **acumulação primitiva**, pressuposta na **acumulação geral** do capitalismo, conhecerá, no solo nacional, um dos momentos de generoso retorno para as cifras comerciais. Fomos polo exportador de riquezas para todo o continente europeu por meio do domínio dos colonizadores portugueses. Esta marca em nossa formação econômica perdura por quase quatro séculos, mesmo após a emancipação política da nação, ocorrida no século XIX.
 
 Tavares lembra que nossa história inicial é fruto das guerras intraeuropeias e suas disputas coloniais entre os séculos XVII e XIX. Tais lutas geraram reflexos sobre o cenário das nossas relações internacionais. As querelas e controvérsias vividas no nosso passado colonial permitem que o colonizador dilatasse suas fronteiras além do Pacto Colonial. A ocupação do território, com formas marcadas autocráticas, trouxe à face do estado interventor, campo fértil para a acumulação de riquezas. Era, no fim, um modo do Império e, de outro, o medo do povo. O local de onde nos formamos primeiramente em moldes de vida dentro da formação do capitalismo mundial exala, por todos os **poros caboclos**, quando discutimos a formação do Brasil no Atlântico Sul. Alencastro evidencia o paradoxo do caminho colonial local; segundo este autor, nossa história vai além de nosso território: "Sempre se pensou o Brasil fora do Brasil!", porém, de maneira inacabada, "o país aparece no prolongamento da Europa". Isto se deve ao fato de os portugueses fundarem no escravismo sua dominação, gerando um espaço bipolar, cuja teleologia está no centro dominador.

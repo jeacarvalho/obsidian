@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:34.005648+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_sistemica_social
+    weight: 10
+    confidence: 0.98
+  - name: espiritualidade_crista_pratica
+    weight: 9
+    confidence: 0.95
+  - name: reinterpretacao_doutrinal_social
+    weight: 8
+    confidence: 0.92
+  - name: pecado_social_estrutural
+    weight: 9
+    confidence: 0.96
+  - name: salvacao_solidaria_comunitaria
+    weight: 9
+    confidence: 0.94
+  - name: comunidade_organismo_vs_organizacao
+    weight: 8
+    confidence: 0.9
+  - name: hospitalidade_pobreza_voluntaria
+    weight: 7
+    confidence: 0.88
+  - name: resistencia_nao_violenta_crista
+    weight: 7
+    confidence: 0.85
+  - name: critica_teologia_individualista
+    weight: 8
+    confidence: 0.91
+  - name: formacao_existencial_discernimento
+    weight: 7
+    confidence: 0.87
+  cdu_primary: 27-28
+  cdu_secondary:
+  - '230'
+  - '261.8'
+  - '248.4'
+  cdu_description: Teologia cristã. Teologia sistemática. Teologia social. Ética social. Espiritualidade. Vida cristã.
+---
 ## 🔑 PASSO 1: ATIVAÇÃO DA LENTE DISCIPLINAR
 
 **Modo Teológico-Crítico → Teologia Sistemática** (com diálogo essencial com MODO FORMATIVO-INTEGRAL → Espiritualidade & Discipulado)

@@ -1,3 +1,53 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:56.966324+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: devops_ci_cd
+    weight: 10
+    confidence: 0.95
+  - name: jenkins_gitlab_ci
+    weight: 9
+    confidence: 0.9
+  - name: terraform_infraestrutura_como_codigo
+    weight: 8
+    confidence: 0.85
+  - name: qualidade_de_software_sonar
+    weight: 8
+    confidence: 0.88
+  - name: testes_automatizados_kangal
+    weight: 7
+    confidence: 0.8
+  - name: design_de_interfaces_de_voz
+    weight: 7
+    confidence: 0.75
+  - name: documentacao_tecnica_api
+    weight: 6
+    confidence: 0.7
+  - name: geoprocessamento_desenvolvimento
+    weight: 6
+    confidence: 0.65
+  - name: testes_a_b_usabilidade
+    weight: 5
+    confidence: 0.6
+  - name: analise_de_dados_aplicativos_mobile
+    weight: 5
+    confidence: 0.55
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '004.77'
+  - '004.78'
+  - '004.8'
+  - '004.9'
+  - '005.1'
+  - '005.3'
+  - '005.7'
+  - '006.3'
+  - '006.4'
+  - '006.7'
+  cdu_description: Engloba temas como desenvolvimento de software, sistemas de automação, ferramentas de CI/CD (Jenkins, GitLab CI), infraestrutura como código (Terraform), qualidade de software (Sonar), testes automatizados, interfaces de voz, documentação técnica, geoprocessamento e análise de dados em aplicações mobile.
+---
 | [Pasta com gravações DEVOPS](https://serprogovbr-my.sharepoint.com/personal/jonas_vian_[[serpro]]_gov_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjonas%5Fvian%5Fserpro%5Fgov%5Fbr%2FDocuments%2FDevops%20Open%20Space) |     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 |                                                                                                                                                                                                                       |     |

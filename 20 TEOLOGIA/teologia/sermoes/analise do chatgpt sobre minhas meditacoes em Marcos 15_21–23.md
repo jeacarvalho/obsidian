@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:04.108546+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_meditacoes
+    weight: 8
+    confidence: 0.95
+  - name: consciencia_fragilidade_humana
+    weight: 7
+    confidence: 0.9
+  - name: desejo_autenticidade_reflexao
+    weight: 7
+    confidence: 0.9
+  - name: humildade_diante_historia
+    weight: 6
+    confidence: 0.85
+  - name: anseio_identificacao_cristo
+    weight: 9
+    confidence: 0.98
+  - name: teologia_reformada_cristologia
+    weight: 9
+    confidence: 0.97
+  - name: soberania_deus_soli_deo_gloria
+    weight: 8
+    confidence: 0.92
+  - name: exege_marcos_15_21_23
+    weight: 10
+    confidence: 1.0
+  - name: contexto_historico_biblico
+    weight: 7
+    confidence: 0.9
+  - name: proposta_sermao_encontro_cruz
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - '273.6'
+  - '226.7'
+  cdu_description: Cristologia (232.9), Teologia Reformada (273.6), Evangelho de Marcos (226.7)
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Marcos]] 15_21–23
 Obrigado por compartilhar esse exercício meditativo tão sensível e honesto, Karl. Vamos caminhar juntos pelas camadas do texto e das anotações, com o olhar pastoral, conselheiro e teológico que você propôs.
 

@@ -1,4 +1,45 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.537079+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: dignidade_humana_base_direitos_humanos
+    weight: 10
+    confidence: 0.98
+  - name: educacao_promocao_direitos_humanos
+    weight: 10
+    confidence: 0.97
+  - name: escola_convivencia_diversidade
+    weight: 9
+    confidence: 0.96
+  - name: papel_educador_mediador_facilitador
+    weight: 8
+    confidence: 0.95
+  - name: gestao_democratica_escolar
+    weight: 8
+    confidence: 0.94
+  - name: atividades_praticas_ensino_direitos_humanos
+    weight: 7
+    confidence: 0.93
+  - name: reflexao_critica_desigualdades_cidadania
+    weight: 7
+    confidence: 0.92
+  - name: documentos_legislacoes_direito_educacao
+    weight: 6
+    confidence: 0.91
+  - name: onu_programas_educacao_direitos_humanos
+    weight: 6
+    confidence: 0.9
+  - name: educacao_nao_formal_emancipacao_autonomia
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '37.01'
+  cdu_secondary:
+  - '342.7'
+  - '305.8'
+  cdu_description: Educação. Teoria e política da educação. Educação em direitos humanos. Direitos humanos. Diversidade. Cidadania.
+---
 
 # Ideias mais importantes do livro?
 

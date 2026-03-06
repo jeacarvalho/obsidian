@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:25.841487+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: video_falso_bolsonaro
+    weight: 10
+    confidence: 0.98
+  - name: desinformacao_politica
+    weight: 9
+    confidence: 0.95
+  - name: montagem_voz_piper
+    weight: 8
+    confidence: 0.97
+  - name: denuncia_youtube
+    weight: 7
+    confidence: 0.9
+  - name: industria_mentira_redes_sociais
+    weight: 8
+    confidence: 0.92
+  - name: uso_criminoso_imagem
+    weight: 7
+    confidence: 0.93
+  - name: ambiente_evangelico
+    weight: 6
+    confidence: 0.85
+  - name: comparacao_vozes_ingles
+    weight: 5
+    confidence: 0.88
+  - name: pericia_video_falso
+    weight: 6
+    confidence: 0.8
+  - name: maldade_conteudo_fake
+    weight: 7
+    confidence: 0.91
+  cdu_primary: '324.3'
+  cdu_secondary:
+  - '004.77'
+  - '305.8'
+  cdu_description: Propaganda eleitoral e política. Manipulação de informações e desinformação em redes sociais. Uso indevido de imagem e voz. Discussão sobre a veracidade de conteúdo em ambientes religiosos e políticos.
+---
 Conversa WPP Amigos PNTR - Vídeo falso do Piper apoiando Bolsonaro
 
 [Conversa do WhatsApp com AMIGOS DO PNTR.txt](1d00788855fc11777aca82596084eb7a.txt)

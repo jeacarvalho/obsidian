@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:45.745600+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: obediencia_a_deus_vs_homens
+    weight: 10
+    confidence: 0.98
+  - name: transgressao_de_mandamentos
+    weight: 9
+    confidence: 0.95
+  - name: temor_ao_povo
+    weight: 8
+    confidence: 0.9
+  - name: desculpas_e_arrependimento
+    weight: 7
+    confidence: 0.85
+  - name: autoridade_divina
+    weight: 10
+    confidence: 0.97
+  - name: exemplos_biblicos_de_obediencia
+    weight: 8
+    confidence: 0.92
+  - name: martinho_lutero_reforma
+    weight: 6
+    confidence: 0.75
+  - name: atributos_de_deus_imutabilidade
+    weight: 9
+    confidence: 0.93
+  - name: gloria_de_israel
+    weight: 7
+    confidence: 0.88
+  - name: etica_religiosa
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '230.1'
+  cdu_secondary:
+  - '241.1'
+  - '270.6'
+  cdu_description: Teologia Sistemática - Doutrina de Deus; Ética Cristã; História da Igreja - Reforma Protestante
+---
 1SM_15_9 - [[Desobedecer é pensar que sabemos mais do que Deus]]
 
 1SM_15_22_23 - [[Obedecer é melhor que sacrificar]]

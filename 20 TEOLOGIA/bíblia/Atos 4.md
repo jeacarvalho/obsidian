@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:28.403040+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: impacto_espirito_santo_conversao
+    weight: 10
+    confidence: 0.98
+  - name: pregacao_jesus_autoridades
+    weight: 9
+    confidence: 0.95
+  - name: testemunho_cristao_intrepidez
+    weight: 8
+    confidence: 0.97
+  - name: glorificacao_deus_objetivo_final
+    weight: 7
+    confidence: 0.92
+  - name: predestinacao_divina
+    weight: 6
+    confidence: 0.88
+  - name: oracao_por_capacidade_anunciar_palavra
+    weight: 10
+    confidence: 0.99
+  - name: curas_sinais_prodigios_nome_jesus
+    weight: 9
+    confidence: 0.96
+  - name: comunidade_crista_unidade_coracao_alma
+    weight: 8
+    confidence: 0.94
+  - name: distribuicao_comum_bens_necessitados
+    weight: 7
+    confidence: 0.93
+  - name: testemunho_ressurreicao_senhor_jesus
+    weight: 8
+    confidence: 0.91
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '232.9'
+  - '261.8'
+  - '273.2'
+  cdu_description: Atos dos Apóstolos, com foco na ação do Espírito Santo, pregação, testemunho, milagres, comunidade primitiva e sua organização social e espiritual.
+---
 Atos 4:4 Muitos, porém, dos que ouviram a palavra a aceitaram, subindo o número de homens a quase cinco mil.
 - Impacto do [[Espírito Santo]] agindo. Mais dois mil aceitam a [[Jesus]].
 - Sinais + [[pregação]] da palavra = conversões em massa

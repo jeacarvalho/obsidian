@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:00.676050+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_de_software_produtivo
+    weight: 10
+    confidence: 0.98
+  - name: habitos_de_autoaperfeicoamento
+    weight: 9
+    confidence: 0.95
+  - name: autoconsciencia_e_filtragem_de_informacao
+    weight: 8
+    confidence: 0.92
+  - name: resolucao_de_problemas_em_desenvolvimento
+    weight: 8
+    confidence: 0.9
+  - name: aprendizado_de_fundamentos_em_programacao
+    weight: 7
+    confidence: 0.88
+  - name: compartilhamento_de_conhecimento_entre_desenvolvedores
+    weight: 7
+    confidence: 0.85
+  - name: jogos_finitos_vs_infinitos_na_carreira
+    weight: 6
+    confidence: 0.8
+  - name: escrita_de_codigo_legivel_e_autoexplicativo
+    weight: 6
+    confidence: 0.78
+  - name: evitar_otimizacao_precoce_em_software
+    weight: 5
+    confidence: 0.75
+  - name: importancia_de_testes_em_desenvolvimento
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - 159.947.5
+  - '005.3'
+  - '005.133'
+  cdu_description: Programação de computadores, desenvolvimento de software, hábitos de produtividade, autoaperfeiçoamento, resolução de problemas, aprendizado contínuo, compartilhamento de conhecimento, mentalidade de jogo infinito, código limpo, testes de software.
+---
 14 Hábitos de Desenvolvedores Altamente Produtivos
 https://14habits.com/br
 

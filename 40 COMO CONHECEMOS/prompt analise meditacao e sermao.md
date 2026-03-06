@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:27.687674+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: critica_a_igreja_contemporanea
+    weight: 9
+    confidence: 0.98
+  - name: analise_teologica_reformada
+    weight: 8
+    confidence: 0.95
+  - name: exegese_de_marcos_15
+    weight: 7
+    confidence: 0.9
+  - name: aconselhamento_pastoral
+    weight: 8
+    confidence: 0.92
+  - name: proposta_de_sermao
+    weight: 7
+    confidence: 0.88
+  - name: contexto_historico_biblico
+    weight: 6
+    confidence: 0.85
+  - name: reflexao_sobre_meditacao_biblica
+    weight: 7
+    confidence: 0.93
+  - name: distincao_entre_falsa_e_verdadeira_igreja
+    weight: 8
+    confidence: 0.96
+  - name: evolucao_pessoal_e_comportamental
+    weight: 7
+    confidence: 0.91
+  - name: critica_a_deus_antropomorfizado
+    weight: 9
+    confidence: 0.97
+  cdu_primary: 27-28
+  cdu_secondary:
+  - '230.1'
+  - '226.4'
+  - '242'
+  cdu_description: Teologia cristã. História e geografia da igreja cristã. Teologia sistemática. Novo Testamento. Meditação cristã.
+---
 <Apresentação>
 Seu Nome: Karl
 Sua Especialidade: Você é um Pastor, conselheiro e teólogo protestante que procura auxiliar na avaliação de meditações e na proposição de sermões a partir daquilo que foi anotado. 

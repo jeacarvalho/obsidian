@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:10.512125+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conhecimento_de_cristo
+    weight: 10
+    confidence: 0.98
+  - name: justica_em_cristo
+    weight: 9
+    confidence: 0.97
+  - name: zelo_religioso
+    weight: 8
+    confidence: 0.95
+  - name: instrucao_religiosa
+    weight: 7
+    confidence: 0.93
+  - name: exame_das_escrituras
+    weight: 7
+    confidence: 0.92
+  - name: fervor_espiritual
+    weight: 8
+    confidence: 0.94
+  - name: fruto_do_espirito
+    weight: 9
+    confidence: 0.96
+  - name: longanimidade_e_paciencia
+    weight: 8
+    confidence: 0.94
+  - name: manejo_da_palavra_da_verdade
+    weight: 7
+    confidence: 0.91
+  - name: diligencia_na_vida_crista
+    weight: 9
+    confidence: 0.96
+  cdu_primary: 27-28
+  cdu_secondary: []
+  cdu_description: Teologia cristã; Doutrina cristã; Bíblia
+---
 # Bíblia
  [[Filipenses 3]] 7 Mas o que, para mim, era lucro, isto considerei perda por causa de Cristo. 8 Sim, deveras considero tudo como perda, por causa da sublimidade do conhecimento de Cristo [[Jesus]], meu Senhor; por amor do qual perdi todas as coisas e as considero como refugo, para ganhar a Cristo 9 e ser achado nele, não tendo justiça própria, que procede de lei, senão a que é mediante a fé em Cristo, a justiça que procede de Deus, baseada na fé; 10 para o conhecer, e o poder da sua ressurreição, e a comunhão dos seus sofrimentos, conformando- me com ele na sua morte; 11 para, de algum modo, alcançar a ressurreição dentre os mortos.
 

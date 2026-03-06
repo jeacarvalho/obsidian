@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:54.778320+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cordeiro_pascal_simbolismo_cristao
+    weight: 10
+    confidence: 0.98
+  - name: rituais_da_pascoa_no_egito
+    weight: 9
+    confidence: 0.95
+  - name: significado_do_sangue_na_pascoa
+    weight: 9
+    confidence: 0.96
+  - name: juizo_divino_contra_deuses_egipcios
+    weight: 8
+    confidence: 0.92
+  - name: logistica_da_imolacao_do_cordeiro
+    weight: 7
+    confidence: 0.85
+  - name: recompensa_pela_escravidao_no_egito
+    weight: 7
+    confidence: 0.88
+  - name: lei_da_pascoa_para_israelitas_e_estrangeiros
+    weight: 6
+    confidence: 0.9
+  - name: simbolismo_do_fermento_na_doutrina
+    weight: 6
+    confidence: 0.8
+  - name: permanencia_eterna_das_leis_divinas
+    weight: 5
+    confidence: 0.75
+  - name: inclusao_de_estrangeiros_na_pascoa
+    weight: 5
+    confidence: 0.82
+  cdu_primary: '222.1'
+  cdu_secondary:
+  - '232.9'
+  - '264.3'
+  - '297.1'
+  cdu_description: '222.1 - Livros históricos do Antigo Testamento: Pentateuco: Êxodo; 232.9 - Jesus Cristo: Encarnação, vida, obra; 264.3 - Culto: Sacramentos: Eucaristia; 297.1 - Religiões não cristãs: Judaísmo'
+---
 Êxodo 12:5 O cordeiro será sem defeito, macho de um ano; podereis tomar um cordeiro ou um cabrito;
 
 Êxodo 12:7 Tomarão do sangue e o porão em ambas as ombreiras e na verga da porta, nas casas em que o comerem;

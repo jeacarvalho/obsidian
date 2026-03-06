@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:56.449521+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: internalizacao_geoprocessamento_desenvolvimento
+    weight: 10
+    confidence: 0.95
+  - name: banco_dados_espaciais_postgis
+    weight: 9
+    confidence: 0.9
+  - name: software_gis_qgis
+    weight: 9
+    confidence: 0.9
+  - name: produtividade_tecnologias_geo
+    weight: 8
+    confidence: 0.85
+  - name: treinamento_geoprocessamento
+    weight: 7
+    confidence: 0.8
+  - name: git_ibama
+    weight: 6
+    confidence: 0.75
+  - name: absorcao_incra_sigefgeo
+    weight: 6
+    confidence: 0.7
+  - name: inteligencia_espacial_serpro
+    weight: 7
+    confidence: 0.7
+  - name: documentacao_tecnica_gis
+    weight: 5
+    confidence: 0.65
+  - name: mapeamento_conhecimentos_geo
+    weight: 5
+    confidence: 0.6
+  cdu_primary: '004.9'
+  cdu_secondary:
+  - '528'
+  - '004.45'
+  cdu_description: 004.9 - Tratamento de dados e informação. Processamento de dados. Gestão de dados. Organização de dados. Análise de dados. Visualização de dados. 528 - Geodésia. Topografia. Fotogrametria. Sensoriamento remoto. 004.45 - Software de aplicação
+---
 # Descrição: 
 
 Aqui vou organizar o assunto sobre internalização do geoprocessamento no desenvolvimento

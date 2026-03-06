@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:24.019869+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: transformacao_fracasso_sucesso
+    weight: 10
+    confidence: 0.98
+  - name: resiliencia_emocional
+    weight: 9
+    confidence: 0.95
+  - name: redefinicao_conceitos_sucesso_fracasso
+    weight: 8
+    confidence: 0.92
+  - name: importancia_proposito_vida
+    weight: 8
+    confidence: 0.9
+  - name: perseveranca_continuacao
+    weight: 9
+    confidence: 0.93
+  - name: separacao_identidade_desempenho
+    weight: 8
+    confidence: 0.91
+  - name: aprendizado_com_erros
+    weight: 7
+    confidence: 0.88
+  - name: superacao_medo_fracasso
+    weight: 7
+    confidence: 0.87
+  - name: perspectiva_sobre_adversidades
+    weight: 6
+    confidence: 0.85
+  - name: motivacao_proposito
+    weight: 7
+    confidence: 0.86
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '316.6'
+  - '17.023'
+  cdu_description: Psicologia da motivação e da emoção; Psicologia social; Ética
+---
 4 Ways to Transform Failure Into Success |
 
 ## [4 Ways to Transform Failure Into Success](http://leadingwithtrust.com/2015/02/02/4-ways-to-transform-failure-into-success/)

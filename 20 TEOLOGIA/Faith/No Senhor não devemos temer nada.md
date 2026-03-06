@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:12.687814+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: encorajamento_biblico
+    weight: 10
+    confidence: 0.98
+  - name: confianca_em_deus
+    weight: 9
+    confidence: 0.97
+  - name: forca_espiritual
+    weight: 9
+    confidence: 0.96
+  - name: vitoria_em_cristo
+    weight: 8
+    confidence: 0.95
+  - name: promessas_divinas
+    weight: 8
+    confidence: 0.94
+  - name: vida_crista
+    weight: 7
+    confidence: 0.93
+  - name: superacao_de_medos
+    weight: 7
+    confidence: 0.92
+  - name: obediencia_a_lei_divina
+    weight: 6
+    confidence: 0.91
+  - name: lideranca_e_fe
+    weight: 6
+    confidence: 0.9
+  - name: descanso_em_deus
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '248.4'
+  cdu_secondary:
+  - '220.2'
+  - '231.17'
+  cdu_description: Vida cristã, encorajamento e confiança em Deus, com referências bíblicas específicas sobre a força e a proteção divina em face das adversidades.
+---
 [[Vida cristã]]
 
 [[Onipotência de Deus]]

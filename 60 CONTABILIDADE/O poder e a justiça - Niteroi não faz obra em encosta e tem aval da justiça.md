@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:36.329429+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: acoes_judiciais_obras_encostas_niteroi
+    weight: 10
+    confidence: 0.98
+  - name: responsabilidade_prefeitura_deslizamentos
+    weight: 9
+    confidence: 0.95
+  - name: ministerio_publico_obras_risco
+    weight: 9
+    confidence: 0.94
+  - name: decisao_tj_rj_suspensao_acoes
+    weight: 8
+    confidence: 0.93
+  - name: obras_contencao_areas_risco
+    weight: 8
+    confidence: 0.92
+  - name: mapeamento_areas_risco_niteroi
+    weight: 7
+    confidence: 0.9
+  - name: tragedia_morro_boa_esperanca
+    weight: 7
+    confidence: 0.88
+  - name: custo_obras_engenharia_geotecnia
+    weight: 6
+    confidence: 0.85
+  - name: construcoes_irregulares_encostas
+    weight: 6
+    confidence: 0.84
+  - name: negociacao_extrajudicial_mp_prefeitura
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '342.9'
+  cdu_secondary:
+  - '351.777'
+  - '304.2'
+  cdu_description: Direito administrativo; Poder executivo; Responsabilidade do Estado; Segurança pública; Meio ambiente; Gestão de riscos ambientais
+---
 Prefeitura de Niterói derrubou na Justiça 48 ações do MP que pediam obras em encostas
 
 Prefeitura de Niterói derrubou na Justiça 48 ações do MP que pediam obras em encostas

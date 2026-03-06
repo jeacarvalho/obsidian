@@ -1,9 +1,58 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:57.437090+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: inteligencia_artificial_ciclo_devops
+    weight: 9
+    confidence: 0.9
+  - name: gestao_projetos_tecnologicos
+    weight: 8
+    confidence: 0.85
+  - name: obsolescencia_tecnologica_mainframe
+    weight: 7
+    confidence: 0.75
+  - name: gestao_conhecimento_organizacional
+    weight: 6
+    confidence: 0.7
+  - name: resiliencia_sistemas_informacao
+    weight: 8
+    confidence: 0.8
+  - name: documentacao_tecnica_software
+    weight: 7
+    confidence: 0.78
+  - name: gestao_mudancas_organizacionais
+    weight: 6
+    confidence: 0.72
+  - name: infraestrutura_nuvem_aws
+    weight: 7
+    confidence: 0.77
+  - name: seguranca_identidade_verificavel
+    weight: 6
+    confidence: 0.65
+  - name: gestao_servicos_publicos_serpro
+    weight: 5
+    confidence: 0.6
+  cdu_primary: '004.8'
+  cdu_secondary:
+  - '005.3'
+  - '004.2'
+  - '004.7'
+  - '351.8'
+  cdu_description: Inteligência artificial aplicada ao ciclo DevOps, gestão de projetos tecnológicos, obsolescência de mainframe, gestão do conhecimento, resiliência de sistemas, documentação técnica, gestão de mudanças, infraestrutura em nuvem (AWS), credenciais verificáveis e gestão de serviços públicos no Serpro.
+---
 # Descrição:
 
 | links                                                                                      | Arquivos |
 | ------------------------------------------------------------------------------------------ | -------- |
 | [Documento Recaptcha Laubstein](https://dedat.gitpages.serpro/deat8/captcha/)              |          |
 | [Sistema com inventário dos serviços oferecidos pelo Serpro](https://gui.gitpages.serpro/) |          |
+
+___
+## 20260304 - Gerencial ANDAT
+- Finalizando proposta de IA no ciclo devops. 
+- Impressiona como o tempo de permanência em certos contextos vai, aos poucos, tirando a energia de continuar nele. Ou seja, alguns grupos e assuntos nos esgotam em vez de estimular. Talvez porque o conhecimento sobre as pessoas e como pensam vão gerando em nós um "mais do mesmo", uma sensação de que "já vi esse filme". 
 
 ___
 ## 20260220 - Gerencial ANDAT - Apresentação IA no Ciclo DevOps

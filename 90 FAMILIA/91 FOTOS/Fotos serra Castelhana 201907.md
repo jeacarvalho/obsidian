@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:08.832143+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fotografia_paisagem_serracastelhana
+    weight: 9
+    confidence: 0.98
+  - name: serra_castelhana_2019
+    weight: 8
+    confidence: 0.97
+  - name: turismo_rural_portugal
+    weight: 7
+    confidence: 0.85
+  - name: natureza_portuguesa
+    weight: 8
+    confidence: 0.9
+  - name: paisagens_montanhosas
+    weight: 7
+    confidence: 0.88
+  - name: fotografia_viagem
+    weight: 6
+    confidence: 0.8
+  - name: registro_fotografico_2019
+    weight: 5
+    confidence: 0.75
+  - name: patrimonio_natural_portugal
+    weight: 7
+    confidence: 0.82
+  - name: exploracao_geografica
+    weight: 6
+    confidence: 0.78
+  - name: documentacao_visual_regiao
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '778.34'
+  cdu_secondary:
+  - 913.469.1
+  - '719.1'
+  cdu_description: Fotografia de paisagem da Serra Castelhana em 2019, com foco em turismo rural e natureza.
+---
 Fotos Serra Castelhana 201907
 
 ![img-20190715-wa0022.jpg](14c6a0a05467830ed225dcf09c513674.jpg)

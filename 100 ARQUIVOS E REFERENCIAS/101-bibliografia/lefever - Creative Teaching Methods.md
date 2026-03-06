@@ -2,7 +2,47 @@
 created: 2021-07-30T11:41:09 (UTC -03:00)
 tags: []
 source: https://d3u8ewz6c11pt5.cloudfront.net/static/kp/2.42.4/b393d742cdd2/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:53.340738+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: metodos_ensino_criativo
+    weight: 10
+    confidence: 0.98
+  - name: participacao_aluno_aprendizagem
+    weight: 9
+    confidence: 0.95
+  - name: papel_professor_controle_classe
+    weight: 8
+    confidence: 0.92
+  - name: ensino_baseado_historias
+    weight: 7
+    confidence: 0.9
+  - name: uso_diversidade_metodos_ensino
+    weight: 8
+    confidence: 0.93
+  - name: adaptabilidade_professor
+    weight: 7
+    confidence: 0.91
+  - name: mudanca_perspectiva_ensino
+    weight: 6
+    confidence: 0.88
+  - name: identificacao_padroes_ensino
+    weight: 7
+    confidence: 0.89
+  - name: desenvolvimento_disciplina_espiritual_professor
+    weight: 6
+    confidence: 0.85
+  - name: relacionamento_interpessoal_ensino
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '371.3'
+  cdu_secondary:
+  - 27-23
+  - '37.01'
+  cdu_description: Métodos de ensino. Ensino religioso. Pedagogia.
 ---
 
 # Creative Teaching Methods

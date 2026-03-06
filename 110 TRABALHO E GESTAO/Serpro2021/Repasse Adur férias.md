@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:50.917170+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: migracao_bd_spunet
+    weight: 7
+    confidence: 0.85
+  - name: erro_permissao_acesso_volume_sterna
+    weight: 6
+    confidence: 0.75
+  - name: arquitetura_vpn_figital
+    weight: 8
+    confidence: 0.9
+  - name: estrategia_pipeline_publicacao_figital
+    weight: 8
+    confidence: 0.9
+  - name: consultoria_fgts_adur
+    weight: 7
+    confidence: 0.8
+  - name: resistencia_mudancas_fgts
+    weight: 6
+    confidence: 0.7
+  - name: ferias_flop_cacador_sinesp
+    weight: 5
+    confidence: 0.65
+  - name: proposta_google_cloud_figital
+    weight: 9
+    confidence: 0.95
+  - name: arquitetura_referencia_nuvem_aws_google
+    weight: 8
+    confidence: 0.9
+  - name: fluxo_projetos_cam_sisu
+    weight: 7
+    confidence: 0.8
+  cdu_primary: '004'
+  cdu_secondary:
+  - '331.2'
+  - '351.7'
+  cdu_description: Ciência da computação, organização e gestão. Tecnologia. Sistemas de informação. Gestão de projetos. Recursos humanos.
+---
 # Retorno Férias 202508
 - SPUNET
 	- Migração de versão de BD (modelo e servidor)

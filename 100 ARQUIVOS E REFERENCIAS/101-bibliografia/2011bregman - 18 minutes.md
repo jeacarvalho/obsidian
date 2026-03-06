@@ -2,7 +2,47 @@
 created: 2024-04-22T15:36:39 (UTC -03:00)
 tags: []
 source: https://d3iqo9kw2lsf1n.cloudfront.net/static/kp/2.54.00/6a7dbe98ae2b/
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:51.100593+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gerenciamento_de_distracao
+    weight: 10
+    confidence: 0.9
+  - name: foco_e_produtividade
+    weight: 9
+    confidence: 0.95
+  - name: superacao_do_medo_de_errar
+    weight: 8
+    confidence: 0.85
+  - name: inteligencia_emocional
+    weight: 7
+    confidence: 0.8
+  - name: autocontrole_emocional
+    weight: 7
+    confidence: 0.85
+  - name: importancia_da_pausa
+    weight: 6
+    confidence: 0.9
+  - name: reflexao_e_introspeccao
+    weight: 6
+    confidence: 0.75
+  - name: aprendizado_continuo
+    weight: 5
+    confidence: 0.7
+  - name: equilibrio_vida_trabalho
+    weight: 5
+    confidence: 0.65
+  - name: desenvolvimento_pessoal
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '159.94'
+  cdu_secondary:
+  - '305.8'
+  - '170'
+  cdu_description: Psicologia da atenção e da concentração; Psicologia do desenvolvimento pessoal; Ética; Sociologia
 ---
 
 # Kindle: 18 Minutes: Find Your Focus, Master Distraction, and Get the Right Things Done

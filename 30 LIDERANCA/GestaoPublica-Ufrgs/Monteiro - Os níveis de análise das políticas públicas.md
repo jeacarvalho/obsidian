@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:06.208394+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_politicas_publicas
+    weight: 10
+    confidence: 0.98
+  - name: escolha_racional_politicas
+    weight: 7
+    confidence: 0.9
+  - name: politica_como_output_governamental
+    weight: 8
+    confidence: 0.92
+  - name: negociacao_politica_publica
+    weight: 9
+    confidence: 0.95
+  - name: perspectiva_organizacional_politicas
+    weight: 9
+    confidence: 0.96
+  - name: divisao_trabalho_decisao_governo
+    weight: 8
+    confidence: 0.93
+  - name: fluxo_informacao_politicas_publicas
+    weight: 7
+    confidence: 0.91
+  - name: reducao_anonimato_informacao_governo
+    weight: 6
+    confidence: 0.88
+  - name: hierarquizacao_decisoes_governamentais
+    weight: 7
+    confidence: 0.89
+  - name: sectorizacao_politica_publica
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '32'
+  cdu_secondary:
+  - '351.07'
+  - '303.322'
+  cdu_description: 32 - Política. Ciência política; 351 - Administração pública em geral. Serviços públicos. Administração municipal; 303.322 - Processos de tomada de decisão
+---
 [[administração pública]]
 Monteiro - Os níveis de análise das políticas públicas
 

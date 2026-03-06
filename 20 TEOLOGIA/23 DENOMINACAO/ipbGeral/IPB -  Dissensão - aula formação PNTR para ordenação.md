@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:26.571178+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_protestantismo_brasileiro
+    weight: 10
+    confidence: 0.98
+  - name: presbiterianismo_no_brasil
+    weight: 9
+    confidence: 0.97
+  - name: emancipacao_presbiterianismo_brasileiro
+    weight: 8
+    confidence: 0.96
+  - name: conflitos_denominacionais_protestantes
+    weight: 7
+    confidence: 0.95
+  - name: origem_mackenzie
+    weight: 6
+    confidence: 0.9
+  - name: metodismo_ribeirao_preto
+    weight: 5
+    confidence: 0.85
+  - name: batistas_no_brasil
+    weight: 5
+    confidence: 0.88
+  - name: doutrinas_calvinistas
+    weight: 6
+    confidence: 0.92
+  - name: confissao_de_fe_westminster
+    weight: 7
+    confidence: 0.93
+  - name: maconaria_e_religiao
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '284.5'
+  cdu_secondary:
+  - 27(81)
+  - '283'
+  - '286'
+  - '289.9'
+  cdu_description: Religião. Teologia. Protestantismo. Protestantismo no Brasil. Protestantismo histórico. Presbiterianismo. História do protestantismo brasileiro, com foco nas crises internas, emancipação do presbiterianismo, conflitos denominacionais entre presbiterianos, metodistas e batistas, origem do Mackenzie, doutrinas calvinistas e a Confissão de Fé de Westminster. Inclui menção à Maçonaria e sua relação com crentes.
+---
 Amados irmãos,
 
 Na próxima aula (sexta-feira), meu objetivo é entrar diretamente na Dissensão. Os slides da Consolidação, com seus personagens e fatos segue em anexo bem como os de eventos.

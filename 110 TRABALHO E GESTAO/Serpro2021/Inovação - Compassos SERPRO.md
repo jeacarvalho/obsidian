@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:52.270358+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceito_inovacao
+    weight: 10
+    confidence: 0.98
+  - name: definicao_schumpeter
+    weight: 8
+    confidence: 0.95
+  - name: definicao_drucker
+    weight: 8
+    confidence: 0.95
+  - name: definicao_gundling
+    weight: 7
+    confidence: 0.92
+  - name: elementos_inovacao
+    weight: 9
+    confidence: 0.96
+  - name: criatividade_pragmatica
+    weight: 7
+    confidence: 0.9
+  - name: motores_revolucao_digital
+    weight: 8
+    confidence: 0.93
+  - name: lei_de_moore
+    weight: 7
+    confidence: 0.88
+  - name: projetos_inovacao_falhos
+    weight: 6
+    confidence: 0.85
+  - name: inovacao_competicao
+    weight: 6
+    confidence: 0.87
+  cdu_primary: 004.056.2
+  cdu_secondary:
+  - '658.5'
+  - 005.336.2
+  cdu_description: Inovação e transformação digital, com foco em conceitos, definições (Schumpeter, Drucker, Gundling), elementos essenciais, criatividade pragmática, motores da revolução digital (Lei de Moore), e exemplos de projetos falhos e a relação com a competição.
+---
 checkin 673164
 
 # [[Inovação]] e Transformação

@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:02.371794+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_crista_contemporanea
+    weight: 10
+    confidence: 0.9
+  - name: filosofia_social_e_politica
+    weight: 9
+    confidence: 0.85
+  - name: economia_e_desenvolvimento
+    weight: 8
+    confidence: 0.8
+  - name: ficcao_cientifica_e_fantasia
+    weight: 7
+    confidence: 0.75
+  - name: psicologia_positiva_e_desenvolvimento_pessoal
+    weight: 7
+    confidence: 0.7
+  - name: sociologia_e_teoria_social
+    weight: 6
+    confidence: 0.65
+  - name: historia_antiga_e_classica
+    weight: 6
+    confidence: 0.6
+  - name: filosofia_da_ciencia
+    weight: 5
+    confidence: 0.55
+  - name: teologia_sistemica
+    weight: 5
+    confidence: 0.5
+  - name: literatura_contemporanea
+    weight: 5
+    confidence: 0.45
+  cdu_primary: '2'
+  cdu_secondary:
+  - '3'
+  - '82'
+  - '1'
+  - '9'
+  cdu_description: A lista de autores abrange teologia, filosofia social e política, economia, ficção científica, psicologia e história, indicando uma diversidade de áreas do conhecimento. A CDU primária '2' abrange Religião, com subcategorias que podem cobrir teologia cristã. A CDU '3' abrange Ciências Sociais, que pode incluir sociologia, economia e filosofia social/política. A CDU '82' abrange Literatura, relevante para ficção científica e autores literários. A CDU '1' abrange Filosofia e Psicologia, e a CDU '9' abrange História.
+---
  Autor	Total
 Boer, Roland, 1961-	11
 Timothy Keller	9

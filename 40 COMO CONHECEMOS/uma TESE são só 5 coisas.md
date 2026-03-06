@@ -3,6 +3,46 @@ created: 2023-11-17T16:23:58 (UTC -03:00)
 tags: []
 source: https://silvio.meira.com/uma-tese-sao-so-5-coisas/
 author: Silvio Meira
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:32.237760+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: estrutura_tese_dissertacao
+    weight: 10
+    confidence: 0.98
+  - name: definicao_problema_pesquisa
+    weight: 9
+    confidence: 0.97
+  - name: orientacao_academica
+    weight: 8
+    confidence: 0.96
+  - name: processo_escrita_academica
+    weight: 8
+    confidence: 0.95
+  - name: regras_trabalho_cientifico
+    weight: 7
+    confidence: 0.94
+  - name: erudicao_scholarship
+    weight: 6
+    confidence: 0.93
+  - name: importancia_introducao_tese
+    weight: 7
+    confidence: 0.92
+  - name: revisoes_texto_academico
+    weight: 6
+    confidence: 0.91
+  - name: instituicoes_ensino_superior
+    weight: 5
+    confidence: 0.9
+  - name: desenvolvimento_pesquisa_cientifica
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '001.8'
+  cdu_secondary:
+  - '378.4'
+  - '808.0'
+  cdu_description: Método e técnica de pesquisa científica; Redação científica; Ensino superior; Universidades
 ---
 
 # uma [[TESE]] são “só” 5 coisas… — dia a dia, bit a bit

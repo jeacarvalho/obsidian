@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:53.521141+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: escassez_hidrica_global
+    weight: 10
+    confidence: 0.98
+  - name: populacao_afetada_escassez_agua
+    weight: 9
+    confidence: 0.95
+  - name: consumo_agua_agricultura
+    weight: 8
+    confidence: 0.9
+  - name: mudancas_climaticas_escassez_agua
+    weight: 8
+    confidence: 0.88
+  - name: gestao_recursos_hidricos
+    weight: 7
+    confidence: 0.85
+  - name: sustentabilidade_agua_doce
+    weight: 7
+    confidence: 0.82
+  - name: escassez_agua_china_india
+    weight: 6
+    confidence: 0.78
+  - name: solucoes_escassez_agua
+    weight: 6
+    confidence: 0.75
+  - name: uso_eficiente_agua
+    weight: 5
+    confidence: 0.7
+  - name: conscientizacao_consumo_agua
+    weight: 5
+    confidence: 0.68
+  cdu_primary: '331.3'
+  cdu_secondary:
+  - '551.583'
+  - '628.1'
+  cdu_description: 331.3 - Gestão de recursos naturais e ambientais. 551.583 - Mudanças climáticas. 628.1 - Abastecimento de água. Tratamento e distribuição de água.
+---
 4 billion people face severe water scarcity at least one month a year | The Verge
 
 #  4 billion people face severe water scarcity at least one month a year

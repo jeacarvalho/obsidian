@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T21:59:23.946179+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: hipocrisia_na_igreja
+    weight: 10
+    confidence: 0.98
+  - name: teologia_da_fe
+    weight: 9
+    confidence: 0.95
+  - name: comportamento_cristao
+    weight: 8
+    confidence: 0.9
+  - name: etica_religiosa
+    weight: 7
+    confidence: 0.88
+  - name: critica_a_instituicoes_religiosas
+    weight: 6
+    confidence: 0.85
+  - name: espiritualidade_crista
+    weight: 5
+    confidence: 0.8
+  - name: religiosidade_autentica
+    weight: 7
+    confidence: 0.87
+  - name: falsidade_na_religiao
+    weight: 9
+    confidence: 0.92
+  - name: vida_eclesiastica
+    weight: 6
+    confidence: 0.82
+  - name: discernimento_espiritual
+    weight: 5
+    confidence: 0.78
+  cdu_primary: 27-28
+  cdu_secondary:
+  - '230'
+  - '240'
+  cdu_description: Teologia cristã. Doutrinas gerais. Teologia sistemática. Teologia moral e prática. Vida cristã.
+---
 Hipocrisia na igreja - 20150315
 
 Relações conjugais

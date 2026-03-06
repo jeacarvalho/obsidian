@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:08.602092+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: predestinacao_teologica
+    weight: 10
+    confidence: 0.98
+  - name: eleicao_divina
+    weight: 9
+    confidence: 0.97
+  - name: reprovacao_teologica
+    weight: 8
+    confidence: 0.9
+  - name: soberania_deus
+    weight: 9
+    confidence: 0.96
+  - name: calvinismo
+    weight: 8
+    confidence: 0.95
+  - name: teologia_reformada
+    weight: 7
+    confidence: 0.92
+  - name: interpretacao_efesios
+    weight: 6
+    confidence: 0.85
+  - name: interpretacao_romanos
+    weight: 6
+    confidence: 0.85
+  - name: vocacao_eleicao
+    weight: 7
+    confidence: 0.9
+  - name: consolo_teologico
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '234.2'
+  cdu_secondary: []
+  cdu_description: Teologia cristã. Doutrina da salvação. Predestinação e eleição.
+---
 Predestinação
 
 Efésios - Estávamos MORTOS em NOSSOS delitos e pecados. Se Deus tivesse mandado todos para o inferno seria justo. Mas alguns foram escolhidos para não ir. Então, quando Deus mantém outros na direção em que eles mesmo se colocaram, se torna injusto??

@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:00:29.848139+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_crista
+    weight: 9
+    confidence: 0.98
+  - name: biblia_sagrada
+    weight: 10
+    confidence: 0.99
+  - name: livro_de_jeremias
+    weight: 8
+    confidence: 0.97
+  - name: profecia_biblica
+    weight: 7
+    confidence: 0.95
+  - name: interpretacao_biblica
+    weight: 6
+    confidence: 0.9
+  - name: estudo_teologico
+    weight: 5
+    confidence: 0.88
+  - name: antigo_testamento
+    weight: 7
+    confidence: 0.96
+  - name: escrituras_sagradas
+    weight: 6
+    confidence: 0.92
+  - name: teologia_do_antigo_testamento
+    weight: 5
+    confidence: 0.85
+  - name: estudo_de_textos_religiosos
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '224.1'
+  cdu_secondary:
+  - '230'
+  cdu_description: 224.1 - Livros proféticos do Antigo Testamento. Jeremias. 230 - Teologia cristã
+---
 Veio também nos dias de Jeoaquim, filho de Josias, rei de Judá, até o fim do décimo primeiro ano do reinado de Zedequias, filho de Josias, rei de Judá. No quinto mês desse ano, os moradores de Jerusalém foram levados ao exílio. Jeremias 1:3 NAA
 
 - Jeremias pregou Seis anos no cativeiro

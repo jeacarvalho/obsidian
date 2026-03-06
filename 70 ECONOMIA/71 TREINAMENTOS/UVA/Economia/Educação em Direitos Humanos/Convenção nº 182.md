@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.463728+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: proibicao_piores_formas_trabalho_infantil
+    weight: 10
+    confidence: 0.98
+  - name: eliminacao_trabalho_infantil
+    weight: 9
+    confidence: 0.97
+  - name: convencao_oit_182
+    weight: 8
+    confidence: 0.96
+  - name: acao_imediata_trabalho_infantil
+    weight: 7
+    confidence: 0.94
+  - name: definicao_crianca_menor_18_anos
+    weight: 6
+    confidence: 0.93
+  - name: escravidao_infantil
+    weight: 7
+    confidence: 0.92
+  - name: trafico_de_criancas
+    weight: 7
+    confidence: 0.91
+  - name: trabalho_forcado_infantil
+    weight: 7
+    confidence: 0.9
+  - name: trabalho_perigoso_para_criancas
+    weight: 6
+    confidence: 0.89
+  - name: reabilitacao_social_criancas_trabalhadoras
+    weight: 5
+    confidence: 0.88
+  cdu_primary: '331.59'
+  cdu_secondary:
+  - 341.241.1
+  - '364.66'
+  cdu_description: Trabalho infantil. Proibição e eliminação das piores formas. Convenções internacionais. Direitos da criança. Proteção social.
+---
 **CONVENÇÃO Nº 182  
 **
 

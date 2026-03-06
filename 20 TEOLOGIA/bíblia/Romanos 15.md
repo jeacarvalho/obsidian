@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:48.232612+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: esperanca_crista
+    weight: 10
+    confidence: 0.98
+  - name: consolo_nas_escrituras
+    weight: 8
+    confidence: 0.95
+  - name: unidade_crista
+    weight: 9
+    confidence: 0.97
+  - name: paz_e_alegria_em_cristo
+    weight: 7
+    confidence: 0.92
+  - name: poder_do_espirito_santo
+    weight: 9
+    confidence: 0.96
+  - name: evangelismo_e_missao
+    weight: 8
+    confidence: 0.94
+  - name: pregacao_do_evangelho
+    weight: 7
+    confidence: 0.93
+  - name: obras_e_sinais_divinos
+    weight: 6
+    confidence: 0.9
+  - name: compartilhamento_material_espiritual
+    weight: 7
+    confidence: 0.91
+  - name: servico_na_igreja
+    weight: 6
+    confidence: 0.89
+  cdu_primary: 27-28
+  cdu_secondary:
+  - '235.3'
+  - '248.3'
+  - '267.1'
+  cdu_description: Teologia cristã, especialmente a teologia do Novo Testamento (Romanos), com foco em esperança, unidade, poder do Espírito Santo, evangelismo e serviço.
+---
 Pois tudo o que no passado foi escrito, para o nosso ensino foi escrito, a fim de que, pela paciência e pela consolação das Escrituras, tenhamos esperança.
 
 Romanos 15:4 NAA

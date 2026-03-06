@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:19.697917+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: prazer_em_compor_e_criar_musica
+    weight: 10
+    confidence: 0.98
+  - name: medo_de_errar_e_paralisia
+    weight: 9
+    confidence: 0.95
+  - name: perda_rapida_de_interesse_em_temas
+    weight: 8
+    confidence: 0.92
+  - name: desejo_de_criar_e_fazer_o_bem
+    weight: 7
+    confidence: 0.9
+  - name: dificuldade_em_encontrar_momentos_de_realizacao
+    weight: 6
+    confidence: 0.88
+  - name: prazer_em_estudar_ler_e_pensar
+    weight: 7
+    confidence: 0.85
+  - name: importancia_da_disciplina_para_criacao
+    weight: 8
+    confidence: 0.82
+  - name: relacao_entre_criacao_e_trabalho_em_ti
+    weight: 6
+    confidence: 0.78
+  - name: parceria_na_composicao_musical
+    weight: 5
+    confidence: 0.75
+  - name: necessidade_de_desenvolver_passos_pequenos_baby_steps
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '78.0'
+  - '001.8'
+  - '170'
+  cdu_description: Psicologia da realização pessoal e criatividade, com ênfase na superação de bloqueios psicológicos e no desenvolvimento de disciplina para atividades criativas e intelectuais.
+---
 # Liste as atividades e momentos em sua vida em que você se sentiu mais realizado e energizado
 - Aqui já tenho um problema bastante sério, no meu ponto de vista. Não consigo me permitir encontrar esses momentos. Talvez por já ter o "conhecimento" de onde eles estão, e de onde me levarão se eu seguir nesse caminho. 
 - Me dá prazer estudar. Bastante. Não significa que consiga focar muito tempo, nos dias de hoje. Tenho perdido interesse rapidamente nos temas. Começo o bloco nas graduações animado, mas começo a ler e encho o saco. Sim, já sou assim há algum tempo. Mudo rapidamente de interesses, focando bastante no início e perdendo estímulo com o tempo. Mas com a aceleração da vida esse movimento interno se tornou mais constante e mais rápido. 

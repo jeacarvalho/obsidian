@@ -2,12 +2,53 @@
 title: Fundamentalismo e reprodução social na América Latina
 source: https://revistazelota.com/fundamentalismo-e-reproducao-social-na-america-latina/
 author:
-  - "[[Bruno Reikdal]]"
+- '[[Bruno Reikdal]]'
 published: 2023-10-20
 created: 2025-04-01
 description: A base do fundamentalismo cristão se concentra em classes médias da sociedade que comandam as instituições religiosas como reação às expansões e crises do capitalismo
 tags:
-  - clippings
+- clippings
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:21:20.359759+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fundamentalismo_cristao_america_latina
+    weight: 10
+    confidence: 0.98
+  - name: crise_capitalismo_moderno
+    weight: 9
+    confidence: 0.95
+  - name: reproducao_social_capitalista
+    weight: 8
+    confidence: 0.92
+  - name: classes_medias_movimentos_religiosos
+    weight: 7
+    confidence: 0.9
+  - name: impacto_politico_fundamentalismo
+    weight: 8
+    confidence: 0.93
+  - name: fundamentalismo_reacao_iluminismo
+    weight: 6
+    confidence: 0.85
+  - name: modernizacao_industrial_america_latina
+    weight: 7
+    confidence: 0.88
+  - name: movimentos_religiosos_radicalizados
+    weight: 8
+    confidence: 0.91
+  - name: crise_ambiental_desenvolvimento_economico
+    weight: 6
+    confidence: 0.87
+  - name: estrategias_luta_contra_fundamentalismo
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '322.1'
+  cdu_secondary:
+  - 27-29
+  - '305.8'
+  - '330.5'
+  cdu_description: Relação entre religião e política, com foco no fundamentalismo cristão na América Latina como reação à crise do capitalismo e à modernização, e seu impacto nas classes médias e na reprodução social.
 ---
 ![Fundamentalismo e reprodução social na América Latina](https://cdn.revistazelota.com/wp-content/uploads/2024/11/11195633/Foto-de-Luis-Quintero-@pexels-1200x675.jpg) Foto de Luis Quintero @pexels.jpg [Política](https://revistazelota.com/categorias/politica/)
 

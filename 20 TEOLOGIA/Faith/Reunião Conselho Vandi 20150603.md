@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:15.158132+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reuniao_conselho_igreja_presbiteriana
+    weight: 10
+    confidence: 0.98
+  - name: novo_pastor_titular_igreja
+    weight: 9
+    confidence: 0.95
+  - name: aprovacao_obreiro_ministerio
+    weight: 8
+    confidence: 0.92
+  - name: projeto_celulas_igreja
+    weight: 9
+    confidence: 0.96
+  - name: unificacao_celulas_igreja
+    weight: 8
+    confidence: 0.93
+  - name: projeto_formacao_lideranca_igreja
+    weight: 9
+    confidence: 0.94
+  - name: aspirantes_diaconia_igreja
+    weight: 7
+    confidence: 0.9
+  - name: ministerio_jovens_igreja
+    weight: 8
+    confidence: 0.91
+  - name: administracao_recursos_igreja
+    weight: 7
+    confidence: 0.88
+  - name: transparencia_administracao_financeira_igreja
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '284.1'
+  cdu_secondary:
+  - '267.1'
+  - '262.1'
+  - '268.1'
+  cdu_description: Igrejas Presbiterianas (284.1), Organização e administração de igrejas (262.1), Atividades pastorais e de evangelização (267.1), Educação religiosa e formação de líderes (268.1)
+---
 Reunião Conselho Vandi
 
 Ata da reunião do conselho da Igreja Presbiteriana Betânia em Piratininga, realizada no dai 03/06/2015.

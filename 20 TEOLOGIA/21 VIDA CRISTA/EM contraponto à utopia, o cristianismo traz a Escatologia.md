@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:10.114051+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: escatologia_crista_vs_utopia
+    weight: 10
+    confidence: 0.98
+  - name: origem_divina_da_escatologia
+    weight: 9
+    confidence: 0.95
+  - name: intervencao_divina_na_historia
+    weight: 9
+    confidence: 0.96
+  - name: incapacidade_humana_na_conquista
+    weight: 8
+    confidence: 0.92
+  - name: relacionamento_humano_divino
+    weight: 8
+    confidence: 0.94
+  - name: realizacao_divina_vs_ideologia_humana
+    weight: 7
+    confidence: 0.93
+  - name: perspectiva_escatologica_sobre_conquistas
+    weight: 7
+    confidence: 0.91
+  - name: escatologia_e_peregrinacao_espiritual
+    weight: 8
+    confidence: 0.97
+  - name: felicidade_presente_na_escatologia
+    weight: 6
+    confidence: 0.9
+  - name: adoracao_a_deus_na_perspectiva_escatologica
+    weight: 7
+    confidence: 0.94
+  cdu_primary: '230.2'
+  cdu_secondary:
+  - 27-29
+  - '201.6'
+  cdu_description: Teologia cristã. Escatologia. Doutrinas cristãs sobre o fim dos tempos. Comparação com utopia. Peregrinação espiritual. Relação com o divino.
+---
 #### EM **contraponto à utopia, o cristianismo traz a Escatologia**
 
 - Ela **principia com Deus** em vez de seres humanos.

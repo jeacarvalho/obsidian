@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:51.527097+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: trajetoria_educacional_tabata_amaral
+    weight: 10
+    confidence: 0.98
+  - name: origem_periferia_sao_paulo
+    weight: 9
+    confidence: 0.97
+  - name: acesso_oportunidades_educacao
+    weight: 9
+    confidence: 0.96
+  - name: sonho_harvard_universidades_internacionais
+    weight: 8
+    confidence: 0.95
+  - name: critica_meritocracia_desigualdade
+    weight: 8
+    confidence: 0.94
+  - name: politica_educacao_brasil
+    weight: 7
+    confidence: 0.93
+  - name: qualidade_ensino_medio_brasil
+    weight: 7
+    confidence: 0.92
+  - name: renovacao_politica_jovens
+    weight: 6
+    confidence: 0.91
+  - name: movimentos_sociais_educacao
+    weight: 6
+    confidence: 0.9
+  - name: inspiracao_jovens_periferia
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '37.0'
+  cdu_secondary:
+  - '32'
+  - '305.8'
+  cdu_description: Educação; Política; Sociologia da juventude
+---
 Jovem da periferia de SP que chegou a Harvard sonha em mudar educação e entrar para a política
 
 # Jovem da periferia de SP que chegou a Harvard sonha em mudar educação brasileira e entrar para a política

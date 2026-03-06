@@ -1,4 +1,45 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:42.721269+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reconstrucao_revolucionaria_partido_comunista_brasileiro
+    weight: 10
+    confidence: 0.98
+  - name: centralismo_democratico
+    weight: 8
+    confidence: 0.9
+  - name: luta_de_classes
+    weight: 9
+    confidence: 0.95
+  - name: revolucao_socialista
+    weight: 9
+    confidence: 0.96
+  - name: crise_partidaria_pcb
+    weight: 7
+    confidence: 0.85
+  - name: expurgo_politico
+    weight: 6
+    confidence: 0.8
+  - name: movimento_comunista_internacional
+    weight: 8
+    confidence: 0.92
+  - name: marxismo_leninismo
+    weight: 7
+    confidence: 0.88
+  - name: imperialismo
+    weight: 7
+    confidence: 0.87
+  - name: critica_autocritica
+    weight: 6
+    confidence: 0.82
+  cdu_primary: '329.14'
+  cdu_secondary:
+  - '335.4'
+  - '323.2'
+  cdu_description: 329.14 - Partidos comunistas e operários. 335.4 - Socialismo marxista. 323.2 - Luta de classes, revoluções, movimentos sociais.
+---
 # Manifesto em defesa da Reconstrução Revolucionária do PCB!
 
 > ## Excerpt

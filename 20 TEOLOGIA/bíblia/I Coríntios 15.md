@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:48.348837+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: evangelho_mensagem_salvacao
+    weight: 9
+    confidence: 0.98
+  - name: testemunho_ressurreicao_jesus
+    weight: 8
+    confidence: 0.95
+  - name: trabalho_pela_graca_divina
+    weight: 7
+    confidence: 0.92
+  - name: centralidade_ressurreicao_crista
+    weight: 10
+    confidence: 0.99
+  - name: esperanca_futuro_eterno
+    weight: 9
+    confidence: 0.97
+  - name: justica_social_como_fruto_fe
+    weight: 7
+    confidence: 0.9
+  - name: vida_nova_em_cristo
+    weight: 8
+    confidence: 0.96
+  - name: reinado_de_cristo_sobre_inimigos
+    weight: 6
+    confidence: 0.88
+  - name: conhecimento_de_deus_na_igreja
+    weight: 7
+    confidence: 0.91
+  - name: perseveranca_na_obra_do_senhor
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - 27-29
+  - '231.7'
+  - '234.2'
+  cdu_description: Teologia cristã. Cristologia. Ressurreição de Cristo. Escatologia. Vida cristã. Ética cristã.
+---
 1 Coríntios 15:2 (Bíblia Almeida Strong) 2 por ele também sois salvos, se retiverdes a palavra tal como vo-la preguei, a menos que tenhais crido em vão.
 - O [[evangelho]] é a mensagem da salvação. Não é a fé em qualquer coisa, em qualquer forma até mesmo do evangelho.
 

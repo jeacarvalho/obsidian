@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:40.728994+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contabilidade_avancada
+    weight: 10
+    confidence: 0.98
+  - name: aspectos_societarios_contabilidade
+    weight: 9
+    confidence: 0.95
+  - name: aspectos_tributarios_contabilidade
+    weight: 9
+    confidence: 0.95
+  - name: aquisicoes_empresariais
+    weight: 8
+    confidence: 0.92
+  - name: reestruturacoes_empresariais
+    weight: 8
+    confidence: 0.92
+  - name: contabilidade_societaria
+    weight: 8
+    confidence: 0.93
+  - name: contabilidade_tributaria
+    weight: 8
+    confidence: 0.93
+  - name: lancamentos_contabeis_debito_credito
+    weight: 7
+    confidence: 0.9
+  - name: goodwill_contabilidade
+    weight: 6
+    confidence: 0.85
+  - name: investimentos_contabilidade
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '657.1'
+  cdu_secondary:
+  - '657.3'
+  - '336.2'
+  - '338.5'
+  cdu_description: Contabilidade. Contabilidade de custos e de empresas. Contabilidade tributária. Contabilidade de empresas
+---
 # Referência
 ## BÁSICA 
 - COSTA, Ronesei N. da. Contabilidade Avançada: uma abordagem direta e atualizada. Curitiba: Intersaberes, 2012. 

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.191980+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: escola_keynesiana_intervencao_estado
+    weight: 9
+    confidence: 0.98
+  - name: keynes_demanda_agregada
+    weight: 8
+    confidence: 0.97
+  - name: propensao_marginal_consumo
+    weight: 7
+    confidence: 0.96
+  - name: efeito_multiplicador_economia
+    weight: 7
+    confidence: 0.95
+  - name: estado_bem_estar_social
+    weight: 6
+    confidence: 0.94
+  - name: liberalismo_economico_historico
+    weight: 8
+    confidence: 0.93
+  - name: neoliberalismo_escola_chicago
+    weight: 6
+    confidence: 0.92
+  - name: crise_economica_anos_30
+    weight: 7
+    confidence: 0.91
+  - name: intervencao_estatal_economia_brasileira
+    weight: 8
+    confidence: 0.9
+  - name: analise_macroeconomica
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '330.1'
+  cdu_secondary:
+  - '330.14'
+  - '330.5'
+  - '338.1'
+  cdu_description: Economia. Teoria econômica. História do pensamento econômico. Macroeconomia. Política econômica.
+---
 - Interessante essa avaliação sobre a [[Coltro Santos#Racionalidade funcional]]
 
 # Bibligorafia

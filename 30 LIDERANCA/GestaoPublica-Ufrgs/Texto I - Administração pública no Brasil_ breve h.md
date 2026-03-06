@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:05.951300+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_administracao_publica_brasil
+    weight: 10
+    confidence: 0.98
+  - name: burocracia_portugal_heranca_legalismo
+    weight: 9
+    confidence: 0.95
+  - name: clientelismo_patrimonialismo_relacao_poder
+    weight: 9
+    confidence: 0.96
+  - name: influencia_feudalismo_burguesia_portugal
+    weight: 8
+    confidence: 0.92
+  - name: periodo_unificacao_portugal_espanha_consequencias
+    weight: 7
+    confidence: 0.9
+  - name: ocupacao_colonizacao_brasil_intervencao_central
+    weight: 8
+    confidence: 0.93
+  - name: centralizacao_poder_enfraquecimento_camaras_municipais
+    weight: 7
+    confidence: 0.91
+  - name: descoberta_ouro_diamantes_controle_governo_central
+    weight: 8
+    confidence: 0.94
+  - name: chegada_familia_real_abertura_portos_administracao
+    weight: 9
+    confidence: 0.97
+  - name: expansao_estado_imperio_servico_publico_elites
+    weight: 9
+    confidence: 0.96
+  cdu_primary: '351.0'
+  cdu_secondary:
+  - '323.3'
+  - '330.5'
+  - '946.9'
+  cdu_description: Administração pública. Administração geral. Administração do Estado. Administração pública no Brasil, com ênfase na sua história política e nas influências de Portugal e Espanha, incluindo burocracia, patrimonialismo, centralização do poder, e a expansão do Estado durante o Império.
+---
 Texto I - [[Administração]] pública no Brasil: breve história política. São Paulo: UNIFESPundefined 2010. p. 13-37
 
 Pag 14 - Portugal e Espanha -

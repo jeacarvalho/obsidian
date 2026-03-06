@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:21.881118+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: planejamento_financeiro_igreja
+    weight: 9
+    confidence: 0.98
+  - name: missao_e_valores_igreja
+    weight: 8
+    confidence: 0.95
+  - name: crescimento_e_estabilidade_da_igreja
+    weight: 7
+    confidence: 0.92
+  - name: projeto_social_e_comunitario
+    weight: 8
+    confidence: 0.96
+  - name: lideranca_e_uniao_ministerial
+    weight: 7
+    confidence: 0.9
+  - name: infraestrutura_e_manutencao_predial
+    weight: 6
+    confidence: 0.88
+  - name: ensino_biblico_e_escola_dominical
+    weight: 7
+    confidence: 0.93
+  - name: evangelismo_e_missao_urbana
+    weight: 8
+    confidence: 0.94
+  - name: musica_e_adoracao_na_igreja
+    weight: 6
+    confidence: 0.85
+  - name: diaconia_e_servico_social
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '27'
+  cdu_secondary:
+  - 27-4
+  - '366.1'
+  - '377.1'
+  cdu_description: Religião. Teologia. Igreja. Vida cristã. Organização e administração eclesiástica. Missões. Serviço social e diaconia. Educação religiosa.
+---
 Reflexão e plano de ações
 
 Pessoal

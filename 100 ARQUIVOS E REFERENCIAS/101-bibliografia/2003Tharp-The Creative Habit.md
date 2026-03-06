@@ -1,16 +1,57 @@
 ---
-title: "The Creative Habit"
-title_sort: "Creative Habit, The"
-author: "Tharp, Twyla"
-author_sort: "Tharp, Twyla"
-formats: ["EPUB"]
+title: The Creative Habit
+title_sort: Creative Habit, The
+author: Tharp, Twyla
+author_sort: Tharp, Twyla
+formats:
+- EPUB
 date: 2025-12-09
-uuid: "49036f43-4979-4ad2-bf61-91ab18ec0d5d"
+uuid: 49036f43-4979-4ad2-bf61-91ab18ec0d5d
 id: 676
-published: "Out 2003"
+published: Out 2003
 modified: 2025-12-09
-size: "0.33 MB"
-language: "Inglês"
+size: 0.33 MB
+language: Inglês
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:57.062049+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: habito_criativo_disciplina
+    weight: 10
+    confidence: 0.98
+  - name: ritual_preparacao_criatividade
+    weight: 9
+    confidence: 0.97
+  - name: criatividade_como_habilidade
+    weight: 8
+    confidence: 0.96
+  - name: pratica_deliberada_ericsson
+    weight: 7
+    confidence: 0.92
+  - name: desmistificacao_genio_criativo
+    weight: 6
+    confidence: 0.9
+  - name: etica_trabalho_pragmatica
+    weight: 5
+    confidence: 0.88
+  - name: influencia_produtividade_autoajuda
+    weight: 7
+    confidence: 0.91
+  - name: estrutura_processo_criativo
+    weight: 8
+    confidence: 0.94
+  - name: analogia_exercicio_fisico_criatividade
+    weight: 6
+    confidence: 0.85
+  - name: prevencao_procrastinacao_idealizacao
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '159.954'
+  cdu_secondary:
+  - 004.001.891
+  - '7.01'
+  cdu_description: Psicologia da criatividade e da invenção (159.954); Inovação e criatividade em tecnologia da informação (004.001.891); Teoria e estética das artes (7.01)
 ---
 
 

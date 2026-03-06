@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:29.566533+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: galardao_trabalho_cristao
+    weight: 9
+    confidence: 0.98
+  - name: edificacao_santuario_deus
+    weight: 8
+    confidence: 0.95
+  - name: sabedoria_mundana_vs_divina
+    weight: 10
+    confidence: 0.99
+  - name: loucura_sabedoria_mundo
+    weight: 7
+    confidence: 0.92
+  - name: humildade_sabedoria_verdadeira
+    weight: 8
+    confidence: 0.96
+  - name: propriedade_crista_tudo_nosso
+    weight: 7
+    confidence: 0.93
+  - name: relacao_cristo_deus
+    weight: 6
+    confidence: 0.88
+  - name: identidade_crista_pertencenca
+    weight: 6
+    confidence: 0.89
+  - name: obra_permanente_recompensa
+    weight: 8
+    confidence: 0.94
+  - name: salvacao_fogo_prova
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '227.1'
+  cdu_secondary: []
+  cdu_description: Teologia cristã - Epístolas de Paulo - Primeira Epístola aos Coríntios
+---
 1 Coríntios 3:8 (Bíblia Almeida Strong)
 8 Ora, o que planta e o que rega são um; e cada um receberá o seu galardão, segundo o seu próprio trabalho.
 - Galardão, um conceito importante

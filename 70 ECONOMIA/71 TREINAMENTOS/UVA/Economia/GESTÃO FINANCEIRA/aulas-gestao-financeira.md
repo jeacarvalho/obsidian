@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.780556+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: avaliacao_de_obrigacoes
+    weight: 9
+    confidence: 0.98
+  - name: titulos_de_divida_empresarial
+    weight: 8
+    confidence: 0.95
+  - name: flutuacoes_taxas_mercado
+    weight: 7
+    confidence: 0.9
+  - name: necessidade_capital_empresarial
+    weight: 10
+    confidence: 0.99
+  - name: mercado_financeiro
+    weight: 9
+    confidence: 0.97
+  - name: captacao_recursos_financeiros
+    weight: 8
+    confidence: 0.96
+  - name: capital_proprio
+    weight: 7
+    confidence: 0.92
+  - name: capital_de_terceiros
+    weight: 7
+    confidence: 0.92
+  - name: estrutura_de_capital
+    weight: 8
+    confidence: 0.94
+  - name: investimento_empresarial
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '336.7'
+  cdu_secondary:
+  - '330.14'
+  - '336.1'
+  - '658.15'
+  cdu_description: Finanças. Mercado monetário e de capitais. Sistema financeiro. Investimento. Financiamento. Estrutura de capital.
+---
 https://ead.uva.br/disciplinas/grad/publica/cont/ghi/gfi/re/u1/tema-1.htm
 
   * [Introdução](index.htm)

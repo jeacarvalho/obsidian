@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:49.706318+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ciclismo_feminino_adulto
+    weight: 10
+    confidence: 0.98
+  - name: transformacao_fisica_apos_40
+    weight: 9
+    confidence: 0.95
+  - name: mudanca_estilo_vida_saudavel
+    weight: 8
+    confidence: 0.92
+  - name: superacao_sedentarismo
+    weight: 7
+    confidence: 0.9
+  - name: menopausa_e_atividade_fisica
+    weight: 7
+    confidence: 0.88
+  - name: disciplina_esportiva
+    weight: 6
+    confidence: 0.85
+  - name: inspiracao_mudanca_comportamental
+    weight: 6
+    confidence: 0.82
+  - name: nutricao_esportiva_organica
+    weight: 5
+    confidence: 0.78
+  - name: bem_estar_mental_exercicio
+    weight: 5
+    confidence: 0.75
+  - name: equilibrio_vida_social_esporte
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '796.6'
+  cdu_secondary:
+  - '613.98'
+  - '305.4'
+  - '612.67'
+  cdu_description: Ciclismo (796.6), Saúde da mulher e higiene (613.98), Mulheres e a sociedade (305.4), Menopausa (612.67)
+---
 Mulheres ageless: ela foi de sedentária a atleta de ciclismo aos 47 anos
 
 # ela foi de sedentária a atleta de ciclismo aos 47 anos

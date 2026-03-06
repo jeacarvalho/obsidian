@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:02.305132+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: exegese_biblica_tecnica
+    weight: 9
+    confidence: 0.98
+  - name: hermeneutica_critica_biblica
+    weight: 8
+    confidence: 0.95
+  - name: jesus_historia_politica
+    weight: 9
+    confidence: 0.97
+  - name: paulo_cristianismo_primitivo
+    weight: 9
+    confidence: 0.96
+  - name: teologia_sistematica
+    weight: 8
+    confidence: 0.94
+  - name: critica_marxista_biblia
+    weight: 7
+    confidence: 0.9
+  - name: teologia_politica
+    weight: 8
+    confidence: 0.92
+  - name: estudo_antigo_testamento
+    weight: 7
+    confidence: 0.91
+  - name: cristianismo_oriental_ortodoxo
+    weight: 6
+    confidence: 0.85
+  - name: teologia_corporal
+    weight: 5
+    confidence: 0.8
+  cdu_primary: '2'
+  cdu_secondary:
+  - '22'
+  - '23'
+  - '27'
+  - '28'
+  - '32'
+  cdu_description: Religião. Teologia. Teologia cristã. Bíblia. História do Cristianismo. Teologia Sistemática. Teologia Política.
+---
 [[📜 PROMPT INICIAL ATUALIZADO — CURADOR INTELECTUAL POLIFÔNICO (7 MODOS) - modo LLM geral]]
 
 

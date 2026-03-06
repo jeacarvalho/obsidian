@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:27.913205+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: resumo_de_conteudo_textual
+    weight: 8
+    confidence: 0.95
+  - name: identificacao_ideias_principais
+    weight: 9
+    confidence: 0.92
+  - name: proposta_acoes_praticas
+    weight: 10
+    confidence: 0.98
+  - name: exercicios_reflexivos
+    weight: 7
+    confidence: 0.9
+  - name: referencias_autores_concordantes
+    weight: 6
+    confidence: 0.88
+  - name: referencias_autores_discordantes
+    weight: 6
+    confidence: 0.88
+  - name: analise_pontos_fortes_fracos
+    weight: 8
+    confidence: 0.93
+  - name: solucoes_teoricas_pontos_baixos
+    weight: 7
+    confidence: 0.91
+  - name: solucoes_praticas_pontos_baixos
+    weight: 9
+    confidence: 0.96
+  - name: fortalecimento_pontos_fortes
+    weight: 7
+    confidence: 0.9
+  cdu_primary: '004.9'
+  cdu_secondary:
+  - '007'
+  - '37.01'
+  - '800.9'
+  cdu_description: Processamento de dados textuais e informacionais, com ênfase em inteligência artificial, métodos de ensino e aprendizagem, e linguística aplicada à tecnologia.
+---
 1) faça um resumo do que contenha, no máximo, 1/4 da quantidade de palavras do texto
 2) Quais as principais ideias do capítulo? Descreva-as em apenas uma frase para cada ideia
 3) agora, a partir das ideias principais do autor, proponha 3 ações que ajudem ao leitor desse capítulo do livro a colocar em prática o que o autor ensinou. Leve em consideração aquilo que acontece na vida "normal" das pessoas. Ou seja, Pense no que acontece em um dia normal de um ser humano. Escola, trabalho, família, lazer, problemas a resolver, tudo isso já consome nosso tempo. Assim, seja criativo e proponha ações que possam acontecer "enquanto a vida acontece", de maneira a não aumentar a demanda de tempo da pessoa. Ao propor ações pense: como, nesse dia a dia e no que acontece, alguém pode praticar o que o autor ensina?

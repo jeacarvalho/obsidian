@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:26.666322+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: administracao_religiosa
+    weight: 10
+    confidence: 0.98
+  - name: organizacao_igreja
+    weight: 9
+    confidence: 0.95
+  - name: lideranca_eclesiastica
+    weight: 8
+    confidence: 0.92
+  - name: recursos_humanos_igreja
+    weight: 7
+    confidence: 0.88
+  - name: gestao_financeira_religiosa
+    weight: 7
+    confidence: 0.85
+  - name: planejamento_estrategico_igreja
+    weight: 6
+    confidence: 0.82
+  - name: direito_eclesiastico
+    weight: 6
+    confidence: 0.8
+  - name: teologia_da_organizacao
+    weight: 5
+    confidence: 0.78
+  - name: comunicacao_institucional_religiosa
+    weight: 5
+    confidence: 0.75
+  - name: etica_na_gestao_eclesiastica
+    weight: 5
+    confidence: 0.72
+  cdu_primary: 27-65
+  cdu_secondary: []
+  cdu_description: Gestão eclesiástica, administração e organização de igrejas e instituições religiosas.
+---
 gestão eclesiástica
 
 gestão eclesiástica

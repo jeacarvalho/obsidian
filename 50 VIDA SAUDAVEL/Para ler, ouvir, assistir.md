@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:24.116529+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: lideranca_transformadora
+    weight: 10
+    confidence: 0.98
+  - name: desenvolvimento_de_lideranca
+    weight: 9
+    confidence: 0.95
+  - name: gestao_de_talentos
+    weight: 8
+    confidence: 0.92
+  - name: cultura_organizacional
+    weight: 7
+    confidence: 0.9
+  - name: aprendizado_continuo
+    weight: 7
+    confidence: 0.88
+  - name: lideranca_inclusiva
+    weight: 8
+    confidence: 0.91
+  - name: historia_de_niteroi
+    weight: 6
+    confidence: 0.85
+  - name: musica_instrumental
+    weight: 5
+    confidence: 0.8
+  - name: lista_de_livros_programacao
+    weight: 7
+    confidence: 0.87
+  - name: teologia_reformada
+    weight: 6
+    confidence: 0.82
+  cdu_primary: '005.32'
+  cdu_secondary:
+  - '316.46'
+  - '374.7'
+  - '284.5'
+  - '004'
+  cdu_description: Liderança transformadora, desenvolvimento de liderança, gestão de talentos, cultura organizacional, aprendizado contínuo, liderança inclusiva, história local (Niterói), música instrumental, programação de computadores, teologia reformada.
+---
 ### Assistir
 [[5 TED Talks em liderança transformadora]]
 [[10 grandes TED Talks para líderes]]

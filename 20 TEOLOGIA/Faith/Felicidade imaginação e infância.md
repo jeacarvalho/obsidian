@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:19.031197+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: felicidade_e_imaginacao
+    weight: 10
+    confidence: 0.98
+  - name: conceito_de_utopia
+    weight: 9
+    confidence: 0.97
+  - name: utopia_vs_profecia_religiosa
+    weight: 9
+    confidence: 0.96
+  - name: origem_das_utopias
+    weight: 8
+    confidence: 0.95
+  - name: filosofos_e_utopia
+    weight: 8
+    confidence: 0.94
+  - name: utopia_e_distopia
+    weight: 8
+    confidence: 0.93
+  - name: criticas_a_utopia
+    weight: 7
+    confidence: 0.92
+  - name: crianca_interior_e_felicidade
+    weight: 10
+    confidence: 0.98
+  - name: dependencia_televisiva_e_fuga_da_realidade
+    weight: 7
+    confidence: 0.91
+  - name: escatologia_crista
+    weight: 6
+    confidence: 0.9
+  cdu_primary: '159.965'
+  cdu_secondary:
+  - 316.334.2
+  - '230.2'
+  - '111.1'
+  cdu_description: 159.965 - Imaginação; 316.334.2 - Utopia e distopia; 230.2 - Escatologia cristã; 111.1 - Filosofia da vida
+---
 Felicidade imaginação e infância
 
 Infância e algum lugar, alguma coisa, que nos traz felicidade?

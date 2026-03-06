@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.277471+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_economico
+    weight: 10
+    confidence: 0.98
+  - name: subdesenvolvimento
+    weight: 9
+    confidence: 0.95
+  - name: crescimento_demografico
+    weight: 8
+    confidence: 0.92
+  - name: contradicoes_economicas
+    weight: 7
+    confidence: 0.88
+  - name: tensoes_sociais
+    weight: 7
+    confidence: 0.87
+  - name: camponeses_sem_terra
+    weight: 6
+    confidence: 0.85
+  - name: desemprego
+    weight: 6
+    confidence: 0.84
+  - name: natalidade
+    weight: 5
+    confidence: 0.8
+  - name: desenvolvimento_social
+    weight: 5
+    confidence: 0.82
+  - name: papel_cepal
+    weight: 9
+    confidence: 0.9
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '316.3'
+  - '338.1'
+  cdu_description: Economia do desenvolvimento. Teoria e política do desenvolvimento econômico. Crescimento demográfico e suas relações com o desenvolvimento econômico e social, tensões sociais e o papel de organismos como a CEPAL.
+---
 # Referências
 ## BÁSICA
 - Ebook: [[DEC_ebook.pdf]]

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:52.869047+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: crise_seguranca_publica_rio_janeiro
+    weight: 10
+    confidence: 0.98
+  - name: intervencao_federal_seguranca
+    weight: 9
+    confidence: 0.97
+  - name: corrupcao_policial
+    weight: 9
+    confidence: 0.96
+  - name: desigualdade_social_crime
+    weight: 8
+    confidence: 0.95
+  - name: critica_operacoes_policiais_favelas
+    weight: 8
+    confidence: 0.94
+  - name: diagnostico_ex_chefe_policia_civil
+    weight: 7
+    confidence: 0.93
+  - name: reforma_estrutural_policia
+    weight: 7
+    confidence: 0.92
+  - name: papel_forcas_armadas_seguranca
+    weight: 6
+    confidence: 0.91
+  - name: relacao_elite_inseguranca
+    weight: 6
+    confidence: 0.9
+  - name: crime_organizado_vs_trafico_local
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '351.74'
+  cdu_secondary:
+  - '305.8'
+  - '323.3'
+  cdu_description: Administração pública. Segurança pública. Polícia. Polícia civil. Polícia militar. Corrupção. Desigualdade social. Elites. Intervenção federal.
+---
 ‘O problema do Rio não são os bandidosundefined são os mocinhos’undefined diz ex-chefe da Polícia Civil
 
 # ‘O problema do Rio não são os bandidos, são os mocinhos’, diz ex-chefe da Polícia Civil

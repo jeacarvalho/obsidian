@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:06.260311+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_meditacao_biblica
+    weight: 8
+    confidence: 0.9
+  - name: identificacao_fragilidade_medo_biblico
+    weight: 7
+    confidence: 0.85
+  - name: confianca_espirito_santo_orientacao
+    weight: 9
+    confidence: 0.92
+  - name: gratidao_amor_sacrificio_jesus
+    weight: 8
+    confidence: 0.91
+  - name: crescimento_espiritual_coragem
+    weight: 7
+    confidence: 0.88
+  - name: jesus_revolucionario_espiritual
+    weight: 9
+    confidence: 0.93
+  - name: reflexao_falhas_planos_divinos
+    weight: 7
+    confidence: 0.87
+  - name: teologia_reformada_soberania_deus
+    weight: 8
+    confidence: 0.9
+  - name: expiacao_substitutiva_amor_cristo
+    weight: 8
+    confidence: 0.91
+  - name: papel_espirito_santo_vida_crista
+    weight: 9
+    confidence: 0.94
+  cdu_primary: '230.9'
+  cdu_secondary:
+  - '226.7'
+  - '273.6'
+  cdu_description: Teologia cristã; Teologia sistemática; Teologia reformada; Teologia bíblica; Novo Testamento; Evangelhos; Atos dos Apóstolos
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Marcos 14]]-46-52
 **Análise comportamental**
 

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:55.469442+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fidelidade_a_deus
+    weight: 8
+    confidence: 0.9
+  - name: casa_de_deus
+    weight: 10
+    confidence: 0.98
+  - name: comparacao_moises_cristo
+    weight: 7
+    confidence: 0.85
+  - name: edificacao_igreja
+    weight: 9
+    confidence: 0.97
+  - name: corpo_santuario_espirito_santo
+    weight: 9
+    confidence: 0.96
+  - name: habitacao_deus_em_crentes
+    weight: 10
+    confidence: 0.99
+  - name: templo_santo_senhor
+    weight: 8
+    confidence: 0.92
+  - name: morada_deus_no_espirito
+    weight: 9
+    confidence: 0.95
+  - name: igreja_coluna_esteio_verdade
+    weight: 10
+    confidence: 0.98
+  - name: verdades_ouvidas
+    weight: 7
+    confidence: 0.88
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '230'
+  - '240'
+  cdu_description: Teologia cristã. Doutrinas gerais. Vida e prática cristãs. A Igreja como casa e templo de Deus, morada do Espírito Santo, e pilar da verdade.
+---
 Por esta razão, importa que nos apeguemos, com mais firmeza, às verdades ouvidas, para que delas jamais nos desviemos. Hebreus 3:6 NAA
 - Somos casa de Deus!
 - 1. Hb 3:2 JFA-RA(Pt) como ele foi fiel ao que o constituiu, assim como também o foi Moisés em toda a casa de Deus. perm_identity (Comparar)

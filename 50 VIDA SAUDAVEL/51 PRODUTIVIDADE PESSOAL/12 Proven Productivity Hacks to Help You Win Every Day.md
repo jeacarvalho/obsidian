@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:39.688970+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: otimizacao_produtividade_diaria
+    weight: 10
+    confidence: 0.98
+  - name: tecnicas_preparacao_dia_anterior
+    weight: 9
+    confidence: 0.95
+  - name: estrategias_otimizacao_manha
+    weight: 9
+    confidence: 0.95
+  - name: importancia_sono_produtividade
+    weight: 8
+    confidence: 0.92
+  - name: definicao_metas_diarias
+    weight: 8
+    confidence: 0.9
+  - name: exercicio_fisico_bem_estar
+    weight: 7
+    confidence: 0.88
+  - name: alimentacao_saudavel_energia
+    weight: 7
+    confidence: 0.85
+  - name: gestao_foco_distracoes
+    weight: 8
+    confidence: 0.9
+  - name: cultivo_gratidao_sucesso
+    weight: 6
+    confidence: 0.8
+  - name: planejamento_vida_pessoal
+    weight: 7
+    confidence: 0.82
+  cdu_primary: 159.947.5
+  cdu_secondary:
+  - 65.012.4
+  - 37.011.31
+  cdu_description: Psicologia da produtividade e da eficiência; Gestão e organização do trabalho; Métodos de ensino e aprendizagem
+---
 12 Proven Productivity Hacks to Help You Win Every Day - Michael Hyatt
 
 # 12 Proven Productivity Hacks to Help You Win Every Day

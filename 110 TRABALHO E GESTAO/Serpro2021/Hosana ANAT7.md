@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:50.716707+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_software_python_django
+    weight: 8
+    confidence: 0.9
+  - name: desenvolvimento_software_java_kotlin
+    weight: 8
+    confidence: 0.9
+  - name: arquitetura_microservicos_api
+    weight: 7
+    confidence: 0.85
+  - name: gerenciamento_projetos_agile
+    weight: 7
+    confidence: 0.8
+  - name: comunicacao_equipe_feedback
+    weight: 6
+    confidence: 0.75
+  - name: produtividade_desenvolvedor
+    weight: 7
+    confidence: 0.8
+  - name: testes_carga_performance
+    weight: 7
+    confidence: 0.85
+  - name: uso_ia_desenvolvimento
+    weight: 6
+    confidence: 0.7
+  - name: documentacao_tecnica
+    weight: 5
+    confidence: 0.65
+  - name: banco_dados_sql_server_postgresql
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '005.3'
+  - '004.7'
+  - '005.8'
+  cdu_description: Programação, desenvolvimento de software, sistemas de informação, gestão de projetos e comunicação em equipas de desenvolvimento.
+---
 - Rural
 - Java, SQL Server, postgre (pouco)
 - Intelli empresa 2018 - Petrolífero (4 1/2 anos)

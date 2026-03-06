@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:26.479933+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: interacao_social_com_desconhecidos
+    weight: 9
+    confidence: 0.98
+  - name: oportunidades_de_ajuda
+    weight: 8
+    confidence: 0.95
+  - name: pedreiro_buscando_emprego
+    weight: 7
+    confidence: 0.92
+  - name: dialogo_sobre_necessidades_financeiras
+    weight: 8
+    confidence: 0.93
+  - name: empatia_e_cuidado_com_o_proximo
+    weight: 9
+    confidence: 0.96
+  - name: religiosidade_e_fe_em_jesus
+    weight: 7
+    confidence: 0.9
+  - name: desafios_da_vida_urbana
+    weight: 6
+    confidence: 0.88
+  - name: experiencia_e_aprendizado_com_encontros
+    weight: 8
+    confidence: 0.94
+  - name: persistencia_diante_de_dificuldades
+    weight: 7
+    confidence: 0.91
+  - name: observacao_de_detalhes_pessoais
+    weight: 5
+    confidence: 0.85
+  cdu_primary: '305.8'
+  cdu_secondary:
+  - '331.5'
+  - '364.1'
+  - '261.8'
+  cdu_description: 305.8 - Grupos sociais e minorias. 331.5 - Emprego e desemprego. 364.1 - Assistência social. 261.8 - Ética social e moral cristã.
+---
 Túlio do chapéu azul.
 
 Eu tô dizendo: o Senhor nos dá muitas oportunidades. Acabei de tentar dar mais um passo... Não O primeiro, mas um dos primeiros.

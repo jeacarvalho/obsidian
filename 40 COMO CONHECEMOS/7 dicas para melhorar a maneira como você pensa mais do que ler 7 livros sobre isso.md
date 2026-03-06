@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:29.678751+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: tecnicas_pensamento_critico
+    weight: 10
+    confidence: 0.98
+  - name: desenvolvimento_cognitivo
+    weight: 9
+    confidence: 0.95
+  - name: conexao_de_ideias
+    weight: 8
+    confidence: 0.92
+  - name: aprendizagem_ativa
+    weight: 7
+    confidence: 0.9
+  - name: reconhecimento_de_padroes
+    weight: 7
+    confidence: 0.88
+  - name: analise_comparativa
+    weight: 6
+    confidence: 0.85
+  - name: compreensao_profunda
+    weight: 6
+    confidence: 0.83
+  - name: contextualizacao_de_informacao
+    weight: 5
+    confidence: 0.8
+  - name: pensamento_original
+    weight: 5
+    confidence: 0.78
+  - name: emergencia_de_ideias
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '159.95'
+  cdu_secondary:
+  - '004.9'
+  cdu_description: Psicologia do pensamento e da inteligência; Processos cognitivos; Organização e representação do conhecimento; Notas digitais
+---
 7 prompts to improve the way you think more than reading 7 books about it: [![Image](https://threadreaderapp.com/images/1px.png)](https://pbs.twimg.com/media/FTmpQnbUEAAg5XD.png)
 
 # "It reminds me..."

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:09.372615+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: instrumentos_virtuais_gratuitos
+    weight: 10
+    confidence: 0.98
+  - name: plugins_vst
+    weight: 9
+    confidence: 0.97
+  - name: producao_musical
+    weight: 8
+    confidence: 0.95
+  - name: software_musica
+    weight: 7
+    confidence: 0.93
+  - name: sintetizadores_virtuais
+    weight: 8
+    confidence: 0.92
+  - name: samplers_virtuais
+    weight: 7
+    confidence: 0.91
+  - name: instrumentos_orquestrais_virtuais
+    weight: 6
+    confidence: 0.88
+  - name: baixos_virtuais
+    weight: 6
+    confidence: 0.87
+  - name: pianos_virtuais
+    weight: 6
+    confidence: 0.86
+  - name: baterias_virtuais
+    weight: 5
+    confidence: 0.85
+  cdu_primary: 004.777.2
+  cdu_secondary:
+  - '781.63'
+  - '781.65'
+  cdu_description: 004.777.2 - Software de aplicação para multimédia e entretenimento; 781.63 - Instrumentos de percussão; 781.65 - Instrumentos de sopro e de cordas
+---
 (402) 9 Free VST Instruments You Need in 2020 - YouTube
 
 9 Free VST Instruments You Need in 2020

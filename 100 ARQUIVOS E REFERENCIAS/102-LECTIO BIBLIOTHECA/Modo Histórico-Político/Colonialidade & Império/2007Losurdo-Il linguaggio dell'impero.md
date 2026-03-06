@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:03.829963+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: linguagem_imperial_deslegitimacao
+    weight: 10
+    confidence: 0.98
+  - name: colonialidade_e_dominacao
+    weight: 9
+    confidence: 0.97
+  - name: teologia_politica_secularizada
+    weight: 8
+    confidence: 0.95
+  - name: hipocrisia_estrutural_imperial
+    weight: 8
+    confidence: 0.94
+  - name: historicizacao_categorias_politicas
+    weight: 7
+    confidence: 0.96
+  - name: duplo_padrao_imperialista
+    weight: 7
+    confidence: 0.93
+  - name: racismo_colonial_e_antissemitismo
+    weight: 6
+    confidence: 0.92
+  - name: democracia_herrenvolk_exclusao
+    weight: 6
+    confidence: 0.9
+  - name: negacao_colonial_memoria
+    weight: 5
+    confidence: 0.88
+  - name: critica_linguagem_violencia_simbolica
+    weight: 5
+    confidence: 0.87
+  cdu_primary: '323.1'
+  cdu_secondary:
+  - '305.8'
+  - '327.1'
+  - '304.2'
+  cdu_description: 323.1 - Lutas sociais, raciais, nacionais; 305.8 - Relações raciais; 327.1 - Política externa, relações internacionais; 304.2 - Influência do meio sobre a sociedade
+---
 # 📜 ANÁLISE CURADORIAL — "A LINGUAGEM DO IMPÉRIO" (Domenico Losurdo)
 
 ---

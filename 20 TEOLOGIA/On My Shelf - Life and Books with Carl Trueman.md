@@ -3,6 +3,47 @@ created: 2021-04-22T09:40:22 (UTC -03:00)
 tags: []
 source: https://www.thegospelcoalition.org/article/on-my-shelf-life-and-books-with-carl-r-trueman/
 author: Greg Lanier
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T21:56:22.530039+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_crista
+    weight: 10
+    confidence: 0.98
+  - name: biografia_intelectual
+    weight: 9
+    confidence: 0.95
+  - name: historia_da_igreja
+    weight: 8
+    confidence: 0.92
+  - name: reforma_protestante
+    weight: 7
+    confidence: 0.9
+  - name: teologia_reformada
+    weight: 8
+    confidence: 0.93
+  - name: critica_cultural
+    weight: 6
+    confidence: 0.85
+  - name: vida_crista
+    weight: 7
+    confidence: 0.88
+  - name: literatura_teologica
+    weight: 9
+    confidence: 0.96
+  - name: pensamento_de_carl_trueman
+    weight: 10
+    confidence: 0.99
+  - name: religiao_e_sociedade
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '2'
+  cdu_secondary:
+  - '27'
+  - '28'
+  - '929'
+  cdu_description: Religião. Teologia. Teologia cristã. História da igreja. Biografias de teólogos.
 ---
 
 # On My Shelf: Life and Books with Carl Trueman

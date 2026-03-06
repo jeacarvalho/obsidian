@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:58.894984+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: jesus_e_a_samaritana
+    weight: 10
+    confidence: 0.98
+  - name: agua_da_vida
+    weight: 9
+    confidence: 0.95
+  - name: adoracao_em_espirito_e_verdade
+    weight: 9
+    confidence: 0.92
+  - name: pecado_e_oculto
+    weight: 8
+    confidence: 0.88
+  - name: discriminacao_social
+    weight: 7
+    confidence: 0.85
+  - name: comparacao_antigo_novo_testamento
+    weight: 7
+    confidence: 0.82
+  - name: integridade_na_adoracao
+    weight: 8
+    confidence: 0.8
+  - name: busca_de_deus_pelo_homem
+    weight: 7
+    confidence: 0.78
+  - name: relacionamento_jesus_mulher
+    weight: 6
+    confidence: 0.75
+  - name: interpretacao_biblica_joao_4
+    weight: 6
+    confidence: 0.7
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '232.9'
+  - '264.1'
+  - '241.5'
+  cdu_description: Teologia cristã. Jesus Cristo. Doutrina da salvação. Adoração. Ética cristã.
+---
 [[Jesus]] e a samaritana
 
 [[João 4]]

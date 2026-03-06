@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:57.530063+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: atalho_teclado_executar_script
+    weight: 10
+    confidence: 0.98
+  - name: script_shell_bash
+    weight: 9
+    confidence: 0.95
+  - name: gnome_terminal_execucao_script
+    weight: 8
+    confidence: 0.92
+  - name: configuracao_atalhos_teclado_ubuntu
+    weight: 7
+    confidence: 0.9
+  - name: permissao_execucao_script
+    weight: 6
+    confidence: 0.88
+  - name: conflito_vinculacao_tecla
+    weight: 5
+    confidence: 0.85
+  - name: resolucao_problema_script_nao_executa
+    weight: 7
+    confidence: 0.91
+  - name: shebang_bash
+    weight: 6
+    confidence: 0.89
+  - name: execucao_silenciosa_script
+    weight: 5
+    confidence: 0.87
+  - name: toggle_display_laptop
+    weight: 6
+    confidence: 0.86
+  cdu_primary: '004.42'
+  cdu_secondary:
+  - '004.68'
+  - '004.77'
+  cdu_description: Programação de computadores e sistemas de software; Sistemas operacionais; Redes de computadores
+---
 [SOLVED] Using a keyboard shortcut to run a shell script !! gnome-terminal -e "bash /home/01553360702/ler.sh"
 
 #  Using a keyboard shortcut to run a shell script

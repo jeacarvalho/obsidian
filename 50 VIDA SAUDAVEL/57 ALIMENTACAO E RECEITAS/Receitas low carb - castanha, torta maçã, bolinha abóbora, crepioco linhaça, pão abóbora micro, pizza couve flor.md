@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:51.588330+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: dieta_low_carb
+    weight: 10
+    confidence: 0.98
+  - name: lanches_low_carb
+    weight: 9
+    confidence: 0.95
+  - name: receitas_low_carb
+    weight: 8
+    confidence: 0.92
+  - name: castanhas_e_oleaginosas
+    weight: 7
+    confidence: 0.88
+  - name: iogurte_natural_integral
+    weight: 6
+    confidence: 0.85
+  - name: torta_de_maca_low_carb
+    weight: 7
+    confidence: 0.89
+  - name: bolinho_de_abobora_low_carb
+    weight: 7
+    confidence: 0.88
+  - name: crepioca_de_linhaca
+    weight: 7
+    confidence: 0.87
+  - name: pao_de_abobora_low_carb
+    weight: 7
+    confidence: 0.86
+  - name: pizza_massa_couve_flor
+    weight: 7
+    confidence: 0.85
+  cdu_primary: '613.2'
+  cdu_secondary:
+  - '641.5'
+  cdu_description: Dietética. Regimes alimentares. Nutrição. Alimentação. Receitas culinárias.
+---
 A dieta [[low carb]] é aquela em que deve-se reduzir o consumo de carboidrato na alimentação, eliminando especialmente fontes de carboidratos simples, como açúcar e farinha branca. Com a redução do carboidrato, é importante ajustar o consumo de proteínas e aumentar a ingestão de gorduras boas, como castanhas, pasta de amendoim, abacate e azeite. Saiba [tudo sobre a dieta _low carb_](https://www.tuasaude.com/dieta-low-carb/amp/).
 
 No entanto, como a maior parte das pessoas está acostumada a fazer lanches ricos em carboidrato, como pão, tapioca, biscoitos, bolos, cuscuz e salgados, muitas vezes fica difícil pensar em lanches práticos e saborosos para incluir nesta dieta. Por isso, veja a seguir algumas opções de lanches _low carb_.

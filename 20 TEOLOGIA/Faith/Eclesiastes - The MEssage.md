@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:16.786768+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: busca_sentido_vida_humana
+    weight: 9
+    confidence: 0.98
+  - name: incapacidade_humana_autossuficiencia
+    weight: 8
+    confidence: 0.97
+  - name: sabedoria_vs_insensatez
+    weight: 7
+    confidence: 0.96
+  - name: destino_comum_sabios_insensatos
+    weight: 6
+    confidence: 0.95
+  - name: temor_a_deus_adoracao
+    weight: 10
+    confidence: 0.99
+  - name: promessas_a_deus_cumprimento
+    weight: 8
+    confidence: 0.97
+  - name: valor_trabalho_honestidade
+    weight: 7
+    confidence: 0.96
+  - name: desfrutar_dadivas_deus
+    weight: 9
+    confidence: 0.98
+  - name: brevidade_vida_reflexao
+    weight: 6
+    confidence: 0.95
+  - name: limitacoes_conhecimento_humano
+    weight: 5
+    confidence: 0.94
+  cdu_primary: '223.9'
+  cdu_secondary: []
+  cdu_description: Livros Sapienciais e Poéticos do Antigo Testamento - Eclesiastes
+---
 Nota Sem Título
 
 Eclesiastes Introdução (Biblia A Mensagem)

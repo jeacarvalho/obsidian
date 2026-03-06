@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:41.000245+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: comportamento_organizacional
+    weight: 10
+    confidence: 1.0
+  - name: gestao_de_pessoas
+    weight: 9
+    confidence: 0.95
+  - name: papel_do_individuo_no_trabalho
+    weight: 8
+    confidence: 0.9
+  - name: dinamica_de_grupo
+    weight: 8
+    confidence: 0.88
+  - name: competencias_e_talentos
+    weight: 7
+    confidence: 0.85
+  - name: contribuicao_coletiva_organizacional
+    weight: 7
+    confidence: 0.82
+  - name: eficacia_organizacional
+    weight: 7
+    confidence: 0.8
+  - name: desenvolvimento_humano_organizacional
+    weight: 6
+    confidence: 0.78
+  - name: estrutura_organizacional
+    weight: 6
+    confidence: 0.75
+  - name: cultura_organizacional
+    weight: 5
+    confidence: 0.7
+  cdu_primary: '331.1'
+  cdu_secondary:
+  - '316.46'
+  - '305.8'
+  cdu_description: Gestão de pessoal. Comportamento organizacional. Relações humanas no trabalho. Sociologia do trabalho.
+---
 # Objetivos
 Ao final desta disciplina, você deverá ser capaz de:
 

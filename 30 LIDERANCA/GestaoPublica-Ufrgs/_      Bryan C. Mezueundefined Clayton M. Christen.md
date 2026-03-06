@@ -1,4 +1,45 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:06.298288+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: inovacao_sustentavel
+    weight: 8
+    confidence: 0.9
+  - name: crescimento_economico_empresarial
+    weight: 9
+    confidence: 0.95
+  - name: inovacao_de_mercado
+    weight: 10
+    confidence: 0.98
+  - name: inovacao_de_eficiencia
+    weight: 7
+    confidence: 0.92
+  - name: criacao_de_empregos
+    weight: 8
+    confidence: 0.88
+  - name: desenvolvimento_economico_paises_emergentes
+    weight: 7
+    confidence: 0.85
+  - name: perspectiva_da_empresa_gestor
+    weight: 6
+    confidence: 0.8
+  - name: modelo_de_investimento_inovacao
+    weight: 7
+    confidence: 0.87
+  - name: plataforma_economica_tecnologia
+    weight: 6
+    confidence: 0.82
+  - name: empreendedorismo_necessidades_cliente
+    weight: 8
+    confidence: 0.89
+  cdu_primary: '658.5'
+  cdu_secondary:
+  - 330.342.2
+  - 004.056.57
+  cdu_description: Gestão da produção. Inovação. Desenvolvimento econômico. Tecnologia.
+---
       Bryan C. Mezueundefined Clayton M. Christensenundefined and Derek van Bever | How Innovation Can Spur Sustainable Growth | Foreign Affairs
     
 

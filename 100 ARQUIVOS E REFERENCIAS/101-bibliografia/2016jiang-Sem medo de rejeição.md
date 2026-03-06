@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:53.080107+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: desenvolvimento_pessoal_disciplinado
+    weight: 9
+    confidence: 0.98
+  - name: resumo_critico_de_livros
+    weight: 8
+    confidence: 0.97
+  - name: superacao_medo_rejeicao
+    weight: 10
+    confidence: 0.99
+  - name: transformacao_pessoal_pratica
+    weight: 9
+    confidence: 0.96
+  - name: analise_critica_conteudo_literario
+    weight: 7
+    confidence: 0.95
+  - name: aplicacao_conhecimento_vida
+    weight: 8
+    confidence: 0.94
+  - name: coragem_como_musculo_exercitado
+    weight: 9
+    confidence: 0.93
+  - name: resiliencia_emocional
+    weight: 8
+    confidence: 0.92
+  - name: autocompaixao_e_vulnerabilidade
+    weight: 7
+    confidence: 0.91
+  - name: rejeicao_como_oportunidade_crescimento
+    weight: 10
+    confidence: 0.98
+  cdu_primary: 159.947.5
+  cdu_secondary:
+  - 159.947.2
+  - 159.943.8
+  - '005.58'
+  cdu_description: 159.947.5 - Medo e ansiedade; 159.947.2 - Motivação; 159.943.8 - Autoconfiança; 005.58 - Desenvolvimento pessoal
+---
 # Introdução
 
 O presente livro faz parte de uma série de resumos críticos e práticos de livros que se mostraram importantes para uma jornada de desenvolvimento pessoal robusta e disciplinada.

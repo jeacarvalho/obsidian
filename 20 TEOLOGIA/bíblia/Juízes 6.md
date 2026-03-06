@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:51.912280+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: escolha_divina_versus_capacidade_humana
+    weight: 9
+    confidence: 0.9
+  - name: missao_de_gideao_para_libertar_israel
+    weight: 10
+    confidence: 0.95
+  - name: pedido_de_sinal_por_gideao
+    weight: 7
+    confidence: 0.85
+  - name: destruicao_do_altar_de_baal
+    weight: 8
+    confidence: 0.92
+  - name: confronto_com_tradicoes_familiares
+    weight: 8
+    confidence: 0.88
+  - name: coragem_de_gideao_influenciando_o_pai
+    weight: 6
+    confidence: 0.8
+  - name: capacitacao_do_espirito_santo_para_tarefas
+    weight: 9
+    confidence: 0.91
+  - name: desobediencia_a_idolatria
+    weight: 7
+    confidence: 0.87
+  - name: medo_e_hesitacao_diante_da_vocacao
+    weight: 6
+    confidence: 0.82
+  - name: fe_e_obediencia_a_deus
+    weight: 10
+    confidence: 0.93
+  cdu_primary: '222.9'
+  cdu_secondary:
+  - '235.3'
+  - '241.5'
+  cdu_description: Livro de Juízes, Gideão, teologia bíblica, ética religiosa
+---
 Jz 6:14 — Jz 6:15 (RA Strong's)
 
 14 Então, se virou o SENHOR para ele e disse: Vai nessa tua força e livra Israel da mão dos midianitas; porventura, não te enviei eu? 15 E ele lhe disse: Ai, Senhor meu! Com que livrarei Israel? Eis que a minha família é a mais pobre em Manassés, e eu, o menor na casa de meu pai.

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:06.410382+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: avaliacao_politicas_publicas
+    weight: 10
+    confidence: 0.98
+  - name: interesses_pessoais_vs_estado
+    weight: 9
+    confidence: 0.95
+  - name: coordenacao_esforcos_governo
+    weight: 8
+    confidence: 0.92
+  - name: perspectivas_individuais_avaliacao
+    weight: 7
+    confidence: 0.9
+  - name: conceito_boa_vida_aristoteles
+    weight: 6
+    confidence: 0.88
+  - name: sociedade_individualista_vs_coletivismo
+    weight: 7
+    confidence: 0.85
+  - name: definicao_politicas_publicas_kon
+    weight: 6
+    confidence: 0.82
+  - name: conflito_interesses_individuo_grupo
+    weight: 9
+    confidence: 0.93
+  - name: welfare_state_europa
+    weight: 5
+    confidence: 0.8
+  - name: eficiencia_produtiva_distributiva
+    weight: 8
+    confidence: 0.89
+  cdu_primary: '32'
+  cdu_secondary:
+  - '35'
+  - '308'
+  - '330.5'
+  cdu_description: Ciência política. Administração pública. Assuntos sociais. Economia. Sociologia. A análise das políticas públicas, seus interesses, avaliações, coordenação governamental, a dicotomia indivíduo/grupo, o conceito de bem-estar social e a eficiência administrativa e distributiva.
+---
 POLÍTICAS PÚBLICAS: ENTRE FALHASundefined LEGADOS E OUTRAS LIMITAÇÕES ÀS AVALIAÇÕES CONCLUSIVAS.
 
 [[administração pública]]

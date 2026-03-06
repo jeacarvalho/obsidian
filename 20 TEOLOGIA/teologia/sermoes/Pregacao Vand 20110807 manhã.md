@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:03.893512+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mudanca_pessoal_e_familiar
+    weight: 8
+    confidence: 0.9
+  - name: acordo_familiar_e_jesus
+    weight: 7
+    confidence: 0.85
+  - name: principio_tolerancia_assuntos
+    weight: 6
+    confidence: 0.8
+  - name: compartilhamento_familiar_cumplicidade
+    weight: 9
+    confidence: 0.92
+  - name: lidar_conflitos_maturidade
+    weight: 10
+    confidence: 0.98
+  - name: nao_negar_conflito_familiar
+    weight: 7
+    confidence: 0.88
+  - name: nao_projetar_conflito_no_outro
+    weight: 7
+    confidence: 0.87
+  - name: nao_deturpar_conflitos
+    weight: 8
+    confidence: 0.89
+  - name: nao_ser_imprudente_ouvir_antes_falar
+    weight: 9
+    confidence: 0.91
+  - name: qualificar_tempo_familia_afetividade
+    weight: 8
+    confidence: 0.9
+  cdu_primary: '305.8'
+  cdu_secondary:
+  - '264.1'
+  - '177.8'
+  cdu_description: Família e relações sociais; Pregação e homilética; Ética
+---
 Pregacao Vand 20110807 manhã
 
 Pastor vanderley - 20110807 manhã

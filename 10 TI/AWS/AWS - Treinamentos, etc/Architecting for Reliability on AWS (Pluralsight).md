@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:59.593225+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gerenciamento_identidade_acesso_aws_iam
+    weight: 10
+    confidence: 0.98
+  - name: monitoramento_auditoria_aws_cloudtrail
+    weight: 9
+    confidence: 0.97
+  - name: monitoramento_alertas_aws_cloudwatch
+    weight: 9
+    confidence: 0.97
+  - name: protecao_ddos_aws_shield
+    weight: 8
+    confidence: 0.96
+  - name: gerenciamento_configuracao_aws_config
+    weight: 8
+    confidence: 0.96
+  - name: otimizacao_recursos_aws_trusted_advisor
+    weight: 7
+    confidence: 0.95
+  - name: escalabilidade_automatica_aws_auto_scaling
+    weight: 7
+    confidence: 0.95
+  - name: arquitetura_serveless_aws
+    weight: 8
+    confidence: 0.94
+  - name: redes_virtuais_aws_vpc
+    weight: 9
+    confidence: 0.96
+  - name: seguranca_redes_aws_security_groups_acls
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '004.8'
+  cdu_secondary:
+  - '621.37'
+  - '621.39'
+  cdu_description: Tecnologia da informação. Sistemas de computadores. Redes de computadores. Segurança de redes. Serviços de computação em nuvem.
+---
 Architecting for Reliability on [[AWS]] (Pluralsight)
 
 Key Concepts and Core Services

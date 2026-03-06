@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:18.652228+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: ensinamentos_cristaos_para_criancas
+    weight: 9
+    confidence: 0.95
+  - name: profecias_sobre_jesus
+    weight: 10
+    confidence: 0.98
+  - name: segunda_vinda_de_jesus
+    weight: 10
+    confidence: 0.98
+  - name: educacao_religiosa_infantil
+    weight: 8
+    confidence: 0.9
+  - name: material_didatico_cristao
+    weight: 7
+    confidence: 0.85
+  - name: estudo_biblico_para_jovens
+    weight: 8
+    confidence: 0.92
+  - name: vida_e_ministerio_de_jesus
+    weight: 7
+    confidence: 0.88
+  - name: escatologia_crista
+    weight: 6
+    confidence: 0.75
+  - name: teologia_biblica
+    weight: 6
+    confidence: 0.7
+  - name: cristianismo_e_juventude
+    weight: 7
+    confidence: 0.8
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - '232.97'
+  - '268.43'
+  cdu_description: Cristologia (232) - Jesus Cristo (232.9) - Vida e obra de Jesus Cristo (232.97) - Profecias sobre Jesus Cristo (232.97) - Escatologia cristã (232.97) - Educação religiosa (268) - Ensino religioso para crianças e jovens (268.43)
+---
 Fwd: Enc: Lições GoTeen - [[Jesus]]- das profecias da sua vinda às profecias da sua volta
 
 ---------- Mensagem encaminhada ----------

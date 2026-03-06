@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:37.316082+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: autoridade_divina_vs_humana
+    weight: 9
+    confidence: 0.98
+  - name: questionamento_autoridade_de_jesus
+    weight: 8
+    confidence: 0.95
+  - name: parabola_dos_lavradores_maus
+    weight: 7
+    confidence: 0.92
+  - name: verdade_e_coragem_na_fe
+    weight: 6
+    confidence: 0.88
+  - name: submissao_a_autoridades_terrenas
+    weight: 8
+    confidence: 0.96
+  - name: autoridade_suprema_de_jesus
+    weight: 10
+    confidence: 0.99
+  - name: reino_vindouro_e_ressurreicao
+    weight: 7
+    confidence: 0.93
+  - name: desnecessidade_da_procriacao_apos_morte
+    weight: 6
+    confidence: 0.85
+  - name: critica_a_hipocrisia_religiosa
+    weight: 9
+    confidence: 0.97
+  - name: consequencias_do_pecado_e_juizo
+    weight: 8
+    confidence: 0.94
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '226.4'
+  - '226.5'
+  - '226.7'
+  cdu_description: Teologia cristã; Evangelho de Lucas; Parábolas de Jesus; Ética cristã
+---
 Lc 20:2 — Lc 20:4
 
 e o argüiram nestes termos: Dize-nos: com que autoridade fazes estas coisas? Ou quem te deu esta autoridade? Respondeu-lhes: Também eu vos farei uma pergunta; dizei-me: o batismo de João era dos céus ou dos homens?

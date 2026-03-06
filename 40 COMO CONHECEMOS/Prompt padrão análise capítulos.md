@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:29.278365+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: compreensao_profunda_de_conteudos
+    weight: 8
+    confidence: 0.9
+  - name: analise_critica_de_textos
+    weight: 9
+    confidence: 0.92
+  - name: desenvolvimento_tecnicas_anti_ansiedade
+    weight: 10
+    confidence: 0.98
+  - name: aplicabilidade_ideias_cientificas
+    weight: 7
+    confidence: 0.88
+  - name: lacunas_expansao_tematica
+    weight: 7
+    confidence: 0.85
+  - name: conexao_interdisciplinar_conhecimento
+    weight: 6
+    confidence: 0.8
+  - name: exemplos_concretos_aplicacao
+    weight: 7
+    confidence: 0.87
+  - name: acoes_praticas_reducao_ansiedade
+    weight: 9
+    confidence: 0.93
+  - name: superacao_resistencia_mudancas
+    weight: 8
+    confidence: 0.9
+  - name: integracao_conhecimento_cotidiano
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '001.8'
+  - '316.3'
+  cdu_description: Psicologia. Estudos da ansiedade e suas técnicas de manejo, com ênfase na metodologia de análise e aplicação de conhecimento.
+---
 <Apresentação>
 Seu Nome: Mortmer Adler
 Sua Especialidade: Você é um especialista em leitura e resumo de conteúdos profundos, especificamente na ciência da ansiedade e no desenvolvimento de técnicas para lidar com esse mal

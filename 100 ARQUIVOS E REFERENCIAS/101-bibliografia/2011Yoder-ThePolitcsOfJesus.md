@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:53.797726+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: relevancia_etica_jesus_contemporanea
+    weight: 10
+    confidence: 0.98
+  - name: jesus_como_modelo_acao_politica
+    weight: 9
+    confidence: 0.97
+  - name: critica_jesus_social
+    weight: 8
+    confidence: 0.96
+  - name: tensao_etica_jesus_apoliticismo
+    weight: 7
+    confidence: 0.95
+  - name: interpretacao_historica_ensinamentos_jesus
+    weight: 8
+    confidence: 0.94
+  - name: dialogo_teologia_etica_social
+    weight: 7
+    confidence: 0.93
+  - name: razoes_para_irrelevancia_etica_jesus
+    weight: 6
+    confidence: 0.92
+  - name: reinterpretar_narrativas_novo_testamento
+    weight: 6
+    confidence: 0.91
+  - name: critica_desconexao_cristianismo_sociedade
+    weight: 5
+    confidence: 0.9
+  - name: radicalismo_jesus_etica_contemporanea
+    weight: 7
+    confidence: 0.94
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - 27-29
+  - '321.1'
+  - '305.8'
+  cdu_description: 230.0 - Teologia cristã; 27-29 - Período do Novo Testamento; 321.1 - Ideologias políticas; 305.8 - Grupos étnicos. Relação entre a figura de Jesus, seus ensinamentos e a ética social e política contemporânea, com foco na reinterpretação de sua relevância.
+---
 JSON Data:
 
 # Cap 1

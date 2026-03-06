@@ -1,3 +1,48 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:55.115250+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: teologia_crista
+    weight: 10
+    confidence: 0.98
+  - name: gestao_profissional
+    weight: 9
+    confidence: 0.95
+  - name: saude_bem_estar
+    weight: 8
+    confidence: 0.92
+  - name: vida_familiar
+    weight: 7
+    confidence: 0.88
+  - name: organizacao_referencias
+    weight: 7
+    confidence: 0.85
+  - name: lideranca
+    weight: 8
+    confidence: 0.89
+  - name: contabilidade_financeira
+    weight: 6
+    confidence: 0.8
+  - name: economia
+    weight: 6
+    confidence: 0.78
+  - name: aprendizagem_metodos_estudo
+    weight: 7
+    confidence: 0.87
+  - name: tecnologia_programacao
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '004'
+  cdu_secondary:
+  - '2'
+  - '3'
+  - '6'
+  - '005'
+  - '007'
+  cdu_description: A CDU primária '004' abrange a organização do conhecimento e sistemas de informação, que se alinha com a natureza de um 'vault' de notas. As CDU secundárias cobrem teologia (2), ciências sociais (3), economia e gestão (6), gestão de sistemas de informação (005) e tecnologia (007), refletindo os temas principais identificados.
+---
 # Resumo do Vault Obsidian
 
 **Gerado em:** 2026-02-27

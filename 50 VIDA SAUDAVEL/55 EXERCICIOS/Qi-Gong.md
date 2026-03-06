@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:42.300413+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: oito_pedacos_de_brocado
+    weight: 10
+    confidence: 0.98
+  - name: exercicios_de_aquecimento
+    weight: 8
+    confidence: 0.95
+  - name: mobilidade_articular_bracos
+    weight: 7
+    confidence: 0.9
+  - name: exercicio_duas_maos_sustentando_ceu
+    weight: 6
+    confidence: 0.85
+  - name: exercicio_puxando_arco
+    weight: 6
+    confidence: 0.85
+  - name: exercicio_gralha_abrindo_asa
+    weight: 6
+    confidence: 0.85
+  - name: exercicio_olhando_para_tras
+    weight: 6
+    confidence: 0.8
+  - name: exercicio_balanco_esquerdo_direito
+    weight: 6
+    confidence: 0.8
+  - name: exercicio_trecho_cima_baixo
+    weight: 6
+    confidence: 0.8
+  - name: exercicio_batida_diagonal
+    weight: 6
+    confidence: 0.8
+  cdu_primary: '613.7'
+  cdu_secondary:
+  - '613.78'
+  - '615.851'
+  cdu_description: Saúde e bem-estar. Exercícios físicos. Exercícios terapêuticos. Exercícios de relaxamento e meditação.
+---
 # 8 pedaços de brocado: https://www.youtube.com/watch?v=cwlvTcWR3Gs
 
 

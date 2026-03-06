@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:35.982654+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: critica_hermeneutica_biblica_poscolonial
+    weight: 10
+    confidence: 0.98
+  - name: colonialismo_legitimacao_religiosa
+    weight: 9
+    confidence: 0.97
+  - name: desconstrucao_neutralidade_exegese
+    weight: 8
+    confidence: 0.96
+  - name: teoria_poscolonial_aplicada_texto_biblico
+    weight: 9
+    confidence: 0.95
+  - name: narrativas_biblicas_conquista_libertacao
+    weight: 7
+    confidence: 0.94
+  - name: ideologia_anticonquista
+    weight: 8
+    confidence: 0.93
+  - name: colonialismo_interno_construcao_outro
+    weight: 7
+    confidence: 0.92
+  - name: oralidade_como_epistemologia_alternativa
+    weight: 6
+    confidence: 0.91
+  - name: critica_academica_eurocentrismo_poscolonialismo
+    weight: 5
+    confidence: 0.88
+  - name: agencia_subalterna_resistencia_imperial
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '220.6'
+  cdu_secondary:
+  - '325.8'
+  - '305.8'
+  - '201.6'
+  cdu_description: 220.6 - Métodos de estudo da Bíblia. Crítica bíblica. 325.8 - Colonização e descolonização. 305.8 - Grupos étnicos. Relações étnicas. 201.6 - Influências sociais e políticas na religião.
+---
 # Qwen
 ### 🔑 PASSO 1: ATIVAÇÃO DA LENTE DISCIPLINAR
 

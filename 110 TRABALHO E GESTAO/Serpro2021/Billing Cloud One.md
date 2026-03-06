@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:57.170298+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: proposta_preco_nuvem_publica
+    weight: 8
+    confidence: 0.9
+  - name: contrato_vmware
+    weight: 9
+    confidence: 0.95
+  - name: faturamento_exacc
+    weight: 7
+    confidence: 0.85
+  - name: console_billing_gmc
+    weight: 6
+    confidence: 0.8
+  - name: atualizacao_aria
+    weight: 5
+    confidence: 0.75
+  - name: licenciamento_windows_byall
+    weight: 6
+    confidence: 0.7
+  - name: modelo_dados_contrato_multicloud
+    weight: 7
+    confidence: 0.88
+  - name: chargeback_alteracoes
+    weight: 8
+    confidence: 0.92
+  - name: gestao_metadados
+    weight: 9
+    confidence: 0.93
+  - name: adocao_nuvem_governo
+    weight: 7
+    confidence: 0.82
+  cdu_primary: '004.7'
+  cdu_secondary:
+  - '330.34'
+  - '351.82'
+  cdu_description: Gestão de sistemas de computadores e redes; Serviços de computação em nuvem; Gestão de contratos e licenciamento de software; Faturamento e cobrança de serviços; Políticas públicas e gestão governamental.
+---
 # Descrição:
 
 | links           | Arquivos                                                                                                                                                                                                               |

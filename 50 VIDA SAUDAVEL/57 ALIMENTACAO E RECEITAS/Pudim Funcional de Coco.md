@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:53.652031+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: pudim_funcional_de_coco
+    weight: 10
+    confidence: 0.98
+  - name: receita_doce_saudavel
+    weight: 9
+    confidence: 0.95
+  - name: leite_de_coco
+    weight: 8
+    confidence: 0.92
+  - name: iogurte_integral
+    weight: 7
+    confidence: 0.9
+  - name: adocantes_naturais
+    weight: 7
+    confidence: 0.88
+  - name: coco_ralado
+    weight: 6
+    confidence: 0.85
+  - name: gelatina_incolor
+    weight: 6
+    confidence: 0.83
+  - name: sobremesa_fit
+    weight: 8
+    confidence: 0.93
+  - name: culinaria_adaptada
+    weight: 7
+    confidence: 0.87
+  - name: preparo_rapido_sobremesa
+    weight: 6
+    confidence: 0.8
+  cdu_primary: '641.5'
+  cdu_secondary:
+  - '641.85'
+  cdu_description: 641.5 - Arte culinária. Cozinha. Preparação de alimentos. 641.85 - Sobremesas
+---
 Pudim Funcional de Coco
 
 # *Quer um docinho gostoso e saudável? Vá de Pudim Funcional de Coco *

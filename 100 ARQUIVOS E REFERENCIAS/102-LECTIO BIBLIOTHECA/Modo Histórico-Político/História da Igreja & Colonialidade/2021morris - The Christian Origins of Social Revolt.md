@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:03.311505+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: critica_propriedade_privada_estado
+    weight: 10
+    confidence: 0.98
+  - name: winstanley_diggers_teologia
+    weight: 9
+    confidence: 0.95
+  - name: mecanismos_captura_juridica
+    weight: 8
+    confidence: 0.92
+  - name: teologia_submissao_ordem
+    weight: 7
+    confidence: 0.9
+  - name: elite_latifundiaria_senhores_solares
+    weight: 6
+    confidence: 0.88
+  - name: despossuidos_escravos_assalariados
+    weight: 6
+    confidence: 0.87
+  - name: justificacao_poder_violencia_original
+    weight: 7
+    confidence: 0.85
+  - name: critica_instituicoes_direito_igreja
+    weight: 8
+    confidence: 0.93
+  - name: analise_patentes_monopolio_justica
+    weight: 9
+    confidence: 0.96
+  - name: trabalho_coletivo_sociedade_precificacao
+    weight: 10
+    confidence: 0.97
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '321.1'
+  - 27-29
+  - '305.8'
+  cdu_description: Economia política; Teologia e história do cristianismo; Sociologia
+---
 ## 20260129 
 
 ### 1. Trecho Escolhido

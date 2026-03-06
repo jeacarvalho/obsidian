@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:39.834019+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: principios_basicos_ciencia_economica
+    weight: 9
+    confidence: 0.98
+  - name: evolucao_pensamento_economico
+    weight: 8
+    confidence: 0.95
+  - name: organizacao_sistemas_mercado
+    weight: 7
+    confidence: 0.92
+  - name: microeconomia_principios_basilares
+    weight: 9
+    confidence: 0.97
+  - name: funcionamento_mercado_demanda_oferta
+    weight: 10
+    confidence: 0.99
+  - name: teoria_firma
+    weight: 6
+    confidence: 0.88
+  - name: estruturas_mercado
+    weight: 6
+    confidence: 0.87
+  - name: escassez_recursos_ilimitados
+    weight: 8
+    confidence: 0.96
+  - name: geracao_renda_desenvolvimento_economico
+    weight: 9
+    confidence: 0.97
+  - name: legislacao_ambiente_negocios_africa
+    weight: 10
+    confidence: 0.99
+  cdu_primary: '330'
+  cdu_secondary:
+  - '338.2'
+  - '338.5'
+  - '339.9'
+  cdu_description: Economia em geral, com ênfase em política econômica e desenvolvimento, preços e mercados, e relações econômicas internacionais.
+---
 # Bibliografia
 ## Básica?
 - MENDES, J. T. G. **Economia.** São Paulo: Pearson, 2012  - https://plataforma.bvirtual.com.br/Leitor/Publicacao/1090

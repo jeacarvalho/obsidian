@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:54.721322+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mandamentos_espirito_santo_jesus
+    weight: 8
+    confidence: 0.9
+  - name: supervisao_treinamento_discipulos
+    weight: 7
+    confidence: 0.85
+  - name: continuida_acao_espirito_jesus
+    weight: 6
+    confidence: 0.8
+  - name: provas_incontestaveis_ressurreicao
+    weight: 9
+    confidence: 0.92
+  - name: quarenta_dias_reino_deus
+    weight: 7
+    confidence: 0.88
+  - name: intimidade_com_deus_mesa
+    weight: 6
+    confidence: 0.75
+  - name: poder_para_testemunhar
+    weight: 9
+    confidence: 0.95
+  - name: unanimidade_em_oracao
+    weight: 8
+    confidence: 0.91
+  - name: sorteio_substituicao_judas
+    weight: 7
+    confidence: 0.87
+  - name: profecia_espirito_santo_salmos
+    weight: 8
+    confidence: 0.93
+  cdu_primary: 27-29
+  cdu_secondary: []
+  cdu_description: Atos dos Apóstolos, Novo Testamento, Cristianismo Primitivo
+---
 Atos 1:2
 
 2 até ao dia em que, depois de haver dado mandamentos por intermédio do [[Espírito Santo]] aos apóstolos que escolhera, foi elevado às alturas.

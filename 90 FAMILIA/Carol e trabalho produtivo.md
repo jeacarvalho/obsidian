@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:05.196536+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: trabalho_profundo
+    weight: 10
+    confidence: 0.98
+  - name: produtividade_elite
+    weight: 9
+    confidence: 0.95
+  - name: maestria_rapida
+    weight: 8
+    confidence: 0.92
+  - name: gerenciamento_atencao
+    weight: 9
+    confidence: 0.96
+  - name: esforco_deliberado
+    weight: 8
+    confidence: 0.93
+  - name: estado_de_fluxo
+    weight: 7
+    confidence: 0.9
+  - name: satisfacao_profunda
+    weight: 6
+    confidence: 0.88
+  - name: ambiente_escritorio_produtivo
+    weight: 7
+    confidence: 0.85
+  - name: disciplina_mental
+    weight: 6
+    confidence: 0.87
+  - name: desenvolvimento_habilidades
+    weight: 7
+    confidence: 0.91
+  cdu_primary: 159.947.5
+  cdu_secondary:
+  - '005.32'
+  - 37.015.3
+  cdu_description: Psicologia do trabalho e da atividade profissional. Motivação e desempenho. Esforço deliberado e desenvolvimento de competências.
+---
 Carol e trabalho produtivo
 
 - The Deep Work Hypothesis: The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy. As a consequence, the few who cultivate this skill, and then make it the core of their working life, will thrive.

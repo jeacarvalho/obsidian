@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.077290+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: colonizacao_portuguesa_brasil
+    weight: 10
+    confidence: 0.98
+  - name: formacao_economica_brasil_colonial
+    weight: 9
+    confidence: 0.95
+  - name: escravismo_na_formacao_do_brasil
+    weight: 10
+    confidence: 0.97
+  - name: capitalismo_comercial_iberico
+    weight: 8
+    confidence: 0.92
+  - name: expansao_maritima_portuguesa
+    weight: 7
+    confidence: 0.9
+  - name: guerras_coloniais_europeias
+    weight: 6
+    confidence: 0.88
+  - name: relacoes_internacionais_brasil_colonial
+    weight: 7
+    confidence: 0.85
+  - name: capitanias_hereditarias_brasil
+    weight: 9
+    confidence: 0.93
+  - name: poder_regio_e_colonos
+    weight: 8
+    confidence: 0.91
+  - name: formacao_do_estado_interventor_brasil
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '981.02'
+  cdu_secondary:
+  - '330.5'
+  - '325.33'
+  - '305.8'
+  cdu_description: História do Brasil Colonial, com ênfase na colonização portuguesa, formação econômica, escravismo, expansão marítima, relações internacionais, capitanias hereditárias e a relação entre poder régio e colonos.
+---
 **
 
 1.1 O sentido da colonização

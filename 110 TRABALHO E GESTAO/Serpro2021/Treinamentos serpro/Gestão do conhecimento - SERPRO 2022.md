@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:00.195092+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: vantagem_competitiva_organizacional
+    weight: 10
+    confidence: 0.98
+  - name: transformacao_digital_nas_organizacoes
+    weight: 9
+    confidence: 0.95
+  - name: inovacao_e_gestao_do_conhecimento
+    weight: 8
+    confidence: 0.92
+  - name: capital_humano_especializado
+    weight: 9
+    confidence: 0.96
+  - name: capital_social_organizacional
+    weight: 8
+    confidence: 0.93
+  - name: processo_decisorio_racionalidade_limitada
+    weight: 7
+    confidence: 0.9
+  - name: dado_informacao_conhecimento
+    weight: 10
+    confidence: 0.99
+  - name: conhecimento_tacito_vs_explicito
+    weight: 10
+    confidence: 0.98
+  - name: processo_seci_nonaka_takeuchi
+    weight: 9
+    confidence: 0.94
+  - name: cultura_organizacional_e_aprendizagem
+    weight: 8
+    confidence: 0.91
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '330.14'
+  - '316.46'
+  - '37.01'
+  cdu_description: Gestão do conhecimento, transformação digital, capital humano e social, processo decisório, dados/informação/conhecimento, conhecimento tácito/explícito, modelo SECI, cultura organizacional e de aprendizagem.
+---
 # [1. A importância do conhecimento e seu impacto sobre as organizações](https://educa.voce.[[serpro]].gov.br/course/view.php?id=2854#section-1)
 - [[Gestão do Conhecimento_CAP1_Revisado_Serpro_2022.pdf]]
 

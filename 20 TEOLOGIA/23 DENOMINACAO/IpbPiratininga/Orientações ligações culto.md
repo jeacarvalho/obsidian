@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:21.494455+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: configuracao_rede_computador
+    weight: 9
+    confidence: 0.98
+  - name: instalacao_equipamento_audio
+    weight: 8
+    confidence: 0.95
+  - name: conexao_cabo_rede
+    weight: 7
+    confidence: 0.97
+  - name: conexao_eletrica_equipamentos
+    weight: 7
+    confidence: 0.96
+  - name: configuracao_roteador_wifi
+    weight: 6
+    confidence: 0.94
+  - name: configuracao_placa_som
+    weight: 8
+    confidence: 0.93
+  - name: configuracao_microfone_sem_fio
+    weight: 7
+    confidence: 0.92
+  - name: configuracao_transmissao_ao_vivo
+    weight: 10
+    confidence: 0.99
+  - name: uso_software_reaper
+    weight: 9
+    confidence: 0.96
+  - name: uso_software_obs_studio
+    weight: 9
+    confidence: 0.97
+  cdu_primary: '004.7'
+  cdu_secondary:
+  - '621.39'
+  - '681.3'
+  - '781.6'
+  cdu_description: 004.7 Redes de computadores; 621.39 Telecomunicações; 681.3 Processamento de dados. Computadores; 781.6 Instrumentos musicais. Execução musical.
+---
 [[Missão iPB Piratininga]]
 Temos 2 grandes "grupos" de setup a realizar: Conexões e setups no computador para transmissão
 

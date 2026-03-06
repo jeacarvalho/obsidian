@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:31.270346+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sentimento_de_realizacao
+    weight: 10
+    confidence: 0.98
+  - name: leitura_de_guerra_e_paz
+    weight: 8
+    confidence: 0.95
+  - name: superacao_de_dificuldades
+    weight: 9
+    confidence: 0.96
+  - name: mudanca_de_perspectiva
+    weight: 9
+    confidence: 0.97
+  - name: aprendizado_com_tarefas_chatas
+    weight: 7
+    confidence: 0.92
+  - name: disciplina_e_perseveranca
+    weight: 8
+    confidence: 0.94
+  - name: comparacao_entre_leitores
+    weight: 6
+    confidence: 0.9
+  - name: impacto_da_leitura_na_vida
+    weight: 9
+    confidence: 0.97
+  - name: valor_do_esforco_concluido
+    weight: 10
+    confidence: 0.98
+  - name: visoes_diferentes_do_mundo
+    weight: 7
+    confidence: 0.93
+  cdu_primary: 821.161.1
+  cdu_secondary:
+  - 159.947.5
+  - 37.011.3
+  cdu_description: Literatura russa (Guerra e Paz), Psicologia da realização e motivação, Métodos de aprendizagem e desenvolvimento pessoal.
+---
 #### o sentimento de realização ao terminar é muito especial
 Amarelo destaque | Página: 44 Nota | Página: 44
 

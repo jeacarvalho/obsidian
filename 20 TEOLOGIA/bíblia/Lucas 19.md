@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:43.116761+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conversao_de_zaqueu
+    weight: 9
+    confidence: 0.98
+  - name: misericordia_divina_vs_humana
+    weight: 8
+    confidence: 0.95
+  - name: rejeicao_de_jesus_pelos_concidadaos
+    weight: 7
+    confidence: 0.92
+  - name: multidao_jubilosa_e_sua_qualidade
+    weight: 6
+    confidence: 0.9
+  - name: chorar_de_jesus_pela_cidade
+    weight: 8
+    confidence: 0.96
+  - name: purificacao_do_templo
+    weight: 9
+    confidence: 0.97
+  - name: ensinamentos_de_jesus_no_templo
+    weight: 7
+    confidence: 0.93
+  - name: impacto_dos_ensinamentos_de_jesus
+    weight: 8
+    confidence: 0.94
+  - name: tentativas_de_eliminar_jesus
+    weight: 6
+    confidence: 0.91
+  - name: percepcao_da_realidade_divina
+    weight: 7
+    confidence: 0.92
+  cdu_primary: 27-29
+  cdu_secondary: []
+  cdu_description: Novo Testamento - Evangelhos e Atos dos Apóstolos
+---
 Lc 19:1-9 - Zaqueu
 - Quis ver o Senhor
 - O Senhor quis estar com ele. Independente do que iam pensar os religiosos, mais uma vez

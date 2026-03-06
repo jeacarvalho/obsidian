@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:21.468784+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: cura_arritmia_reneu
+    weight: 8
+    confidence: 0.9
+  - name: salvacao_itamar_irmao_reneu
+    weight: 7
+    confidence: 0.85
+  - name: conversao_chefe_perturbado_reneu
+    weight: 8
+    confidence: 0.9
+  - name: protecao_trabalho_leca_panico
+    weight: 7
+    confidence: 0.85
+  - name: conversao_homens_maus_niteroi
+    weight: 6
+    confidence: 0.8
+  - name: projeto_viciados_crack_juju
+    weight: 9
+    confidence: 0.95
+  - name: estabelecimento_familia_bubu_isabela_saboya
+    weight: 7
+    confidence: 0.85
+  - name: saude_home_care_helena_avo_eduardo
+    weight: 6
+    confidence: 0.8
+  - name: leucemia_diacono_horacio
+    weight: 5
+    confidence: 0.75
+  - name: depressao_elisangela_irma_eliane
+    weight: 7
+    confidence: 0.85
+  cdu_primary: '20'
+  cdu_secondary:
+  - '264.1'
+  - '316.3'
+  - '364.1'
+  cdu_description: Religião, oração, pedidos de intercessão por saúde, conversão, proteção e questões familiares e sociais.
+---
 Lista de oração
 
 **Pedidos do Reneu e Ester:**

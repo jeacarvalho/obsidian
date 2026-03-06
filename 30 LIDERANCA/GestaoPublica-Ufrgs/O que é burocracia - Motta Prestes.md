@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:05.181014+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceito_burocracia
+    weight: 10
+    confidence: 0.98
+  - name: organizacoes_produtoras_comportamento
+    weight: 8
+    confidence: 0.9
+  - name: organizacoes_produtoras_modos_pensar
+    weight: 8
+    confidence: 0.9
+  - name: escolas_preparacao_organizacoes
+    weight: 7
+    confidence: 0.85
+  - name: funcoes_organizacao_producao
+    weight: 7
+    confidence: 0.85
+  - name: funcoes_organizacao_controle_social
+    weight: 8
+    confidence: 0.9
+  - name: relacionamento_desiguais_organizacao
+    weight: 9
+    confidence: 0.95
+  - name: socializacao_organizacional
+    weight: 9
+    confidence: 0.95
+  - name: individualizacao_organizacional
+    weight: 10
+    confidence: 0.98
+  - name: poder_organizacional_individualizacao
+    weight: 8
+    confidence: 0.9
+  cdu_primary: '316.46'
+  cdu_secondary:
+  - '316.3'
+  - '316.4'
+  - '305.4'
+  cdu_description: Sociologia das organizações; Socialização; Individualização; Poder nas organizações
+---
 O que é burocracia - Mottaundefined Prestes
 
 Organizações como produtoras de comportamento e modos de pensar.

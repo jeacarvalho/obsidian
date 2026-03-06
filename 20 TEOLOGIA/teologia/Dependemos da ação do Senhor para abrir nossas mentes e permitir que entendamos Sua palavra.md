@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:56.933148+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: compreensao_escrituras_divina
+    weight: 10
+    confidence: 0.98
+  - name: revelacao_espiritual
+    weight: 9
+    confidence: 0.95
+  - name: ato_soberano_jesus
+    weight: 8
+    confidence: 0.92
+  - name: capacitacao_discipulos
+    weight: 7
+    confidence: 0.9
+  - name: dependencia_espirito_santo
+    weight: 8
+    confidence: 0.93
+  - name: interpretacao_biblica
+    weight: 7
+    confidence: 0.88
+  - name: divisoes_igreja
+    weight: 6
+    confidence: 0.85
+  - name: testemunho_cristao
+    weight: 5
+    confidence: 0.8
+  - name: ressurreicao_cristo
+    weight: 6
+    confidence: 0.82
+  - name: limitacoes_entendimento_humano
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '220.0'
+  - '270.0'
+  cdu_description: Teologia cristã; Teologia bíblica; História do cristianismo e da igreja cristã
+---
 #### Dependemos da ação do Senhor para abrir nossas mentes e permitir que entendamos Sua palavra
 
 > [[Lucas 24]]: 44Em seguida, disse: “Enquanto ainda estava com vocês, eu lhes falei que devia se cumprir tudo que a lei de Moisés, os profetas e os salmos diziam a meu respeito”. 45Então ele lhes abriu a mente para que entendessem as Escrituras, 46e disse: “Sim, está escrito que o Cristo haveria de sofrer, morrer e ressuscitar no terceiro dia, 47e que a mensagem de arrependimento para o perdão dos pecados seria proclamada com a autoridade de seu nome a todas as nações, começando por Jerusalém. 48Vocês são testemunhas dessas coisas.  

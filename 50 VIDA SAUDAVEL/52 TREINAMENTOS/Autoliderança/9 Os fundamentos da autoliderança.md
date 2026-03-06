@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:48.758588+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: fundamentos_autolideranca
+    weight: 10
+    confidence: 0.98
+  - name: gestao_tempo_recurso_limitado
+    weight: 8
+    confidence: 0.95
+  - name: energia_vital_renovacao
+    weight: 9
+    confidence: 0.96
+  - name: ciclo_circadiano_influencia
+    weight: 7
+    confidence: 0.9
+  - name: influencia_trabalho_competencias
+    weight: 8
+    confidence: 0.92
+  - name: contexto_organizacional_cultura
+    weight: 7
+    confidence: 0.91
+  - name: competencias_pessoais_desenvolvimento
+    weight: 9
+    confidence: 0.97
+  - name: autolideranca_mapeamento_foco
+    weight: 9
+    confidence: 0.94
+  - name: sistema_pessoal_autolideranca
+    weight: 8
+    confidence: 0.93
+  - name: desenvolvimento_sistema_autolideranca
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '005.32'
+  - '316.6'
+  cdu_description: Psicologia da autoliderança e desenvolvimento pessoal, com ênfase em gestão do tempo, energia, competências e contexto organizacional.
+---
 #### 9 Os fundamentos da autoliderança
 fonte: https://aartedaautoliderancamod-okbyyx.club.hotmart.com/lesson/y4bnByv84R/9.-os-fundamentos-da-autolideranca
 

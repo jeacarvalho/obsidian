@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:31.149975+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: sair_da_zona_de_conforto
+    weight: 9
+    confidence: 0.98
+  - name: buscar_inspiracao_fora_do_comum
+    weight: 8
+    confidence: 0.97
+  - name: importancia_do_circulo_social
+    weight: 7
+    confidence: 0.96
+  - name: pensar_e_agir_diferente
+    weight: 8
+    confidence: 0.95
+  - name: conexao_de_ideias_e_elementos
+    weight: 7
+    confidence: 0.94
+  - name: ouvir_ativamente
+    weight: 8
+    confidence: 0.93
+  - name: abracar_a_singularidade
+    weight: 9
+    confidence: 0.92
+  - name: aprender_com_o_fracasso
+    weight: 7
+    confidence: 0.91
+  - name: fazer_perguntas_interessantes
+    weight: 6
+    confidence: 0.9
+  - name: aprender_novas_habilidades
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '159.94'
+  cdu_secondary:
+  - '005.32'
+  - '17'
+  - '37.01'
+  cdu_description: Psicologia da personalidade e do comportamento; Psicologia da criatividade e da inovação; Ética; Educação e formação
+---
 [23 LAWS OF INTERESTING](https://twitter.com/TheDOLectures/status/1593560237382029312?s=20&t=Y_fyw0sku2-82gn7-0PXHw)
 
 # 1. Outputs are directly related to inputs. 

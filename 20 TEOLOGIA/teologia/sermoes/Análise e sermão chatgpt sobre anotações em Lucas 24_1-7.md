@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T22:12:05.068661+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_meditante
+    weight: 8
+    confidence: 0.9
+  - name: interpretacao_emocional_narrativa_biblica
+    weight: 7
+    confidence: 0.85
+  - name: ressurreicao_como_processo_gradual
+    weight: 6
+    confidence: 0.8
+  - name: fe_como_caminhada_em_meio_ao_vazio
+    weight: 7
+    confidence: 0.88
+  - name: teologia_reformada_soberania_divina
+    weight: 9
+    confidence: 0.92
+  - name: doutrina_deus_escondido_angustia
+    weight: 8
+    confidence: 0.87
+  - name: esperanca_em_meio_a_escuridao
+    weight: 7
+    confidence: 0.85
+  - name: exegese_lucas_24_1-7_surpresa_graca
+    weight: 9
+    confidence: 0.93
+  - name: mulheres_primeiras_testemunhas_ressurreicao
+    weight: 8
+    confidence: 0.9
+  - name: ressurreicao_desafio_poder_politico_religioso
+    weight: 7
+    confidence: 0.82
+  cdu_primary: '232.9'
+  cdu_secondary:
+  - '248.2'
+  - '226.7'
+  - '273.6'
+  cdu_description: 232.9 - Jesus Cristo. Teologia cristã. Ressurreição. 248.2 - Vida e prática cristãs. Experiência religiosa. 226.7 - Novo Testamento. Evangelhos. Lucas. 273.6 - Protestantismo. Teologia reformada.
+---
 #### Análise e sermão chatgpt sobre anotações em [[Lucas 24]]_1-7
 Muito bem, Karl. A seguir, respondo conforme solicitado, em cinco seções: **Análise comportamental**, **Análise teológica**, **Exegese do texto bíblico**, **Contexto histórico**, e por fim, uma **Proposta de sermão** inspirada nas meditações.
 

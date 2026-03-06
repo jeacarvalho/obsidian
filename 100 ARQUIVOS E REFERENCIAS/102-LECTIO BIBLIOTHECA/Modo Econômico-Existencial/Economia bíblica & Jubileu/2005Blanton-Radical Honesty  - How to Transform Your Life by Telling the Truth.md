@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:04.410541+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: formacao_humana_existencial
+    weight: 10
+    confidence: 0.98
+  - name: critica_modernidade_desalienacao
+    weight: 9
+    confidence: 0.95
+  - name: psicologia_trauma_cultura
+    weight: 8
+    confidence: 0.9
+  - name: filosofia_hermeneutica_verdade
+    weight: 8
+    confidence: 0.92
+  - name: antropologia_verdade_encarnada
+    weight: 7
+    confidence: 0.88
+  - name: tese_mentira_estrutural_identidade
+    weight: 9
+    confidence: 0.96
+  - name: conceito_withholding_omissao_relacional
+    weight: 8
+    confidence: 0.93
+  - name: dualidade_ser_mente_tecnologia
+    weight: 7
+    confidence: 0.85
+  - name: critica_moralismo_pensamento_positivo
+    weight: 9
+    confidence: 0.97
+  - name: individualismo_radical_critica_social
+    weight: 7
+    confidence: 0.8
+  cdu_primary: '159.9'
+  cdu_secondary:
+  - '111.85'
+  - '305.8'
+  - '230.01'
+  cdu_description: Psicologia (159.9), Filosofia da vida humana (111.85), Sociologia da cultura e da civilização (305.8), Teologia cristã (230.01)
+---
 # Leitura Qwen
 
 ### 🔑 PASSO 1: ATIVAÇÃO DA LENTE DISCIPLINAR

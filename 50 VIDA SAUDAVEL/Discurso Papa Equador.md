@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:27.095904+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: discurso_papa_francisco
+    weight: 10
+    confidence: 0.98
+  - name: movimentos_populares
+    weight: 9
+    confidence: 0.97
+  - name: justica_social
+    weight: 9
+    confidence: 0.96
+  - name: exclusao_social
+    weight: 8
+    confidence: 0.95
+  - name: mudanca_estrutural
+    weight: 8
+    confidence: 0.94
+  - name: direitos_humanos
+    weight: 7
+    confidence: 0.93
+  - name: globalizacao_da_esperanca
+    weight: 7
+    confidence: 0.92
+  - name: terra_teto_trabalho
+    weight: 6
+    confidence: 0.91
+  - name: critica_ao_sistema
+    weight: 6
+    confidence: 0.9
+  - name: papa_em_equador
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '282.092'
+  cdu_secondary:
+  - '323.3'
+  - '316.4'
+  - '330.5'
+  cdu_description: Religião. Cristianismo. Catolicismo. Biografias de Papas. Movimentos sociais. Sociologia. Crítica social. Economia política.
+---
 Discurso Papa Equador
 
 Papa Francisco \ Viagens

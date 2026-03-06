@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T23:02:16.443157+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: combinacao_de_negocios
+    weight: 10
+    confidence: 0.98
+  - name: avaliacao_de_investimentos
+    weight: 9
+    confidence: 0.95
+  - name: cpc_15
+    weight: 8
+    confidence: 0.97
+  - name: adquisicao_de_controle
+    weight: 7
+    confidence: 0.96
+  - name: aguio_por_expectativa_de_rentabilidade
+    weight: 8
+    confidence: 0.94
+  - name: goodwill
+    weight: 8
+    confidence: 0.94
+  - name: compra_vantajosa
+    weight: 7
+    confidence: 0.93
+  - name: escrituracao_contabil
+    weight: 6
+    confidence: 0.92
+  - name: ativos_identificaveis
+    weight: 6
+    confidence: 0.91
+  - name: passivos_assumidos
+    weight: 6
+    confidence: 0.91
+  cdu_primary: '657.3'
+  cdu_secondary: []
+  cdu_description: Contabilidade de empresas. Contabilidade de custos. Contabilidade de gestão. Contabilidade de investimentos. Contabilidade de fusões e aquisições.
+---
 REFERÊNCIA BÁSICA 1. COSTA, Ronesei N. da. Contabilidade Avançada: uma abordagem direta e atualizada. Curitiba: Intersaberes, 2012. 2. PEREZ JUNIOR, José Hernandez; OLIVEIRA, Luís Martins de. Contabilidade avançada: texto e testes com as respostas. 8. ed. São Paulo: Atlas, 2012. 3. SCHMIDT, Paulo; SANTOS, José Luiz dos; FERNANDES, Luciane Alves. Contabilidade Avançada: aspectos societários e tributários. 3. ed. São Paulo: Atlas, 2012. 352 p.
 
 - ![[CompEntregaAVA1_ContabAvancadaUVA.png]]

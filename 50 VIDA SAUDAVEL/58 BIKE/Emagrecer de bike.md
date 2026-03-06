@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:50.014005+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: mentalidade_de_vitoria
+    weight: 9
+    confidence: 0.98
+  - name: foco_na_solucao
+    weight: 8
+    confidence: 0.97
+  - name: disciplina_alimentar
+    weight: 10
+    confidence: 0.99
+  - name: saude_e_longevidade
+    weight: 7
+    confidence: 0.96
+  - name: superacao_de_habitos
+    weight: 8
+    confidence: 0.95
+  - name: importancia_da_jornada
+    weight: 6
+    confidence: 0.94
+  - name: regra_versus_excecao
+    weight: 7
+    confidence: 0.93
+  - name: resiliencia_e_aprendizado
+    weight: 6
+    confidence: 0.92
+  - name: motivacao_pessoal
+    weight: 5
+    confidence: 0.91
+  - name: alimentacao_consciente
+    weight: 9
+    confidence: 0.9
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '613.2'
+  - '616.994'
+  cdu_description: Psicologia da motivação e do comportamento; Nutrição e dietética; Oncologia
+---
 - "no online depois é nunca" - Christian
 - Os 4 compromissos - livro
 - A derrota não existe

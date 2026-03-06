@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:40:03.408787+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: experiencia_medica_morte_emergencia
+    weight: 7
+    confidence: 0.9
+  - name: distincao_morte_rapida_lenta
+    weight: 8
+    confidence: 0.95
+  - name: critica_paradigma_medicina_moderna
+    weight: 9
+    confidence: 0.98
+  - name: foco_prevencao_doencas_cronicas
+    weight: 10
+    confidence: 1.0
+  - name: intervencoes_medicina_proativa
+    weight: 9
+    confidence: 0.97
+  - name: conceito_longevidade_saude
+    weight: 8
+    confidence: 0.92
+  - name: identificacao_quatro_cavaleiros_doencas
+    weight: 7
+    confidence: 0.85
+  - name: responsabilidade_individual_saude
+    weight: 6
+    confidence: 0.8
+  - name: impacto_fatores_socioeconomicos_saude
+    weight: 5
+    confidence: 0.75
+  - name: evolucao_ciencia_intervencoes_preventivas
+    weight: 6
+    confidence: 0.78
+  cdu_primary: '616.091'
+  cdu_secondary:
+  - '613.88'
+  - '616.98'
+  cdu_description: 616.091 - Patologia geral. Etiologia. Epidemiologia. Patologia da morte. 613.88 - Higiene da vida sexual. Planejamento familiar. 616.98 - Doenças infecciosas e parasitárias.
+---
 # Cap 1
 
 ## analise: 

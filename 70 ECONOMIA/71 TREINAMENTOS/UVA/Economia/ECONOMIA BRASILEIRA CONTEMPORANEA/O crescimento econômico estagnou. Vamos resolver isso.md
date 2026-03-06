@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:45.332387+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: crescimento_economico_sustentavel
+    weight: 10
+    confidence: 0.98
+  - name: desafios_economicos_globais
+    weight: 9
+    confidence: 0.95
+  - name: economias_avancadas_desenvolvidas
+    weight: 8
+    confidence: 0.92
+  - name: economias_emergentes
+    weight: 8
+    confidence: 0.92
+  - name: fatores_determinantes_crescimento
+    weight: 7
+    confidence: 0.9
+  - name: capitalismo_de_estado
+    weight: 7
+    confidence: 0.88
+  - name: capitalismo_de_mercado
+    weight: 7
+    confidence: 0.88
+  - name: impacto_crescimento_vida_humana
+    weight: 6
+    confidence: 0.85
+  - name: preocupacoes_ambientais_superpopulacao
+    weight: 6
+    confidence: 0.8
+  - name: reducao_pobreza_duplicacao_salarios
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - 330.342.3
+  - '330.35'
+  - '338.1'
+  cdu_description: Economia. Economia política. Crescimento econômico. Desenvolvimento econômico. Economia de mercado. Capitalismo.
+---
 # O crescimento econômico estagnou. Vamos resolver isso.
 - Dambisa Moyo TEDGlobal>Geneva December 2015
 - https://www.ted.com/talks/dambisa_moyo_economic_growth_has_stalled_let_s_fix_it/transcript?language=pt-br

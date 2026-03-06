@@ -2,7 +2,48 @@
 created: 2021-03-29T15:16:03 (UTC -03:00)
 tags: []
 source: https://www.bbc.com/portuguese/vert-fut-56379568
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:31.447022+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: seguranca_epistemica
+    weight: 10
+    confidence: 0.98
+  - name: era_pos_verdade
+    weight: 9
+    confidence: 0.95
+  - name: desinformacao_pandemia
+    weight: 8
+    confidence: 0.92
+  - name: ameaca_global_conhecimento
+    weight: 7
+    confidence: 0.9
+  - name: confianca_informacao
+    weight: 7
+    confidence: 0.88
+  - name: crise_climatica
+    weight: 6
+    confidence: 0.85
+  - name: escassez_atencao
+    weight: 6
+    confidence: 0.82
+  - name: coordenacao_social
+    weight: 5
+    confidence: 0.8
+  - name: vacina_hesitacao
+    weight: 5
+    confidence: 0.78
+  - name: riscos_futuros_sociedade
+    weight: 5
+    confidence: 0.75
+  cdu_primary: '303.4'
+  cdu_secondary:
+  - '004.77'
+  - '316.77'
+  - '323.28'
+  cdu_description: Métodos de investigação social. Teoria do conhecimento. Segurança epistêmica como a capacidade de uma sociedade de manter seu conhecimento seguro e confiável diante de ameaças como desinformação e escassez de atenção, crucial para a resposta a crises globais.
 ---
 #Toread
 # Ataque ao conhecimento é a maior ameaça global na era da pós-[[verdade]], diz pesquisadora - BBC News Brasil

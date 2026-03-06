@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:40.549715+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: demonstracoes_contabeis
+    weight: 10
+    confidence: 0.98
+  - name: balanco_patrimonial
+    weight: 9
+    confidence: 0.97
+  - name: demonstracao_resultado_exercicio
+    weight: 9
+    confidence: 0.96
+  - name: informacoes_gerenciais
+    weight: 8
+    confidence: 0.95
+  - name: tomada_de_decisao
+    weight: 8
+    confidence: 0.94
+  - name: usuarios_externos
+    weight: 7
+    confidence: 0.93
+  - name: pronunciamento_tecnico_cpc_26
+    weight: 7
+    confidence: 0.92
+  - name: lei_sociedades_acoes
+    weight: 6
+    confidence: 0.91
+  - name: exercicio_social
+    weight: 6
+    confidence: 0.9
+  - name: demonstracao_fluxos_caixa
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '657.3'
+  cdu_secondary: []
+  cdu_description: Contabilidade. Contabilidade financeira. Relatórios financeiros. Balanço.
+---
 # Bibliografia
 ## BÁSICA 
 - MARTINS, Eliseu; MIRANDA, Gilberto José; DINIZ, Josedilton Alves. Análise Didática das Demonstrações Contábeis. São Paulo: Atlas, 2014. https://integrada.minhabiblioteca.com.br/reader/books/9788597025439/epubcfi/6/2[%3Bvnd.vst.idref%3Dcover]!/4/2/2%4051:1

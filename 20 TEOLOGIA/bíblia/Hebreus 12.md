@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:30.873368+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: perseveranca_crista
+    weight: 9
+    confidence: 0.98
+  - name: disciplina_divina
+    weight: 8
+    confidence: 0.97
+  - name: santificacao_pessoal
+    weight: 7
+    confidence: 0.96
+  - name: cultura_comunitaria_crista
+    weight: 6
+    confidence: 0.95
+  - name: comparacao_velha_nova_alianca
+    weight: 8
+    confidence: 0.94
+  - name: monte_siao
+    weight: 7
+    confidence: 0.93
+  - name: jerusalem_celestial
+    weight: 7
+    confidence: 0.92
+  - name: igreja_primogenitos
+    weight: 6
+    confidence: 0.91
+  - name: mediador_nova_alianca
+    weight: 8
+    confidence: 0.9
+  - name: sangue_aspergido
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '248.2'
+  - '270.1'
+  cdu_description: Teologia cristã; Vida e prática cristãs; História da igreja cristã
+---
 Portanto, também nós, visto que temos a rodear-nos tão grande nuvem de testemunhas, livremo-nos de todo peso e do pecado que tão firmemente se apega a nós e corramos com [[perseverança]] a carreira que nos está proposta,  olhando firmemente para o Autor e Consumador da fé, Jesus, o qual, em troca da alegria que lhe estava proposta, suportou a cruz, sem se importar com a vergonha, e agora está sentado à direita do trono de Deus.  Portanto, pensem naquele que suportou tamanha oposição dos pecadores contra si mesmo, para que vocês não se cansem nem desanimem. Hebreus 12:1‭-‬3 NAA
 - Pra ler todo dia de manhã ao acordar!!
 

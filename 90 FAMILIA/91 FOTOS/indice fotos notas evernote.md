@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T19:58:28.555426+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gerenciamento_documentos_digitais
+    weight: 8
+    confidence: 0.85
+  - name: organizacao_informacao
+    weight: 7
+    confidence: 0.8
+  - name: arquivamento_digital
+    weight: 9
+    confidence: 0.9
+  - name: referencias_cruzadas_documentos
+    weight: 6
+    confidence: 0.75
+  - name: sistema_de_nomeacao_arquivos
+    weight: 7
+    confidence: 0.82
+  - name: manutencao_registros
+    weight: 8
+    confidence: 0.88
+  - name: recuperacao_informacao
+    weight: 6
+    confidence: 0.78
+  - name: organizacao_pessoal
+    weight: 5
+    confidence: 0.7
+  - name: gerenciamento_conhecimento_pessoal
+    weight: 9
+    confidence: 0.92
+  - name: documentacao_fotografica
+    weight: 7
+    confidence: 0.85
+  cdu_primary: '004.4'
+  cdu_secondary:
+  - '025.431'
+  cdu_description: Organização e gestão de dados e informações digitais, com ênfase em sistemas de classificação e indexação.
+---
 Manter essa nota porque linkei com "backlink" tudo quanto era arquivo com nome "foto Jose Eduardo
 [[fotos serra Teresopolis 20161224]]
 [[Foto_carol_pequena_pretobranco_linda.png]]

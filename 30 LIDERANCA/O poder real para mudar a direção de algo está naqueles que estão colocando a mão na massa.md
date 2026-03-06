@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:00.894224+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: historia_boeing
+    weight: 10
+    confidence: 0.98
+  - name: mudanca_cultural_empresarial
+    weight: 9
+    confidence: 0.97
+  - name: cultura_mcdonnell_douglas
+    weight: 8
+    confidence: 0.95
+  - name: impacto_ge_na_cultura_boeing
+    weight: 7
+    confidence: 0.93
+  - name: priorizacao_lucro_sobre_seguranca
+    weight: 10
+    confidence: 0.99
+  - name: acidentes_aereos_737_max
+    weight: 10
+    confidence: 0.98
+  - name: falhas_sensores_aeronaves
+    weight: 9
+    confidence: 0.96
+  - name: gestao_riscos_industriais
+    weight: 8
+    confidence: 0.94
+  - name: etica_corporativa_industria_aeroespacial
+    weight: 9
+    confidence: 0.97
+  - name: critica_lideranca_executiva
+    weight: 7
+    confidence: 0.92
+  cdu_primary: '629.13'
+  cdu_secondary:
+  - '658.01'
+  cdu_description: Engenharia aeronáutica e aeroespacial; Gestão e administração
+---
 #### Sobre a história da Boeing, suas mudanças culturais, e como isso culminou no 737 Max e dois acidentes fatais
 Uma [[mudança de cultura]] da Boing fez com que surgisse um produto inseguro, como o 737 Max, que teve dois acidentes fatais.
 

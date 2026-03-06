@@ -1,14 +1,52 @@
 ---
-
 excalidraw-plugin: parsed
 excalidraw-default-mode: view
 excalidraw-export-dark: false
 excalidraw-export-transparent: false
 excalidraw-linkbutton-opacity: 0.3
-excalidraw-onload-script: "app.plugins.plugins[`excalibrain`].start(ea.targetView.leaf);"
-
-tags: [excalidraw]
-
+excalidraw-onload-script: app.plugins.plugins[`excalibrain`].start(ea.targetView.leaf);
+tags:
+- excalidraw
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:56.076635+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: colaboracao_alta_performance
+    weight: 9
+    confidence: 0.98
+  - name: lideranca_colaborativa
+    weight: 8
+    confidence: 0.95
+  - name: cultura_organizacional
+    weight: 7
+    confidence: 0.9
+  - name: empatia_lideranca
+    weight: 7
+    confidence: 0.88
+  - name: gestao_de_pessoas
+    weight: 6
+    confidence: 0.85
+  - name: seguranca_psicologica
+    weight: 8
+    confidence: 0.92
+  - name: proposito_organizacional
+    weight: 6
+    confidence: 0.8
+  - name: complexidade_organizacional
+    weight: 5
+    confidence: 0.75
+  - name: gestao_de_projetos
+    weight: 5
+    confidence: 0.7
+  - name: teoria_do_caos_aplicada
+    weight: 5
+    confidence: 0.72
+  cdu_primary: '305.4'
+  cdu_secondary:
+  - '331.1'
+  - '658.3'
+  cdu_description: Liderança e colaboração em ambientes organizacionais complexos, com foco em segurança psicológica, empatia e propósito.
 ---
 
 # Text Elements

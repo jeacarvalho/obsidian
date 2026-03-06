@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:12.397537+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: definicao_biblica_de_sucesso
+    weight: 10
+    confidence: 0.98
+  - name: obediencia_a_deus
+    weight: 9
+    confidence: 0.95
+  - name: sabedoria_e_discernimento
+    weight: 8
+    confidence: 0.92
+  - name: amor_a_deus_e_ao_proximo
+    weight: 7
+    confidence: 0.9
+  - name: aceitacao_da_vida_eterna
+    weight: 6
+    confidence: 0.88
+  - name: transformacao_interior_pelo_espirito_santo
+    weight: 7
+    confidence: 0.85
+  - name: perseveranca_em_provacoes
+    weight: 6
+    confidence: 0.82
+  - name: fruto_do_espirito
+    weight: 5
+    confidence: 0.8
+  - name: paz_que_excede_o_entendimento
+    weight: 5
+    confidence: 0.78
+  - name: valor_da_alma_sobre_sucessos_mundanos
+    weight: 9
+    confidence: 0.93
+  cdu_primary: '2'
+  cdu_secondary:
+  - '23'
+  - '24'
+  - '265'
+  cdu_description: Religião. Teologia. Religião comparada. Religião e ciência. Ética religiosa. Vida cristã.
+---
 How does the Bible define success?
 
 # How does the Bible define success?

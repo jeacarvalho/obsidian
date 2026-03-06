@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.711096+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_de_investimentos
+    weight: 10
+    confidence: 0.98
+  - name: administracao_financeira
+    weight: 9
+    confidence: 0.97
+  - name: fluxo_de_caixa_projetado
+    weight: 8
+    confidence: 0.96
+  - name: valor_presente_liquido_vpl
+    weight: 8
+    confidence: 0.95
+  - name: tempo_de_retorno_payback
+    weight: 8
+    confidence: 0.94
+  - name: custo_de_capital
+    weight: 7
+    confidence: 0.93
+  - name: custo_de_oportunidade
+    weight: 7
+    confidence: 0.92
+  - name: viabilidade_financeira
+    weight: 9
+    confidence: 0.91
+  - name: gestao_de_investimentos
+    weight: 7
+    confidence: 0.9
+  - name: tomada_de_decisao_empresarial
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '658.15'
+  cdu_secondary:
+  - '336.77'
+  - '004.77'
+  cdu_description: Finanças empresariais; Gestão financeira; Análise de investimentos; Fluxo de caixa; Valor presente líquido; Payback; Custo de capital; Custo de oportunidade; Viabilidade financeira; Serviços de tecnologia da informação.
+---
 # Referências 
 ## básicas 
 - CASAROTTO FILHO, Nelson; KOPITTKE, Bruno Hartmut. Análise de Investimentos: manual para solução de problemas e tomadas de decisão. 12ª ed. São Paulo: Atlas, 2020. (Minha Biblioteca) https://integrada.minhabiblioteca.com.br/reader/books/9788597023299/epubcfi/6/2[%3Bvnd.vst.idref%3Dcover]!/4/2/2%4051:40

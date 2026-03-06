@@ -1,4 +1,46 @@
-
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:20.989248+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: reforma_protestante_interpretacao_biblica
+    weight: 10
+    confidence: 0.98
+  - name: autoridade_igreja_catolica_vs_escrituras
+    weight: 9
+    confidence: 0.97
+  - name: sola_scriptura_consequencias
+    weight: 8
+    confidence: 0.96
+  - name: contexto_cultural_interpretacao_biblica
+    weight: 9
+    confidence: 0.95
+  - name: traducao_biblia_linguas_vernaculas
+    weight: 7
+    confidence: 0.94
+  - name: justificacao_pela_fe_redescobrimento
+    weight: 8
+    confidence: 0.93
+  - name: democratizacao_estudo_biblico
+    weight: 7
+    confidence: 0.92
+  - name: impacto_educacional_reforma
+    weight: 6
+    confidence: 0.91
+  - name: critica_interpretacoes_extremas_anabatistas
+    weight: 7
+    confidence: 0.9
+  - name: equilibrio_historico_cultural_leitor
+    weight: 8
+    confidence: 0.89
+  cdu_primary: '270.6'
+  cdu_secondary:
+  - '220.6'
+  - '230.04'
+  - '284.3'
+  cdu_description: História da Igreja Cristã - Reforma Protestante; Interpretação da Bíblia; Teologia da Reforma; Anabatistas
+---
 
 # ChatGPT
 

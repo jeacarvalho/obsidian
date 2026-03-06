@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:38:55.923222+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: antropologia_cultural
+    weight: 10
+    confidence: 0.98
+  - name: conceito_de_cultura
+    weight: 10
+    confidence: 0.97
+  - name: diversidade_humana
+    weight: 8
+    confidence: 0.95
+  - name: metaforas_culturais
+    weight: 7
+    confidence: 0.9
+  - name: aprendizado_cultural
+    weight: 9
+    confidence: 0.96
+  - name: normas_sociais
+    weight: 8
+    confidence: 0.94
+  - name: sociologia_compreensiva
+    weight: 7
+    confidence: 0.92
+  - name: max_weber
+    weight: 6
+    confidence: 0.91
+  - name: fatos_sociais
+    weight: 6
+    confidence: 0.9
+  - name: durkheim
+    weight: 5
+    confidence: 0.88
+  cdu_primary: '316.3'
+  cdu_secondary:
+  - '305.8'
+  - '304.2'
+  cdu_description: Sociologia. Antropologia. Etnologia. Etnografia. Relações sociais. Comportamento social. Cultura. Civilização. Etnopsicologia.
+---
 ### **Tutor Socrático AI:**
 
 Olá! Bem-vindo de volta. É um prazer continuar nossa jornada pelos **Fundamentos Antropológicos e Sociológicos**.

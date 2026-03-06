@@ -2,7 +2,48 @@
 created: 2021-12-16T13:52:17 (UTC -03:00)
 tags: []
 source: https://c004.novisurvey.net/ViewReport.aspx?doid=1030e268493c46e48b096a6d6534e6c6&c=pt-BR&re=2e7517d152e74785a76b0b6202e6736f
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:37.161216+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: inteligencia_positiva_e_sabotadores
+    weight: 10
+    confidence: 0.98
+  - name: identificacao_de_sabotadores_mentais
+    weight: 9
+    confidence: 0.97
+  - name: origem_evolucionaria_dos_sabotadores
+    weight: 8
+    confidence: 0.96
+  - name: o_papel_do_sabio_mental
+    weight: 8
+    confidence: 0.95
+  - name: critico_interno_e_modos_de_pensamento
+    weight: 7
+    confidence: 0.94
+  - name: auto_critica_e_critica_aos_outros
+    weight: 7
+    confidence: 0.93
+  - name: critica_as_circunstancias
+    weight: 6
+    confidence: 0.92
+  - name: impacto_do_quociente_de_inteligencia_positiva_no_desempenho
+    weight: 6
+    confidence: 0.91
+  - name: relacao_entre_sabotadores_e_felicidade_no_trabalho
+    weight: 5
+    confidence: 0.9
+  - name: estrategias_para_superar_sabotadores
+    weight: 5
+    confidence: 0.89
+  cdu_primary: '159.94'
+  cdu_secondary:
+  - '159.9'
+  - '159.942'
+  - '159.943'
+  cdu_description: Psicologia da inteligência. Inteligência positiva. Avaliação da inteligência positiva. Avaliação do quociente de inteligência positiva.
 ---
 
 # Novi Survey report 'Saboteur Assessment Results -- pt'

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:44.364421+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: conceito_de_moral
+    weight: 9
+    confidence: 0.98
+  - name: origem_etimologica_moral
+    weight: 7
+    confidence: 0.95
+  - name: moral_e_sociedade
+    weight: 8
+    confidence: 0.97
+  - name: moral_e_cultura
+    weight: 8
+    confidence: 0.96
+  - name: variabilidade_da_moral
+    weight: 7
+    confidence: 0.94
+  - name: valores_morais_universais
+    weight: 6
+    confidence: 0.92
+  - name: amoralidade
+    weight: 5
+    confidence: 0.9
+  - name: conceito_de_etica
+    weight: 9
+    confidence: 0.98
+  - name: etica_e_moral_diferencas
+    weight: 8
+    confidence: 0.97
+  - name: etica_e_autonomia
+    weight: 7
+    confidence: 0.95
+  cdu_primary: '17'
+  cdu_secondary:
+  - '316.3'
+  - '39'
+  - '10'
+  cdu_description: 17 - Ética; 316.3 - Estrutura e relações sociais; 39 - Costumes, etiqueta, vida social; 10 - Filosofia em geral
+---
 # Bibliografia
 
 ## REFERÊNCIAS BÁSICAS 

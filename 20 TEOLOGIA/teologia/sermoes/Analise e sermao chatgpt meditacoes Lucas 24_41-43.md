@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:04.400210+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_meditador
+    weight: 7
+    confidence: 0.9
+  - name: fe_testemunho_apostolico
+    weight: 8
+    confidence: 0.85
+  - name: comunidade_lugar_encontro_deus
+    weight: 6
+    confidence: 0.8
+  - name: equilibrio_experiencia_doutrina
+    weight: 9
+    confidence: 0.92
+  - name: lectio_divina_pratica
+    weight: 7
+    confidence: 0.88
+  - name: diario_encontro_divino
+    weight: 6
+    confidence: 0.82
+  - name: teologia_reformada_sola_scriptura
+    weight: 9
+    confidence: 0.95
+  - name: teologia_reformada_sola_fide
+    weight: 9
+    confidence: 0.93
+  - name: exegese_lucas_24_41_43_ressurreicao
+    weight: 10
+    confidence: 0.98
+  - name: contexto_historico_cultural_palestina_seculo_1
+    weight: 7
+    confidence: 0.87
+  cdu_primary: '232.97'
+  cdu_secondary:
+  - '273.6'
+  - '226.6'
+  cdu_description: Cristologia (230) - Ressurreição de Cristo (232.97); Teologia Sistemática (200) - Protestantismo (270) - Teologia Reformada (273.6); Bíblia (200) - Novo Testamento (220) - Evangelhos (226) - Lucas (226.6)
+---
 #### Analise e sermao chatgpt meditacoes [[Lucas 24]]_41-43
 ## 1. Análise Comportamental
 

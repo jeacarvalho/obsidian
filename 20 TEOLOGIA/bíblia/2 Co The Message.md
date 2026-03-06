@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:35.866383+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: confianca_em_deus
+    weight: 9
+    confidence: 0.98
+  - name: vitoria_em_cristo
+    weight: 8
+    confidence: 0.95
+  - name: conhecimento_de_cristo
+    weight: 7
+    confidence: 0.92
+  - name: fragrancia_de_vida
+    weight: 6
+    confidence: 0.9
+  - name: responsabilidade_ministerial
+    weight: 8
+    confidence: 0.96
+  - name: integridade_da_palavra_de_deus
+    weight: 9
+    confidence: 0.97
+  - name: honestidade_na_comunicacao
+    weight: 7
+    confidence: 0.93
+  - name: presenca_pessoal_de_deus
+    weight: 10
+    confidence: 0.99
+  - name: liberdade_espiritual
+    weight: 8
+    confidence: 0.94
+  - name: transfiguracao_em_cristo
+    weight: 9
+    confidence: 0.97
+  cdu_primary: '227.1'
+  cdu_secondary: []
+  cdu_description: Epístolas de Paulo, Segunda Epístola aos Coríntios
+---
 2 Co The Message
 
 1:11

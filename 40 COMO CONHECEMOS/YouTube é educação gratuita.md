@@ -1,8 +1,54 @@
 ---
 created: 2024-03-20T14:22:06 (UTC -03:00)
-tags: [twitter,twitter thread,unroll,threadreader,threads]
+tags:
+- twitter
+- twitter thread
+- unroll
+- threadreader
+- threads
 source: https://threadreaderapp.com/thread/1770389837570310423.html?utm_campaign=topunroll
-author: 
+author: null
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:30.854768+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: canais_educacionais_youtube
+    weight: 10
+    confidence: 0.98
+  - name: aprendizado_online_gratuito
+    weight: 9
+    confidence: 0.97
+  - name: desenvolvimento_profissional_youtube
+    weight: 8
+    confidence: 0.96
+  - name: negocios_e_empreendedorismo_youtube
+    weight: 8
+    confidence: 0.95
+  - name: criacao_de_conteudo_youtube
+    weight: 7
+    confidence: 0.94
+  - name: produtividade_e_eficiencia_estudo
+    weight: 7
+    confidence: 0.93
+  - name: programacao_e_tecnologia_cursos
+    weight: 6
+    confidence: 0.92
+  - name: autoaperfeicoamento_e_mentalidade
+    weight: 7
+    confidence: 0.91
+  - name: educacao_continuada_plataformas
+    weight: 6
+    confidence: 0.9
+  - name: inteligencia_artificial_aplicada
+    weight: 5
+    confidence: 0.88
+  cdu_primary: '374.7'
+  cdu_secondary:
+  - '004'
+  - '334.7'
+  - '659.1'
+  cdu_description: Educação de adultos e educação continuada, com ênfase em recursos online e plataformas como o YouTube para aprendizado autodirigido, desenvolvimento profissional, negócios, tecnologia e autoaperfeiçoamento.
 ---
 
 # Thread by @LucasMestreIA on Thread Reader App – Thread Reader App

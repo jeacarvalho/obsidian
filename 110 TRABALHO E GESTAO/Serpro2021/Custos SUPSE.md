@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:39:49.709124+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: gestao_de_custos_corporativos
+    weight: 10
+    confidence: 0.95
+  - name: otimizacao_de_custos_em_ti
+    weight: 9
+    confidence: 0.9
+  - name: analise_de_dados_financeiros
+    weight: 8
+    confidence: 0.85
+  - name: planejamento_estrategico_de_custos
+    weight: 7
+    confidence: 0.8
+  - name: monitoramento_de_despesas
+    weight: 7
+    confidence: 0.75
+  - name: dashboards_de_custos
+    weight: 6
+    confidence: 0.7
+  - name: eficiencia_operacional
+    weight: 6
+    confidence: 0.65
+  - name: alocacao_de_recursos
+    weight: 5
+    confidence: 0.6
+  - name: gestao_de_projetos_de_custos
+    weight: 5
+    confidence: 0.55
+  - name: relatorios_financeiros
+    weight: 5
+    confidence: 0.5
+  cdu_primary: '657.42'
+  cdu_secondary:
+  - '004.41'
+  - '336.7'
+  cdu_description: Contabilidade de custos. Custos de produção. Custos de serviços. Gestão de custos. Análise de custos. Otimização de custos. Relatórios financeiros. Sistemas de informação em contabilidade. Gestão financeira.
+---
 # Descrição:
 
 ## Links

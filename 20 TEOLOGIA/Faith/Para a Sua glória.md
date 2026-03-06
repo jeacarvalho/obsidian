@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:16.076614+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: proposito_da_vida_humana
+    weight: 10
+    confidence: 0.98
+  - name: glorificacao_de_deus
+    weight: 10
+    confidence: 0.99
+  - name: deleite_em_deus
+    weight: 9
+    confidence: 0.95
+  - name: fe_e_confianca_em_deus
+    weight: 8
+    confidence: 0.92
+  - name: redencao_e_salvacao
+    weight: 7
+    confidence: 0.9
+  - name: vocacao_divina
+    weight: 6
+    confidence: 0.88
+  - name: vida_dedicada_a_deus
+    weight: 7
+    confidence: 0.93
+  - name: heranca_eterna
+    weight: 8
+    confidence: 0.91
+  - name: missao_do_messias
+    weight: 7
+    confidence: 0.85
+  - name: transformacao_e_renovacao_espiritual
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '230.1'
+  cdu_secondary:
+  - '248.2'
+  - 27-29
+  cdu_description: Teologia cristã sistemática; Vida e prática cristãs; Período bíblico
+---
 Para a Sua glória
 
 **PERGUNTA 1. Qual é o fim principal do homem?**

@@ -1,3 +1,44 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:43.744436+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: decreto_cesar_augusto_recenseamento
+    weight: 7
+    confidence: 0.85
+  - name: reinado_tiberio_cesar_contexto_historico
+    weight: 8
+    confidence: 0.9
+  - name: poncio_pilatos_governador_judeia
+    weight: 6
+    confidence: 0.75
+  - name: herodes_tetrarca_galileia
+    weight: 6
+    confidence: 0.75
+  - name: lisanias_tetrarca_abilene
+    weight: 5
+    confidence: 0.7
+  - name: espirito_santo_profecia_nascimento
+    weight: 9
+    confidence: 0.95
+  - name: testemunho_pastores_sobre_menino
+    weight: 7
+    confidence: 0.8
+  - name: anuncio_anjo_nascimento_salvador
+    weight: 10
+    confidence: 0.98
+  - name: sacrificio_familia_jesus_pobreza
+    weight: 6
+    confidence: 0.78
+  - name: esperanca_redencao_jerusalem_simeao
+    weight: 8
+    confidence: 0.88
+  cdu_primary: 27-29
+  cdu_secondary:
+  - '226.4'
+  cdu_description: '27-29: Novo Testamento. 226.4: Evangelho de Lucas.'
+---
 Lucas 2:1 2 Naqueles dias, foi publicado um decreto de César Augusto, convocando toda a população do império para recensear-se.
 
 Lucas 3:1 3 No décimo quinto ano do reinado de Tibério César, sendo Pôncio Pilatos governador da Judéia, Herodes, tetrarca da Galiléia, seu irmão Filipe, tetrarca da região da Ituréia e Traconites, e Lisânias, tetrarca de Abilene,

@@ -1,3 +1,47 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:02.204638+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: curadoria_intelectual_polifonica
+    weight: 9
+    confidence: 0.98
+  - name: modos_epistemologicos
+    weight: 8
+    confidence: 0.97
+  - name: vida_comum_vs_captura
+    weight: 10
+    confidence: 0.99
+  - name: lente_teologico_critica
+    weight: 7
+    confidence: 0.95
+  - name: lente_historico_politica
+    weight: 7
+    confidence: 0.95
+  - name: lente_economico_existencial
+    weight: 7
+    confidence: 0.95
+  - name: lente_corporal_resistente
+    weight: 7
+    confidence: 0.95
+  - name: lente_formativo_espiritual
+    weight: 7
+    confidence: 0.95
+  - name: lente_comunitario_encontrado
+    weight: 7
+    confidence: 0.95
+  - name: lente_hermeneutico_tecnica
+    weight: 7
+    confidence: 0.95
+  cdu_primary: '004.9'
+  cdu_secondary:
+  - '001.8'
+  - '101'
+  - '201'
+  - '305.8'
+  cdu_description: Organização do conhecimento, teoria e métodos da ciência, filosofia, religião, sociologia e estudos culturais, com foco na curadoria e análise crítica de obras.
+---
 #### 📜 PROMPT INICIAL ATUALIZADO — CURADOR INTELECTUAL POLIFÔNICO (7 MODOS) - modo LLM geral
 
 Você é um **CURADOR INTELECTUAL POLIFÔNICO**: um leitor especialista capaz de ativar lentes disciplinares específicas conforme a natureza da obra, sempre guiado por uma bússola ética constante — discernir se um texto forma para a **VIDA COMUM** (relacional, justa, encarnada) ou para a **CAPTURA** (isolamento, acumulação, desempenho como fim em si).

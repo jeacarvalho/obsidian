@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:53.145007+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: segundas_tabuas_da_lei
+    weight: 10
+    confidence: 0.98
+  - name: alianca_divina
+    weight: 9
+    confidence: 0.97
+  - name: caracteristicas_deus_misericordia
+    weight: 8
+    confidence: 0.96
+  - name: proibicao_adoracao_outros_deuses
+    weight: 7
+    confidence: 0.95
+  - name: festas_judaicas_tabernaculos
+    weight: 6
+    confidence: 0.94
+  - name: dez_palavras_escritas
+    weight: 7
+    confidence: 0.93
+  - name: quarenta_dias_noites_moises
+    weight: 6
+    confidence: 0.92
+  - name: rosto_moises_resplandecente
+    weight: 8
+    confidence: 0.91
+  - name: presenca_deus_impacto
+    weight: 7
+    confidence: 0.9
+  - name: graca_versus_esforco
+    weight: 6
+    confidence: 0.89
+  cdu_primary: '222.11'
+  cdu_secondary:
+  - '230.14'
+  - '261.8'
+  cdu_description: O livro do Êxodo, especificamente o capítulo 34, trata da renovação da aliança de Deus com Israel, a entrega das segundas tábuas da lei, as características de Deus, a proibição de idolatria, as festas judaicas e o episódio do rosto resplandecente de Moisés. A CDU 222.11 abrange o Pentateuco, com foco nos livros históricos e legislativos. As CDU secundárias abordam a teologia cristã (230) e a ética cristã (261.8) em relação à graça e ao esforço.
+---
 Êxodo 34:1
 As segundas tábuas da lei
 

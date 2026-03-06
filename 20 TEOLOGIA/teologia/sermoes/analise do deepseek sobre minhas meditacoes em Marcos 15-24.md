@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:03.952193+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_meditacoes_cristo
+    weight: 8
+    confidence: 0.92
+  - name: teologia_reformada_kenosis
+    weight: 7
+    confidence: 0.88
+  - name: comunidade_crista_adoracao_coletiva
+    weight: 6
+    confidence: 0.85
+  - name: praticas_contemplativas_humanidade_cristo
+    weight: 7
+    confidence: 0.9
+  - name: estudo_cristologico_uniao_hipostatica
+    weight: 8
+    confidence: 0.91
+  - name: teologia_reformada_soberania_humilhacao_cruz
+    weight: 9
+    confidence: 0.95
+  - name: expiacao_substitutiva_justica_vergonha
+    weight: 9
+    confidence: 0.94
+  - name: exegese_marcos_15_24_sortes_vestes
+    weight: 8
+    confidence: 0.93
+  - name: contexto_historico_cultural_crucificacao_romana
+    weight: 7
+    confidence: 0.89
+  - name: proposta_sermao_cruz_cosmos_redencao
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '232.1'
+  cdu_secondary:
+  - '273.6'
+  - '226.7'
+  - '203.3'
+  cdu_description: Cristologia (natureza e obra de Cristo), Teologia Reformada, Exegese do Novo Testamento (Evangelho de Marcos), História e Cultura do Novo Testamento.
+---
 #### analise do deepseek sobre minhas meditacoes em [[Marcos 15]]-24
 **Resposta Estruturada conforme Instruções:**
 

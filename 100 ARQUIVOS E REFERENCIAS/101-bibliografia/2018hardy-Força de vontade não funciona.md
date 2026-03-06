@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:54.501185+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: influencia_do_ambiente_na_mudanca_de_vida
+    weight: 10
+    confidence: 0.98
+  - name: critica_a_forca_de_vontade_individualista
+    weight: 9
+    confidence: 0.95
+  - name: determinismo_vs_autonomia_humana
+    weight: 8
+    confidence: 0.92
+  - name: ambiente_externo_e_suas_componentes
+    weight: 7
+    confidence: 0.9
+  - name: origem_dos_pensamentos_e_escolhas
+    weight: 7
+    confidence: 0.88
+  - name: potencial_humano_despertado_por_desafios
+    weight: 8
+    confidence: 0.93
+  - name: relacao_entre_situacao_e_qualidades_individuais
+    weight: 9
+    confidence: 0.94
+  - name: impacto_do_status_socioeconomico_no_desenvolvimento
+    weight: 7
+    confidence: 0.85
+  - name: moldagem_do_potencial_pelas_circunstancias
+    weight: 8
+    confidence: 0.91
+  - name: qualidade_da_informacao_consumida_e_transformacao_pessoal
+    weight: 6
+    confidence: 0.87
+  cdu_primary: '159.947'
+  cdu_secondary:
+  - '316.3'
+  - '305.8'
+  cdu_description: Psicologia da vontade e da motivação; Influência do meio social e das condições socioeconômicas no desenvolvimento individual.
+---
 # Força de vontade não funciona: Um livro para quem já tentou mudar de vida muitas e muitas vezes sem sucesso
 
 

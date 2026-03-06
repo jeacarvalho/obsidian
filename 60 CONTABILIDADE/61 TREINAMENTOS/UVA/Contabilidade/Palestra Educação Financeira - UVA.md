@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:37.699086+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: educacao_financeira_comportamental
+    weight: 10
+    confidence: 0.98
+  - name: influencia_familiar_no_dinheiro
+    weight: 8
+    confidence: 0.95
+  - name: relacao_pessoal_com_dinheiro
+    weight: 9
+    confidence: 0.96
+  - name: planejamento_financeiro_pessoal
+    weight: 10
+    confidence: 0.97
+  - name: alocacao_de_salario
+    weight: 7
+    confidence: 0.9
+  - name: definicao_de_proposito_financeiro
+    weight: 10
+    confidence: 0.99
+  - name: reserva_estrategica_financeira
+    weight: 8
+    confidence: 0.94
+  - name: impacto_da_inflacao_em_investimentos
+    weight: 9
+    confidence: 0.96
+  - name: rendimento_de_renda_fixa
+    weight: 7
+    confidence: 0.92
+  - name: conceito_de_liberdade_financeira
+    weight: 9
+    confidence: 0.97
+  cdu_primary: '330.5'
+  cdu_secondary:
+  - '336.7'
+  - '330.16'
+  cdu_description: Economia. Economia social e de consumo. Finanças pessoais e gestão do dinheiro.
+---
 [[Economia]]
 - ABEFIN - Associação Brasileira de Educadores Financeiros
 - educação financeira = novos hábitos

@@ -1,3 +1,46 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:08.917924+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_autor_meditacoes
+    weight: 8
+    confidence: 0.9
+  - name: ensino_como_discipulado_relacional
+    weight: 7
+    confidence: 0.85
+  - name: resiliencia_na_dor_ensino_fiel
+    weight: 6
+    confidence: 0.8
+  - name: esperanca_antidoto_medo_ressurreicao
+    weight: 9
+    confidence: 0.92
+  - name: analise_teologica_otica_reformada
+    weight: 9
+    confidence: 0.95
+  - name: soberania_pedagogica_cristo
+    weight: 7
+    confidence: 0.88
+  - name: teologia_da_cruz_propiciacao
+    weight: 8
+    confidence: 0.91
+  - name: escatologia_presente_garantia_vitoria
+    weight: 7
+    confidence: 0.87
+  - name: exegese_marcos_9_30_32
+    weight: 10
+    confidence: 0.98
+  - name: messianismo_sofredor_vs_expectativas_judaicas
+    weight: 8
+    confidence: 0.93
+  cdu_primary: 27-28
+  cdu_secondary:
+  - '230.3'
+  - '226.3'
+  - '248.4'
+  cdu_description: Teologia cristã (27-28), com foco em teologia sistemática (230.3), teologia bíblica do Novo Testamento (226.3) e vida e prática cristãs (248.4).
+---
 #### analise do deepseek sobre minhas meditacoes em   [[Marcos 9]]_30-32
 **Resposta conforme Instruções:**
 

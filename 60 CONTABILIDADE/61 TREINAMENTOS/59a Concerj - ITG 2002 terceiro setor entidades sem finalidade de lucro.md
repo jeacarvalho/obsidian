@@ -1,3 +1,43 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:36.632886+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: contabilidade_entidades_sem_fins_lucrativos
+    weight: 10
+    confidence: 0.98
+  - name: resolucao_cfc_1409_2012
+    weight: 9
+    confidence: 0.97
+  - name: reconhecimento_trabalho_voluntario
+    weight: 9
+    confidence: 0.96
+  - name: recebimento_assistencia_governamental
+    weight: 8
+    confidence: 0.95
+  - name: contabilizacao_recursos_governamentais
+    weight: 8
+    confidence: 0.94
+  - name: ativo_passivo_recursos_governamentais
+    weight: 7
+    confidence: 0.92
+  - name: contabilizacao_ativo_imobilizado_convenios
+    weight: 7
+    confidence: 0.9
+  - name: lei_voluntariado_9608
+    weight: 7
+    confidence: 0.93
+  - name: segregacao_contabil_areas_atuacao
+    weight: 6
+    confidence: 0.88
+  - name: resolucao_cnas_109_projetos_assistenciais
+    weight: 6
+    confidence: 0.85
+  cdu_primary: '657.8'
+  cdu_secondary: []
+  cdu_description: Contabilidade de empresas e organizações sem fins lucrativos
+---
 [[Contabilidade]]
 - Resolução CFC 1409/2012 (entidades sem finalidade de lucros)
 - Item 9 fala sobre recebimentos de todas as formas de assistência governamental e contabilização passando pelo resultado

@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:41:34.103615+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: identidade_voz_autor
+    weight: 9
+    confidence: 0.98
+  - name: vulnerabilidade_intencional
+    weight: 8
+    confidence: 0.95
+  - name: ancoragem_finitude_tempo
+    weight: 7
+    confidence: 0.92
+  - name: olhar_ciclista_observador
+    weight: 6
+    confidence: 0.88
+  - name: filtro_anti_ia
+    weight: 8
+    confidence: 0.96
+  - name: ritmo_assimetrico_escrita
+    weight: 7
+    confidence: 0.93
+  - name: interpretacao_encarnada_teologia
+    weight: 8
+    confidence: 0.94
+  - name: vocabulario_experiencia_humana
+    weight: 7
+    confidence: 0.91
+  - name: colapso_estruturas_pesadas
+    weight: 9
+    confidence: 0.97
+  - name: religiao_estado_instituicao
+    weight: 8
+    confidence: 0.95
+  cdu_primary: '201'
+  cdu_secondary:
+  - '316.3'
+  - '321.1'
+  cdu_description: Religião e ciência. Sociologia da religião. Relação entre religião e poder político/estado.
+---
 # Prompt: O Editor da Voz Autoral (Versão Fundida)
 
 Você atuará exclusivamente como um editor literário invisível e mentor de estilo. Seu objetivo é pegar o texto fornecido e transmutá-lo para a voz específica do autor, eliminando qualquer vestígio de escrita sintética, simétrica ou didática típica de IAs.

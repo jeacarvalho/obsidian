@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:42:50.112808+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: atleta_mais_velho_do_mundo
+    weight: 10
+    confidence: 0.98
+  - name: ciclismo_de_longa_distancia
+    weight: 9
+    confidence: 0.95
+  - name: recorde_da_hora_ciclismo
+    weight: 8
+    confidence: 0.92
+  - name: envelhecimento_ativo
+    weight: 7
+    confidence: 0.9
+  - name: confinamento_pandemia_coronavirus
+    weight: 6
+    confidence: 0.88
+  - name: saude_idosos
+    weight: 5
+    confidence: 0.85
+  - name: resiliencia_humana
+    weight: 5
+    confidence: 0.8
+  - name: historia_francesa
+    weight: 5
+    confidence: 0.75
+  - name: motivacao_esportiva
+    weight: 6
+    confidence: 0.7
+  - name: superacao_limites_fisicos
+    weight: 7
+    confidence: 0.82
+  cdu_primary: '796.6'
+  cdu_secondary:
+  - '316.3'
+  - '612.67'
+  cdu_description: Ciclismo. Esportes de bicicleta. Ciclistas. Ciclistas idosos. Envelhecimento. Pandemia. Resiliência. História da França.
+---
 # Em confinamento, atleta mais velho do mundo continua a pedalar aos 108 anos
  14 abril, 2020
 

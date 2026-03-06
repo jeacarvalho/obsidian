@@ -1,3 +1,45 @@
+---
+topic_classification:
+  version: '2.0'
+  classified_at: '2026-03-06T07:40:21.932923+00:00'
+  model: gemini-2.5-flash-lite
+  topics:
+  - name: analise_comportamental_ensino_vocacao
+    weight: 8
+    confidence: 0.9
+  - name: dificuldade_discipulos_compreender_jesus
+    weight: 7
+    confidence: 0.85
+  - name: medo_perguntas_dificeis_crescimento_espiritual
+    weight: 9
+    confidence: 0.92
+  - name: formacao_crista_conhecimento_transformacao
+    weight: 7
+    confidence: 0.88
+  - name: teologia_reformada_soberania_deus_escrituras
+    weight: 8
+    confidence: 0.91
+  - name: depravacao_humana_resistencia_verdade
+    weight: 6
+    confidence: 0.8
+  - name: exegese_marcos_9_30_32_ensino_intimo
+    weight: 9
+    confidence: 0.95
+  - name: contexto_historico_messias_sofredor
+    weight: 7
+    confidence: 0.87
+  - name: proposta_sermao_ensino_confrontador_cristo
+    weight: 8
+    confidence: 0.93
+  - name: dor_verdade_cura_justica_paz
+    weight: 7
+    confidence: 0.89
+  cdu_primary: '230.0'
+  cdu_secondary:
+  - '226.3'
+  - '273.6'
+  cdu_description: Teologia cristã; Teologia bíblica - Novo Testamento - Evangelhos; Protestantismo - Reforma
+---
 #### analise do chatgpt sobre minhas meditacoes em [[Marcos 9]]:30-32
 **Análise das meditações sobre Marcos 9:30-32**
 
